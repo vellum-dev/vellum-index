@@ -20,6 +20,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -48,6 +49,7 @@
         "conflicts": [
           "rmhacks"
         ],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -74,6 +76,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -102,6 +105,7 @@
         "conflicts": [
           "createpages-rm2"
         ],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -130,6 +134,7 @@
         "conflicts": [
           "createpages-paperpro"
         ],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -156,6 +161,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -180,6 +186,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -203,6 +210,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -229,6 +237,7 @@
           "mount-utils"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -255,6 +264,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -281,6 +291,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -307,6 +318,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -331,6 +343,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -357,6 +370,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -383,6 +397,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -408,6 +423,7 @@
           "xovi"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -434,6 +450,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -460,6 +477,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -486,6 +504,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -512,6 +531,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -538,6 +558,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -564,6 +585,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -590,6 +612,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -616,6 +639,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -642,6 +666,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -668,6 +693,7 @@
           "appload"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -694,6 +720,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -720,6 +747,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -744,6 +772,7 @@
         ],
         "depends": [],
         "conflicts": [],
+        "provides": [],
         "arch": [
           ""
         ]
@@ -769,6 +798,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -795,6 +825,7 @@
           "xovi"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -821,6 +852,7 @@
           "xovi"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -847,6 +879,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -874,6 +907,7 @@
           "rm-shot"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -901,6 +935,7 @@
           "xovi-message-broker"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -925,6 +960,7 @@
         ],
         "depends": [],
         "conflicts": [],
+        "provides": [],
         "arch": [
           ""
         ]
@@ -948,6 +984,7 @@
         ],
         "depends": [],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -970,6 +1007,7 @@
         ],
         "depends": [],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -996,6 +1034,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -1020,6 +1059,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -1046,6 +1086,7 @@
         "conflicts": [
           "bettertoc"
         ],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -1073,6 +1114,7 @@
           "framebuffer-spy"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -1097,6 +1139,7 @@
         ],
         "depends": [],
         "conflicts": [],
+        "provides": [],
         "arch": [
           ""
         ]
@@ -1122,6 +1165,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -1148,6 +1192,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -1174,6 +1219,7 @@
           "xovi"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -1200,6 +1246,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -1226,6 +1273,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -1250,6 +1298,7 @@
         ],
         "depends": [],
         "conflicts": [],
+        "provides": [],
         "arch": [
           ""
         ]
@@ -1276,6 +1325,7 @@
           "xovi-message-broker"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -1300,6 +1350,7 @@
         ],
         "depends": [],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -1326,6 +1377,7 @@
           "xovi"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -1352,6 +1404,7 @@
           "xovi"
         ],
         "conflicts": [],
+        "provides": [],
         "arch": [
           "aarch64",
           "armv7"
@@ -1359,5 +1412,5 @@
       }
     }
   },
-  "generated": "2026-01-09T03:01:03Z"
+  "generated": "2026-01-09T03:03:49Z"
 }
