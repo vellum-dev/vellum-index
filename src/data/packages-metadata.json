@@ -1664,7 +1664,7 @@
         "os_max": null,
         "devices": [
           "rm2",
-          "rmppm"
+          "rmpp"
         ],
         "depends": [],
         "conflicts": [],
@@ -3515,5 +3515,5 @@
       }
     }
   },
-  "generated": "2026-01-09T13:22:11Z"
+  "generated": "2026-01-09T13:25:22Z"
 }
