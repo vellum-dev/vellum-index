@@ -28,6 +28,56 @@
       }
     },
     "bettertoc": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.20",
+        "os_max": "3.21",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
       "1.1.0-r0": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
         "upstream_author": "rmitchellscott",
@@ -91,6 +141,56 @@
         "category": "ui",
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Overrides new page creation to use Paper Pro dimensions.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Overrides new page creation to use Paper Pro dimensions.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
         "os_max": "3.25",
         "devices": [
@@ -102,9 +202,7 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [
-          "createpages-rm2"
-        ],
+        "conflicts": [],
         "provides": [],
         "arch": [
           "aarch64",
@@ -114,6 +212,56 @@
     },
     "createpages-rm2": {
       "1.0.0-r0": {
+        "pkgdesc": "Overrides new page creation to use reMarkable 2 dimensions.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Overrides new page creation to use reMarkable 2 dimensions.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
         "pkgdesc": "Overrides new page creation to use reMarkable 2 dimensions.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -131,9 +279,7 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [
-          "createpages-paperpro"
-        ],
+        "conflicts": [],
         "provides": [],
         "arch": [
           "aarch64",
@@ -271,6 +417,133 @@
         ]
       }
     },
+    "fav-tag-button": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.15",
+        "os_max": "3.19",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.19",
+        "os_max": "3.21",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.4-r0": {
+        "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
     "favorite-button": {
       "1.0.0-r0": {
         "pkgdesc": "Restores a Favorite action in the document list header for faster pinning.",
@@ -355,9 +628,288 @@
         "pkgdesc": "Restores the z-index for the pageLabel element so it appears on top of the page slider like in previous versions.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
-        "category": "fixes",
+        "category": "ui",
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Restores the z-index for the pageLabel element so it appears on top of the page slider like in previous versions.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "fix-quick-settings-temp-separator": {
+      "1.0.0-r0": {
+        "pkgdesc": "Removes the duplicate horizontal separator in quick settings when high temp warnings are present on Paper Pro family devices.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Removes the duplicate horizontal separator in quick settings when high temp warnings are present on Paper Pro family devices.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "floating-toolbar": {
+      "1.0.0-r0": {
+        "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.15",
+        "os_max": "3.17",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.17",
+        "os_max": "3.18",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.18",
+        "os_max": "3.19",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.19",
+        "os_max": "3.20",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.4-r0": {
+        "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.20",
+        "os_max": "3.21",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.5-r0": {
+        "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.6-r0": {
+        "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.7-r0": {
+        "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
         "os_min": "3.24",
         "os_max": "3.25",
         "devices": [
@@ -421,6 +973,208 @@
         ],
         "depends": [
           "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "gesture-colour-settings": {
+      "1.0.0-r0": {
+        "pkgdesc": "Accessibility menu for colour preferences.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.15",
+        "os_max": "3.17",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Accessibility menu for colour preferences.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.17",
+        "os_max": "3.18",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Accessibility menu for colour preferences.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.18",
+        "os_max": "3.19",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "Accessibility menu for colour preferences.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.19",
+        "os_max": "3.20",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.4-r0": {
+        "pkgdesc": "Accessibility menu for colour preferences.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.20",
+        "os_max": "3.21",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.5-r0": {
+        "pkgdesc": "Accessibility menu for colour preferences.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.6-r0": {
+        "pkgdesc": "Accessibility menu for colour preferences.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.7-r0": {
+        "pkgdesc": "Accessibility menu for colour preferences.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
         ],
         "conflicts": [],
         "provides": [],
@@ -565,8 +1319,235 @@
         ]
       }
     },
+    "gestures-fouzr": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.15",
+        "os_max": "3.17",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.17",
+        "os_max": "3.18",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.18",
+        "os_max": "3.19",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.19",
+        "os_max": "3.20",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.4-r0": {
+        "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.20",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.5-r0": {
+        "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.6-r0": {
+        "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
     "hide-dev-mode-icon": {
       "1.0.0-r0": {
+        "pkgdesc": "Hides the developer mode icon next to the battery icon.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Hides the developer mode icon next to the battery icon.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
         "pkgdesc": "Hides the developer mode icon next to the battery icon.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -627,6 +1608,31 @@
         "category": "ui",
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Hides the page numbers at the bottom of the screen when the toolbar is hidden.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
         "os_max": "3.25",
         "devices": [
@@ -648,6 +1654,81 @@
     },
     "hide-zoom-indicator": {
       "1.0.0-r0": {
+        "pkgdesc": "Auto-hides zoom indicator after 4 seconds",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.20",
+        "os_max": "3.21",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Auto-hides zoom indicator after 4 seconds",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Auto-hides zoom indicator after 4 seconds",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.3-r0": {
         "pkgdesc": "Auto-hides zoom indicator after 4 seconds",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -735,6 +1816,81 @@
         "category": "ui",
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.20",
+        "os_max": "3.21",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
         "os_max": "3.25",
         "devices": [
@@ -780,6 +1936,56 @@
     },
     "prevent-notebook-zoomout": {
       "1.0.0-r0": {
+        "pkgdesc": "Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
         "pkgdesc": "Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -867,6 +2073,31 @@
         "category": "ui",
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Adds a clock to the quick settings menu in serif font",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
         "os_max": "3.25",
         "devices": [
@@ -894,6 +2125,56 @@
         "category": "ui",
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Adds a screenshot button to the quick settings menu.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Adds a screenshot button to the quick settings menu.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
         "os_max": "3.25",
         "devices": [
@@ -903,8 +2184,84 @@
           "rmppm"
         ],
         "depends": [
-          "qt-resource-rebuilder",
-          "rm-shot"
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "recents-tagged": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds a new menu to the document drawer that shows only tagged files, sorted by last modified.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.15",
+        "os_max": "3.19",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Adds a new menu to the document drawer that shows only tagged files, sorted by last modified.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.20",
+        "os_max": "3.21",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Adds a new menu to the document drawer that shows only tagged files, sorted by last modified.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
         ],
         "conflicts": [],
         "provides": [],
@@ -1145,6 +2502,185 @@
         ]
       }
     },
+    "selection-erase": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.15",
+        "os_max": "3.21",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "selection-stuff": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds the ability to select everything above the line.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.15",
+        "os_max": "3.19",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Adds the ability to select everything above the line.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.19",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Adds the ability to select everything above the line.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.23",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
     "sidebar-clock": {
       "1.0.0-r0": {
         "pkgdesc": "Adds a live clock to the library sidebar; tap the entry to toggle seconds display.",
@@ -1182,6 +2718,183 @@
         "url": "https://github.com/NohamR/xovi-qmd-extensions",
         "os_min": "3.23",
         "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "toolbar-icon": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.15",
+        "os_max": "3.18",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.18",
+        "os_max": "3.19",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.19",
+        "os_max": "3.20",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.20",
+        "os_max": "3.21",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.4-r0": {
+        "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.5-r0": {
+        "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.6-r0": {
+        "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
         "devices": [
           "rm1",
           "rm2",
@@ -1255,6 +2968,56 @@
     },
     "unlock-methods-content": {
       "1.0.0-r0": {
+        "pkgdesc": "Bypasses subscription check for using on-device Methods templates and documents.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Bypasses subscription check for using on-device Methods templates and documents.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
         "pkgdesc": "Bypasses subscription check for using on-device Methods templates and documents.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -1412,5 +3175,5 @@
       }
     }
   },
-  "generated": "2026-01-09T03:03:49Z"
+  "generated": "2026-01-09T04:35:11Z"
 }
