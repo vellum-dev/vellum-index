@@ -644,7 +644,7 @@
         "pkgdesc": "Restores the z-index for the pageLabel element so it appears on top of the page slider like in previous versions.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
-        "category": "fixes",
+        "category": "ui",
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.23",
@@ -669,7 +669,7 @@
         "pkgdesc": "Restores the z-index for the pageLabel element so it appears on top of the page slider like in previous versions.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
-        "category": "fixes",
+        "category": "ui",
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
@@ -696,7 +696,7 @@
         "pkgdesc": "Removes the duplicate horizontal separator in quick settings when high temp warnings are present on Paper Pro family devices.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
-        "category": "fixes",
+        "category": "ui",
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.22",
@@ -721,7 +721,7 @@
         "pkgdesc": "Removes the duplicate horizontal separator in quick settings when high temp warnings are present on Paper Pro family devices.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
-        "category": "fixes",
+        "category": "ui",
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.23",
@@ -3217,5 +3217,5 @@
       }
     }
   },
-  "generated": "2026-01-09T05:24:48Z"
+  "generated": "2026-01-09T05:01:10Z"
 }
