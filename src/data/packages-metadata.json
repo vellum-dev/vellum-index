@@ -46,7 +46,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "rmhacks"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -71,7 +73,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "rmhacks"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -152,7 +156,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "createpages-rm2"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -177,7 +183,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "createpages-rm2"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -202,7 +210,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "createpages-rm2"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -229,7 +239,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "createpages-paperpro"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -254,7 +266,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "createpages-paperpro"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -279,7 +293,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "createpages-paperpro"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -2390,7 +2406,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "bettertoc"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -2415,7 +2433,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "bettertoc"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -3065,6 +3085,28 @@
         "arch": [
           ""
         ]
+      },
+      "3.0.3-r2": {
+        "pkgdesc": "Bash completion for vellum package manager",
+        "upstream_author": "alpinelinux",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "utilities",
+        "license": "GPL-2.0-only",
+        "url": "https://gitlab.alpinelinux.org/alpine/apk-tools",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          ""
+        ]
       }
     },
     "webserver-remote": {
@@ -3175,5 +3217,5 @@
       }
     }
   },
-  "generated": "2026-01-09T04:35:11Z"
+  "generated": "2026-01-09T05:01:10Z"
 }
