@@ -118,6 +118,35 @@
         ]
       }
     },
+    "change-vertical-jump": {
+      "1.0.0-r0": {
+        "pkgdesc": "Increases scroll distance when scrolling down a page.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.18",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
     "convert-to-text-remover": {
       "1.0.0-r0": {
         "pkgdesc": "Removes the Convert to text option from selection menus and the toolbar.",
@@ -325,6 +354,35 @@
         ]
       }
     },
+    "delay-stroke-screen-refresh": {
+      "1.0.0-r0": {
+        "pkgdesc": "Delays color stroke refresh by 10 seconds of inactivity.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.18",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
     "disable-selection-autoscroll": {
       "1.0.0-r0": {
         "pkgdesc": "Disables the auto scrolling when moving a selection added in 3.24.",
@@ -354,16 +412,66 @@
         ]
       }
     },
-    "enable-full-colors": {
+    "enable-all-colors": {
       "1.0.0-r0": {
-        "pkgdesc": "Enables the full color picker for pens",
-        "upstream_author": "rmitchellscott",
+        "pkgdesc": "Enables full color selection on rM1 and rM2.",
+        "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
-        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.20",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Enables full color selection on rM1 and rM2.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Enables full color selection on rM1 and rM2.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.24",
         "os_max": "3.25",
         "devices": [
@@ -381,19 +489,158 @@
         ]
       }
     },
-    "enable-move-second-pen": {
+    "enable-extra-pen-on-move": {
       "1.0.0-r0": {
-        "pkgdesc": "Enables the secondary pen on Paper Pro Move",
-        "upstream_author": "rmitchellscott",
+        "pkgdesc": "Adds extra pen slot to toolbar (RMPPM only, requires qt-resource-rebuilder v16+).",
+        "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
-        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "os_min": "3.22.4.2",
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.22",
         "os_max": "3.25",
         "devices": [
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "enable-shortcuts": {
+      "1.0.0-r0": {
+        "pkgdesc": "Enables keyboard shortcuts for arrow key page and scroll navigation.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.18",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Enables keyboard shortcuts for arrow key page and scroll navigation.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "enable-shortcuts-scroll-page": {
+      "1.0.0-r0": {
+        "pkgdesc": "Advanced shortcuts with scroll or page change (requires gestureTapToPage).",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.18",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Advanced shortcuts with scroll or page change (requires gestureTapToPage).",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Advanced shortcuts with scroll or page change (requires gestureTapToPage).",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
           "rmppm"
         ],
         "depends": [
@@ -617,6 +864,83 @@
         "devices": [
           "rm1",
           "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "fewer-light-steps": {
+      "1.0.0-r0": {
+        "pkgdesc": "Changes 5-level light slider to 4-level (RMPP/RMPPM only).",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.18",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Changes 5-level light slider to 4-level (RMPP/RMPPM only).",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r1": {
+        "pkgdesc": "Changes 5-level light slider to 4-level (RMPP/RMPPM only).",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.25",
+        "devices": [
           "rmpp",
           "rmppm"
         ],
@@ -1081,6 +1405,33 @@
         "os_min": null,
         "os_max": null,
         "devices": [
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "17.0.0-r0": {
+        "pkgdesc": "Module for exposing the address of the system framebuffer",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
           "rm2",
           "rmpp",
           "rmppm"
@@ -1650,6 +2001,116 @@
         ]
       }
     },
+    "gestures-ingatellent": {
+      "1.0.0-r0": {
+        "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.18",
+        "os_max": "3.20",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.20",
+        "os_max": "3.21",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
     "gomarkablestream": {
       "0.21-r0": {
         "pkgdesc": "Stream your reMarkable screen to a web browser",
@@ -1756,20 +2217,45 @@
           "aarch64",
           "armv7"
         ]
-      }
-    },
-    "hide-document-close": {
-      "1.0.0-r0": {
-        "pkgdesc": "Hides the close button in the document toolbar to prevent accidental exits.",
-        "upstream_author": "NohamR",
+      },
+      "1.0.2-r1": {
+        "pkgdesc": "Hides the developer mode icon next to the battery icon.",
+        "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
         "license": "MIT",
-        "url": "https://github.com/NohamR/xovi-qmd-extensions",
-        "os_min": "3.23",
-        "os_max": "3.24",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "hide-document-close": {
+      "1.0.0-r0": {
+        "pkgdesc": "Hides close button, use slide-down from top instead.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.18",
+        "os_max": "3.20",
         "devices": [
           "rm1",
           "rm2",
@@ -1785,18 +2271,70 @@
           "aarch64",
           "armv7"
         ]
-      }
-    },
-    "hide-page-labels-in-fullscreen": {
-      "1.0.0-r0": {
-        "pkgdesc": "Hides the page numbers at the bottom of the screen when the toolbar is hidden.",
-        "upstream_author": "rmitchellscott",
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Hides close button, use slide-down from top instead.",
+        "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
-        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.20",
+        "os_max": "3.21",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Hides close button, use slide-down from top instead.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "Hides close button, use slide-down from top instead.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.23",
         "os_max": "3.24",
         "devices": [
@@ -1815,15 +2353,289 @@
           "armv7"
         ]
       },
-      "1.0.1-r0": {
-        "pkgdesc": "Hides the page numbers at the bottom of the screen when the toolbar is hidden.",
-        "upstream_author": "rmitchellscott",
+      "1.0.4-r0": {
+        "pkgdesc": "Hides close button, use slide-down from top instead.",
+        "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
-        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "hide-page-labels-fullscreen": {
+      "1.0.0-r0": {
+        "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.18",
+        "os_max": "3.20",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.20",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.4-r0": {
+        "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "hide-show-toolbar": {
+      "1.0.0-r0": {
+        "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.18",
+        "os_max": "3.20",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.20",
+        "os_max": "3.21",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.4-r0": {
+        "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.24",
         "os_max": "3.25",
         "devices": [
@@ -2257,10 +3069,64 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "17.0.0-r0": {
+        "pkgdesc": "Injects a QT module to execute shell commands from QML",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     },
     "qt-resource-rebuilder": {
       "16.0.0-r0": {
+        "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "17.0.0-r0": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -2425,6 +3291,117 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "1.0.2-r1": {
+        "pkgdesc": "Adds a screenshot button to the quick settings menu.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "rm-shot"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "random-sleep-screen": {
+      "1.0.0-r0": {
+        "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     },
     "recents-tagged": {
@@ -2542,6 +3519,30 @@
     },
     "rm-version-switcher": {
       "0.4.0-r0": {
+        "pkgdesc": "Interactive CLI tool for switching between installed reMarkable OS versions",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/rm-version-switcher",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          ""
+        ]
+      },
+      "1.0.0-r0": {
         "pkgdesc": "Interactive CLI tool for switching between installed reMarkable OS versions",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -2708,6 +3709,36 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "0.0.11_pre4-r0": {
+        "pkgdesc": "reMarkable hacks in QMD format",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/asivery/rm-hacks-qmd",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "bettertoc",
+          "floating-toolbar"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     },
     "rmstream": {
@@ -2742,6 +3773,30 @@
     },
     "rmtree": {
       "1.0.0-r0": {
+        "pkgdesc": "Display reMarkable document hierarchy in tree format",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/rmtree",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          ""
+        ]
+      },
+      "1.0.1-r0": {
         "pkgdesc": "Display reMarkable document hierarchy in tree format",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -3427,6 +4482,34 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "17.0.0-r0": {
+        "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "xovi-message-broker"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     },
     "xovi": {
@@ -3483,6 +4566,33 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "17.0.0-r0": {
+        "pkgdesc": "Extensions for xovi framework",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     },
     "xovi-message-broker": {
@@ -3512,8 +4622,35 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "17.0.0-r0": {
+        "pkgdesc": "IPC messaging between xovi extensions",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     }
   },
-  "generated": "2026-01-09T13:25:22Z"
+  "generated": "2026-01-14T19:59:24Z"
 }
