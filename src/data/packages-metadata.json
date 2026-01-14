@@ -1,0 +1,1416 @@
+{
+  "packages": {
+    "appload": {
+      "0.4.1-r0": {
+        "pkgdesc": "Xovi extension for windowed and fullscreen apps on reMarkable tablets",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "framework",
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-appload",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "bettertoc": {
+      "1.1.0-r0": {
+        "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "rmhacks"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "convert-to-text-remover": {
+      "1.0.0-r0": {
+        "pkgdesc": "Removes the Convert to text option from selection menus and the toolbar.",
+        "upstream_author": "NohamR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/NohamR/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "createpages-paperpro": {
+      "1.0.0-r0": {
+        "pkgdesc": "Overrides new page creation to use Paper Pro dimensions.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "createpages-rm2"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "createpages-rm2": {
+      "1.0.0-r0": {
+        "pkgdesc": "Overrides new page creation to use reMarkable 2 dimensions.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "createpages-paperpro"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "disable-selection-autoscroll": {
+      "1.0.0-r0": {
+        "pkgdesc": "Disables the auto scrolling when moving a selection added in 3.24.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "fixes",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "enable-full-colors": {
+      "1.0.0-r0": {
+        "pkgdesc": "Enables the full color picker for pens",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "enable-move-second-pen": {
+      "1.0.0-r0": {
+        "pkgdesc": "Enables the secondary pen on Paper Pro Move",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.22.4.2",
+        "os_max": "3.25",
+        "devices": [
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "entware": {
+      "1.0.0-r0": {
+        "pkgdesc": "Entware software repository for reMarkable tablets",
+        "upstream_author": "Entware",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "utilities",
+        "license": "GPL-2.0",
+        "url": "https://entware.net/",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "mount-utils"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "extend-list-title-width": {
+      "1.0.0-r0": {
+        "pkgdesc": "Removes extra right margin for titles in list view to fill more of the available space.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "favorite-button": {
+      "1.0.0-r0": {
+        "pkgdesc": "Restores a Favorite action in the document list header for faster pinning.",
+        "upstream_author": "NohamR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/NohamR/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "fix-battery-indicator": {
+      "1.0.0-r0": {
+        "pkgdesc": "Fixes battery icon not updating after charging while device is asleep",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "fixes",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "fix-light-indicator-gap": {
+      "1.0.0-r0": {
+        "pkgdesc": "Removes the gap reserved for the frontlight icon when the light is off on Paper Pro and Paper Pro Move.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "fixes",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "fix-page-number-on-slider": {
+      "1.0.0-r0": {
+        "pkgdesc": "Restores the z-index for the pageLabel element so it appears on top of the page slider like in previous versions.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "fixes",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "force-sync": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds a cloud button in Quick Settings that forces a library sync when tapped.",
+        "upstream_author": "NohamR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/NohamR/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "framebuffer-spy": {
+      "16.0.0-r0": {
+        "pkgdesc": "Module for exposing the address of the system framebuffer",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "framework",
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "gesture-contrast-toggle": {
+      "1.0.0-r0": {
+        "pkgdesc": "Four-finger tap to toggle contrast filter between Off and Fullpage in PDF/EPUB documents",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "gesture-reset-view": {
+      "1.0.0-r0": {
+        "pkgdesc": "Three-finger swipe down to reset pan and zoom (returns to 100% zoom, top of page)",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "gesture-tap-to-page": {
+      "1.0.0-r0": {
+        "pkgdesc": "Tap screen edges to navigate pages when toolbar is hidden (right=forward, left=back)",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "gesture-toolbar-hide": {
+      "1.0.0-r0": {
+        "pkgdesc": "Single-finger swipe from toolbar edge to hide the toolbar",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "gesture-toolbar-show": {
+      "1.0.0-r0": {
+        "pkgdesc": "Single-finger swipe from toolbar edge to show the toolbar",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "hide-dev-mode-icon": {
+      "1.0.0-r0": {
+        "pkgdesc": "Hides the developer mode icon next to the battery icon.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "hide-document-close": {
+      "1.0.0-r0": {
+        "pkgdesc": "Hides the close button in the document toolbar to prevent accidental exits.",
+        "upstream_author": "NohamR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/NohamR/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "hide-page-labels-in-fullscreen": {
+      "1.0.0-r0": {
+        "pkgdesc": "Hides the page numbers at the bottom of the screen when the toolbar is hidden.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "hide-zoom-indicator": {
+      "1.0.0-r0": {
+        "pkgdesc": "Auto-hides zoom indicator after 4 seconds",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "koreader": {
+      "2025.10-r0": {
+        "pkgdesc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.",
+        "upstream_author": "koreader",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "apps",
+        "license": "AGPL-3.0",
+        "url": "https://github.com/koreader/koreader",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "appload"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "literm": {
+      "0.1.5-r0": {
+        "pkgdesc": "Terminal emulator for reMarkable Paper Pro using QtQuick",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "apps",
+        "license": "GPL-2.0",
+        "url": "https://github.com/asivery/rm-literm",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "mini-light-sleep": {
+      "1.0.0-r0": {
+        "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "mount-utils": {
+      "1.0.0-r0": {
+        "pkgdesc": "Commands to toggle reMarkable filesystem between read-write and read-only",
+        "upstream_author": "vellum-dev",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "utilities",
+        "license": "MIT",
+        "url": "https://github.com/vellum-dev/vellum",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          ""
+        ]
+      }
+    },
+    "prevent-notebook-zoomout": {
+      "1.0.0-r0": {
+        "pkgdesc": "Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "qt-command-executor": {
+      "16.0.0-r0": {
+        "pkgdesc": "Injects a QT module to execute shell commands from QML",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "framework",
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "qt-resource-rebuilder": {
+      "16.0.0-r0": {
+        "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "framework",
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "quicksettings-clock-serif": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds a clock to the quick settings menu in serif font",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "quicksettings-screenshot": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds a screenshot button to the quick settings menu.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "rm-shot"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "rm-shot": {
+      "1.0.2-r0": {
+        "pkgdesc": "Screenshot extension for xovi framework",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "utilities",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/rm-shot",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "framebuffer-spy",
+          "xovi-message-broker"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "rm-version-switcher": {
+      "0.4.0-r0": {
+        "pkgdesc": "Interactive CLI tool for switching between installed reMarkable OS versions",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "utilities",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/rm-version-switcher",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          ""
+        ]
+      }
+    },
+    "rmfakecloud-proxy": {
+      "0.0.8-r0": {
+        "pkgdesc": "HTTPS proxy for rmfakecloud - redirects reMarkable cloud traffic",
+        "upstream_author": "ddvk",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "utilities",
+        "license": "MIT",
+        "url": "https://github.com/ddvk/rmfakecloud-proxy",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "0.0.9-r0": {
+        "pkgdesc": "HTTPS proxy for rmfakecloud - redirects reMarkable cloud traffic",
+        "upstream_author": "ddvk",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "utilities",
+        "license": "MIT",
+        "url": "https://github.com/ddvk/rmfakecloud-proxy",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "rmhacks": {
+      "0.0.11_pre1-r0": {
+        "pkgdesc": "reMarkable hacks in QMD format",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/asivery/rm-hacks-qmd",
+        "os_min": "3.17",
+        "os_max": "3.20",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "0.0.11_pre2-r0": {
+        "pkgdesc": "reMarkable hacks in QMD format",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/asivery/rm-hacks-qmd",
+        "os_min": "3.20",
+        "os_max": "3.22",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "0.0.11_pre3-r0": {
+        "pkgdesc": "reMarkable hacks in QMD format",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/asivery/rm-hacks-qmd",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "bettertoc"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "rmstream": {
+      "0.1.1-r0": {
+        "pkgdesc": "Stream your reMarkable's screen to any device on the local network via HTTP",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "apps",
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/appload-rmstream",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "appload",
+          "framebuffer-spy"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "rmtree": {
+      "1.0.0-r0": {
+        "pkgdesc": "Display reMarkable document hierarchy in tree format",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "utilities",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/rmtree",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          ""
+        ]
+      }
+    },
+    "sidebar-clock": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds a live clock to the library sidebar; tap the entry to toggle seconds display.",
+        "upstream_author": "NohamR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/NohamR/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "tag-button": {
+      "1.0.0-r0": {
+        "pkgdesc": "Puts a Tag action next to other list controls to open the tag editor directly.",
+        "upstream_author": "NohamR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/NohamR/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "tripletap": {
+      "0.3.0-r0": {
+        "pkgdesc": "Start xovi by triple-pressing the power button",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "utilities",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-tripletap",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "uncompress-dock": {
+      "1.0.0-r0": {
+        "pkgdesc": "Replaces the More menu in the document dock with dedicated notebook, folder, and quick sheet buttons.",
+        "upstream_author": "NohamR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/NohamR/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "unlock-methods-content": {
+      "1.0.0-r0": {
+        "pkgdesc": "Bypasses subscription check for using on-device Methods templates and documents.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "ui",
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "vellum-bash-completion": {
+      "3.0.3-r1": {
+        "pkgdesc": "Bash completion for vellum package manager",
+        "upstream_author": "alpinelinux",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "utilities",
+        "license": "GPL-2.0-only",
+        "url": "https://gitlab.alpinelinux.org/alpine/apk-tools",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          ""
+        ]
+      }
+    },
+    "webserver-remote": {
+      "16.0.0-r0": {
+        "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "framework",
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "xovi-message-broker"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "xovi": {
+      "0.3.1-r0": {
+        "pkgdesc": "Core xovi framework for reMarkable tablets",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "framework",
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/xovi",
+        "os_min": "3.20",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "xovi-extensions": {
+      "16.0.0-r0": {
+        "pkgdesc": "Extensions for xovi framework",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "framework",
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "xovi-message-broker": {
+      "16.0.0-r0": {
+        "pkgdesc": "IPC messaging between xovi extensions",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "category": "framework",
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    }
+  },
+  "generated": "2026-01-08T13:28:35Z"
+}
