@@ -46,6 +46,19 @@ function parseVersion(version: string): ParsedVersion {
   return { base, suffix, suffixNum, revision };
 }
 
+function normalizeMajorMinor(version: string): number {
+  const parts = version.split('.');
+  return parseFloat(`${parts[0]}.${parts[1]}`);
+}
+
+function generateOsVersionRange(minVersion: number, maxVersion: number): string[] {
+  const versions: string[] = [];
+  for (let v = minVersion; v <= maxVersion; v = Math.round((v + 0.01) * 100) / 100) {
+    versions.push(v.toFixed(2));
+  }
+  return versions;
+}
+
 export function compareVersions(a: string, b: string): number {
   const parsedA = parseVersion(a);
   const parsedB = parseVersion(b);
@@ -74,7 +87,8 @@ export function usePackages() {
     const flatPackages: FlatPackage[] = [];
     const categoriesSet = new Set<string>();
     const devicesSet = new Set<string>();
-    const osVersionsSet = new Set<string>();
+    const osMinVersions: number[] = [];
+    const osMaxVersions: number[] = [];
 
     for (const [name, versions] of Object.entries(data.packages)) {
       const versionKeys = Object.keys(versions).sort(compareVersions).reverse();
@@ -90,16 +104,20 @@ export function usePackages() {
 
         info.categories.forEach((cat) => categoriesSet.add(cat));
         info.devices.forEach((d) => devicesSet.add(d));
-        if (info.os_min) osVersionsSet.add(info.os_min);
-        if (info.os_max) osVersionsSet.add(info.os_max);
+        if (info.os_min) osMinVersions.push(normalizeMajorMinor(info.os_min));
+        if (info.os_max) osMaxVersions.push(normalizeMajorMinor(info.os_max));
       }
     }
+
+    const minOsVersion = Math.min(...osMinVersions);
+    const maxOsVersion = Math.max(...osMaxVersions) - 0.01;
+    const osVersions = generateOsVersionRange(minOsVersion, maxOsVersion).reverse();
 
     return {
       packages: flatPackages,
       categories: Array.from(categoriesSet).sort(),
       devices: Array.from(devicesSet),
-      osVersions: Array.from(osVersionsSet).sort(),
+      osVersions,
     };
   }, [data]);
 
