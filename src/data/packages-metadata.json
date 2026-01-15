@@ -1445,6 +1445,33 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "17.0.0-r1": {
+        "pkgdesc": "Module for exposing the address of the system framebuffer",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi-extensions"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     },
     "gesture-colour-settings": {
@@ -3096,6 +3123,33 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "17.0.0-r1": {
+        "pkgdesc": "Injects a QT module to execute shell commands from QML",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi-extensions"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     },
     "qt-resource-rebuilder": {
@@ -3145,6 +3199,33 @@
         ],
         "depends": [
           "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "17.0.0-r1": {
+        "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi-extensions"
         ],
         "conflicts": [],
         "provides": [],
@@ -4560,6 +4641,34 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "17.0.0-r1": {
+        "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "xovi-message-broker"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     },
     "xovi": {
@@ -4643,6 +4752,33 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "17.0.0-r1": {
+        "pkgdesc": "Extensions for xovi framework",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     },
     "xovi-message-broker": {
@@ -4699,8 +4835,35 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "17.0.0-r1": {
+        "pkgdesc": "IPC messaging between xovi extensions",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi-extensions"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     }
   },
-  "generated": "2026-01-15T19:58:13Z"
+  "generated": "2026-01-15T23:42:33Z"
 }
