@@ -237,6 +237,17 @@ export function PackageDetailPage() {
             <pre className="bg-muted p-4 rounded-md overflow-x-auto">
               <code>vellum install {name}</code>
             </pre>
+            <p className="text-sm text-muted-foreground mt-2">
+              Requires{" "}
+              <a
+                href="https://github.com/vellum-dev/vellum-cli"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-primary hover:underline"
+              >
+                Vellum package manager
+              </a>
+            </p>
           </div>
         </CardContent>
       </Card>
