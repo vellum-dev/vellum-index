@@ -1472,6 +1472,33 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "17.0.0-r2": {
+        "pkgdesc": "Module for exposing the address of the system framebuffer",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi-extensions"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     },
     "gesture-colour-settings": {
@@ -3150,6 +3177,33 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "17.0.0-r2": {
+        "pkgdesc": "Injects a QT module to execute shell commands from QML",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi-extensions"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     },
     "qt-resource-rebuilder": {
@@ -3208,6 +3262,33 @@
         ]
       },
       "17.0.0-r1": {
+        "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi-extensions"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "17.0.0-r2": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -4669,6 +4750,34 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "17.0.0-r2": {
+        "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "xovi-message-broker"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     },
     "xovi": {
@@ -4683,6 +4792,31 @@
         "url": "https://github.com/asivery/xovi",
         "os_min": "3.20",
         "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "0.3.1-r1": {
+        "pkgdesc": "Core xovi framework for reMarkable tablets",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/xovi",
+        "os_min": null,
+        "os_max": null,
         "devices": [
           "rm1",
           "rm2",
@@ -4764,6 +4898,33 @@
         "url": "https://github.com/asivery/rm-xovi-extensions",
         "os_min": null,
         "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      },
+      "17.0.0-r2": {
+        "pkgdesc": "Extensions for xovi framework",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": "3.20",
+        "os_max": "3.25",
         "devices": [
           "rm1",
           "rm2",
@@ -4862,8 +5023,35 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "17.0.0-r2": {
+        "pkgdesc": "IPC messaging between xovi extensions",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-xovi-extensions",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi-extensions"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     }
   },
-  "generated": "2026-01-16T13:16:04Z"
+  "generated": "2026-01-16T18:44:59Z"
 }
