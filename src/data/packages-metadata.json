@@ -3779,6 +3779,31 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "0.0.10-r0": {
+        "pkgdesc": "HTTPS proxy for rmfakecloud - redirects reMarkable cloud traffic",
+        "upstream_author": "ddvk",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/ddvk/rmfakecloud-proxy",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     },
     "rmhacks": {
@@ -5077,5 +5102,5 @@
       }
     }
   },
-  "generated": "2026-01-16T18:49:00Z"
+  "generated": "2026-01-18T13:36:19Z"
 }
