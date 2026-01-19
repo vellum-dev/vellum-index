@@ -2,7 +2,7 @@
   "packages": {
     "add-finished-button": {
       "1.0.0-r0": {
-        "pkgdesc": "packages/fix-custom-fit",
+        "pkgdesc": "Adds a [Finished] button when selecting documents, moving them to the first subfolder in the current folder",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
@@ -5161,5 +5161,5 @@
       }
     }
   },
-  "generated": "2026-01-19T14:59:36Z"
+  "generated": "2026-01-19T15:12:18Z"
 }
