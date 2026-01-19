@@ -1,5 +1,34 @@
 {
   "packages": {
+    "add-finished-button": {
+      "1.0.0-r0": {
+        "pkgdesc": "packages/fix-custom-fit",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
     "appload": {
       "0.4.1-r0": {
         "pkgdesc": "Xovi extension for windowed and fullscreen apps on reMarkable tablets",
@@ -966,6 +995,35 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
+      }
+    },
+    "fix-custom-fit": {
+      "1.0.0-r0": {
+        "pkgdesc": "Makes Custom Fit zoom consistent across devices and orientations, ensuring the same document area is shown everywhere.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.24",
         "os_max": "3.25",
         "devices": [
@@ -5102,5 +5160,5 @@
       }
     }
   },
-  "generated": "2026-01-18T13:36:19Z"
+  "generated": "2026-01-19T14:56:38Z"
 }
