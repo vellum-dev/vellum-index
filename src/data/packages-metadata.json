@@ -1020,6 +1020,7 @@
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
+          "fixes",
           "ui"
         ],
         "license": "GPL-2.0",
@@ -5160,5 +5161,5 @@
       }
     }
   },
-  "generated": "2026-01-19T14:56:38Z"
+  "generated": "2026-01-19T14:59:36Z"
 }
