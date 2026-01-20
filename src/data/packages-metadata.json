@@ -4938,6 +4938,31 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "0.3.2-r0": {
+        "pkgdesc": "Core xovi framework for reMarkable tablets",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/xovi",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     },
     "xovi-extensions": {
@@ -5161,5 +5186,5 @@
       }
     }
   },
-  "generated": "2026-01-19T15:15:50Z"
+  "generated": "2026-01-20T14:37:14Z"
 }
