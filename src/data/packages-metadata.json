@@ -3486,33 +3486,6 @@
           "armv7"
         ]
       },
-      "1.0.2-r0": {
-        "pkgdesc": "Adds a screenshot button to the quick settings menu.",
-        "upstream_author": "rmitchellscott",
-        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
-        "categories": [
-          "ui"
-        ],
-        "license": "MIT",
-        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "os_min": "3.24",
-        "os_max": "3.25",
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm"
-        ],
-        "depends": [
-          "qt-resource-rebuilder"
-        ],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "aarch64",
-          "armv7"
-        ]
-      },
       "1.0.2-r1": {
         "pkgdesc": "Adds a screenshot button to the quick settings menu.",
         "upstream_author": "rmitchellscott",
@@ -5186,5 +5159,5 @@
       }
     }
   },
-  "generated": "2026-01-20T14:37:14Z"
+  "generated": "2026-01-20T22:05:04Z"
 }
