@@ -148,7 +148,7 @@ export function PackageDetailPage() {
                 {!currentPkg.os_min && !currentPkg.os_max && 'All versions'}
               </dd>
             </div>
-            <div className="order-9 sm:col-span-2">
+            <div className="order-10 sm:col-span-2">
               <dt className="text-sm font-medium text-muted-foreground">Source</dt>
               <dd>
                 <a
@@ -162,7 +162,7 @@ export function PackageDetailPage() {
               </dd>
             </div>
             {filteredDepends.length > 0 && (
-              <div className="order-10">
+              <div className="order-11">
                 <dt className="text-sm font-medium text-muted-foreground">Dependencies</dt>
                 <dd>
                   <ul className="list-disc list-inside">
@@ -185,7 +185,7 @@ export function PackageDetailPage() {
               </div>
             )}
             {currentPkg.conflicts.length > 0 && (
-              <div className="order-11">
+              <div className="order-12">
                 <dt className="text-sm font-medium text-muted-foreground">Conflicts</dt>
                 <dd>
                   <ul className="list-disc list-inside">
@@ -208,7 +208,7 @@ export function PackageDetailPage() {
               </div>
             )}
             {currentPkg.provides?.length > 0 && (
-              <div className="order-12">
+              <div className="order-13">
                 <dt className="text-sm font-medium text-muted-foreground">Provides</dt>
                 <dd>
                   <ul className="list-disc list-inside">
@@ -248,6 +248,11 @@ export function PackageDetailPage() {
                 Vellum package manager
               </a>
             </p>
+            {currentPkg.modifies_system && (
+              <p className="text-sm text-muted-foreground mt-2">
+                This package modifies system files and requires running <code>vellum reenable</code> after reMarkable updates.
+              </p>
+            )}
           </div>
         </CardContent>
       </Card>

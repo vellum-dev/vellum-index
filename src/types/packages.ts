@@ -15,6 +15,7 @@ export interface PackageVersion {
   conflicts: string[];
   provides: string[];
   arch: Architecture[];
+  modifies_system: boolean;
 }
 
 export interface PackagesMetadata {
