@@ -2934,6 +2934,33 @@
           "aarch64",
           "armv7"
         ]
+      },
+      "0.1.6-r0": {
+        "pkgdesc": "Terminal emulator for reMarkable Paper Pro using QtQuick",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "apps"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/asivery/rm-literm",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ]
       }
     },
     "mini-light-sleep": {
@@ -5129,5 +5156,5 @@
       }
     }
   },
-  "generated": "2026-01-21T14:46:42Z"
+  "generated": "2026-01-23T14:05:57Z"
 }
