@@ -26,7 +26,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "appload": {
@@ -55,7 +56,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "bettertoc": {
@@ -86,7 +88,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
@@ -115,7 +118,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.1.0-r0": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
@@ -144,7 +148,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "change-vertical-jump": {
@@ -173,7 +178,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "convert-to-text-remover": {
@@ -202,7 +208,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "createpages-paperpro": {
@@ -233,7 +240,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Overrides new page creation to use Paper Pro dimensions.",
@@ -262,7 +270,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Overrides new page creation to use Paper Pro dimensions.",
@@ -291,7 +300,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "createpages-rm2": {
@@ -322,7 +332,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Overrides new page creation to use reMarkable 2 dimensions.",
@@ -351,7 +362,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Overrides new page creation to use reMarkable 2 dimensions.",
@@ -380,7 +392,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "delay-stroke-screen-refresh": {
@@ -409,7 +422,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "disable-selection-autoscroll": {
@@ -438,7 +452,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "enable-all-colors": {
@@ -465,7 +480,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Enables full color selection on rM1 and rM2.",
@@ -490,7 +506,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Enables full color selection on rM1 and rM2.",
@@ -515,7 +532,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "enable-extra-pen-on-move": {
@@ -541,7 +559,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "enable-shortcuts": {
@@ -570,7 +589,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Enables keyboard shortcuts for arrow key page and scroll navigation.",
@@ -597,7 +617,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "enable-shortcuts-scroll-page": {
@@ -626,7 +647,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Advanced shortcuts with scroll or page change (requires gestureTapToPage).",
@@ -653,7 +675,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Advanced shortcuts with scroll or page change (requires gestureTapToPage).",
@@ -680,7 +703,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "entware": {
@@ -709,7 +733,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": true
       }
     },
     "extend-list-title-width": {
@@ -738,7 +763,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "fav-tag-button": {
@@ -767,7 +793,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -794,7 +821,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -821,7 +849,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.3-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -848,7 +877,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.4-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -875,7 +905,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "favorite-button": {
@@ -904,7 +935,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "fewer-light-steps": {
@@ -931,7 +963,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Changes 5-level light slider to 4-level (RMPP/RMPPM only).",
@@ -956,7 +989,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r1": {
         "pkgdesc": "Changes 5-level light slider to 4-level (RMPP/RMPPM only).",
@@ -981,7 +1015,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "fix-battery-indicator": {
@@ -1011,7 +1046,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "fix-custom-fit": {
@@ -1041,7 +1077,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "fix-light-indicator-gap": {
@@ -1069,7 +1106,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "fix-page-number-on-slider": {
@@ -1099,7 +1137,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Restores the z-index for the pageLabel element so it appears on top of the page slider like in previous versions.",
@@ -1127,7 +1166,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "fix-quick-settings-temp-separator": {
@@ -1157,7 +1197,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Removes the duplicate horizontal separator in quick settings when high temp warnings are present on Paper Pro family devices.",
@@ -1185,7 +1226,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "floating-toolbar": {
@@ -1216,7 +1258,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -1245,7 +1288,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -1274,7 +1318,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.3-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -1303,7 +1348,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.4-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -1332,7 +1378,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.5-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -1361,7 +1408,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.6-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -1390,7 +1438,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.7-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -1419,7 +1468,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "force-sync": {
@@ -1448,7 +1498,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "framebuffer-spy": {
@@ -1476,7 +1527,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r0": {
         "pkgdesc": "Module for exposing the address of the system framebuffer",
@@ -1503,7 +1555,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r1": {
         "pkgdesc": "Module for exposing the address of the system framebuffer",
@@ -1530,7 +1583,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r2": {
         "pkgdesc": "Module for exposing the address of the system framebuffer",
@@ -1557,7 +1611,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "gesture-colour-settings": {
@@ -1586,7 +1641,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -1613,7 +1669,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -1640,7 +1697,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.3-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -1667,7 +1725,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.4-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -1694,7 +1753,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.5-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -1721,7 +1781,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.6-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -1748,7 +1809,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.7-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -1775,7 +1837,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "gesture-contrast-toggle": {
@@ -1804,7 +1867,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "gesture-reset-view": {
@@ -1833,7 +1897,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "gesture-tap-to-page": {
@@ -1862,7 +1927,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "gesture-toolbar-hide": {
@@ -1891,7 +1957,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "gesture-toolbar-show": {
@@ -1920,7 +1987,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "gestures-fouzr": {
@@ -1949,7 +2017,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -1976,7 +2045,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -2003,7 +2073,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.3-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -2030,7 +2101,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.4-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -2057,7 +2129,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.5-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -2084,7 +2157,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.6-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -2111,7 +2185,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "gestures-ingatellent": {
@@ -2140,7 +2215,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
@@ -2167,7 +2243,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
@@ -2194,7 +2271,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.3-r0": {
         "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
@@ -2221,7 +2299,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "gomarkablestream": {
@@ -2246,7 +2325,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "hide-dev-mode-icon": {
@@ -2275,7 +2355,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Hides the developer mode icon next to the battery icon.",
@@ -2302,7 +2383,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Hides the developer mode icon next to the battery icon.",
@@ -2329,7 +2411,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r1": {
         "pkgdesc": "Hides the developer mode icon next to the battery icon.",
@@ -2354,7 +2437,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "hide-document-close": {
@@ -2383,7 +2467,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -2410,7 +2495,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -2437,7 +2523,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.3-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -2464,7 +2551,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.4-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -2491,7 +2579,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "hide-page-labels-fullscreen": {
@@ -2520,7 +2609,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -2547,7 +2637,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -2574,7 +2665,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.3-r0": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -2601,7 +2693,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.4-r0": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -2628,7 +2721,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "hide-show-toolbar": {
@@ -2657,7 +2751,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
@@ -2684,7 +2779,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
@@ -2711,7 +2807,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.3-r0": {
         "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
@@ -2738,7 +2835,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.4-r0": {
         "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
@@ -2765,7 +2863,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "hide-zoom-indicator": {
@@ -2794,7 +2893,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Auto-hides zoom indicator after 4 seconds",
@@ -2821,7 +2921,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Auto-hides zoom indicator after 4 seconds",
@@ -2848,7 +2949,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.3-r0": {
         "pkgdesc": "Auto-hides zoom indicator after 4 seconds",
@@ -2875,7 +2977,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "koreader": {
@@ -2904,7 +3007,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "literm": {
@@ -2933,7 +3037,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "0.1.6-r0": {
         "pkgdesc": "Terminal emulator for reMarkable Paper Pro using QtQuick",
@@ -2960,7 +3065,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "mini-light-sleep": {
@@ -2989,7 +3095,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
@@ -3016,7 +3123,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
@@ -3043,7 +3151,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.3-r0": {
         "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
@@ -3070,7 +3179,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "mount-utils": {
@@ -3096,7 +3206,8 @@
         "provides": [],
         "arch": [
           ""
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "prevent-notebook-zoomout": {
@@ -3125,7 +3236,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode",
@@ -3152,7 +3264,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode",
@@ -3179,7 +3292,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "qt-command-executor": {
@@ -3208,7 +3322,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r0": {
         "pkgdesc": "Injects a QT module to execute shell commands from QML",
@@ -3235,7 +3350,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r1": {
         "pkgdesc": "Injects a QT module to execute shell commands from QML",
@@ -3262,7 +3378,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r2": {
         "pkgdesc": "Injects a QT module to execute shell commands from QML",
@@ -3289,7 +3406,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "qt-resource-rebuilder": {
@@ -3318,7 +3436,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r0": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
@@ -3345,7 +3464,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r1": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
@@ -3372,7 +3492,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r2": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
@@ -3399,7 +3520,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "quicksettings-clock-serif": {
@@ -3428,7 +3550,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds a clock to the quick settings menu in serif font",
@@ -3455,7 +3578,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "quicksettings-screenshot": {
@@ -3485,7 +3609,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "random-sleep-screen": {
@@ -3514,7 +3639,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -3541,7 +3667,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -3568,7 +3695,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "recents-tagged": {
@@ -3597,7 +3725,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds a new menu to the document drawer that shows only tagged files, sorted by last modified.",
@@ -3624,7 +3753,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds a new menu to the document drawer that shows only tagged files, sorted by last modified.",
@@ -3651,7 +3781,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "rm-shot": {
@@ -3681,7 +3812,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "rm-version-switcher": {
@@ -3707,7 +3839,8 @@
         "provides": [],
         "arch": [
           ""
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.0-r0": {
         "pkgdesc": "Interactive CLI tool for switching between installed reMarkable OS versions",
@@ -3731,7 +3864,8 @@
         "provides": [],
         "arch": [
           ""
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "rmfakecloud-proxy": {
@@ -3758,7 +3892,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": true
       },
       "0.0.9-r0": {
         "pkgdesc": "HTTPS proxy for rmfakecloud - redirects reMarkable cloud traffic",
@@ -3783,7 +3918,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": true
       },
       "0.0.10-r0": {
         "pkgdesc": "HTTPS proxy for rmfakecloud - redirects reMarkable cloud traffic",
@@ -3808,7 +3944,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": true
       }
     },
     "rmhacks": {
@@ -3840,7 +3977,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "0.0.11_pre2-r0": {
         "pkgdesc": "reMarkable hacks in QMD format",
@@ -3870,7 +4008,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "0.0.11_pre3-r0": {
         "pkgdesc": "reMarkable hacks in QMD format",
@@ -3900,7 +4039,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "0.0.11_pre4-r0": {
         "pkgdesc": "reMarkable hacks in QMD format",
@@ -3930,7 +4070,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "rmstream": {
@@ -3960,7 +4101,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "rmtree": {
@@ -3986,7 +4128,8 @@
         "provides": [],
         "arch": [
           ""
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Display reMarkable document hierarchy in tree format",
@@ -4010,7 +4153,8 @@
         "provides": [],
         "arch": [
           ""
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "selection-erase": {
@@ -4039,7 +4183,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
@@ -4066,7 +4211,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
@@ -4093,7 +4239,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.3-r0": {
         "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
@@ -4120,7 +4267,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "selection-stuff": {
@@ -4149,7 +4297,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds the ability to select everything above the line.",
@@ -4176,7 +4325,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds the ability to select everything above the line.",
@@ -4203,7 +4353,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "sidebar-clock": {
@@ -4232,7 +4383,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "tag-button": {
@@ -4261,7 +4413,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "toolbar-icon": {
@@ -4290,7 +4443,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -4317,7 +4471,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -4344,7 +4499,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.3-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -4371,7 +4527,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.4-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -4398,7 +4555,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.5-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -4425,7 +4583,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.6-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -4452,7 +4611,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "tripletap": {
@@ -4481,7 +4641,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": true
       }
     },
     "uncompress-dock": {
@@ -4510,7 +4671,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "unlock-methods-content": {
@@ -4539,7 +4701,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.1-r0": {
         "pkgdesc": "Bypasses subscription check for using on-device Methods templates and documents.",
@@ -4566,7 +4729,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "1.0.2-r0": {
         "pkgdesc": "Bypasses subscription check for using on-device Methods templates and documents.",
@@ -4593,7 +4757,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "vellum": {
@@ -4619,7 +4784,8 @@
         "provides": [],
         "arch": [
           ""
-        ]
+        ],
+        "modifies_system": false
       },
       "0.1.2-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -4643,7 +4809,8 @@
         "provides": [],
         "arch": [
           ""
-        ]
+        ],
+        "modifies_system": false
       },
       "0.1.3-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -4667,7 +4834,8 @@
         "provides": [],
         "arch": [
           ""
-        ]
+        ],
+        "modifies_system": false
       },
       "0.1.4-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -4691,7 +4859,8 @@
         "provides": [],
         "arch": [
           ""
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "vellum-bash-completion": {
@@ -4717,7 +4886,8 @@
         "provides": [],
         "arch": [
           ""
-        ]
+        ],
+        "modifies_system": false
       },
       "3.0.3-r2": {
         "pkgdesc": "Bash completion for vellum package manager",
@@ -4741,7 +4911,8 @@
         "provides": [],
         "arch": [
           ""
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "webserver-remote": {
@@ -4771,7 +4942,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r0": {
         "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
@@ -4799,7 +4971,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r1": {
         "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
@@ -4827,7 +5000,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r2": {
         "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
@@ -4855,7 +5029,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "xovi": {
@@ -4882,7 +5057,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "0.3.1-r1": {
         "pkgdesc": "Core xovi framework for reMarkable tablets",
@@ -4907,7 +5083,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "0.3.2-r0": {
         "pkgdesc": "Core xovi framework for reMarkable tablets",
@@ -4932,7 +5109,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "xovi-extensions": {
@@ -4961,7 +5139,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r0": {
         "pkgdesc": "Extensions for xovi framework",
@@ -4988,7 +5167,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r1": {
         "pkgdesc": "Extensions for xovi framework",
@@ -5015,7 +5195,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r2": {
         "pkgdesc": "Extensions for xovi framework",
@@ -5042,7 +5223,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     },
     "xovi-message-broker": {
@@ -5071,7 +5253,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r0": {
         "pkgdesc": "IPC messaging between xovi extensions",
@@ -5098,7 +5281,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r1": {
         "pkgdesc": "IPC messaging between xovi extensions",
@@ -5125,7 +5309,8 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       },
       "17.0.0-r2": {
         "pkgdesc": "IPC messaging between xovi extensions",
@@ -5152,9 +5337,10 @@
         "arch": [
           "aarch64",
           "armv7"
-        ]
+        ],
+        "modifies_system": false
       }
     }
   },
-  "generated": "2026-01-23T14:05:57Z"
+  "generated": "2026-01-23T22:52:21Z"
 }
