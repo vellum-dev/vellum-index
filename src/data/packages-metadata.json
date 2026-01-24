@@ -4921,7 +4921,7 @@
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
-          "framework"
+          "utilities"
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
@@ -4950,7 +4950,7 @@
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
-          "framework"
+          "utilities"
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
@@ -4979,7 +4979,7 @@
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
-          "framework"
+          "utilities"
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
@@ -5008,7 +5008,7 @@
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
-          "framework"
+          "utilities"
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
@@ -5342,5 +5342,5 @@
       }
     }
   },
-  "generated": "2026-01-23T22:52:21Z"
+  "generated": "2026-01-24T01:37:11Z"
 }
