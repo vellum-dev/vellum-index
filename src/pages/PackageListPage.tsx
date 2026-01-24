@@ -6,8 +6,8 @@ import { PackageTable } from '@/components/packages/PackageTable';
 import type { FlatPackage } from '@/types/packages';
 
 export function PackageListPage() {
-  const { packages, categories, devices, osVersions } = usePackages();
-  const { filters, setFilter, filteredPackages } = useFilters(packages);
+  const { packages, categories, devices, osVersions, registry } = usePackages();
+  const { filters, setFilter, filteredPackages } = useFilters(packages, registry);
 
   const latestPackages = useMemo(() => {
     const byName = new Map<string, FlatPackage>();

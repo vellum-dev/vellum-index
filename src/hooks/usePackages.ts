@@ -1,6 +1,6 @@
 import { useMemo } from 'react';
 import packagesData from '@/data/packages-metadata.json';
-import type { PackagesMetadata, FlatPackage } from '@/types/packages';
+import type { PackagesMetadata, FlatPackage, PackageVersion } from '@/types/packages';
 
 const SUFFIX_WEIGHTS: Record<string, number> = {
   alpha: -4,
@@ -57,6 +57,39 @@ function generateOsVersionRange(minVersion: number, maxVersion: number): string[
     versions.push(v.toFixed(2));
   }
   return versions;
+}
+
+function isVersionCompatible(pkg: PackageVersion, osVersion: number): boolean {
+  if (pkg.os_min && parseFloat(pkg.os_min) > osVersion) return false;
+  if (pkg.os_max && parseFloat(pkg.os_max) <= osVersion) return false;
+  return true;
+}
+
+export function isInstallableOnOs(
+  packageName: string,
+  osVersion: number,
+  registry: PackagesMetadata['packages'],
+  visited: Set<string> = new Set()
+): boolean {
+  if (visited.has(packageName)) return true;
+  visited.add(packageName);
+
+  const versions = registry[packageName];
+  if (!versions) return true;
+
+  const compatibleVersions = Object.values(versions).filter((v) =>
+    isVersionCompatible(v, osVersion)
+  );
+
+  if (compatibleVersions.length === 0) return false;
+
+  for (const version of compatibleVersions) {
+    const allDepsInstallable = version.depends.every((dep) =>
+      isInstallableOnOs(dep, osVersion, registry, new Set(visited))
+    );
+    if (allDepsInstallable) return true;
+  }
+  return false;
 }
 
 export function compareVersions(a: string, b: string): number {
@@ -121,5 +154,5 @@ export function usePackages() {
     };
   }, [data]);
 
-  return { packages, categories, devices, osVersions, generated: data.generated };
+  return { packages, categories, devices, osVersions, generated: data.generated, registry: data.packages };
 }

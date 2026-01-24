@@ -1,6 +1,7 @@
 import { useSearchParams } from 'react-router-dom';
 import { useMemo, useCallback } from 'react';
-import type { FlatPackage, Device } from '@/types/packages';
+import type { FlatPackage, Device, PackagesMetadata } from '@/types/packages';
+import { isInstallableOnOs } from './usePackages';
 
 interface FilterState {
   search: string;
@@ -9,7 +10,7 @@ interface FilterState {
   osVersion: string;
 }
 
-export function useFilters(packages: FlatPackage[]) {
+export function useFilters(packages: FlatPackage[], registry: PackagesMetadata['packages']) {
   const [searchParams, setSearchParams] = useSearchParams();
 
   const filters: FilterState = {
@@ -53,13 +54,12 @@ export function useFilters(packages: FlatPackage[]) {
 
       if (filters.osVersion !== 'all') {
         const version = parseFloat(filters.osVersion);
-        if (pkg.os_min && parseFloat(pkg.os_min) > version) return false;
-        if (pkg.os_max && parseFloat(pkg.os_max) <= version) return false;
+        if (!isInstallableOnOs(pkg.name, version, registry)) return false;
       }
 
       return true;
     });
-  }, [packages, filters]);
+  }, [packages, filters, registry]);
 
   return { filters, setFilter, filteredPackages };
 }
