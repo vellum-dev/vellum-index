@@ -3814,6 +3814,35 @@
           "armv7"
         ],
         "modifies_system": false
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "Screenshot extension for xovi framework",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/rm-shot",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "framebuffer-spy",
+          "xovi-message-broker"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false
       }
     },
     "rm-version-switcher": {
@@ -5342,5 +5371,5 @@
       }
     }
   },
-  "generated": "2026-01-24T01:37:11Z"
+  "generated": "2026-01-24T01:55:36Z"
 }
