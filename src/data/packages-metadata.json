@@ -952,8 +952,8 @@
         "os_min": "3.18",
         "os_max": "3.23",
         "devices": [
-          "rm1",
-          "rm2"
+          "rmpp",
+          "rmppm"
         ],
         "depends": [
           "qt-resource-rebuilder"
@@ -4928,5 +4928,5 @@
       }
     }
   },
-  "generated": "2026-01-24T18:55:08Z"
+  "generated": "2026-01-24T19:06:47Z"
 }
