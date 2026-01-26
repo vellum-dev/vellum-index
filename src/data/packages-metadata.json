@@ -4450,6 +4450,35 @@
           "armv7"
         ],
         "modifies_system": true
+      },
+      "1.0.0-r0": {
+        "pkgdesc": "Start xovi by triple-pressing the power button",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-tripletap",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi",
+          "mount-utils"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": true
       }
     },
     "uncompress-dock": {
@@ -4953,5 +4982,5 @@
       }
     }
   },
-  "generated": "2026-01-25T18:57:28Z"
+  "generated": "2026-01-26T16:31:23Z"
 }
