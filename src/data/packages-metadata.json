@@ -4423,7 +4423,7 @@
       }
     },
     "tripletap": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Start xovi by triple-pressing the power button",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -4954,5 +4954,5 @@
       }
     }
   },
-  "generated": "2026-01-26T16:33:18Z"
+  "generated": "2026-01-26T17:47:00Z"
 }
