@@ -1503,34 +1503,6 @@
           "armv7"
         ],
         "modifies_system": false
-      },
-      "17.0.0-r2": {
-        "pkgdesc": "Module for exposing the address of the system framebuffer",
-        "upstream_author": "asivery",
-        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
-        "categories": [
-          "framework"
-        ],
-        "license": "GPL-3.0",
-        "url": "https://github.com/asivery/rm-xovi-extensions",
-        "os_min": null,
-        "os_max": null,
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm"
-        ],
-        "depends": [
-          "xovi-extensions"
-        ],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "aarch64",
-          "armv7"
-        ],
-        "modifies_system": false
       }
     },
     "gesture-colour-settings": {
@@ -4954,5 +4926,5 @@
       }
     }
   },
-  "generated": "2026-01-26T17:47:00Z"
+  "generated": "2026-01-27T02:12:02Z"
 }
