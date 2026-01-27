@@ -2959,6 +2959,33 @@
         "modifies_system": false
       }
     },
+    "micro": {
+      "2.0.14-r0": {
+        "pkgdesc": "Modern and intuitive terminal-based text editor",
+        "upstream_author": "zyedidia",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.codes>",
+        "categories": [
+          "apps"
+        ],
+        "license": "MIT",
+        "url": "https://micro-editor.github.io/",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          ""
+        ],
+        "modifies_system": false
+      }
+    },
     "mini-light-sleep": {
       "1.0.0-r0": {
         "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
@@ -4954,5 +4981,5 @@
       }
     }
   },
-  "generated": "2026-01-27T18:19:06Z"
+  "generated": "2026-01-27T19:33:05Z"
 }
