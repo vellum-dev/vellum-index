@@ -446,7 +446,8 @@
         "conflicts": [],
         "provides": [],
         "arch": [
-          ""
+          "aarch64",
+          "armv7"
         ],
         "modifies_system": false
       }
@@ -3094,7 +3095,8 @@
         "conflicts": [],
         "provides": [],
         "arch": [
-          ""
+          "aarch64",
+          "armv7"
         ],
         "modifies_system": false
       }
@@ -3235,7 +3237,8 @@
         "conflicts": [],
         "provides": [],
         "arch": [
-          ""
+          "aarch64",
+          "armv7"
         ],
         "modifies_system": false
       }
@@ -3785,7 +3788,8 @@
         "conflicts": [],
         "provides": [],
         "arch": [
-          ""
+          "aarch64",
+          "armv7"
         ],
         "modifies_system": false
       },
@@ -3810,7 +3814,8 @@
         "conflicts": [],
         "provides": [],
         "arch": [
-          ""
+          "aarch64",
+          "armv7"
         ],
         "modifies_system": false
       }
@@ -4074,7 +4079,8 @@
         "conflicts": [],
         "provides": [],
         "arch": [
-          ""
+          "aarch64",
+          "armv7"
         ],
         "modifies_system": false
       },
@@ -4099,7 +4105,8 @@
         "conflicts": [],
         "provides": [],
         "arch": [
-          ""
+          "aarch64",
+          "armv7"
         ],
         "modifies_system": false
       }
@@ -4731,7 +4738,8 @@
         "conflicts": [],
         "provides": [],
         "arch": [
-          ""
+          "aarch64",
+          "armv7"
         ],
         "modifies_system": false
       },
@@ -4756,7 +4764,8 @@
         "conflicts": [],
         "provides": [],
         "arch": [
-          ""
+          "aarch64",
+          "armv7"
         ],
         "modifies_system": false
       },
@@ -4781,7 +4790,8 @@
         "conflicts": [],
         "provides": [],
         "arch": [
-          ""
+          "aarch64",
+          "armv7"
         ],
         "modifies_system": false
       },
@@ -4806,7 +4816,8 @@
         "conflicts": [],
         "provides": [],
         "arch": [
-          ""
+          "aarch64",
+          "armv7"
         ],
         "modifies_system": false
       },
@@ -4831,7 +4842,8 @@
         "conflicts": [],
         "provides": [],
         "arch": [
-          ""
+          "aarch64",
+          "armv7"
         ],
         "modifies_system": false
       }
@@ -4858,7 +4870,8 @@
         "conflicts": [],
         "provides": [],
         "arch": [
-          ""
+          "aarch64",
+          "armv7"
         ],
         "modifies_system": false
       }
@@ -5094,5 +5107,5 @@
       }
     }
   },
-  "generated": "2026-01-27T22:20:29Z"
+  "generated": "2026-01-27T22:45:59Z"
 }
