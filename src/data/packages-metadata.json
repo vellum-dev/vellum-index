@@ -737,6 +737,36 @@
         "modifies_system": true
       }
     },
+    "entware-rc": {
+      "0.1-r0": {
+        "pkgdesc": "Manage entware installed services",
+        "upstream_author": "toltec-dev",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://toltec-dev.org/",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "entware"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": true
+      }
+    },
     "extend-list-title-width": {
       "1.0.0-r0": {
         "pkgdesc": "Removes extra right margin for titles in list view to fill more of the available space.",
@@ -4981,5 +5011,5 @@
       }
     }
   },
-  "generated": "2026-01-27T19:33:05Z"
+  "generated": "2026-01-27T21:48:21Z"
 }
