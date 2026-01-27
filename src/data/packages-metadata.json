@@ -152,6 +152,34 @@
         "modifies_system": false
       }
     },
+    "btop": {
+      "1.4.6-r0": {
+        "pkgdesc": "A monitor of resources",
+        "upstream_author": "aristocratos",
+        "maintainer": "notfrants <notfrants@proton.me>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "Apache-2.0",
+        "url": "https://github.com/aristocratos/btop",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false
+      }
+    },
     "change-vertical-jump": {
       "1.0.0-r0": {
         "pkgdesc": "Increases scroll distance when scrolling down a page.",
@@ -392,6 +420,33 @@
         "arch": [
           "aarch64",
           "armv7"
+        ],
+        "modifies_system": false
+      }
+    },
+    "curl": {
+      "8.11.0-r0": {
+        "pkgdesc": "URL retrival utility and library",
+        "upstream_author": "curl",
+        "maintainer": "notfrants <notfrants@proton.me>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "curl",
+        "url": "https://curl.se/",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          ""
         ],
         "modifies_system": false
       }
@@ -788,6 +843,34 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false
+      }
+    },
+    "fastfetch": {
+      "2.58.0-r0": {
+        "pkgdesc": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+        "upstream_author": "fastfetch-cli",
+        "maintainer": "notfrants <notfrants@proton.me>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/fastfetch-cli/fastfetch",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
         "conflicts": [],
         "provides": [],
         "arch": [
@@ -5011,5 +5094,5 @@
       }
     }
   },
-  "generated": "2026-01-27T21:48:21Z"
+  "generated": "2026-01-27T22:20:29Z"
 }
