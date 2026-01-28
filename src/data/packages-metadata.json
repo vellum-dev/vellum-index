@@ -4906,6 +4906,92 @@
         "modifies_system": false
       }
     },
+    "vnsee-qtfb": {
+      "1.1.0-r0": {
+        "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen",
+        "upstream_author": "khyryra",
+        "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "apps"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/khyryra/vnsee-qtfb",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false
+      }
+    },
+    "vnsee-qtfb-rmpp": {
+      "1.1.0-r0": {
+        "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen (rmpp)",
+        "upstream_author": "unknown",
+        "maintainer": "unknown",
+        "categories": [
+          "other"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/khyryra/vnsee-qtfb",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "appload"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64"
+        ],
+        "modifies_system": false
+      }
+    },
+    "vnsee-qtfb-rmppm": {
+      "1.1.0-r0": {
+        "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen (rmppm)",
+        "upstream_author": "unknown",
+        "maintainer": "unknown",
+        "categories": [
+          "other"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/khyryra/vnsee-qtfb",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "appload"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64"
+        ],
+        "modifies_system": false
+      }
+    },
     "webserver-remote": {
       "16.0.0-r0": {
         "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
@@ -5135,7 +5221,65 @@
         ],
         "modifies_system": false
       }
+    },
+    "vnsee-qtfb-rm1": {
+      "1.1.0-r0": {
+        "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen (rm1)",
+        "upstream_author": "unknown",
+        "maintainer": "unknown",
+        "categories": [
+          "other"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/khyryra/vnsee-qtfb",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "appload"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "armv7"
+        ],
+        "modifies_system": false
+      }
+    },
+    "vnsee-qtfb-rm2": {
+      "1.1.0-r0": {
+        "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen (rm2)",
+        "upstream_author": "unknown",
+        "maintainer": "unknown",
+        "categories": [
+          "other"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/khyryra/vnsee-qtfb",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "appload"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "armv7"
+        ],
+        "modifies_system": false
+      }
     }
   },
-  "generated": "2026-01-28T20:45:29Z"
+  "generated": "2026-01-28T23:03:40Z"
 }
