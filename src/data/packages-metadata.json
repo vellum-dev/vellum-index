@@ -1560,6 +1560,36 @@
         "modifies_system": false
       }
     },
+    "force-koreader-landscape": {
+      "1.0.0-r0": {
+        "pkgdesc": "Keeps the KOReader appload app in the same aspect ratio as the screen",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false
+      }
+    },
     "force-sync": {
       "1.0.0-r0": {
         "pkgdesc": "Adds a cloud button in Quick Settings that forces a library sync when tapped.",
@@ -5107,5 +5137,5 @@
       }
     }
   },
-  "generated": "2026-01-27T22:45:59Z"
+  "generated": "2026-01-28T13:43:10Z"
 }
