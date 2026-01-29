@@ -16,6 +16,7 @@ export interface PackageVersion {
   provides: string[];
   arch: Architecture[];
   modifies_system: boolean;
+  auto_install: boolean;
 }
 
 export interface PackagesMetadata {

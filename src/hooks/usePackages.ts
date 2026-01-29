@@ -124,10 +124,19 @@ export function usePackages() {
     const osMaxVersions: number[] = [];
 
     for (const [name, versions] of Object.entries(data.packages)) {
-      const versionKeys = Object.keys(versions).sort(compareVersions).reverse();
+      // Skip packages where all versions are auto_install (subpackages)
+      const nonAutoInstallVersions = Object.entries(versions).filter(
+        ([, info]) => !info.auto_install
+      );
+      if (nonAutoInstallVersions.length === 0) continue;
+
+      const versionKeys = nonAutoInstallVersions
+        .map(([v]) => v)
+        .sort(compareVersions)
+        .reverse();
       const latestVersion = versionKeys[0];
 
-      for (const [version, info] of Object.entries(versions)) {
+      for (const [version, info] of nonAutoInstallVersions) {
         flatPackages.push({
           name,
           version,
