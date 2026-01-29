@@ -764,7 +764,7 @@
       }
     },
     "entware": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Entware software repository for reMarkable tablets",
         "upstream_author": "Entware",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -5281,5 +5281,5 @@
       }
     }
   },
-  "generated": "2026-01-28T23:03:40Z"
+  "generated": "2026-01-29T00:24:56Z"
 }
