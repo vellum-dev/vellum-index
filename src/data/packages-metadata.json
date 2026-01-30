@@ -4642,6 +4642,37 @@
         "auto_install": false
       }
     },
+    "tailscale": {
+      "1.94.1-r0": {
+        "pkgdesc": "Tailscale VPN client",
+        "upstream_author": "tailscale",
+        "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "BSD-3-Clause",
+        "url": "https://tailscale.com",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "mount-utils"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": true,
+        "auto_install": false
+      }
+    },
     "toolbar-icon": {
       "1.0.0-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -5542,6 +5573,64 @@
         "auto_install": false
       }
     },
+    "zig": {
+      "0.15.2-r0": {
+        "pkgdesc": "A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software",
+        "upstream_author": "ziglang",
+        "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://ziglang.org",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      }
+    },
+    "zig-doc": {
+      "0.15.2-r0": {
+        "pkgdesc": "A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software",
+        "upstream_author": "ziglang",
+        "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://ziglang.org",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      }
+    },
     "vnsee-qtfb-rm1": {
       "1.1.0-r0": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen (rm1)",
@@ -5597,5 +5686,5 @@
       }
     }
   },
-  "generated": "2026-01-30T19:39:29Z"
+  "generated": "2026-01-30T19:50:14Z"
 }
