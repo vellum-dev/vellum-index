@@ -5604,7 +5604,7 @@
     },
     "zig-doc": {
       "0.15.2-r0": {
-        "pkgdesc": "A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software",
+        "pkgdesc": "Zig documentation (language reference)",
         "upstream_author": "ziglang",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
         "categories": [
@@ -5686,5 +5686,5 @@
       }
     }
   },
-  "generated": "2026-01-30T19:50:14Z"
+  "generated": "2026-01-30T20:19:28Z"
 }
