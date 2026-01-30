@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { useParams, useSearchParams, Link } from 'react-router-dom';
-import { usePackages } from '@/hooks/usePackages';
+import { usePackages, type RepoType } from '@/hooks/usePackages';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import {
@@ -20,11 +20,20 @@ import {
 } from '@/components/ui/breadcrumb';
 import { DeviceBadge } from '@/components/packages/DeviceBadge';
 
-export function PackageDetailPage() {
+export function PackageDetailPage({ repo = 'stable' }: { repo?: RepoType }) {
   const { name } = useParams<{ name: string }>();
   const [searchParams] = useSearchParams();
-  const { packages } = usePackages();
+  const { packages, loading, error } = usePackages(repo);
   const [selectedVersion, setSelectedVersion] = useState<string | null>(null);
+  const basePath = repo === 'testing' ? '/testing' : '';
+
+  if (loading) {
+    return <div className="text-center py-12 text-muted-foreground">Loading...</div>;
+  }
+
+  if (error) {
+    return <div className="text-center py-12 text-destructive">Error: {error}</div>;
+  }
 
   const packageVersions = packages.filter((p) => p.name === name);
   const latest = packageVersions.find((p) => p.version === p.latestVersion);
@@ -36,7 +45,7 @@ export function PackageDetailPage() {
         <p className="text-muted-foreground mb-4">
           The package "{name}" does not exist.
         </p>
-        <Link to="/" className="text-primary hover:underline">
+        <Link to={basePath || '/'} className="text-primary hover:underline">
           Back to packages
         </Link>
       </div>
@@ -55,7 +64,7 @@ export function PackageDetailPage() {
         <BreadcrumbList>
           <BreadcrumbItem>
             <BreadcrumbLink asChild>
-              <Link to={searchParams.size > 0 ? `/?${searchParams}` : '/'}>Packages</Link>
+              <Link to={searchParams.size > 0 ? `${basePath}/?${searchParams}` : (basePath || '/')}>Packages</Link>
             </BreadcrumbLink>
           </BreadcrumbItem>
           <BreadcrumbSeparator />
@@ -100,7 +109,7 @@ export function PackageDetailPage() {
               <dt className="text-sm font-medium text-muted-foreground">Author</dt>
               <dd>
                 <Link
-                  to={`/author/${encodeURIComponent(currentPkg.upstream_author)}`}
+                  to={`${basePath}/author/${encodeURIComponent(currentPkg.upstream_author)}`}
                   className="text-primary hover:underline"
                 >
                   {currentPkg.upstream_author}
@@ -171,7 +180,7 @@ export function PackageDetailPage() {
                       return (
                         <li key={dep}>
                           {depPkg ? (
-                            <Link to={`/package/${dep}`} className="text-primary hover:underline">
+                            <Link to={`${basePath}/package/${dep}`} className="text-primary hover:underline">
                               {dep}
                             </Link>
                           ) : (
@@ -194,7 +203,7 @@ export function PackageDetailPage() {
                       return (
                         <li key={conflict}>
                           {conflictPkg ? (
-                            <Link to={`/package/${conflict}`} className="text-primary hover:underline">
+                            <Link to={`${basePath}/package/${conflict}`} className="text-primary hover:underline">
                               {conflict}
                             </Link>
                           ) : (
@@ -217,7 +226,7 @@ export function PackageDetailPage() {
                       return (
                         <li key={provided}>
                           {providedPkg ? (
-                            <Link to={`/package/${provided}`} className="text-primary hover:underline">
+                            <Link to={`${basePath}/package/${provided}`} className="text-primary hover:underline">
                               {provided}
                             </Link>
                           ) : (

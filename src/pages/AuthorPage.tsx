@@ -1,5 +1,5 @@
 import { useParams, Link } from 'react-router-dom';
-import { usePackages } from '@/hooks/usePackages';
+import { usePackages, type RepoType } from '@/hooks/usePackages';
 import { PackageTable } from '@/components/packages/PackageTable';
 import {
   Breadcrumb,
@@ -10,11 +10,20 @@ import {
   BreadcrumbSeparator,
 } from '@/components/ui/breadcrumb';
 
-export function AuthorPage() {
+export function AuthorPage({ repo = 'stable' }: { repo?: RepoType }) {
   const { authorName } = useParams<{ authorName: string }>();
-  const { packages } = usePackages();
+  const { packages, loading, error } = usePackages(repo);
 
   const decodedAuthor = decodeURIComponent(authorName ?? '');
+  const basePath = repo === 'testing' ? '/testing' : '';
+
+  if (loading) {
+    return <div className="text-center py-12 text-muted-foreground">Loading...</div>;
+  }
+
+  if (error) {
+    return <div className="text-center py-12 text-destructive">Error: {error}</div>;
+  }
 
   const authorPackages = packages.filter(
     (pkg) =>
@@ -28,7 +37,7 @@ export function AuthorPage() {
         <BreadcrumbList>
           <BreadcrumbItem>
             <BreadcrumbLink asChild>
-              <Link to="/">Packages</Link>
+              <Link to={basePath || '/'}>Packages</Link>
             </BreadcrumbLink>
           </BreadcrumbItem>
           <BreadcrumbSeparator />
@@ -43,7 +52,7 @@ export function AuthorPage() {
         {authorPackages.length} package{authorPackages.length !== 1 ? 's' : ''}
       </p>
 
-      <PackageTable packages={authorPackages} />
+      <PackageTable packages={authorPackages} basePath={basePath} />
     </div>
   );
 }

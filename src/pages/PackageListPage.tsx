@@ -1,12 +1,13 @@
 import { useMemo } from 'react';
-import { usePackages, compareVersions } from '@/hooks/usePackages';
+import { usePackages, compareVersions, type RepoType } from '@/hooks/usePackages';
 import { useFilters } from '@/hooks/useFilters';
 import { PackageFilters } from '@/components/packages/PackageFilters';
 import { PackageTable } from '@/components/packages/PackageTable';
 import type { FlatPackage } from '@/types/packages';
 
-export function PackageListPage() {
-  const { packages, categories, devices, osVersions, registry } = usePackages();
+export function PackageListPage({ repo = 'stable' }: { repo?: RepoType }) {
+  const { packages, categories, devices, osVersions, registry, loading, error } = usePackages(repo);
+  const basePath = repo === 'testing' ? '/testing' : '';
   const { filters, setFilter, filteredPackages } = useFilters(packages, registry);
 
   const latestPackages = useMemo(() => {
@@ -23,6 +24,14 @@ export function PackageListPage() {
     return Array.from(byName.values());
   }, [filteredPackages]);
 
+  if (loading) {
+    return <div className="text-center py-12 text-muted-foreground">Loading packages...</div>;
+  }
+
+  if (error) {
+    return <div className="text-center py-12 text-destructive">Error: {error}</div>;
+  }
+
   return (
     <div>
       <PackageFilters
@@ -37,7 +46,7 @@ export function PackageListPage() {
         {latestPackages.length} packages found
       </p>
 
-      <PackageTable packages={latestPackages} />
+      <PackageTable packages={latestPackages} basePath={basePath} />
     </div>
   );
 }

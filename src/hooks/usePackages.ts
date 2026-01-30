@@ -1,6 +1,12 @@
-import { useMemo } from 'react';
-import packagesData from '@/data/packages-metadata.json';
+import { useMemo, useState, useEffect } from 'react';
 import type { PackagesMetadata, FlatPackage, PackageVersion } from '@/types/packages';
+
+const METADATA_URLS = {
+  stable: 'https://packages.vellum.delivery/packages-metadata.json',
+  testing: 'https://packages.vellum.delivery/testing/packages-metadata.json',
+} as const;
+
+export type RepoType = keyof typeof METADATA_URLS;
 
 const SUFFIX_WEIGHTS: Record<string, number> = {
   alpha: -4,
@@ -113,10 +119,35 @@ export function compareVersions(a: string, b: string): number {
   return parsedA.revision - parsedB.revision;
 }
 
-export function usePackages() {
-  const data = packagesData as PackagesMetadata;
+export function usePackages(repo: RepoType = 'stable') {
+  const [data, setData] = useState<PackagesMetadata | null>(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+
+  useEffect(() => {
+    setLoading(true);
+    setError(null);
+
+    fetch(METADATA_URLS[repo])
+      .then((res) => {
+        if (!res.ok) throw new Error(`Failed to fetch: ${res.status}`);
+        return res.json();
+      })
+      .then((json) => {
+        setData(json as PackagesMetadata);
+        setLoading(false);
+      })
+      .catch((err) => {
+        setError(err.message);
+        setLoading(false);
+      });
+  }, [repo]);
 
   const { packages, categories, devices, osVersions } = useMemo(() => {
+    if (!data) {
+      return { packages: [], categories: [], devices: [], osVersions: [] };
+    }
+
     const flatPackages: FlatPackage[] = [];
     const categoriesSet = new Set<string>();
     const devicesSet = new Set<string>();
@@ -124,7 +155,6 @@ export function usePackages() {
     const osMaxVersions: number[] = [];
 
     for (const [name, versions] of Object.entries(data.packages)) {
-      // Skip packages where all versions are auto_install (subpackages)
       const nonAutoInstallVersions = Object.entries(versions).filter(
         ([, info]) => !info.auto_install
       );
@@ -151,9 +181,11 @@ export function usePackages() {
       }
     }
 
-    const minOsVersion = Math.min(...osMinVersions);
-    const maxOsVersion = Math.max(...osMaxVersions) - 0.01;
-    const osVersions = generateOsVersionRange(minOsVersion, maxOsVersion).reverse();
+    const minOsVersion = osMinVersions.length > 0 ? Math.min(...osMinVersions) : 0;
+    const maxOsVersion = osMaxVersions.length > 0 ? Math.max(...osMaxVersions) - 0.01 : 0;
+    const osVersions = minOsVersion && maxOsVersion
+      ? generateOsVersionRange(minOsVersion, maxOsVersion).reverse()
+      : [];
 
     return {
       packages: flatPackages,
@@ -163,5 +195,14 @@ export function usePackages() {
     };
   }, [data]);
 
-  return { packages, categories, devices, osVersions, generated: data.generated, registry: data.packages };
+  return {
+    packages,
+    categories,
+    devices,
+    osVersions,
+    generated: data?.generated ?? null,
+    registry: data?.packages ?? {},
+    loading,
+    error,
+  };
 }

@@ -14,12 +14,13 @@ import type { FlatPackage } from '@/types/packages';
 
 interface PackageTableProps {
   packages: FlatPackage[];
+  basePath?: string;
 }
 
 type SortColumn = 'name' | 'upstream_author';
 type SortDirection = 'asc' | 'desc';
 
-export function PackageTable({ packages }: PackageTableProps) {
+export function PackageTable({ packages, basePath = '' }: PackageTableProps) {
   const [searchParams] = useSearchParams();
   const [sortColumn, setSortColumn] = useState<SortColumn>('name');
   const [sortDirection, setSortDirection] = useState<SortDirection>('asc');
@@ -77,7 +78,7 @@ export function PackageTable({ packages }: PackageTableProps) {
           <TableRow key={`${pkg.name}-${pkg.version}`}>
             <TableCell>
               <Link
-                to={`/package/${pkg.name}${searchParams.size > 0 ? `?${searchParams}` : ''}`}
+                to={`${basePath}/package/${pkg.name}${searchParams.size > 0 ? `?${searchParams}` : ''}`}
                 className="font-medium text-primary hover:underline"
               >
                 {pkg.name}
@@ -88,7 +89,7 @@ export function PackageTable({ packages }: PackageTableProps) {
             </TableCell>
             <TableCell>
               <Link
-                to={`/author/${encodeURIComponent(pkg.upstream_author)}`}
+                to={`${basePath}/author/${encodeURIComponent(pkg.upstream_author)}`}
                 className="text-muted-foreground hover:text-foreground hover:underline"
               >
                 {pkg.upstream_author}
