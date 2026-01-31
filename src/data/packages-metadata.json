@@ -125,7 +125,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "1.1.0-r0": {
+      "1.1.0-r1": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -135,7 +135,7 @@
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -187,7 +187,7 @@
       }
     },
     "change-vertical-jump": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Increases scroll distance when scrolling down a page.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -197,7 +197,7 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.18",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -341,6 +341,37 @@
         ],
         "modifies_system": false,
         "auto_install": false
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "Overrides new page creation to use Paper Pro dimensions.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "createpages-rm2"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
       }
     },
     "createpages-rm2": {
@@ -436,6 +467,37 @@
         ],
         "modifies_system": false,
         "auto_install": false
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "Overrides new page creation to use reMarkable 2 dimensions.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "createpages-paperpro"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
       }
     },
     "curl": {
@@ -468,7 +530,7 @@
       }
     },
     "delay-stroke-screen-refresh": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Delays color stroke refresh by 10 seconds of inactivity.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -478,7 +540,7 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.18",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -499,7 +561,7 @@
       }
     },
     "disable-selection-autoscroll": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Disables the auto scrolling when moving a selection added in 3.24.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -509,7 +571,7 @@
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -584,7 +646,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "1.0.2-r0": {
+      "1.0.2-r1": {
         "pkgdesc": "Enables full color selection on rM1 and rM2.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -594,7 +656,7 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2"
@@ -613,7 +675,7 @@
       }
     },
     "enable-extra-pen-on-move": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Adds extra pen slot to toolbar (RMPPM only, requires qt-resource-rebuilder v16+).",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -623,7 +685,7 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.22",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rmppm"
         ],
@@ -852,7 +914,7 @@
       }
     },
     "extend-list-title-width": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Removes extra right margin for titles in list view to fill more of the available space.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -862,7 +924,7 @@
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -1239,7 +1301,7 @@
       }
     },
     "fix-light-indicator-gap": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Removes the gap reserved for the frontlight icon when the light is off on Paper Pro and Paper Pro Move.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -1250,7 +1312,7 @@
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rmpp",
           "rmppm"
@@ -1299,7 +1361,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "Restores the z-index for the pageLabel element so it appears on top of the page slider like in previous versions.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -1310,7 +1372,7 @@
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -2029,7 +2091,7 @@
       }
     },
     "gesture-contrast-toggle": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Four-finger tap to toggle contrast filter between Off and Fullpage in PDF/EPUB documents",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -2039,7 +2101,7 @@
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -2060,7 +2122,7 @@
       }
     },
     "gesture-reset-view": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Three-finger swipe down to reset pan and zoom (returns to 100% zoom, top of page)",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -2070,7 +2132,7 @@
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -2091,7 +2153,7 @@
       }
     },
     "gesture-tap-to-page": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Tap screen edges to navigate pages when toolbar is hidden (right=forward, left=back)",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -2101,7 +2163,7 @@
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -2122,7 +2184,7 @@
       }
     },
     "gesture-toolbar-hide": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Single-finger swipe from toolbar edge to hide the toolbar",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -2132,7 +2194,7 @@
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -2153,7 +2215,7 @@
       }
     },
     "gesture-toolbar-show": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Single-finger swipe from toolbar edge to show the toolbar",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -2163,7 +2225,7 @@
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -2621,7 +2683,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "1.0.2-r1": {
+      "1.0.2-r2": {
         "pkgdesc": "Hides the developer mode icon next to the battery icon.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -2631,7 +2693,7 @@
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rmpp",
           "rmppm"
@@ -2913,7 +2975,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "1.0.4-r0": {
+      "1.0.4-r1": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -2923,7 +2985,7 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -3178,7 +3240,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "1.0.3-r0": {
+      "1.0.3-r1": {
         "pkgdesc": "Auto-hides zoom indicator after 4 seconds",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -3188,7 +3250,7 @@
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -3444,6 +3506,35 @@
         ],
         "modifies_system": false,
         "auto_install": false
+      },
+      "1.0.4-r0": {
+        "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
       }
     },
     "mount-utils": {
@@ -3534,7 +3625,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "1.0.2-r0": {
+      "1.0.2-r1": {
         "pkgdesc": "Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -3544,7 +3635,7 @@
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -3742,10 +3833,39 @@
         ],
         "modifies_system": false,
         "auto_install": false
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Adds a clock to the quick settings menu in serif font",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
       }
     },
     "quicksettings-screenshot": {
-      "1.0.2-r1": {
+      "1.0.2-r2": {
         "pkgdesc": "Adds a screenshot button to the quick settings menu.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -3755,7 +3875,7 @@
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -5029,7 +5149,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "1.0.2-r0": {
+      "1.0.2-r1": {
         "pkgdesc": "Bypasses subscription check for using on-device Methods templates and documents.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -5039,7 +5159,7 @@
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -5713,5 +5833,5 @@
       }
     }
   },
-  "generated": "2026-01-30T21:07:39Z"
+  "generated": "2026-01-31T02:48:40Z"
 }
