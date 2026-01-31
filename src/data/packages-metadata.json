@@ -5399,6 +5399,37 @@
         "auto_install": false
       }
     },
+    "vellum-hosts": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds packages.vellum.delivery IP addresses to /etc/hosts",
+        "upstream_author": "vellum-dev",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/vellum-dev/vellum",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "mount-utils"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": true,
+        "auto_install": false
+      }
+    },
     "vnsee-qtfb": {
       "1.1.0-r0": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen",
@@ -5833,5 +5864,5 @@
       }
     }
   },
-  "generated": "2026-01-31T13:04:59Z"
+  "generated": "2026-01-31T14:14:39Z"
 }
