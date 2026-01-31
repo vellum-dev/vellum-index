@@ -1237,7 +1237,7 @@
       }
     },
     "fix-battery-indicator": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Fixes battery icon not updating after charging while device is asleep",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -1248,7 +1248,7 @@
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -5833,5 +5833,5 @@
       }
     }
   },
-  "generated": "2026-01-31T02:57:42Z"
+  "generated": "2026-01-31T13:04:59Z"
 }
