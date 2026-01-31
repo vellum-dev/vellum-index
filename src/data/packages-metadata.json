@@ -3331,7 +3331,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "0.1.6-r0": {
+      "0.1.6-r1": {
         "pkgdesc": "Terminal emulator for reMarkable Paper Pro using QtQuick",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -3341,7 +3341,7 @@
         "license": "GPL-2.0",
         "url": "https://github.com/asivery/rm-literm",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -5833,5 +5833,5 @@
       }
     }
   },
-  "generated": "2026-01-31T02:48:40Z"
+  "generated": "2026-01-31T02:57:42Z"
 }
