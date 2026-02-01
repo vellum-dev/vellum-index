@@ -29,6 +29,35 @@
         ],
         "modifies_system": false,
         "auto_install": false
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Adds a Finished button when selecting documents, moving them to the first subfolder in the current folder",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
       }
     },
     "appload": {
@@ -1235,8 +1264,8 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "1.0.1-r1": {
-        "pkgdesc": "Changes 5-level light slider to 4-level (RMPP/RMPPM only).",
+      "1.0.1-r2": {
+        "pkgdesc": "Changes 5-level light slider to 4-level.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
@@ -1245,7 +1274,7 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.23",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rmpp",
           "rmppm"
@@ -1253,7 +1282,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "more-light-settings"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -1296,7 +1327,7 @@
       }
     },
     "fix-custom-fit": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Makes Custom Fit zoom consistent across devices and orientations, ensuring the same document area is shown everywhere.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -1307,7 +1338,7 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -1763,7 +1794,7 @@
       }
     },
     "force-koreader-landscape": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Keeps the KOReader appload app in the same aspect ratio as the screen",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -1773,7 +1804,7 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.24",
-        "os_max": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -2883,6 +2914,35 @@
         ],
         "modifies_system": false,
         "auto_install": false
+      },
+      "1.0.5-r0": {
+        "pkgdesc": "Hides close button, use slide-down from top instead.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
       }
     },
     "hide-page-labels-fullscreen": {
@@ -3160,6 +3220,35 @@
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.24",
         "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      },
+      "1.0.5-r0": {
+        "pkgdesc": "Hides the show toolbar button.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -3993,6 +4082,35 @@
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.24",
         "os_max": "3.25",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
         "devices": [
           "rm1",
           "rm2",
@@ -5891,5 +6009,5 @@
       }
     }
   },
-  "generated": "2026-02-01T15:22:53Z"
+  "generated": "2026-02-01T19:22:48Z"
 }
