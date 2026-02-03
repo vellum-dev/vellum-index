@@ -3397,6 +3397,35 @@
         "auto_install": false
       }
     },
+    "hyfetch": {
+      "2.0.5_git6-r0": {
+        "pkgdesc": "Neofetch with LGBTQ+ pride flags!",
+        "upstream_author": "hykilpikonna",
+        "maintainer": "notfrants <notfrants@proton.me>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/hykilpikonna/hyfetch",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      }
+    },
     "koreader": {
       "2025.10-r0": {
         "pkgdesc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.",
@@ -6052,5 +6081,5 @@
       }
     }
   },
-  "generated": "2026-02-03T20:19:59Z"
+  "generated": "2026-02-03T20:22:58Z"
 }
