@@ -3517,6 +3517,35 @@
         "auto_install": false
       }
     },
+    "lsd": {
+      "1.2.0-r0": {
+        "pkgdesc": "The next gen ls command",
+        "upstream_author": "lsd-rs",
+        "maintainer": "notfrants <notfrants@proton.me>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "Apache-2.0",
+        "url": "https://github.com/lsd-rs/lsd",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      }
+    },
     "micro": {
       "2.0.14-r0": {
         "pkgdesc": "Modern and intuitive terminal-based text editor",
@@ -6081,5 +6110,5 @@
       }
     }
   },
-  "generated": "2026-02-03T20:22:58Z"
+  "generated": "2026-02-03T20:27:58Z"
 }
