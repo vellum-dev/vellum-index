@@ -2118,7 +2118,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "1.0.8-r0": {
+      "1.0.8-r1": {
         "pkgdesc": "Accessibility menu for colour preferences.",
         "upstream_author": "FouzR",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -2136,7 +2136,8 @@
           "rmppm"
         ],
         "depends": [
-          "qt-resource-rebuilder"
+          "qt-resource-rebuilder",
+          "gestures-fouzr"
         ],
         "conflicts": [],
         "provides": [],
@@ -2507,7 +2508,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "1.0.7-r0": {
+      "1.0.7-r1": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
         "upstream_author": "FouzR",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -2527,7 +2528,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "gestures-ingatellent"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -2558,7 +2561,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "gestures-fouzr"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -2587,7 +2592,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "gestures-fouzr"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -2616,7 +2623,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "gestures-fouzr"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -2645,7 +2654,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "gestures-fouzr"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -6009,5 +6020,5 @@
       }
     }
   },
-  "generated": "2026-02-03T17:38:34Z"
+  "generated": "2026-02-03T19:57:28Z"
 }
