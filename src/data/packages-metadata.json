@@ -4949,6 +4949,38 @@
         "auto_install": false
       }
     },
+    "tilem": {
+      "0.1.3_git6-r0": {
+        "pkgdesc": "A TI-84+ calculator emulator for the remarkable.",
+        "upstream_author": "timower",
+        "maintainer": "notfrants <notfrants@proton.me>",
+        "categories": [
+          "apps"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/timower/rM2-stuff",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "appload",
+          "curl"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      }
+    },
     "toolbar-icon": {
       "1.0.0-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -6020,5 +6052,5 @@
       }
     }
   },
-  "generated": "2026-02-03T19:57:28Z"
+  "generated": "2026-02-03T20:19:59Z"
 }
