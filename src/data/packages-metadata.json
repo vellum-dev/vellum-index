@@ -3455,6 +3455,35 @@
         "auto_install": false
       }
     },
+    "jq": {
+      "1.8.1-r0": {
+        "pkgdesc": "Command-line JSON processor",
+        "upstream_author": "jqlang",
+        "maintainer": "notfrants <notfrants@proton.me>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://jqlang.org/",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      }
+    },
     "koreader": {
       "2025.10-r0": {
         "pkgdesc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.",
@@ -6197,5 +6226,5 @@
       }
     }
   },
-  "generated": "2026-02-04T18:17:37Z"
+  "generated": "2026-02-04T18:49:31Z"
 }
