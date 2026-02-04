@@ -5764,7 +5764,7 @@
       }
     },
     "vnsee-qtfb": {
-      "1.1.0-r1": {
+      "1.1.0-r2": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen",
         "upstream_author": "khyryra",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
@@ -5781,7 +5781,9 @@
           "rmpp",
           "rmppm"
         ],
-        "depends": [],
+        "depends": [
+          "appload"
+        ],
         "conflicts": [],
         "provides": [],
         "arch": [
@@ -6226,5 +6228,5 @@
       }
     }
   },
-  "generated": "2026-02-04T21:40:36Z"
+  "generated": "2026-02-04T23:12:36Z"
 }
