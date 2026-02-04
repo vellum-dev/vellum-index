@@ -61,7 +61,7 @@
       }
     },
     "appload": {
-      "0.4.1-r0": {
+      "0.4.1-r1": {
         "pkgdesc": "Xovi extension for windowed and fullscreen apps on reMarkable tablets",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -1860,7 +1860,7 @@
       }
     },
     "framebuffer-spy": {
-      "16.0.0-r1": {
+      "16.0.0-r2": {
         "pkgdesc": "Module for exposing the address of the system framebuffer",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -3485,7 +3485,7 @@
       }
     },
     "koreader": {
-      "2025.10-r0": {
+      "2025.10-r1": {
         "pkgdesc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.",
         "upstream_author": "koreader",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -3899,7 +3899,7 @@
       }
     },
     "qt-command-executor": {
-      "16.0.0-r1": {
+      "16.0.0-r2": {
         "pkgdesc": "Injects a QT module to execute shell commands from QML",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -3928,7 +3928,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "17.0.0-r3": {
+      "17.0.0-r4": {
         "pkgdesc": "Injects a QT module to execute shell commands from QML",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -3959,7 +3959,7 @@
       }
     },
     "qt-resource-rebuilder": {
-      "16.0.0-r1": {
+      "16.0.0-r2": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -3988,7 +3988,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "17.0.0-r3": {
+      "17.0.0-r4": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -4465,7 +4465,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Interactive CLI tool for switching between installed reMarkable OS versions",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -4707,7 +4707,7 @@
       }
     },
     "rmstream": {
-      "0.1.1-r0": {
+      "0.1.1-r1": {
         "pkgdesc": "Stream your reMarkable's screen to any device on the local network via HTTP",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -4766,7 +4766,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "Display reMarkable document hierarchy in tree format",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -5764,7 +5764,7 @@
       }
     },
     "vnsee-qtfb": {
-      "1.1.0-r0": {
+      "1.1.0-r1": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen",
         "upstream_author": "khyryra",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
@@ -5793,7 +5793,7 @@
       }
     },
     "vnsee-qtfb-rmpp": {
-      "1.1.0-r0": {
+      "1.1.0-r1": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen (rmpp)",
         "upstream_author": "khyryra",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
@@ -5820,7 +5820,7 @@
       }
     },
     "vnsee-qtfb-rmppm": {
-      "1.1.0-r0": {
+      "1.1.0-r1": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen (rmppm)",
         "upstream_author": "khyryra",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
@@ -5847,7 +5847,7 @@
       }
     },
     "webserver-remote": {
-      "16.0.0-r1": {
+      "16.0.0-r2": {
         "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -5877,7 +5877,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "17.0.0-r3": {
+      "17.0.0-r4": {
         "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -5965,7 +5965,7 @@
       }
     },
     "xovi-extensions": {
-      "16.0.0-r1": {
+      "16.0.0-r2": {
         "pkgdesc": "Extensions for xovi framework",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -5994,7 +5994,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "17.0.0-r3": {
+      "17.0.0-r4": {
         "pkgdesc": "Extensions for xovi framework",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -6025,7 +6025,7 @@
       }
     },
     "xovi-message-broker": {
-      "16.0.0-r1": {
+      "16.0.0-r2": {
         "pkgdesc": "IPC messaging between xovi extensions",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -6054,7 +6054,7 @@
         "modifies_system": false,
         "auto_install": false
       },
-      "17.0.0-r3": {
+      "17.0.0-r4": {
         "pkgdesc": "IPC messaging between xovi extensions",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -6172,7 +6172,7 @@
       }
     },
     "vnsee-qtfb-rm1": {
-      "1.1.0-r0": {
+      "1.1.0-r1": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen (rm1)",
         "upstream_author": "khyryra",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
@@ -6199,7 +6199,7 @@
       }
     },
     "vnsee-qtfb-rm2": {
-      "1.1.0-r0": {
+      "1.1.0-r1": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen (rm2)",
         "upstream_author": "khyryra",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
@@ -6226,5 +6226,5 @@
       }
     }
   },
-  "generated": "2026-02-04T20:55:23Z"
+  "generated": "2026-02-04T21:40:36Z"
 }
