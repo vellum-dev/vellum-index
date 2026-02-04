@@ -187,7 +187,7 @@
       }
     },
     "btop": {
-      "1.4.6-r0": {
+      "1.4.6-r1": {
         "pkgdesc": "A monitor of resources",
         "upstream_author": "aristocratos",
         "maintainer": "notfrants <notfrants@proton.me>",
@@ -530,7 +530,7 @@
       }
     },
     "curl": {
-      "8.11.0-r0": {
+      "8.11.0-r1": {
         "pkgdesc": "URL retrival utility and library",
         "upstream_author": "curl",
         "maintainer": "notfrants <notfrants@proton.me>",
@@ -1002,6 +1002,33 @@
         "auto_install": false
       },
       "2.58.0_git11-r0": {
+        "pkgdesc": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+        "upstream_author": "fastfetch-cli",
+        "maintainer": "notfrants <notfrants@proton.me>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/fastfetch-cli/fastfetch",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      },
+      "2.58.0_git11-r1": {
         "pkgdesc": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
         "upstream_author": "fastfetch-cli",
         "maintainer": "notfrants <notfrants@proton.me>",
@@ -3424,6 +3451,33 @@
         ],
         "modifies_system": false,
         "auto_install": false
+      },
+      "2.0.5_git6-r1": {
+        "pkgdesc": "Neofetch with LGBTQ+ pride flags!",
+        "upstream_author": "hykilpikonna",
+        "maintainer": "notfrants <notfrants@proton.me>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/hykilpikonna/hyfetch",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
       }
     },
     "koreader": {
@@ -3518,7 +3572,7 @@
       }
     },
     "lsd": {
-      "1.2.0-r0": {
+      "1.2.0-r1": {
         "pkgdesc": "The next gen ls command",
         "upstream_author": "lsd-rs",
         "maintainer": "notfrants <notfrants@proton.me>",
@@ -5037,6 +5091,36 @@
         ],
         "modifies_system": false,
         "auto_install": false
+      },
+      "0.1.3_git6-r1": {
+        "pkgdesc": "A TI-84+ calculator emulator for the remarkable.",
+        "upstream_author": "timower",
+        "maintainer": "notfrants <notfrants@proton.me>",
+        "categories": [
+          "apps"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/timower/rM2-stuff",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "appload",
+          "curl"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
       }
     },
     "toolbar-icon": {
@@ -6056,7 +6140,7 @@
       }
     },
     "zoxide": {
-      "0.9.9-r0": {
+      "0.9.9-r1": {
         "pkgdesc": "A smarter cd command.",
         "upstream_author": "ajeetdsouza",
         "maintainer": "notfrants <notfrants@proton.me>",
@@ -6139,5 +6223,5 @@
       }
     }
   },
-  "generated": "2026-02-03T20:48:34Z"
+  "generated": "2026-02-04T15:06:08Z"
 }
