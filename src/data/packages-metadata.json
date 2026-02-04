@@ -1818,6 +1818,37 @@
         ],
         "modifies_system": false,
         "auto_install": false
+      },
+      "1.0.9-r0": {
+        "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "rmhacks"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
       }
     },
     "force-koreader-landscape": {
@@ -6248,5 +6279,5 @@
       }
     }
   },
-  "generated": "2026-02-04T15:31:01Z"
+  "generated": "2026-02-04T16:13:19Z"
 }
