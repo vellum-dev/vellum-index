@@ -5064,6 +5064,36 @@
         "auto_install": false
       }
     },
+    "stylus-button-erase": {
+      "1.0.0-r0": {
+        "pkgdesc": "Erases when stylus side button is held.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
+        "devices": [
+          "rm1",
+          "rm2"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "rm-stylus"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      }
+    },
     "tag-button": {
       "1.0.0-r0": {
         "pkgdesc": "Puts a Tag action next to other list controls to open the tag editor directly.",
@@ -6288,5 +6318,5 @@
       }
     }
   },
-  "generated": "2026-02-05T04:11:26Z"
+  "generated": "2026-02-05T05:15:06Z"
 }
