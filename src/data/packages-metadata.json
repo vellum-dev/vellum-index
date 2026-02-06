@@ -2720,6 +2720,31 @@
         ],
         "modifies_system": false,
         "auto_install": false
+      },
+      "0.50.0-r0": {
+        "pkgdesc": "Stream your reMarkable screen to a web browser",
+        "upstream_author": "owulveryck",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/owulveryck/goMarkableStream",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm2",
+          "rmpp"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
       }
     },
     "hide-dev-mode-icon": {
@@ -6348,5 +6373,5 @@
       }
     }
   },
-  "generated": "2026-02-05T05:31:54Z"
+  "generated": "2026-02-06T15:22:49Z"
 }
