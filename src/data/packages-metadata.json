@@ -5107,6 +5107,40 @@
         "auto_install": false
       }
     },
+    "rubber-eraser-rm1": {
+      "1.0.0-r0": {
+        "pkgdesc": "Make the rubber eraser on a pen work as eraser on rM1.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "rm-stylus>=0.3.0"
+        ],
+        "conflicts": [
+          "shortcuts-to-choose-eraser"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      }
+    },
     "scroll-screen-up-or-down": {
       "1.0.0-r0": {
         "pkgdesc": "Screen scrolling with page change at boundaries. Prerequisite for tap and arrow key navigation.",
@@ -5400,6 +5434,7 @@
           "rm-stylus=0.2.0"
         ],
         "conflicts": [
+          "rubber-eraser-rm1",
           "stylus-button-erase",
           "stylus-button-eraser",
           "stylus-button-undo-redo"
@@ -6862,5 +6897,5 @@
       }
     }
   },
-  "generated": "2026-02-09T21:46:54Z"
+  "generated": "2026-02-09T21:58:44Z"
 }
