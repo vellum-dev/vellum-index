@@ -215,6 +215,41 @@
         "auto_install": false
       }
     },
+    "button-press-for-pen-change": {
+      "1.0.0-r0": {
+        "pkgdesc": "Hold stylus button to select-erase, click once to change to selection, click twice to change pen.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "rm-stylus>=0.3.0"
+        ],
+        "conflicts": [
+          "shorcuts-to-choose-eraser",
+          "stylus-button-undo-redo"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      }
+    },
     "change-vertical-jump": {
       "1.0.0-r1": {
         "pkgdesc": "Increases scroll distance when scrolling down a page.",
@@ -4489,6 +4524,89 @@
         "auto_install": false
       }
     },
+    "rm-stylus": {
+      "0.3.0-r0": {
+        "pkgdesc": "Xovi extension that adds support for LAMY button",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/rm-stylus",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      },
+      "0.1.0-r0": {
+        "pkgdesc": "Xovi extension that adds support for LAMY button",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/rm-stylus",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      },
+      "0.2.0-r0": {
+        "pkgdesc": "Xovi extension that adds support for LAMY button",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/rm-stylus",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      }
+    },
     "rm-version-switcher": {
       "0.4.0-r0": {
         "pkgdesc": "Interactive CLI tool for switching between installed reMarkable OS versions",
@@ -5086,7 +5204,7 @@
       }
     },
     "shortcuts-to-choose-eraser": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Use stylus side button for erase selection and rubber eraser as regular eraser.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -5105,10 +5223,12 @@
         ],
         "depends": [
           "qt-resource-rebuilder",
-          "rm-stylus"
+          "rm-stylus=0.2.0"
         ],
         "conflicts": [
-          "stylus-button-erase"
+          "stylus-button-erase",
+          "stylus-button-eraser",
+          "stylus-button-undo-redo"
         ],
         "provides": [],
         "arch": [
@@ -5153,10 +5273,10 @@
     "stylus-button-erase": {
       "1.0.0-r1": {
         "pkgdesc": "Erases when stylus side button is held.",
-        "upstream_author": "rmitchellscott",
+        "upstream_author": "unknown",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
-          "ui"
+          "other"
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
@@ -5171,6 +5291,75 @@
           "rm-stylus"
         ],
         "conflicts": [
+          "shortcuts-to-choose-eraser"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      }
+    },
+    "stylus-button-eraser": {
+      "2.0.0-r1": {
+        "pkgdesc": "Erases when stylus side button is held.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "rm-stylus>=0.3.0"
+        ],
+        "conflicts": [
+          "shortcuts-to-choose-eraser"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      }
+    },
+    "stylus-button-undo-redo": {
+      "1.0.0-r0": {
+        "pkgdesc": "Double-click stylus button to undo, triple-click to redo.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "rm-stylus>=0.3.0"
+        ],
+        "conflicts": [
+          "button-press-for-pen-change",
           "shortcuts-to-choose-eraser"
         ],
         "provides": [],
@@ -6323,60 +6512,6 @@
         "auto_install": false
       }
     },
-    "rm-stylus": {
-      "0.1.0-r0": {
-        "pkgdesc": "Xovi extension that adds support for LAMY button",
-        "upstream_author": "rmitchellscott",
-        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
-        "categories": [
-          "utilities"
-        ],
-        "license": "MIT",
-        "url": "https://github.com/rmitchellscott/rm-stylus",
-        "os_min": null,
-        "os_max": null,
-        "devices": [
-          "rm1",
-          "rm2"
-        ],
-        "depends": [
-          "xovi"
-        ],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "armv7"
-        ],
-        "modifies_system": false,
-        "auto_install": false
-      },
-      "0.2.0-r0": {
-        "pkgdesc": "Xovi extension that adds support for LAMY button",
-        "upstream_author": "rmitchellscott",
-        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
-        "categories": [
-          "utilities"
-        ],
-        "license": "MIT",
-        "url": "https://github.com/rmitchellscott/rm-stylus",
-        "os_min": null,
-        "os_max": null,
-        "devices": [
-          "rm1",
-          "rm2"
-        ],
-        "depends": [
-          "xovi"
-        ],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "armv7"
-        ],
-        "modifies_system": false,
-        "auto_install": false
-      }
-    },
     "vnsee-qtfb-rm1": {
       "1.1.0-r1": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen (rm1)",
@@ -6432,5 +6567,5 @@
       }
     }
   },
-  "generated": "2026-02-09T14:17:59Z"
+  "generated": "2026-02-09T18:27:50Z"
 }
