@@ -5053,6 +5053,38 @@
         "auto_install": false
       }
     },
+    "settings-rmsync-restart": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds a button to the cloud settings page to restart sync service.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.22.4.2",
+        "os_max": "3.26",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder>=17",
+          "qt-command-executor"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      }
+    },
     "shortcuts-to-choose-eraser": {
       "1.0.0-r0": {
         "pkgdesc": "Use stylus side button for erase selection and rubber eraser as regular eraser.",
@@ -6400,5 +6432,5 @@
       }
     }
   },
-  "generated": "2026-02-06T15:35:16Z"
+  "generated": "2026-02-09T14:17:59Z"
 }
