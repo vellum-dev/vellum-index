@@ -1263,7 +1263,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "more-light-settings"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -1293,6 +1295,37 @@
         "conflicts": [
           "more-light-settings"
         ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      }
+    },
+    "fix-appload-rotation": {
+      "1.0.0-r0": {
+        "pkgdesc": "Fixes rotation issues with the appload app.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "fixes"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "appload"
+        ],
+        "conflicts": [],
         "provides": [],
         "arch": [
           "aarch64",
@@ -3831,6 +3864,36 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false
+      }
+    },
+    "more-light-settings": {
+      "1.0.0-r0": {
+        "pkgdesc": "Provides additional light intensity settings beyond the default options.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
+        "devices": [
+          "rmpp"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "fewer-light-steps"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -6567,5 +6630,5 @@
       }
     }
   },
-  "generated": "2026-02-09T18:27:50Z"
+  "generated": "2026-02-09T20:03:36Z"
 }
