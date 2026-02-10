@@ -187,7 +187,7 @@
       }
     },
     "btop": {
-      "1.4.6-r1": {
+      "1.4.6-r2": {
         "pkgdesc": "A monitor of resources",
         "upstream_author": "aristocratos",
         "maintainer": "notfrants <notfrants@proton.me>",
@@ -6839,5 +6839,5 @@
       }
     }
   },
-  "generated": "2026-02-10T15:06:46Z"
+  "generated": "2026-02-10T17:38:11Z"
 }
