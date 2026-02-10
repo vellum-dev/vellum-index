@@ -28,7 +28,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds a Finished button when selecting documents, moving them to the first subfolder in the current folder",
@@ -57,7 +58,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       }
     },
     "appload": {
@@ -88,7 +90,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       }
     },
     "bettertoc": {
@@ -121,7 +124,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
@@ -152,7 +156,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       },
       "1.1.0-r1": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
@@ -183,7 +188,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       }
     },
     "btop": {
@@ -212,7 +218,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       }
     },
     "button-press-for-pen-change": {
@@ -247,7 +254,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       }
     },
     "change-vertical-jump": {
@@ -278,7 +286,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       }
     },
     "convert-to-text-remover": {
@@ -309,7 +318,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       }
     },
     "createpages-paperpro": {
@@ -342,7 +352,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Overrides new page creation to use Paper Pro dimensions.",
@@ -373,7 +384,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Overrides new page creation to use Paper Pro dimensions.",
@@ -404,7 +416,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Overrides new page creation to use Paper Pro dimensions.",
@@ -435,7 +448,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       }
     },
     "createpages-rm2": {
@@ -468,7 +482,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Overrides new page creation to use reMarkable 2 dimensions.",
@@ -499,7 +514,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Overrides new page creation to use reMarkable 2 dimensions.",
@@ -530,7 +546,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Overrides new page creation to use reMarkable 2 dimensions.",
@@ -561,7 +578,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       }
     },
     "curl": {
@@ -590,7 +608,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       }
     },
     "delay-stroke-screen-refresh": {
@@ -621,7 +640,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       }
     },
     "disable-selection-autoscroll": {
@@ -652,7 +672,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       }
     },
     "enable-all-colors": {
@@ -681,7 +702,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Enables full color selection on rM1 and rM2.",
@@ -708,7 +730,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       },
       "1.0.2-r1": {
         "pkgdesc": "Enables full color selection on rM1 and rM2.",
@@ -735,7 +758,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       }
     },
     "enable-extra-pen-on-move": {
@@ -763,7 +787,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       }
     },
     "enable-shortcuts": {
@@ -794,7 +819,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:05Z"
       },
       "1.0.1-r1": {
         "pkgdesc": "Enables keyboard shortcuts for arrow key page and scroll navigation.",
@@ -823,7 +849,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       }
     },
     "enable-shortcuts-scroll-page": {
@@ -854,7 +881,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Advanced shortcuts with scroll or page change (requires gestureTapToPage).",
@@ -883,7 +911,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Advanced shortcuts with scroll or page change (requires gestureTapToPage).",
@@ -912,7 +941,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       }
     },
     "entware": {
@@ -943,7 +973,8 @@
           "armv7"
         ],
         "modifies_system": true,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       }
     },
     "entware-rc": {
@@ -974,7 +1005,8 @@
           "armv7"
         ],
         "modifies_system": true,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       }
     },
     "extend-list-title-width": {
@@ -1005,7 +1037,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       }
     },
     "fastfetch": {
@@ -1034,7 +1067,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       }
     },
     "fav-tag-button": {
@@ -1065,7 +1099,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -1094,7 +1129,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -1123,7 +1159,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -1152,7 +1189,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -1181,7 +1219,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       },
       "1.0.5-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -1210,7 +1249,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       }
     },
     "favorite-button": {
@@ -1241,7 +1281,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       }
     },
     "fewer-light-steps": {
@@ -1272,7 +1313,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       },
       "1.0.1-r2": {
         "pkgdesc": "Changes 5-level light slider to 4-level.",
@@ -1301,7 +1343,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       }
     },
     "fix-appload-rotation": {
@@ -1332,7 +1375,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       }
     },
     "fix-battery-indicator": {
@@ -1364,7 +1408,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       }
     },
     "fix-custom-fit": {
@@ -1396,7 +1441,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       }
     },
     "fix-light-indicator-gap": {
@@ -1426,7 +1472,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       }
     },
     "fix-page-number-on-slider": {
@@ -1458,7 +1505,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       },
       "1.0.1-r1": {
         "pkgdesc": "Restores the z-index for the pageLabel element so it appears on top of the page slider like in previous versions.",
@@ -1488,7 +1536,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       }
     },
     "fix-quick-settings-temp-separator": {
@@ -1520,7 +1569,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Removes the duplicate horizontal separator in quick settings when high temp warnings are present on Paper Pro family devices.",
@@ -1550,7 +1600,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       }
     },
     "floating-toolbar": {
@@ -1583,7 +1634,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -1614,7 +1666,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:06Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -1645,7 +1698,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -1676,7 +1730,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -1707,7 +1762,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.5-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -1738,7 +1794,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.6-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -1769,7 +1826,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.7-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -1800,7 +1858,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.8-r1": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -1831,7 +1890,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.9-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -1862,7 +1922,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       }
     },
     "force-koreader-landscape": {
@@ -1893,7 +1954,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       }
     },
     "force-sync": {
@@ -1924,7 +1986,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       }
     },
     "four-finger-change-filter": {
@@ -1957,7 +2020,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       }
     },
     "framebuffer-spy": {
@@ -1987,7 +2051,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       }
     },
     "gesture-colour-settings": {
@@ -2018,7 +2083,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -2047,7 +2113,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -2076,7 +2143,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -2105,7 +2173,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -2134,7 +2203,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.5-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -2163,7 +2233,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.6-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -2192,7 +2263,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.7-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -2221,7 +2293,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.8-r1": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -2251,7 +2324,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       }
     },
     "gesture-contrast-toggle": {
@@ -2282,7 +2356,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       }
     },
     "gesture-reset-view": {
@@ -2313,7 +2388,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       }
     },
     "gesture-tap-to-page": {
@@ -2344,7 +2420,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       }
     },
     "gesture-toolbar-hide": {
@@ -2375,7 +2452,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       }
     },
     "gesture-toolbar-show": {
@@ -2406,7 +2484,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       }
     },
     "gestures-fouzr": {
@@ -2439,7 +2518,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -2470,7 +2550,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:07Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -2501,7 +2582,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -2532,7 +2614,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -2563,7 +2646,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.5-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -2594,7 +2678,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.6-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -2625,7 +2710,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.7-r1": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -2657,7 +2743,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       }
     },
     "gestures-ingatellent": {
@@ -2690,7 +2777,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
@@ -2721,7 +2809,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
@@ -2752,7 +2841,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
@@ -2783,7 +2873,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       }
     },
     "gomarkablestream": {
@@ -2810,7 +2901,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "0.30.1-r0": {
         "pkgdesc": "Stream your reMarkable screen to a web browser",
@@ -2835,7 +2927,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "0.50.0-r0": {
         "pkgdesc": "Stream your reMarkable screen to a web browser",
@@ -2860,7 +2953,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       }
     },
     "hide-dev-mode-icon": {
@@ -2891,7 +2985,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Hides the developer mode icon next to the battery icon.",
@@ -2920,7 +3015,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.2-r2": {
         "pkgdesc": "Hides the developer mode icon next to the battery icon.",
@@ -2947,7 +3043,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       }
     },
     "hide-document-close": {
@@ -2978,7 +3075,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -3007,7 +3105,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -3036,7 +3135,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -3065,7 +3165,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -3094,7 +3195,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.5-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -3123,7 +3225,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       }
     },
     "hide-page-labels-fullscreen": {
@@ -3154,7 +3257,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -3183,7 +3287,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -3212,7 +3317,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -3241,7 +3347,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:08Z"
       },
       "1.0.4-r1": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -3270,7 +3377,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       }
     },
     "hide-show-toolbar": {
@@ -3301,7 +3409,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
@@ -3330,7 +3439,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
@@ -3359,7 +3469,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
@@ -3388,7 +3499,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
@@ -3417,7 +3529,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       },
       "1.0.5-r0": {
         "pkgdesc": "Hides the show toolbar button.",
@@ -3446,7 +3559,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       }
     },
     "hide-zoom-indicator": {
@@ -3477,7 +3591,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Auto-hides zoom indicator after 4 seconds",
@@ -3506,7 +3621,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Auto-hides zoom indicator after 4 seconds",
@@ -3535,7 +3651,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       },
       "1.0.3-r1": {
         "pkgdesc": "Auto-hides zoom indicator after 4 seconds",
@@ -3564,7 +3681,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       }
     },
     "hyfetch": {
@@ -3593,7 +3711,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       }
     },
     "jq": {
@@ -3622,7 +3741,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       }
     },
     "koreader": {
@@ -3653,7 +3773,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       }
     },
     "literm": {
@@ -3684,7 +3805,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       },
       "0.1.6-r1": {
         "pkgdesc": "Terminal emulator for reMarkable Paper Pro using QtQuick",
@@ -3713,7 +3835,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       }
     },
     "micro": {
@@ -3742,7 +3865,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       }
     },
     "mini-light-sleep": {
@@ -3773,7 +3897,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
@@ -3802,7 +3927,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
@@ -3831,7 +3957,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
@@ -3860,7 +3987,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
@@ -3889,7 +4017,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       }
     },
     "more-light-settings": {
@@ -3919,7 +4048,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       }
     },
     "mount-utils": {
@@ -3948,7 +4078,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       }
     },
     "navigate-using-arrow-keys": {
@@ -3980,7 +4111,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:09Z"
       }
     },
     "prevent-notebook-zoomout": {
@@ -4011,7 +4143,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode",
@@ -4040,7 +4173,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       },
       "1.0.2-r1": {
         "pkgdesc": "Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode",
@@ -4069,7 +4203,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       }
     },
     "qt-command-executor": {
@@ -4100,7 +4235,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       },
       "17.0.0-r4": {
         "pkgdesc": "Injects a QT module to execute shell commands from QML",
@@ -4129,7 +4265,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       }
     },
     "qt-resource-rebuilder": {
@@ -4160,7 +4297,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       },
       "17.0.0-r4": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
@@ -4189,7 +4327,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       }
     },
     "quicksettings-clock-serif": {
@@ -4220,7 +4359,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds a clock to the quick settings menu in serif font",
@@ -4249,7 +4389,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds a clock to the quick settings menu in serif font",
@@ -4278,7 +4419,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       }
     },
     "quicksettings-screenshot": {
@@ -4310,7 +4452,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       }
     },
     "random-sleep-screen": {
@@ -4341,7 +4484,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -4370,7 +4514,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -4399,7 +4544,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -4428,7 +4574,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       }
     },
     "recents-tagged": {
@@ -4459,7 +4606,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds a new menu to the document drawer that shows only tagged files, sorted by last modified.",
@@ -4488,7 +4636,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds a new menu to the document drawer that shows only tagged files, sorted by last modified.",
@@ -4517,7 +4666,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       }
     },
     "rm-pokemon": {
@@ -4546,7 +4696,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       },
       "0.2.0-r0": {
         "pkgdesc": "Display the Pokemon sprite matching your reMarkable firmware codename",
@@ -4573,7 +4724,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       }
     },
     "rm-shot": {
@@ -4605,7 +4757,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Screenshot extension for xovi framework",
@@ -4635,7 +4788,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       }
     },
     "rm-stylus": {
@@ -4666,7 +4820,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       },
       "0.1.0-r0": {
         "pkgdesc": "Xovi extension that adds support for LAMY button",
@@ -4692,7 +4847,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:20Z"
       },
       "0.2.0-r0": {
         "pkgdesc": "Xovi extension that adds support for LAMY button",
@@ -4718,7 +4874,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:20Z"
       }
     },
     "rm-version-switcher": {
@@ -4747,7 +4904,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       },
       "1.0.0-r1": {
         "pkgdesc": "Interactive CLI tool for switching between installed reMarkable OS versions",
@@ -4774,7 +4932,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:10Z"
       }
     },
     "rmfakecloud-proxy": {
@@ -4803,7 +4962,8 @@
           "armv7"
         ],
         "modifies_system": true,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       },
       "0.0.9-r0": {
         "pkgdesc": "HTTPS proxy for rmfakecloud - redirects reMarkable cloud traffic",
@@ -4830,7 +4990,8 @@
           "armv7"
         ],
         "modifies_system": true,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       },
       "0.0.10-r0": {
         "pkgdesc": "HTTPS proxy for rmfakecloud - redirects reMarkable cloud traffic",
@@ -4857,7 +5018,8 @@
           "armv7"
         ],
         "modifies_system": true,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       }
     },
     "rmhacks": {
@@ -4891,7 +5053,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       },
       "0.0.11_pre2-r0": {
         "pkgdesc": "reMarkable hacks in QMD format",
@@ -4923,7 +5086,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       },
       "0.0.11_pre3-r0": {
         "pkgdesc": "reMarkable hacks in QMD format",
@@ -4955,7 +5119,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       },
       "0.0.11_pre4-r0": {
         "pkgdesc": "reMarkable hacks in QMD format",
@@ -4987,7 +5152,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       }
     },
     "rmstream": {
@@ -5019,7 +5185,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       }
     },
     "rmtree": {
@@ -5048,7 +5215,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       },
       "1.0.1-r1": {
         "pkgdesc": "Display reMarkable document hierarchy in tree format",
@@ -5075,7 +5243,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       }
     },
     "rubber-eraser-rm1": {
@@ -5109,7 +5278,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       }
     },
     "scroll-screen-up-or-down": {
@@ -5140,7 +5310,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       }
     },
     "selection-erase": {
@@ -5171,7 +5342,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
@@ -5200,7 +5372,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
@@ -5229,7 +5402,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       },
       "1.0.3-r1": {
         "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
@@ -5258,7 +5432,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       }
     },
     "selection-stuff": {
@@ -5289,7 +5464,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds the ability to select everything above the line.",
@@ -5318,7 +5494,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       },
       "1.0.2-r1": {
         "pkgdesc": "Adds the ability to select everything above the line.",
@@ -5347,7 +5524,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       }
     },
     "settings-rmsync-restart": {
@@ -5379,7 +5557,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       }
     },
     "shortcuts-to-choose-eraser": {
@@ -5416,7 +5595,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       }
     },
     "sidebar-clock": {
@@ -5447,7 +5627,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       }
     },
     "stylus-button-erase": {
@@ -5479,7 +5660,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       }
     },
     "stylus-button-eraser": {
@@ -5513,7 +5695,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       }
     },
     "stylus-button-undo-redo": {
@@ -5548,7 +5731,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:11Z"
       }
     },
     "swipe-to-hide-or-show-toolbar": {
@@ -5579,7 +5763,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       }
     },
     "tag-button": {
@@ -5610,7 +5795,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       }
     },
     "tailscale": {
@@ -5641,7 +5827,8 @@
           "armv7"
         ],
         "modifies_system": true,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       }
     },
     "tap-to-change-view-or-page": {
@@ -5673,7 +5860,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       }
     },
     "three-finger-swipe-to-reset-view": {
@@ -5704,7 +5892,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       }
     },
     "tilem": {
@@ -5736,7 +5925,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       }
     },
     "toolbar-icon": {
@@ -5767,7 +5957,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -5796,7 +5987,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -5825,7 +6017,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -5854,7 +6047,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -5883,7 +6077,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       },
       "1.0.5-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -5912,7 +6107,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       },
       "1.0.6-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -5941,7 +6137,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       },
       "1.0.7-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -5970,7 +6167,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       }
     },
     "tripletap": {
@@ -6002,7 +6200,8 @@
           "armv7"
         ],
         "modifies_system": true,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       }
     },
     "uncompress-dock": {
@@ -6033,7 +6232,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       }
     },
     "unlock-methods-content": {
@@ -6064,7 +6264,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Bypasses subscription check for using on-device Methods templates and documents.",
@@ -6093,7 +6294,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       },
       "1.0.2-r1": {
         "pkgdesc": "Bypasses subscription check for using on-device Methods templates and documents.",
@@ -6122,7 +6324,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       }
     },
     "vellum": {
@@ -6151,7 +6354,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       },
       "0.1.2-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -6178,7 +6382,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       },
       "0.1.3-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -6205,7 +6410,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       },
       "0.1.4-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -6232,7 +6438,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       },
       "0.1.6-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -6259,7 +6466,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:12Z"
       },
       "0.1.7-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -6286,7 +6494,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:13Z"
       },
       "0.1.8-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -6313,7 +6522,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:13Z"
       },
       "0.1.9-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -6340,7 +6550,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:13Z"
       }
     },
     "vellum-bash-completion": {
@@ -6369,7 +6580,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:13Z"
       }
     },
     "vellum-hosts": {
@@ -6400,7 +6612,8 @@
           "armv7"
         ],
         "modifies_system": true,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:13Z"
       }
     },
     "vnsee-qtfb": {
@@ -6431,7 +6644,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:13Z"
       }
     },
     "vnsee-qtfb-rmpp": {
@@ -6458,7 +6672,8 @@
           "aarch64"
         ],
         "modifies_system": false,
-        "auto_install": true
+        "auto_install": true,
+        "released": "2026-02-10T23:43:13Z"
       }
     },
     "vnsee-qtfb-rmppm": {
@@ -6485,7 +6700,8 @@
           "aarch64"
         ],
         "modifies_system": false,
-        "auto_install": true
+        "auto_install": true,
+        "released": "2026-02-10T23:43:13Z"
       }
     },
     "webserver-remote": {
@@ -6517,7 +6733,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:13Z"
       },
       "17.0.0-r4": {
         "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
@@ -6547,7 +6764,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:13Z"
       }
     },
     "xovi": {
@@ -6576,7 +6794,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:13Z"
       },
       "0.3.2-r0": {
         "pkgdesc": "Core xovi framework for reMarkable tablets",
@@ -6603,7 +6822,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:13Z"
       }
     },
     "xovi-extensions": {
@@ -6634,7 +6854,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:13Z"
       },
       "17.0.0-r4": {
         "pkgdesc": "Extensions for xovi framework",
@@ -6663,7 +6884,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:13Z"
       }
     },
     "xovi-message-broker": {
@@ -6694,7 +6916,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:13Z"
       },
       "17.0.0-r4": {
         "pkgdesc": "IPC messaging between xovi extensions",
@@ -6723,7 +6946,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:13Z"
       }
     },
     "zig": {
@@ -6752,7 +6976,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:13Z"
       }
     },
     "zig-doc": {
@@ -6781,7 +7006,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": false
+        "auto_install": false,
+        "released": "2026-02-10T23:43:13Z"
       }
     },
     "vnsee-qtfb-rm1": {
@@ -6808,7 +7034,8 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": true
+        "auto_install": true,
+        "released": "2026-02-10T23:43:22Z"
       }
     },
     "vnsee-qtfb-rm2": {
@@ -6835,9 +7062,10 @@
           "armv7"
         ],
         "modifies_system": false,
-        "auto_install": true
+        "auto_install": true,
+        "released": "2026-02-10T23:43:22Z"
       }
     }
   },
-  "generated": "2026-02-10T17:38:11Z"
+  "generated": "2026-02-10T23:43:23Z"
 }
