@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Feb 2026 19:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 20:59:48 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>bettertoc 1.2.0-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.24 - 3.26]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 11 Feb 2026 20:59:32 +0000</pubDate>
+      <guid isPermaLink="false">bettertoc-1.2.0-r0</guid>
+    </item>
     <item>
       <title>less 692-r0</title>
       <link>https://greenwoodsoftware.com/less/</link>
