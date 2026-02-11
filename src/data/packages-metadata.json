@@ -94,6 +94,38 @@
         "released": "2026-02-10T23:43:05Z"
       }
     },
+    "bat": {
+      "0.26.1-r0": {
+        "pkgdesc": "A cat(1) clone with wings.",
+        "upstream_author": "sharkdp",
+        "maintainer": "notfrants <notfrants@proton.me>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "Apache-2.0 OR MIT",
+        "url": "https://github.com/sharkdp/bat",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "less"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-02-11T18:30:40Z"
+      }
+    },
     "bettertoc": {
       "1.0.0-r0": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
@@ -3777,6 +3809,36 @@
         "released": "2026-02-10T23:43:09Z"
       }
     },
+    "less": {
+      "692-r0": {
+        "pkgdesc": "File pager",
+        "upstream_author": "gwsw",
+        "maintainer": "notfrants <notfrants@proton.me>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "GPL-3.0-or-later OR BSD-2-Clause",
+        "url": "https://greenwoodsoftware.com/less/",
+        "os_min": null,
+        "os_max": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-02-11T18:30:44Z"
+      }
+    },
     "literm": {
       "0.1.5-r0": {
         "pkgdesc": "Terminal emulator for reMarkable Paper Pro using QtQuick",
@@ -7067,5 +7129,5 @@
       }
     }
   },
-  "generated": "2026-02-11T18:15:59Z"
+  "generated": "2026-02-11T18:30:58Z"
 }
