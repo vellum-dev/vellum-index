@@ -60,6 +60,29 @@ function generateOsVersionRange(minVersion: number, maxVersion: number): string[
 }
 
 function isVersionCompatible(pkg: PackageVersion, osVersion: number): boolean {
+  if (pkg.os_constraints && pkg.os_constraints.length > 0) {
+    for (const constraint of pkg.os_constraints) {
+      const constraintVersion = parseFloat(constraint.version);
+      switch (constraint.operator) {
+        case '>=':
+          if (osVersion < constraintVersion) return false;
+          break;
+        case '>':
+          if (osVersion <= constraintVersion) return false;
+          break;
+        case '<=':
+          if (osVersion > constraintVersion) return false;
+          break;
+        case '<':
+          if (osVersion >= constraintVersion) return false;
+          break;
+        case '=':
+          if (osVersion !== constraintVersion) return false;
+          break;
+      }
+    }
+    return true;
+  }
   if (pkg.os_min && parseFloat(pkg.os_min) > osVersion) return false;
   if (pkg.os_max && parseFloat(pkg.os_max) <= osVersion) return false;
   return true;
@@ -152,7 +175,7 @@ export function usePackages() {
     }
 
     const minOsVersion = Math.min(...osMinVersions);
-    const maxOsVersion = Math.max(...osMaxVersions) - 0.01;
+    const maxOsVersion = Math.max(...osMaxVersions);
     const osVersions = generateOsVersionRange(minOsVersion, maxOsVersion).reverse();
 
     return {
