@@ -124,7 +124,7 @@ export function PackageDetailPage() {
                 {currentPkg.categories.length > 1 ? 'Categories' : 'Category'}
               </dt>
               <dd className="flex gap-1 flex-wrap">
-                {currentPkg.categories.map((cat) => (
+                {[...currentPkg.categories].sort().map((cat) => (
                   <Badge key={cat} variant="outline">{cat}</Badge>
                 ))}
               </dd>
