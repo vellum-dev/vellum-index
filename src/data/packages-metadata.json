@@ -2140,6 +2140,49 @@
         "released": "2026-02-10T23:43:06Z"
       }
     },
+    "fix-sidebar-filters": {
+      "1.0.0-r0": {
+        "pkgdesc": "Fix highlighting selected filter in navigator sidebar",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui",
+          "fixes"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
+        "os_constraints": [
+          {
+            "version": "3.25",
+            "operator": ">="
+          },
+          {
+            "version": "3.26",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-02-11T23:10:09Z"
+      }
+    },
     "floating-toolbar": {
       "1.0.0-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -8918,5 +8961,5 @@
       }
     }
   },
-  "generated": "2026-02-11T22:52:21Z"
+  "generated": "2026-02-11T23:10:28Z"
 }
