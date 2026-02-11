@@ -7289,6 +7289,37 @@
         "released": "2026-02-10T23:43:11Z"
       }
     },
+    "starship": {
+      "1.24.2-r0": {
+        "pkgdesc": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+        "upstream_author": "starship",
+        "maintainer": "notfrants <notfrants@proton.me>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "ISC",
+        "url": "https://starship.rs/",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-02-11T23:26:51Z"
+      }
+    },
     "stylus-button-erase": {
       "1.0.0-r1": {
         "pkgdesc": "Erases when stylus side button is held.",
@@ -8961,5 +8992,5 @@
       }
     }
   },
-  "generated": "2026-02-11T23:10:28Z"
+  "generated": "2026-02-11T23:27:04Z"
 }
