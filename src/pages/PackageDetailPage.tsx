@@ -20,6 +20,10 @@ import {
 } from '@/components/ui/breadcrumb';
 import { DeviceBadge } from '@/components/packages/DeviceBadge';
 
+function parseDepName(dep: string): string {
+  return dep.split(/[<>=]/)[0];
+}
+
 export function PackageDetailPage() {
   const { name } = useParams<{ name: string }>();
   const [searchParams] = useSearchParams();
@@ -142,10 +146,41 @@ export function PackageDetailPage() {
                 OS Compatibility
               </dt>
               <dd>
-                {currentPkg.os_min && `>= ${currentPkg.os_min}`}
-                {currentPkg.os_min && currentPkg.os_max && ' '}
-                {currentPkg.os_max && `< ${currentPkg.os_max}`}
-                {!currentPkg.os_min && !currentPkg.os_max && 'All versions'}
+                {(() => {
+                  if (currentPkg.os_constraints && currentPkg.os_constraints.length > 0) {
+                    const minC = currentPkg.os_constraints.find(c => c.operator === '>=');
+                    const maxC = currentPkg.os_constraints.find(c => c.operator === '<');
+                    const exactC = currentPkg.os_constraints.find(c => c.operator === '=');
+
+                    if (exactC) return exactC.version;
+
+                    if (minC && maxC) {
+                      const maxInclusive = (parseFloat(maxC.version) - 0.01).toFixed(2);
+                      return minC.version === maxInclusive
+                        ? minC.version
+                        : `${minC.version} – ${maxInclusive}`;
+                    }
+
+                    if (minC) return `${minC.version}+`;
+                    if (maxC) {
+                      const maxInclusive = (parseFloat(maxC.version) - 0.01).toFixed(2);
+                      return `≤ ${maxInclusive}`;
+                    }
+                  }
+
+                  if (currentPkg.os_min && currentPkg.os_max) {
+                    const maxInclusive = (parseFloat(currentPkg.os_max) - 0.01).toFixed(2);
+                    return currentPkg.os_min === maxInclusive
+                      ? currentPkg.os_min
+                      : `${currentPkg.os_min} – ${maxInclusive}`;
+                  }
+                  if (currentPkg.os_min) return `${currentPkg.os_min}+`;
+                  if (currentPkg.os_max) {
+                    const maxInclusive = (parseFloat(currentPkg.os_max) - 0.01).toFixed(2);
+                    return `≤ ${maxInclusive}`;
+                  }
+                  return 'All versions';
+                })()}
               </dd>
             </div>
             <div className="order-10 sm:col-span-2">
@@ -167,11 +202,12 @@ export function PackageDetailPage() {
                 <dd>
                   <ul className="list-disc list-inside">
                     {filteredDepends.map((dep) => {
-                      const depPkg = packages.find((p) => p.name === dep);
+                      const depName = parseDepName(dep);
+                      const depPkg = packages.find((p) => p.name === depName);
                       return (
                         <li key={dep}>
                           {depPkg ? (
-                            <Link to={`/package/${dep}`} className="text-primary hover:underline">
+                            <Link to={`/package/${depName}`} className="text-primary hover:underline">
                               {dep}
                             </Link>
                           ) : (
@@ -190,11 +226,12 @@ export function PackageDetailPage() {
                 <dd>
                   <ul className="list-disc list-inside">
                     {currentPkg.conflicts.map((conflict) => {
-                      const conflictPkg = packages.find((p) => p.name === conflict);
+                      const conflictName = parseDepName(conflict);
+                      const conflictPkg = packages.find((p) => p.name === conflictName);
                       return (
                         <li key={conflict}>
                           {conflictPkg ? (
-                            <Link to={`/package/${conflict}`} className="text-primary hover:underline">
+                            <Link to={`/package/${conflictName}`} className="text-primary hover:underline">
                               {conflict}
                             </Link>
                           ) : (
@@ -213,11 +250,12 @@ export function PackageDetailPage() {
                 <dd>
                   <ul className="list-disc list-inside">
                     {currentPkg.provides.map((provided) => {
-                      const providedPkg = packages.find((p) => p.name === provided);
+                      const providedName = parseDepName(provided);
+                      const providedPkg = packages.find((p) => p.name === providedName);
                       return (
                         <li key={provided}>
                           {providedPkg ? (
-                            <Link to={`/package/${provided}`} className="text-primary hover:underline">
+                            <Link to={`/package/${providedName}`} className="text-primary hover:underline">
                               {provided}
                             </Link>
                           ) : (

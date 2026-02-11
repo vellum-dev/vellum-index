@@ -1,6 +1,11 @@
 export type Device = 'rm1' | 'rm2' | 'rmpp' | 'rmppm';
 export type Architecture = 'aarch64' | 'armv7' | 'noarch';
 
+export interface OSConstraint {
+  version: string;
+  operator: '>=' | '<' | '>' | '<=' | '=';
+}
+
 export interface PackageVersion {
   pkgdesc: string;
   upstream_author: string;
@@ -10,6 +15,7 @@ export interface PackageVersion {
   url: string;
   os_min: string | null;
   os_max: string | null;
+  os_constraints: OSConstraint[] | null;
   devices: Device[];
   depends: string[];
   conflicts: string[];
