@@ -3808,8 +3808,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z"
       },
-      "0.1.6-r1": {
-        "pkgdesc": "Terminal emulator for reMarkable Paper Pro using QtQuick",
+      "0.1.6-r2": {
+        "pkgdesc": "A terminal emulator using QtQuick.",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
@@ -3836,7 +3836,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:09Z"
+        "released": "2026-02-11T18:15:45Z"
       }
     },
     "micro": {
@@ -7067,5 +7067,5 @@
       }
     }
   },
-  "generated": "2026-02-11T16:21:12Z"
+  "generated": "2026-02-11T18:15:59Z"
 }

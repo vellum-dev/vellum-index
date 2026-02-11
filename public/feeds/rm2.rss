@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Feb 2026 16:21:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 18:15:59 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>literm 0.1.6-r2</title>
+      <link>https://github.com/asivery/rm-literm</link>
+      <description><![CDATA[A terminal emulator using QtQuick.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.24 - 3.26]]></description>
+      <author>asivery</author>
+      <category>apps</category>
+      <pubDate>Wed, 11 Feb 2026 18:15:45 +0000</pubDate>
+      <guid isPermaLink="false">literm-0.1.6-r2</guid>
+    </item>
     <item>
       <title>vellum-bash-completion 3.0.3-r3</title>
       <link>https://github.com/vellum-dev/apk-tools</link>
@@ -915,15 +924,6 @@
       <category>apps</category>
       <pubDate>Tue, 10 Feb 2026 23:43:09 +0000</pubDate>
       <guid isPermaLink="false">micro-2.0.14-r0</guid>
-    </item>
-    <item>
-      <title>literm 0.1.6-r1</title>
-      <link>https://github.com/asivery/rm-literm</link>
-      <description><![CDATA[Terminal emulator for reMarkable Paper Pro using QtQuick<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.24 - 3.26]]></description>
-      <author>asivery</author>
-      <category>apps</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:09 +0000</pubDate>
-      <guid isPermaLink="false">literm-0.1.6-r1</guid>
     </item>
     <item>
       <title>literm 0.1.5-r0</title>
