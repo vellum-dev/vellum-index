@@ -4856,7 +4856,7 @@
       }
     },
     "hyfetch": {
-      "2.0.5_git6-r1": {
+      "2.0.5_git6-r2": {
         "pkgdesc": "Neofetch with LGBTQ+ pride flags!",
         "upstream_author": "hykilpikonna",
         "maintainer": "notfrants <notfrants@proton.me>",
@@ -4883,7 +4883,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:09Z"
+        "released": "2026-02-11T21:30:31Z"
       }
     },
     "jq": {
@@ -8918,5 +8918,5 @@
       }
     }
   },
-  "generated": "2026-02-11T20:59:48Z"
+  "generated": "2026-02-11T21:30:47Z"
 }

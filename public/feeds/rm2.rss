@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Feb 2026 20:59:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 21:30:47 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>hyfetch 2.0.5_git6-r2</title>
+      <link>https://github.com/hykilpikonna/hyfetch</link>
+      <description><![CDATA[Neofetch with LGBTQ+ pride flags!<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>hykilpikonna</author>
+      <category>utilities</category>
+      <pubDate>Wed, 11 Feb 2026 21:30:31 +0000</pubDate>
+      <guid isPermaLink="false">hyfetch-2.0.5_git6-r2</guid>
+    </item>
     <item>
       <title>bettertoc 1.2.0-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
@@ -978,15 +987,6 @@
       <category>utilities</category>
       <pubDate>Tue, 10 Feb 2026 23:43:09 +0000</pubDate>
       <guid isPermaLink="false">jq-1.8.1-r0</guid>
-    </item>
-    <item>
-      <title>hyfetch 2.0.5_git6-r1</title>
-      <link>https://github.com/hykilpikonna/hyfetch</link>
-      <description><![CDATA[Neofetch with LGBTQ+ pride flags!<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>hykilpikonna</author>
-      <category>utilities</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:09 +0000</pubDate>
-      <guid isPermaLink="false">hyfetch-2.0.5_git6-r1</guid>
     </item>
     <item>
       <title>hide-zoom-indicator 1.0.3-r1</title>
