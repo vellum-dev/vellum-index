@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Feb 2026 21:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 22:52:21 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>hyfetch 2.0.5_git6-r2</title>
