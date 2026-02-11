@@ -6555,15 +6555,15 @@
       }
     },
     "vellum-bash-completion": {
-      "3.0.3-r2": {
+      "3.0.3-r3": {
         "pkgdesc": "Bash completion for vellum package manager",
-        "upstream_author": "alpinelinux",
+        "upstream_author": "vellum-dev",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "utilities"
         ],
         "license": "GPL-2.0-only",
-        "url": "https://gitlab.alpinelinux.org/alpine/apk-tools",
+        "url": "https://github.com/vellum-dev/apk-tools",
         "os_min": null,
         "os_max": null,
         "devices": [
@@ -6581,7 +6581,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:13Z"
+        "released": "2026-02-11T16:21:02Z"
       }
     },
     "vellum-hosts": {
@@ -7067,5 +7067,5 @@
       }
     }
   },
-  "generated": "2026-02-10T23:43:23Z"
+  "generated": "2026-02-11T16:21:12Z"
 }

@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Feb 2026 23:43:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 16:21:12 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>vellum-bash-completion 3.0.3-r3</title>
+      <link>https://github.com/vellum-dev/apk-tools</link>
+      <description><![CDATA[Bash completion for vellum package manager<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>vellum-dev</author>
+      <category>utilities</category>
+      <pubDate>Wed, 11 Feb 2026 16:21:02 +0000</pubDate>
+      <guid isPermaLink="false">vellum-bash-completion-3.0.3-r3</guid>
+    </item>
     <item>
       <title>zig-doc 0.15.2-r0</title>
       <link>https://ziglang.org</link>
@@ -123,15 +132,6 @@
       <category>utilities</category>
       <pubDate>Tue, 10 Feb 2026 23:43:13 +0000</pubDate>
       <guid isPermaLink="false">vellum-hosts-1.0.0-r0</guid>
-    </item>
-    <item>
-      <title>vellum-bash-completion 3.0.3-r2</title>
-      <link>https://gitlab.alpinelinux.org/alpine/apk-tools</link>
-      <description><![CDATA[Bash completion for vellum package manager<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>alpinelinux</author>
-      <category>utilities</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:13 +0000</pubDate>
-      <guid isPermaLink="false">vellum-bash-completion-3.0.3-r2</guid>
     </item>
     <item>
       <title>vellum 0.1.9-r0</title>
