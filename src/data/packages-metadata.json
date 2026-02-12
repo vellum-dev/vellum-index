@@ -1407,7 +1407,7 @@
       }
     },
     "fastfetch": {
-      "2.58.0_git11-r1": {
+      "2.58.0_git11-r2": {
         "pkgdesc": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
         "upstream_author": "fastfetch-cli",
         "maintainer": "notfrants <notfrants@proton.me>",
@@ -1434,7 +1434,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:06Z"
+        "released": "2026-02-12T15:09:07Z"
       }
     },
     "fav-tag-button": {
@@ -4899,7 +4899,7 @@
       }
     },
     "hyfetch": {
-      "2.0.5_git6-r2": {
+      "2.0.5_git6-r3": {
         "pkgdesc": "Neofetch with LGBTQ+ pride flags!",
         "upstream_author": "hykilpikonna",
         "maintainer": "notfrants <notfrants@proton.me>",
@@ -4926,7 +4926,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-11T21:30:31Z"
+        "released": "2026-02-12T15:09:11Z"
       }
     },
     "jq": {
@@ -6029,6 +6029,46 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z"
+      },
+      "1.0.4-r0": {
+        "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.26",
+        "os_constraints": [
+          {
+            "version": "3.25",
+            "operator": ">="
+          },
+          {
+            "version": "3.26",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-02-12T15:09:12Z"
       }
     },
     "recents-tagged": {
@@ -8414,7 +8454,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z"
       },
-      "0.1.9-r0": {
+      "0.1.9-r1": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
         "upstream_author": "vellum-dev",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -8441,7 +8481,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:13Z"
+        "released": "2026-02-12T15:09:15Z"
       }
     },
     "vellum-bash-completion": {
@@ -8992,5 +9032,5 @@
       }
     }
   },
-  "generated": "2026-02-11T23:27:04Z"
+  "generated": "2026-02-12T15:09:28Z"
 }

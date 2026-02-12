@@ -5,8 +5,44 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Feb 2026 23:27:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 15:09:28 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>vellum 0.1.9-r1</title>
+      <link>https://github.com/vellum-dev/vellum-cli</link>
+      <description><![CDATA[Package manager wrapper for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>vellum-dev</author>
+      <category>utilities</category>
+      <pubDate>Thu, 12 Feb 2026 15:09:15 +0000</pubDate>
+      <guid isPermaLink="false">vellum-0.1.9-r1</guid>
+    </item>
+    <item>
+      <title>random-sleep-screen 1.0.4-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Picks random sleep screen from ~/sleepScreens/ folder.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.25 - 3.26]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Thu, 12 Feb 2026 15:09:12 +0000</pubDate>
+      <guid isPermaLink="false">random-sleep-screen-1.0.4-r0</guid>
+    </item>
+    <item>
+      <title>hyfetch 2.0.5_git6-r3</title>
+      <link>https://github.com/hykilpikonna/hyfetch</link>
+      <description><![CDATA[Neofetch with LGBTQ+ pride flags!<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>hykilpikonna</author>
+      <category>utilities</category>
+      <pubDate>Thu, 12 Feb 2026 15:09:11 +0000</pubDate>
+      <guid isPermaLink="false">hyfetch-2.0.5_git6-r3</guid>
+    </item>
+    <item>
+      <title>fastfetch 2.58.0_git11-r2</title>
+      <link>https://github.com/fastfetch-cli/fastfetch</link>
+      <description><![CDATA[A maintained, feature-rich and performance oriented, neofetch like system information tool.<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>fastfetch-cli</author>
+      <category>utilities</category>
+      <pubDate>Thu, 12 Feb 2026 15:09:07 +0000</pubDate>
+      <guid isPermaLink="false">fastfetch-2.58.0_git11-r2</guid>
+    </item>
     <item>
       <title>starship 1.24.2-r0</title>
       <link>https://starship.rs/</link>
@@ -24,15 +60,6 @@
       <category>ui, fixes</category>
       <pubDate>Wed, 11 Feb 2026 23:10:09 +0000</pubDate>
       <guid isPermaLink="false">fix-sidebar-filters-1.0.0-r0</guid>
-    </item>
-    <item>
-      <title>hyfetch 2.0.5_git6-r2</title>
-      <link>https://github.com/hykilpikonna/hyfetch</link>
-      <description><![CDATA[Neofetch with LGBTQ+ pride flags!<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>hykilpikonna</author>
-      <category>utilities</category>
-      <pubDate>Wed, 11 Feb 2026 21:30:31 +0000</pubDate>
-      <guid isPermaLink="false">hyfetch-2.0.5_git6-r2</guid>
     </item>
     <item>
       <title>bettertoc 1.2.0-r0</title>
@@ -195,15 +222,6 @@
       <category>utilities</category>
       <pubDate>Tue, 10 Feb 2026 23:43:13 +0000</pubDate>
       <guid isPermaLink="false">vellum-hosts-1.0.0-r0</guid>
-    </item>
-    <item>
-      <title>vellum 0.1.9-r0</title>
-      <link>https://github.com/vellum-dev/vellum-cli</link>
-      <description><![CDATA[Package manager wrapper for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>vellum-dev</author>
-      <category>utilities</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:13 +0000</pubDate>
-      <guid isPermaLink="false">vellum-0.1.9-r0</guid>
     </item>
     <item>
       <title>vellum 0.1.8-r0</title>
@@ -1707,15 +1725,6 @@
       <category>ui</category>
       <pubDate>Tue, 10 Feb 2026 23:43:06 +0000</pubDate>
       <guid isPermaLink="false">fav-tag-button-1.0.0-r0</guid>
-    </item>
-    <item>
-      <title>fastfetch 2.58.0_git11-r1</title>
-      <link>https://github.com/fastfetch-cli/fastfetch</link>
-      <description><![CDATA[A maintained, feature-rich and performance oriented, neofetch like system information tool.<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>fastfetch-cli</author>
-      <category>utilities</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:06 +0000</pubDate>
-      <guid isPermaLink="false">fastfetch-2.58.0_git11-r1</guid>
     </item>
     <item>
       <title>extend-list-title-width 1.0.0-r1</title>
