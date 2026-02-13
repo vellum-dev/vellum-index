@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Feb 2026 15:19:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 12:56:32 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>vellum 0.1.9-r1</title>
@@ -492,15 +492,6 @@
       <category>ui</category>
       <pubDate>Tue, 10 Feb 2026 23:43:11 +0000</pubDate>
       <guid isPermaLink="false">stylus-button-eraser-2.0.0-r1</guid>
-    </item>
-    <item>
-      <title>stylus-button-erase 1.0.0-r1</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Erases when stylus side button is held.<br/>Devices: rm1, rm2<br/>OS: 3.25 - 3.26]]></description>
-      <author>unknown</author>
-      <category>other</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:11 +0000</pubDate>
-      <guid isPermaLink="false">stylus-button-erase-1.0.0-r1</guid>
     </item>
     <item>
       <title>sidebar-clock 1.0.0-r0</title>
