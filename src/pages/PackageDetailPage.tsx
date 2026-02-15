@@ -184,7 +184,7 @@ export function PackageDetailPage() {
               </dd>
             </div>
             <div className="order-10 sm:col-span-2">
-              <dt className="text-sm font-medium text-muted-foreground">Source</dt>
+              <dt className="text-sm font-medium text-muted-foreground">Project</dt>
               <dd>
                 <a
                   href={currentPkg.url}
