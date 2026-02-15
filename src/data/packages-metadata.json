@@ -5855,8 +5855,7 @@
           "rmppm"
         ],
         "depends": [
-          "qt-resource-rebuilder",
-          "rm-shot"
+          "qt-resource-rebuilder"
         ],
         "conflicts": [],
         "provides": [],
@@ -5896,8 +5895,7 @@
           "rmppm"
         ],
         "depends": [
-          "qt-resource-rebuilder",
-          "rm-shot"
+          "qt-resource-rebuilder"
         ],
         "conflicts": [],
         "provides": [],
@@ -9070,5 +9068,5 @@
       }
     }
   },
-  "generated": "2026-02-15T17:29:29Z"
+  "generated": "2026-02-15T17:38:47Z"
 }
