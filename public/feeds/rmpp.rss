@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Feb 2026 12:56:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 16:27:30 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>quicksettings-screenshot 1.0.1-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a screenshot button to the quick settings menu.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.23 - 3.24]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Sun, 15 Feb 2026 16:27:14 +0000</pubDate>
+      <guid isPermaLink="false">quicksettings-screenshot-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>quicksettings-screenshot 1.0.0-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a screenshot button to the quick settings menu.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.22 - 3.23]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Sun, 15 Feb 2026 16:27:13 +0000</pubDate>
+      <guid isPermaLink="false">quicksettings-screenshot-1.0.0-r0</guid>
+    </item>
     <item>
       <title>vellum 0.1.9-r1</title>
       <link>https://github.com/vellum-dev/vellum-cli</link>

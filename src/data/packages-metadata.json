@@ -5827,6 +5827,86 @@
       }
     },
     "quicksettings-screenshot": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds a screenshot button to the quick settings menu.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.22",
+        "os_max": "3.23",
+        "os_constraints": [
+          {
+            "version": "3.22",
+            "operator": ">="
+          },
+          {
+            "version": "3.23",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-02-15T16:27:13Z"
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Adds a screenshot button to the quick settings menu.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.23",
+        "os_max": "3.24",
+        "os_constraints": [
+          {
+            "version": "3.23",
+            "operator": ">="
+          },
+          {
+            "version": "3.24",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-02-15T16:27:14Z"
+      },
       "1.0.2-r2": {
         "pkgdesc": "Adds a screenshot button to the quick settings menu.",
         "upstream_author": "rmitchellscott",
@@ -8988,5 +9068,5 @@
       }
     }
   },
-  "generated": "2026-02-13T12:56:32Z"
+  "generated": "2026-02-15T16:27:30Z"
 }
