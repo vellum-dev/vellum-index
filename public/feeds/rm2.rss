@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Feb 2026 17:38:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 20:41:58 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>bettertoc 1.2.0-r1</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.25 - 3.26]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Mon, 16 Feb 2026 20:41:35 +0000</pubDate>
+      <guid isPermaLink="false">bettertoc-1.2.0-r1</guid>
+    </item>
     <item>
       <title>quicksettings-screenshot 1.0.1-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
@@ -78,15 +87,6 @@
       <category>ui, fixes</category>
       <pubDate>Wed, 11 Feb 2026 23:10:09 +0000</pubDate>
       <guid isPermaLink="false">fix-sidebar-filters-1.0.0-r0</guid>
-    </item>
-    <item>
-      <title>bettertoc 1.2.0-r0</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.24 - 3.26]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Wed, 11 Feb 2026 20:59:32 +0000</pubDate>
-      <guid isPermaLink="false">bettertoc-1.2.0-r0</guid>
     </item>
     <item>
       <title>less 692-r0</title>

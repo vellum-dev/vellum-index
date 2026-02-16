@@ -280,7 +280,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z"
       },
-      "1.2.0-r0": {
+      "1.2.0-r1": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -289,11 +289,11 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "os_min": "3.24",
+        "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
           {
-            "version": "3.24",
+            "version": "3.25",
             "operator": ">="
           },
           {
@@ -320,7 +320,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-11T20:59:32Z"
+        "released": "2026-02-16T20:41:35Z"
       }
     },
     "btop": {
@@ -9068,5 +9068,5 @@
       }
     }
   },
-  "generated": "2026-02-15T17:38:47Z"
+  "generated": "2026-02-16T20:41:58Z"
 }
