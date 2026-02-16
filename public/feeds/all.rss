@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Feb 2026 21:39:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 21:46:58 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>vellum 0.2.0-r0</title>
+      <link>https://github.com/vellum-dev/vellum-cli</link>
+      <description><![CDATA[Package manager wrapper for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>vellum-dev</author>
+      <category>utilities</category>
+      <pubDate>Mon, 16 Feb 2026 21:46:45 +0000</pubDate>
+      <guid isPermaLink="false">vellum-0.2.0-r0</guid>
+    </item>
     <item>
       <title>mount-utils 1.1.0-r0</title>
       <link>https://github.com/vellum-dev/vellum</link>
