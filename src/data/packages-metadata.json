@@ -5409,6 +5409,35 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Commands to toggle reMarkable filesystem between read-write and read-only",
+        "upstream_author": "vellum-dev",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/vellum-dev/vellum",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-02-16T21:38:53Z"
       }
     },
     "navigate-using-arrow-keys": {
@@ -9068,5 +9097,5 @@
       }
     }
   },
-  "generated": "2026-02-16T20:41:58Z"
+  "generated": "2026-02-16T21:39:09Z"
 }
