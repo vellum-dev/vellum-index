@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Feb 2026 00:54:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 17:18:17 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>vellum 0.2.1-r0</title>
