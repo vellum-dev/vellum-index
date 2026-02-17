@@ -1,3 +1,4 @@
+import { X } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import {
   Select,
@@ -31,11 +32,21 @@ export function PackageFilters({
 }: PackageFiltersProps) {
   return (
     <div className="grid grid-cols-2 lg:grid-cols-[1fr_auto_auto_auto] gap-4 mb-6">
-      <Input
-        placeholder="Search packages..."
-        value={filters.search}
-        onChange={(e) => onFilterChange('search', e.target.value)}
-      />
+      <div className="relative">
+        <Input
+          placeholder="Search packages..."
+          value={filters.search}
+          onChange={(e) => onFilterChange('search', e.target.value)}
+        />
+        {filters.search && (
+          <button
+            onClick={() => onFilterChange('search', '')}
+            className="absolute right-2 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground"
+          >
+            <X className="h-4 w-4" />
+          </button>
+        )}
+      </div>
 
       <Select
         value={filters.category}

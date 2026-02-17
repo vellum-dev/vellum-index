@@ -97,7 +97,9 @@ export function PackageTable({ packages }: PackageTableProps) {
             <TableCell className="hidden sm:table-cell md:hidden lg:table-cell">
               <div className="flex gap-1 flex-wrap">
                 {[...pkg.categories].sort().map((cat) => (
-                  <Badge key={cat} variant="outline">{cat}</Badge>
+                  <Link key={cat} to={`/?category=${encodeURIComponent(cat)}`}>
+                    <Badge variant="outline" className="cursor-pointer hover:bg-muted">{cat}</Badge>
+                  </Link>
                 ))}
               </div>
             </TableCell>

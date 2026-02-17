@@ -1,5 +1,6 @@
-import { useState } from 'react';
+import { useState, useMemo, useEffect, useRef } from 'react';
 import { useParams, useSearchParams, Link } from 'react-router-dom';
+import { ChevronDown } from 'lucide-react';
 import { usePackages } from '@/hooks/usePackages';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
@@ -19,9 +20,107 @@ import {
   BreadcrumbSeparator,
 } from '@/components/ui/breadcrumb';
 import { DeviceBadge } from '@/components/packages/DeviceBadge';
+import type { FlatPackage } from '@/types/packages';
 
 function parseDepName(dep: string): string {
   return dep.split(/[<>=]/)[0];
+}
+
+function DownloadButton({ name, currentPkg }: { name: string; currentPkg: FlatPackage }) {
+  const [open, setOpen] = useState(false);
+  const ref = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (!open) return;
+    const handleClick = (e: MouseEvent) => {
+      if (ref.current && !ref.current.contains(e.target as Node)) {
+        setOpen(false);
+      }
+    };
+    document.addEventListener('mousedown', handleClick);
+    return () => document.removeEventListener('mousedown', handleClick);
+  }, [open]);
+
+  const downloadArchs = useMemo(() => {
+    const nonNoarch = currentPkg.arch.filter((a) => a !== 'noarch');
+    if (nonNoarch.length === 0) return ['aarch64'] as const;
+    return nonNoarch;
+  }, [currentPkg.arch]);
+
+  const buildUrl = (arch: string) =>
+    `https://packages.vellum.delivery/${arch}/${name}-${currentPkg.version}.apk`;
+
+  if (downloadArchs.length === 1) {
+    return (
+      <a
+        href={buildUrl(downloadArchs[0])}
+        className="text-sm text-primary hover:underline"
+      >
+        {downloadArchs[0]}
+      </a>
+    );
+  }
+
+  return (
+    <div className="relative inline-block" ref={ref}>
+      <button
+        onClick={() => setOpen(!open)}
+        className="inline-flex items-center gap-1.5 text-sm text-primary hover:underline"
+      >
+        Download
+        <ChevronDown className="h-3 w-3" />
+      </button>
+      {open && (
+        <div className="absolute left-0 top-full mt-1 bg-popover border rounded-md shadow-md z-10 py-1 min-w-[140px]">
+          {downloadArchs.map((arch) => (
+            <a
+              key={arch}
+              href={buildUrl(arch)}
+              className="block px-3 py-1.5 text-sm text-primary hover:bg-muted"
+              onClick={() => setOpen(false)}
+            >
+              {arch}
+            </a>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+
+function PackageActions({ name, currentPkg }: { name: string; currentPkg: FlatPackage }) {
+  return (
+    <div>
+      <h3 className="text-sm font-medium text-muted-foreground mb-2">Package Actions</h3>
+      <div className="flex flex-wrap gap-x-4 gap-y-2 items-center">
+        <a
+          href={`https://github.com/vellum-dev/vellum/tree/main/packages/${name}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-sm text-primary hover:underline"
+        >
+          Source Files
+        </a>
+        <a
+          href={`https://github.com/vellum-dev/vellum/issues/new?title=${encodeURIComponent(`[${name}] - Bug Report`)}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-sm text-primary hover:underline"
+        >
+          Report a Bug
+        </a>
+        <a
+          href={`https://github.com/vellum-dev/vellum/issues/new?title=${encodeURIComponent(`[${name}] - Out of Date`)}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-sm text-primary hover:underline"
+        >
+          Flag Package Out-of-Date
+        </a>
+        <DownloadButton name={name} currentPkg={currentPkg} />
+      </div>
+    </div>
+  );
 }
 
 export function PackageDetailPage() {
@@ -117,7 +216,23 @@ export function PackageDetailPage() {
             </div>
             <div className="order-4 sm:order-3">
               <dt className="text-sm font-medium text-muted-foreground">License</dt>
-              <dd>{currentPkg.license}</dd>
+              <dd>
+                {currentPkg.license.split(/\s+(OR|AND)\s+/).map((part, i) =>
+                  part === 'OR' || part === 'AND' ? (
+                    <span key={i}> {part} </span>
+                  ) : (
+                    <a
+                      key={i}
+                      href={`https://spdx.org/licenses/${part}.html`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-primary hover:underline"
+                    >
+                      {part}
+                    </a>
+                  )
+                )}
+              </dd>
             </div>
             <div className="order-5">
               <dt className="text-sm font-medium text-muted-foreground">
@@ -269,6 +384,8 @@ export function PackageDetailPage() {
               </div>
             )}
           </dl>
+
+          <PackageActions name={name!} currentPkg={currentPkg} />
 
           <div>
             <h3 className="text-sm font-medium text-muted-foreground mb-2">Installation</h3>
