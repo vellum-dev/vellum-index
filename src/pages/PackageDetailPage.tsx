@@ -65,18 +65,18 @@ function DownloadButton({ name, currentPkg }: { name: string; currentPkg: FlatPa
     <div className="relative inline-block" ref={ref}>
       <button
         onClick={() => setOpen(!open)}
-        className="inline-flex items-center gap-1.5 text-sm text-primary hover:underline"
+        className="inline-flex items-center gap-1.5 text-sm text-primary hover:underline cursor-pointer"
       >
         Download
         <ChevronDown className="h-3 w-3" />
       </button>
       {open && (
-        <div className="absolute left-0 top-full mt-1 bg-popover border rounded-md shadow-md z-10 py-1 min-w-[140px]">
+        <div className="absolute left-0 top-full mt-1 bg-popover border rounded-md shadow-md z-10 p-1 min-w-[140px]">
           {downloadArchs.map((arch) => (
             <a
               key={arch}
               href={buildUrl(arch)}
-              className="block px-3 py-1.5 text-sm text-primary hover:bg-muted"
+              className="block py-1.5 pl-2 pr-8 text-sm text-primary hover:bg-accent rounded-sm"
               onClick={() => setOpen(false)}
             >
               {arch}
