@@ -5,8 +5,44 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Feb 2026 19:47:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 20:06:51 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>rm-stylus 0.3.0-r2</title>
+      <link>https://github.com/rmitchellscott/rm-stylus</link>
+      <description><![CDATA[Xovi extension that exposes stylus button events as a QML type.<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>rmitchellscott</author>
+      <category>utilities</category>
+      <pubDate>Wed, 18 Feb 2026 20:06:35 +0000</pubDate>
+      <guid isPermaLink="false">rm-stylus-0.3.0-r2</guid>
+    </item>
+    <item>
+      <title>rm-shot 1.0.3-r1</title>
+      <link>https://github.com/rmitchellscott/rm-shot</link>
+      <description><![CDATA[Screenshot extension for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>rmitchellscott</author>
+      <category>utilities</category>
+      <pubDate>Wed, 18 Feb 2026 20:06:35 +0000</pubDate>
+      <guid isPermaLink="false">rm-shot-1.0.3-r1</guid>
+    </item>
+    <item>
+      <title>literm 0.1.6-r3</title>
+      <link>https://github.com/asivery/rm-literm</link>
+      <description><![CDATA[A terminal emulator using QtQuick.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.24 - 3.26]]></description>
+      <author>asivery</author>
+      <category>apps</category>
+      <pubDate>Wed, 18 Feb 2026 20:06:34 +0000</pubDate>
+      <guid isPermaLink="false">literm-0.1.6-r3</guid>
+    </item>
+    <item>
+      <title>appload 0.4.1-r2</title>
+      <link>https://github.com/asivery/rm-appload</link>
+      <description><![CDATA[Xovi extension for windowed and fullscreen apps on reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.22+]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Wed, 18 Feb 2026 20:06:28 +0000</pubDate>
+      <guid isPermaLink="false">appload-0.4.1-r2</guid>
+    </item>
     <item>
       <title>vellum 0.2.1-r0</title>
       <link>https://github.com/vellum-dev/vellum-cli</link>
@@ -132,15 +168,6 @@
       <category>utilities</category>
       <pubDate>Wed, 11 Feb 2026 18:30:40 +0000</pubDate>
       <guid isPermaLink="false">bat-0.26.1-r0</guid>
-    </item>
-    <item>
-      <title>literm 0.1.6-r2</title>
-      <link>https://github.com/asivery/rm-literm</link>
-      <description><![CDATA[A terminal emulator using QtQuick.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.24 - 3.26]]></description>
-      <author>asivery</author>
-      <category>apps</category>
-      <pubDate>Wed, 11 Feb 2026 18:15:45 +0000</pubDate>
-      <guid isPermaLink="false">literm-0.1.6-r2</guid>
     </item>
     <item>
       <title>vellum-bash-completion 3.0.3-r3</title>
@@ -780,24 +807,6 @@
       <category>utilities</category>
       <pubDate>Tue, 10 Feb 2026 23:43:10 +0000</pubDate>
       <guid isPermaLink="false">rm-version-switcher-0.4.0-r0</guid>
-    </item>
-    <item>
-      <title>rm-stylus 0.3.0-r1</title>
-      <link>https://github.com/rmitchellscott/rm-stylus</link>
-      <description><![CDATA[Xovi extension that exposes stylus button events as a QML type.<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>rmitchellscott</author>
-      <category>utilities</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:10 +0000</pubDate>
-      <guid isPermaLink="false">rm-stylus-0.3.0-r1</guid>
-    </item>
-    <item>
-      <title>rm-shot 1.0.3-r0</title>
-      <link>https://github.com/rmitchellscott/rm-shot</link>
-      <description><![CDATA[Screenshot extension for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>rmitchellscott</author>
-      <category>utilities</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:10 +0000</pubDate>
-      <guid isPermaLink="false">rm-shot-1.0.3-r0</guid>
     </item>
     <item>
       <title>rm-shot 1.0.2-r0</title>
@@ -2121,15 +2130,6 @@
       <category>ui</category>
       <pubDate>Tue, 10 Feb 2026 23:43:05 +0000</pubDate>
       <guid isPermaLink="false">bettertoc-1.0.0-r0</guid>
-    </item>
-    <item>
-      <title>appload 0.4.1-r1</title>
-      <link>https://github.com/asivery/rm-appload</link>
-      <description><![CDATA[Xovi extension for windowed and fullscreen apps on reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.22+]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:05 +0000</pubDate>
-      <guid isPermaLink="false">appload-0.4.1-r1</guid>
     </item>
     <item>
       <title>add-finished-button 1.0.1-r0</title>

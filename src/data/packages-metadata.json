@@ -83,7 +83,7 @@
       }
     },
     "appload": {
-      "0.4.1-r1": {
+      "0.4.1-r2": {
         "pkgdesc": "Xovi extension for windowed and fullscreen apps on reMarkable tablets",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -117,7 +117,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:05Z"
+        "released": "2026-02-18T20:06:28Z"
       }
     },
     "bat": {
@@ -5065,7 +5065,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z"
       },
-      "0.1.6-r2": {
+      "0.1.6-r3": {
         "pkgdesc": "A terminal emulator using QtQuick.",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -5103,7 +5103,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-11T18:15:45Z"
+        "released": "2026-02-18T20:06:34Z"
       }
     },
     "micro": {
@@ -6395,7 +6395,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z"
       },
-      "1.0.3-r0": {
+      "1.0.3-r1": {
         "pkgdesc": "Screenshot extension for xovi framework",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -6425,11 +6425,11 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:10Z"
+        "released": "2026-02-18T20:06:35Z"
       }
     },
     "rm-stylus": {
-      "0.3.0-r1": {
+      "0.3.0-r2": {
         "pkgdesc": "Xovi extension that exposes stylus button events as a QML type.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -6458,7 +6458,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:10Z"
+        "released": "2026-02-18T20:06:35Z"
       },
       "0.1.0-r0": {
         "pkgdesc": "Xovi extension that adds support for LAMY button",
@@ -9155,5 +9155,5 @@
       }
     }
   },
-  "generated": "2026-02-18T19:47:01Z"
+  "generated": "2026-02-18T20:06:51Z"
 }
