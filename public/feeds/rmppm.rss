@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Feb 2026 19:35:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 19:47:01 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>vellum 0.2.1-r0</title>
