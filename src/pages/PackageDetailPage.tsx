@@ -102,7 +102,7 @@ function PackageActions({ name, currentPkg }: { name: string; currentPkg: FlatPa
           Source Files
         </a>
         <a
-          href={`https://github.com/vellum-dev/vellum/issues/new?title=${encodeURIComponent(`[${name}] - Bug Report`)}`}
+          href={`https://github.com/vellum-dev/vellum/issues/new?template=bug_report.yaml&package-name=${encodeURIComponent(name)}`}
           target="_blank"
           rel="noopener noreferrer"
           className="text-sm text-primary hover:underline"
@@ -110,7 +110,7 @@ function PackageActions({ name, currentPkg }: { name: string; currentPkg: FlatPa
           Report a Bug
         </a>
         <a
-          href={`https://github.com/vellum-dev/vellum/issues/new?title=${encodeURIComponent(`[${name}] - Out of Date`)}`}
+          href={`https://github.com/vellum-dev/vellum/issues/new?template=outdated_package.yaml&package-name=${encodeURIComponent(name)}`}
           target="_blank"
           rel="noopener noreferrer"
           className="text-sm text-primary hover:underline"
