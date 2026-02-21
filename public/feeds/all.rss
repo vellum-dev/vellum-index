@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Feb 2026 20:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 17:15:03 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>rm-stylus 0.3.0-r2</title>
