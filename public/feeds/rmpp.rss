@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Feb 2026 17:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 13:09:04 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>tailscale 1.94.2-r0</title>
+      <link>https://tailscale.com</link>
+      <description><![CDATA[Tailscale VPN client<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>tailscale</author>
+      <category>utilities</category>
+      <pubDate>Sun, 22 Feb 2026 13:08:50 +0000</pubDate>
+      <guid isPermaLink="false">tailscale-1.94.2-r0</guid>
+    </item>
     <item>
       <title>rm-stylus 0.3.0-r2</title>
       <link>https://github.com/rmitchellscott/rm-stylus</link>
