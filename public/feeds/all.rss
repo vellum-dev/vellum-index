@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Feb 2026 17:53:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 17:58:49 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>gomarkablestream 1.2.0-r0</title>
