@@ -9065,6 +9065,48 @@
         "released": "2026-02-10T23:43:13Z"
       }
     },
+    "xovi-settings-main": {
+      "1.0.0-r0": {
+        "pkgdesc": "Add settings to your extension. The extension will do nothing unless you add additional files.",
+        "upstream_author": "PepikVaio",
+        "maintainer": "Wajsar Josef <Wajsar.Josef@hotmail.com>",
+        "categories": [
+          "framework"
+        ],
+        "license": "CC-BY-NC-ND-4.0",
+        "url": "https://github.com/PepikVaio/reMarkable_Xovi_Extensions",
+        "os_min": "3.24",
+        "os_max": "3.25",
+        "os_constraints": [
+          {
+            "version": "3.24",
+            "operator": ">="
+          },
+          {
+            "version": "3.25",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-02-23T14:18:23Z"
+      }
+    },
     "zig": {
       "0.15.2-r0": {
         "pkgdesc": "A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software",
@@ -9186,5 +9228,5 @@
       }
     }
   },
-  "generated": "2026-02-23T14:18:05Z"
+  "generated": "2026-02-23T14:18:35Z"
 }
