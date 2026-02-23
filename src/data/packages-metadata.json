@@ -400,6 +400,48 @@
         "released": "2026-02-10T23:43:05Z"
       }
     },
+    "change-green-color": {
+      "1.0.0-r0": {
+        "pkgdesc": "Change the default green color to a darker green. Customizable via editing qmd.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.24",
+        "os_max": "3.26",
+        "os_constraints": [
+          {
+            "version": "3.24",
+            "operator": ">="
+          },
+          {
+            "version": "3.26",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-02-23T18:48:32Z"
+      }
+    },
     "change-vertical-jump": {
       "1.0.0-r1": {
         "pkgdesc": "Increases scroll distance when scrolling down a page.",
@@ -9206,5 +9248,5 @@
       }
     }
   },
-  "generated": "2026-02-23T18:31:39Z"
+  "generated": "2026-02-23T18:48:54Z"
 }

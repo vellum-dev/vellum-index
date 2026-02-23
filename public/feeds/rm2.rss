@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Feb 2026 18:31:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 18:48:54 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>change-green-color 1.0.0-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Change the default green color to a darker green. Customizable via editing qmd.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.24 - 3.26]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Mon, 23 Feb 2026 18:48:32 +0000</pubDate>
+      <guid isPermaLink="false">change-green-color-1.0.0-r0</guid>
+    </item>
     <item>
       <title>gomarkablestream 1.2.0-r0</title>
       <link>https://github.com/owulveryck/goMarkableStream</link>
