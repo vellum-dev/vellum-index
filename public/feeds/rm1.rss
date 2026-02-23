@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Feb 2026 17:58:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 18:31:39 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>xovi-settings-main 1.0.0-r0</title>
