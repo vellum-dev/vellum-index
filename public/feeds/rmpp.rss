@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Feb 2026 16:07:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 23:02:21 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>rmstream 0.1.2-r0</title>
+      <link>https://github.com/asivery/appload-rmstream</link>
+      <description><![CDATA[Stream your reMarkable's screen to any device on the local network via HTTP<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>asivery</author>
+      <category>apps</category>
+      <pubDate>Sun, 01 Mar 2026 23:02:05 +0000</pubDate>
+      <guid isPermaLink="false">rmstream-0.1.2-r0</guid>
+    </item>
     <item>
       <title>add-tags-to-context-menu 1.0.0-r0</title>
       <link>https://github.com/ingatellent/xovi-qmd-extensions</link>

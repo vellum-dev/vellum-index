@@ -6934,6 +6934,38 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z"
+      },
+      "0.1.2-r0": {
+        "pkgdesc": "Stream your reMarkable's screen to any device on the local network via HTTP",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "apps"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/appload-rmstream",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "appload",
+          "framebuffer-spy"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-03-01T23:02:05Z"
       }
     },
     "rmtree": {
@@ -9333,5 +9365,5 @@
       }
     }
   },
-  "generated": "2026-02-25T16:07:06Z"
+  "generated": "2026-03-01T23:02:21Z"
 }
