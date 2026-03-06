@@ -7002,7 +7002,6 @@
         "conflicts": [],
         "provides": [],
         "arch": [
-          "aarch64",
           "armv7"
         ],
         "modifies_system": false,
@@ -9407,5 +9406,5 @@
       }
     }
   },
-  "generated": "2026-03-03T01:24:21Z"
+  "generated": "2026-03-06T21:25:55Z"
 }
