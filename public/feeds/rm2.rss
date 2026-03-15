@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 13:41:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 14:58:50 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>touch-lock 1.0.1-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a button to the toolbar to lock out touch input in documents. Toolbar remains touch-aware and pen input is unaffected.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.25 - 3.26]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Sun, 15 Mar 2026 14:58:36 +0000</pubDate>
+      <guid isPermaLink="false">touch-lock-1.0.1-r0</guid>
+    </item>
     <item>
       <title>touch-lock 1.0.0-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
