@@ -5,8 +5,53 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 21:57:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 22:05:41 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>xovi-message-broker 17.0.0-r5</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[IPC messaging between xovi extensions<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Wed, 18 Mar 2026 22:05:27 +0000</pubDate>
+      <guid isPermaLink="false">xovi-message-broker-17.0.0-r5</guid>
+    </item>
+    <item>
+      <title>xovi-extensions 17.0.0-r5</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Extensions for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.20 - 3.27]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Wed, 18 Mar 2026 22:05:27 +0000</pubDate>
+      <guid isPermaLink="false">xovi-extensions-17.0.0-r5</guid>
+    </item>
+    <item>
+      <title>webserver-remote 17.0.0-r5</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Exposes the USB webserver to all interfaces with connection confirmation dialog<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Wed, 18 Mar 2026 22:05:27 +0000</pubDate>
+      <guid isPermaLink="false">webserver-remote-17.0.0-r5</guid>
+    </item>
+    <item>
+      <title>qt-resource-rebuilder 17.0.0-r5</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Rebuilds QT resource databases on the fly to replace or add QML files<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Wed, 18 Mar 2026 22:05:22 +0000</pubDate>
+      <guid isPermaLink="false">qt-resource-rebuilder-17.0.0-r5</guid>
+    </item>
+    <item>
+      <title>qt-command-executor 17.0.0-r5</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Injects a QT module to execute shell commands from QML<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Wed, 18 Mar 2026 22:05:22 +0000</pubDate>
+      <guid isPermaLink="false">qt-command-executor-17.0.0-r5</guid>
+    </item>
     <item>
       <title>appload 0.4.1-r3</title>
       <link>https://github.com/asivery/rm-appload</link>
@@ -305,15 +350,6 @@
       <guid isPermaLink="false">zig-0.15.2-r0</guid>
     </item>
     <item>
-      <title>xovi-message-broker 17.0.0-r4</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[IPC messaging between xovi extensions<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:13 +0000</pubDate>
-      <guid isPermaLink="false">xovi-message-broker-17.0.0-r4</guid>
-    </item>
-    <item>
       <title>xovi-message-broker 16.0.0-r2</title>
       <link>https://github.com/asivery/rm-xovi-extensions</link>
       <description><![CDATA[IPC messaging between xovi extensions<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
@@ -321,15 +357,6 @@
       <category>framework</category>
       <pubDate>Tue, 10 Feb 2026 23:43:13 +0000</pubDate>
       <guid isPermaLink="false">xovi-message-broker-16.0.0-r2</guid>
-    </item>
-    <item>
-      <title>xovi-extensions 17.0.0-r4</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Extensions for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.20 - 3.26]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:13 +0000</pubDate>
-      <guid isPermaLink="false">xovi-extensions-17.0.0-r4</guid>
     </item>
     <item>
       <title>xovi-extensions 16.0.0-r2</title>
@@ -357,15 +384,6 @@
       <category>framework</category>
       <pubDate>Tue, 10 Feb 2026 23:43:13 +0000</pubDate>
       <guid isPermaLink="false">xovi-0.3.1-r1</guid>
-    </item>
-    <item>
-      <title>webserver-remote 17.0.0-r4</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Exposes the USB webserver to all interfaces with connection confirmation dialog<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:13 +0000</pubDate>
-      <guid isPermaLink="false">webserver-remote-17.0.0-r4</guid>
     </item>
     <item>
       <title>webserver-remote 16.0.0-r2</title>
@@ -998,15 +1016,6 @@
       <guid isPermaLink="false">quicksettings-clock-serif-1.0.0-r0</guid>
     </item>
     <item>
-      <title>qt-resource-rebuilder 17.0.0-r4</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Rebuilds QT resource databases on the fly to replace or add QML files<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:10 +0000</pubDate>
-      <guid isPermaLink="false">qt-resource-rebuilder-17.0.0-r4</guid>
-    </item>
-    <item>
       <title>qt-resource-rebuilder 16.0.0-r2</title>
       <link>https://github.com/asivery/rm-xovi-extensions</link>
       <description><![CDATA[Rebuilds QT resource databases on the fly to replace or add QML files<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
@@ -1014,15 +1023,6 @@
       <category>framework</category>
       <pubDate>Tue, 10 Feb 2026 23:43:10 +0000</pubDate>
       <guid isPermaLink="false">qt-resource-rebuilder-16.0.0-r2</guid>
-    </item>
-    <item>
-      <title>qt-command-executor 17.0.0-r4</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Injects a QT module to execute shell commands from QML<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:10 +0000</pubDate>
-      <guid isPermaLink="false">qt-command-executor-17.0.0-r4</guid>
     </item>
     <item>
       <title>qt-command-executor 16.0.0-r2</title>

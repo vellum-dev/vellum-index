@@ -5785,7 +5785,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z"
       },
-      "17.0.0-r4": {
+      "17.0.0-r5": {
         "pkgdesc": "Injects a QT module to execute shell commands from QML",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -5814,7 +5814,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:10Z"
+        "released": "2026-03-18T22:05:22Z"
       }
     },
     "qt-resource-rebuilder": {
@@ -5849,7 +5849,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z"
       },
-      "17.0.0-r4": {
+      "17.0.0-r5": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -5878,7 +5878,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:10Z"
+        "released": "2026-03-18T22:05:22Z"
       }
     },
     "quicksettings-clock-serif": {
@@ -9204,7 +9204,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z"
       },
-      "17.0.0-r4": {
+      "17.0.0-r5": {
         "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -9234,7 +9234,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:13Z"
+        "released": "2026-03-18T22:05:27Z"
       }
     },
     "xovi": {
@@ -9338,7 +9338,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z"
       },
-      "17.0.0-r4": {
+      "17.0.0-r5": {
         "pkgdesc": "Extensions for xovi framework",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -9348,14 +9348,14 @@
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
         "os_min": "3.20",
-        "os_max": "3.26",
+        "os_max": "3.27",
         "os_constraints": [
           {
             "version": "3.20",
             "operator": ">="
           },
           {
-            "version": "3.26",
+            "version": "3.27",
             "operator": "<"
           }
         ],
@@ -9376,7 +9376,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:13Z"
+        "released": "2026-03-18T22:05:27Z"
       }
     },
     "xovi-message-broker": {
@@ -9411,7 +9411,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z"
       },
-      "17.0.0-r4": {
+      "17.0.0-r5": {
         "pkgdesc": "IPC messaging between xovi extensions",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -9440,7 +9440,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:13Z"
+        "released": "2026-03-18T22:05:27Z"
       }
     },
     "xovi-settings-main": {
@@ -9606,5 +9606,5 @@
       }
     }
   },
-  "generated": "2026-03-18T21:57:57Z"
+  "generated": "2026-03-18T22:05:41Z"
 }
