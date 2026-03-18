@@ -125,7 +125,7 @@
       }
     },
     "appload": {
-      "0.4.1-r2": {
+      "0.4.1-r3": {
         "pkgdesc": "Xovi extension for windowed and fullscreen apps on reMarkable tablets",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -135,11 +135,15 @@
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-appload",
         "os_min": "3.22",
-        "os_max": null,
+        "os_max": "3.26",
         "os_constraints": [
           {
             "version": "3.22",
             "operator": ">="
+          },
+          {
+            "version": "3.26",
+            "operator": "<"
           }
         ],
         "devices": [
@@ -159,7 +163,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-18T20:06:28Z"
+        "released": "2026-03-18T21:57:33Z"
       }
     },
     "bat": {
@@ -9602,5 +9606,5 @@
       }
     }
   },
-  "generated": "2026-03-18T17:32:10Z"
+  "generated": "2026-03-18T21:57:57Z"
 }
