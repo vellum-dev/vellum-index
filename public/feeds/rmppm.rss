@@ -5,8 +5,71 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 22:05:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 23:43:34 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>toolbar-icon 1.0.8-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 18 Mar 2026 23:43:18 +0000</pubDate>
+      <guid isPermaLink="false">toolbar-icon-1.0.8-r0</guid>
+    </item>
+    <item>
+      <title>selection-stuff 1.0.2-r2</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds the ability to select everything above the line.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.23 - 3.27]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 18 Mar 2026 23:43:17 +0000</pubDate>
+      <guid isPermaLink="false">selection-stuff-1.0.2-r2</guid>
+    </item>
+    <item>
+      <title>selection-erase 1.0.3-r2</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds the ability to delete a stroke once selected by the selection tool.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.24 - 3.27]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 18 Mar 2026 23:43:17 +0000</pubDate>
+      <guid isPermaLink="false">selection-erase-1.0.3-r2</guid>
+    </item>
+    <item>
+      <title>gestures-fouzr 1.0.8-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds four-finger document drawer, and multiple swipe gestures to control pen settings.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 18 Mar 2026 23:43:13 +0000</pubDate>
+      <guid isPermaLink="false">gestures-fouzr-1.0.8-r0</guid>
+    </item>
+    <item>
+      <title>gesture-colour-settings 1.0.9-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Accessibility menu for colour preferences.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 18 Mar 2026 23:43:12 +0000</pubDate>
+      <guid isPermaLink="false">gesture-colour-settings-1.0.9-r0</guid>
+    </item>
+    <item>
+      <title>floating-toolbar 2.0.1-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Floating toolbar for quick access to your favourite tools, presets, and layers.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 18 Mar 2026 23:43:11 +0000</pubDate>
+      <guid isPermaLink="false">floating-toolbar-2.0.1-r0</guid>
+    </item>
+    <item>
+      <title>fav-tag-button 1.0.6-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 18 Mar 2026 23:43:10 +0000</pubDate>
+      <guid isPermaLink="false">fav-tag-button-1.0.6-r0</guid>
+    </item>
     <item>
       <title>xovi-message-broker 17.0.0-r5</title>
       <link>https://github.com/asivery/rm-xovi-extensions</link>
@@ -701,15 +764,6 @@
       <guid isPermaLink="false">settings-rmsync-restart-1.0.0-r0</guid>
     </item>
     <item>
-      <title>selection-stuff 1.0.2-r1</title>
-      <link>https://github.com/FouzR/xovi-extensions</link>
-      <description><![CDATA[Adds the ability to select everything above the line.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.23 - 3.26]]></description>
-      <author>FouzR</author>
-      <category>ui</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:11 +0000</pubDate>
-      <guid isPermaLink="false">selection-stuff-1.0.2-r1</guid>
-    </item>
-    <item>
       <title>selection-stuff 1.0.1-r0</title>
       <link>https://github.com/FouzR/xovi-extensions</link>
       <description><![CDATA[Adds the ability to select everything above the line.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.19 - 3.23]]></description>
@@ -726,15 +780,6 @@
       <category>ui</category>
       <pubDate>Tue, 10 Feb 2026 23:43:11 +0000</pubDate>
       <guid isPermaLink="false">selection-stuff-1.0.0-r0</guid>
-    </item>
-    <item>
-      <title>selection-erase 1.0.3-r1</title>
-      <link>https://github.com/FouzR/xovi-extensions</link>
-      <description><![CDATA[Adds the ability to delete a stroke once selected by the selection tool.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.24 - 3.26]]></description>
-      <author>FouzR</author>
-      <category>ui</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:11 +0000</pubDate>
-      <guid isPermaLink="false">selection-erase-1.0.3-r1</guid>
     </item>
     <item>
       <title>selection-erase 1.0.2-r0</title>

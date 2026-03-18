@@ -1805,6 +1805,46 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z"
+      },
+      "1.0.6-r0": {
+        "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.26",
+        "os_max": "3.27",
+        "os_constraints": [
+          {
+            "version": "3.26",
+            "operator": ">="
+          },
+          {
+            "version": "3.27",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-03-18T23:43:10Z"
       }
     },
     "favorite-button": {
@@ -2773,6 +2813,48 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-16T19:52:45Z"
+      },
+      "2.0.1-r0": {
+        "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.26",
+        "os_max": "3.27",
+        "os_constraints": [
+          {
+            "version": "3.26",
+            "operator": ">="
+          },
+          {
+            "version": "3.27",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "rmhacks"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-03-18T23:43:11Z"
       }
     },
     "force-koreader-landscape": {
@@ -3296,6 +3378,47 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z"
+      },
+      "1.0.9-r0": {
+        "pkgdesc": "Accessibility menu for colour preferences.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.26",
+        "os_max": "3.27",
+        "os_constraints": [
+          {
+            "version": "3.26",
+            "operator": ">="
+          },
+          {
+            "version": "3.27",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "gestures-fouzr"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-03-18T23:43:12Z"
       }
     },
     "gesture-contrast-toggle": {
@@ -3845,6 +3968,49 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z"
+      },
+      "1.0.8-r0": {
+        "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.26",
+        "os_max": "3.27",
+        "os_constraints": [
+          {
+            "version": "3.26",
+            "operator": ">="
+          },
+          {
+            "version": "3.27",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "four-finger-change-filter",
+          "gestures-ingatellent"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-03-18T23:43:13Z"
       }
     },
     "gestures-ingatellent": {
@@ -7395,7 +7561,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z"
       },
-      "1.0.3-r1": {
+      "1.0.3-r2": {
         "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
         "upstream_author": "FouzR",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -7405,14 +7571,14 @@
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
         "os_min": "3.24",
-        "os_max": "3.26",
+        "os_max": "3.27",
         "os_constraints": [
           {
             "version": "3.24",
             "operator": ">="
           },
           {
-            "version": "3.26",
+            "version": "3.27",
             "operator": "<"
           }
         ],
@@ -7433,7 +7599,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:11Z"
+        "released": "2026-03-18T23:43:17Z"
       }
     },
     "selection-stuff": {
@@ -7517,7 +7683,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z"
       },
-      "1.0.2-r1": {
+      "1.0.2-r2": {
         "pkgdesc": "Adds the ability to select everything above the line.",
         "upstream_author": "FouzR",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -7527,14 +7693,14 @@
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
         "os_min": "3.23",
-        "os_max": "3.26",
+        "os_max": "3.27",
         "os_constraints": [
           {
             "version": "3.23",
             "operator": ">="
           },
           {
-            "version": "3.26",
+            "version": "3.27",
             "operator": "<"
           }
         ],
@@ -7555,7 +7721,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:11Z"
+        "released": "2026-03-18T23:43:17Z"
       }
     },
     "settings-rmsync-restart": {
@@ -8442,6 +8608,46 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z"
+      },
+      "1.0.8-r0": {
+        "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
+        "upstream_author": "FouzR",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "os_min": "3.26",
+        "os_max": "3.27",
+        "os_constraints": [
+          {
+            "version": "3.26",
+            "operator": ">="
+          },
+          {
+            "version": "3.27",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-03-18T23:43:18Z"
       }
     },
     "touch-lock": {
@@ -9606,5 +9812,5 @@
       }
     }
   },
-  "generated": "2026-03-18T22:05:41Z"
+  "generated": "2026-03-18T23:43:34Z"
 }
