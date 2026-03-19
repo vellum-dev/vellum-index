@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 22:56:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 23:43:47 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>vellum 0.2.3-r0</title>
+      <link>https://github.com/vellum-dev/vellum-cli</link>
+      <description><![CDATA[Package manager wrapper for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>vellum-dev</author>
+      <category>utilities</category>
+      <pubDate>Thu, 19 Mar 2026 23:43:33 +0000</pubDate>
+      <guid isPermaLink="false">vellum-0.2.3-r0</guid>
+    </item>
     <item>
       <title>vellum 0.2.2-r0</title>
       <link>https://github.com/vellum-dev/vellum-cli</link>
