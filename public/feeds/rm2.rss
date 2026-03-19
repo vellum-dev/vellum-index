@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 23:43:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 03:20:59 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>tailscale 1.96.2-r0</title>
+      <link>https://tailscale.com</link>
+      <description><![CDATA[Tailscale VPN client<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>tailscale</author>
+      <category>utilities</category>
+      <pubDate>Thu, 19 Mar 2026 03:20:43 +0000</pubDate>
+      <guid isPermaLink="false">tailscale-1.96.2-r0</guid>
+    </item>
     <item>
       <title>toolbar-icon 1.0.8-r0</title>
       <link>https://github.com/FouzR/xovi-extensions</link>

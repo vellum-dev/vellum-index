@@ -8124,6 +8124,37 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-03-10T19:44:49Z"
+      },
+      "1.96.2-r0": {
+        "pkgdesc": "Tailscale VPN client",
+        "upstream_author": "tailscale",
+        "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "BSD-3-Clause",
+        "url": "https://tailscale.com",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "mount-utils"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": true,
+        "auto_install": false,
+        "released": "2026-03-19T03:20:43Z"
       }
     },
     "tap-to-change-view-or-page": {
@@ -9812,5 +9843,5 @@
       }
     }
   },
-  "generated": "2026-03-18T23:43:34Z"
+  "generated": "2026-03-19T03:20:59Z"
 }
