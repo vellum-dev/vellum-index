@@ -53,7 +53,7 @@ function normalizeMajorMinor(version: string): number {
 
 function generateOsVersionRange(minVersion: number, maxVersion: number): string[] {
   const versions: string[] = [];
-  for (let v = minVersion; v <= maxVersion; v = Math.round((v + 0.01) * 100) / 100) {
+  for (let v = minVersion; v < maxVersion; v = Math.round((v + 0.01) * 100) / 100) {
     versions.push(v.toFixed(2));
   }
   return versions;
