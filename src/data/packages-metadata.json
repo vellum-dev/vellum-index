@@ -6106,7 +6106,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z"
       },
-      "0.1.6-r3": {
+      "0.1.6-r4": {
         "pkgdesc": "A terminal emulator using QtQuick.",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -6116,14 +6116,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/asivery/rm-literm",
         "os_min": "3.24",
-        "os_max": "3.26",
+        "os_max": "3.27",
         "os_constraints": [
           {
             "version": "3.24",
             "operator": ">="
           },
           {
-            "version": "3.26",
+            "version": "3.27",
             "operator": "<"
           }
         ],
@@ -6144,7 +6144,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-18T20:06:34Z"
+        "released": "2026-03-20T03:17:57Z"
       }
     },
     "micro": {
@@ -11077,5 +11077,5 @@
       }
     }
   },
-  "generated": "2026-03-20T02:32:54Z"
+  "generated": "2026-03-20T03:18:20Z"
 }
