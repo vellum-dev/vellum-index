@@ -2,6 +2,7 @@ import { useState, useMemo, useEffect, useRef } from 'react';
 import { useParams, useSearchParams, Link } from 'react-router-dom';
 import { ChevronDown } from 'lucide-react';
 import { usePackages } from '@/hooks/usePackages';
+import { usePackageStats } from '@/hooks/useStats';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import {
@@ -118,6 +119,12 @@ function PackageActions({ name, currentPkg }: { name: string; currentPkg: FlatPa
           Flag Package Out-of-Date
         </a>
         <DownloadButton name={name} currentPkg={currentPkg} />
+        <Link
+          to={`/stats/${name}`}
+          className="text-sm text-primary hover:underline"
+        >
+          Statistics
+        </Link>
       </div>
     </div>
   );
@@ -127,6 +134,7 @@ export function PackageDetailPage() {
   const { name } = useParams<{ name: string }>();
   const [searchParams] = useSearchParams();
   const { packages } = usePackages();
+  const { data: statsData } = usePackageStats(name!);
   const [selectedVersion, setSelectedVersion] = useState<string | null>(null);
 
   const packageVersions = packages.filter((p) => p.name === name);
@@ -298,6 +306,12 @@ export function PackageDetailPage() {
                 })()}
               </dd>
             </div>
+            {statsData && (
+              <div className="order-9">
+                <dt className="text-sm font-medium text-muted-foreground">Downloads</dt>
+                <dd>{statsData.windows["all"]?.total_downloads.toLocaleString() ?? "—"}</dd>
+              </div>
+            )}
             <div className="order-10 sm:col-span-2">
               <dt className="text-sm font-medium text-muted-foreground">Project</dt>
               <dd>
