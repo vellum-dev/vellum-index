@@ -5,8 +5,215 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 23:43:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 01:45:46 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>three-finger-swipe-to-reset-view 1.0.1-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Swipe down with three fingers to reset pan and zoom to 100%.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:29 +0000</pubDate>
+      <guid isPermaLink="false">three-finger-swipe-to-reset-view-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>tap-to-change-view-or-page 1.0.1-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Tap screen edges to scroll/navigate pages when toolbar is hidden.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:29 +0000</pubDate>
+      <guid isPermaLink="false">tap-to-change-view-or-page-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>swipe-to-hide-or-show-toolbar 1.0.1-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Swipe from toolbar edge to show/hide the toolbar.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:29 +0000</pubDate>
+      <guid isPermaLink="false">swipe-to-hide-or-show-toolbar-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>shortcuts-to-choose-eraser 1.0.1-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Use stylus side button for erase selection and rubber eraser as regular eraser.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:28 +0000</pubDate>
+      <guid isPermaLink="false">shortcuts-to-choose-eraser-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>scroll-screen-up-or-down 1.0.1-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Screen scrolling with page change at boundaries. Prerequisite for tap and arrow key navigation.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:28 +0000</pubDate>
+      <guid isPermaLink="false">scroll-screen-up-or-down-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>rubber-eraser-rm1 1.0.1-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Make the rubber eraser on a pen work as eraser on rM1.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:28 +0000</pubDate>
+      <guid isPermaLink="false">rubber-eraser-rm1-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>random-sleep-screen 1.0.5-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Picks random sleep screen from ~/sleepScreens/ folder.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:26 +0000</pubDate>
+      <guid isPermaLink="false">random-sleep-screen-1.0.5-r0</guid>
+    </item>
+    <item>
+      <title>navigate-using-arrow-keys 1.0.1-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Keyboard arrow key navigation: left/right for pages, up/down for scrolling.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:25 +0000</pubDate>
+      <guid isPermaLink="false">navigate-using-arrow-keys-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>more-light-settings 1.0.1-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Provides additional light intensity settings beyond the default options.<br/>Devices: rmpp<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:25 +0000</pubDate>
+      <guid isPermaLink="false">more-light-settings-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>hide-show-toolbar 1.0.6-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Hides the show toolbar button.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:24 +0000</pubDate>
+      <guid isPermaLink="false">hide-show-toolbar-1.0.6-r0</guid>
+    </item>
+    <item>
+      <title>hide-page-labels-fullscreen 1.0.5-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Hides page numbers when toolbar is hidden (except on last page).<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:24 +0000</pubDate>
+      <guid isPermaLink="false">hide-page-labels-fullscreen-1.0.5-r0</guid>
+    </item>
+    <item>
+      <title>hide-document-close 1.0.6-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Hides close button, use slide-down from top instead.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:24 +0000</pubDate>
+      <guid isPermaLink="false">hide-document-close-1.0.6-r0</guid>
+    </item>
+    <item>
+      <title>four-finger-change-filter 1.0.1-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Four-finger tap to toggle contrast filter in PDF/EPUB documents.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:22 +0000</pubDate>
+      <guid isPermaLink="false">four-finger-change-filter-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>force-koreader-landscape 1.0.1-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Keeps the KOReader appload app in the same aspect ratio as the screen<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.25 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:22 +0000</pubDate>
+      <guid isPermaLink="false">force-koreader-landscape-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>fix-sidebar-filters 1.0.1-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Fix highlighting selected filter in navigator sidebar<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui, fixes</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:21 +0000</pubDate>
+      <guid isPermaLink="false">fix-sidebar-filters-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>fix-custom-fit 1.0.1-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Makes Custom Fit zoom consistent across devices and orientations, ensuring the same document area is shown everywhere.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>fixes, ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:21 +0000</pubDate>
+      <guid isPermaLink="false">fix-custom-fit-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>fewer-light-steps 1.0.2-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Changes 5-level light slider to 4-level.<br/>Devices: rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:21 +0000</pubDate>
+      <guid isPermaLink="false">fewer-light-steps-1.0.2-r0</guid>
+    </item>
+    <item>
+      <title>delay-stroke-screen-refresh 1.0.1-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Delays color stroke refresh by 10 seconds of inactivity.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:19 +0000</pubDate>
+      <guid isPermaLink="false">delay-stroke-screen-refresh-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>change-vertical-jump 1.0.1-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Increases scroll distance when scrolling down a page.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:19 +0000</pubDate>
+      <guid isPermaLink="false">change-vertical-jump-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>change-green-color 1.0.2-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Change the default green color to a darker green. Customizable via editing qmd.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:19 +0000</pubDate>
+      <guid isPermaLink="false">change-green-color-1.0.2-r0</guid>
+    </item>
+    <item>
+      <title>button-press-for-pen-change 1.0.1-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Hold stylus button to select-erase, click once to change to selection, click twice to change pen.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:19 +0000</pubDate>
+      <guid isPermaLink="false">button-press-for-pen-change-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>add-tags-to-context-menu 1.0.1-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Add a tag directly from the selection context menu. Handwriting requires Connect/rmfakecloud.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:18 +0000</pubDate>
+      <guid isPermaLink="false">add-tags-to-context-menu-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>add-finished-button 1.0.2-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a Finished button when selecting documents, moving them to the first subfolder in the current folder<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Fri, 20 Mar 2026 01:45:18 +0000</pubDate>
+      <guid isPermaLink="false">add-finished-button-1.0.2-r0</guid>
+    </item>
     <item>
       <title>vellum 0.2.3-r0</title>
       <link>https://github.com/vellum-dev/vellum-cli</link>
