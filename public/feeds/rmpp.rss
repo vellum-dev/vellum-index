@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Mar 2026 03:52:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 04:01:34 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>koreader 2026.03-r0</title>
+      <link>https://github.com/koreader/koreader</link>
+      <description><![CDATA[An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>koreader</author>
+      <category>apps</category>
+      <pubDate>Sat, 21 Mar 2026 04:01:12 +0000</pubDate>
+      <guid isPermaLink="false">koreader-2026.03-r0</guid>
+    </item>
     <item>
       <title>appload 0.4.2-r0</title>
       <link>https://github.com/asivery/rm-appload</link>
