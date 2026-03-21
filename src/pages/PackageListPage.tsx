@@ -1,4 +1,7 @@
 import { useMemo } from 'react';
+import { Link } from 'react-router-dom';
+import { BarChart3 } from 'lucide-react';
+import { Tooltip, TooltipTrigger, TooltipContent, TooltipProvider } from '@/components/ui/tooltip';
 import { usePackages, compareVersions } from '@/hooks/usePackages';
 import { useFilters } from '@/hooks/useFilters';
 import { PackageFilters } from '@/components/packages/PackageFilters';
@@ -33,9 +36,21 @@ export function PackageListPage() {
         osVersions={osVersions}
       />
 
-      <p className="text-sm text-muted-foreground mb-4">
-        {latestPackages.length} packages found
-      </p>
+      <div className="flex items-center justify-between mb-4">
+        <p className="text-sm text-muted-foreground">
+          {latestPackages.length} packages found
+        </p>
+        <TooltipProvider>
+          <Tooltip>
+            <TooltipTrigger asChild>
+              <Link to="/stats" className="inline-flex items-center justify-center h-9 w-9 rounded-md text-muted-foreground hover:text-foreground hover:bg-accent transition-colors">
+                <BarChart3 className="h-5 w-5" />
+              </Link>
+            </TooltipTrigger>
+            <TooltipContent>Statistics</TooltipContent>
+          </Tooltip>
+        </TooltipProvider>
+      </div>
 
       <PackageTable packages={latestPackages} />
     </div>

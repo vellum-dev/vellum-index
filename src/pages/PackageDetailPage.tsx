@@ -3,7 +3,9 @@ import { useParams, useSearchParams, Link } from 'react-router-dom';
 import { ChevronDown } from 'lucide-react';
 import { usePackages } from '@/hooks/usePackages';
 import { usePackageStats } from '@/hooks/useStats';
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { Card, CardAction, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { Tooltip, TooltipTrigger, TooltipContent, TooltipProvider } from '@/components/ui/tooltip';
+import { BarChart3 } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import {
   Select,
@@ -179,6 +181,18 @@ export function PackageDetailPage() {
       <Card>
         <CardHeader>
           <CardTitle className="text-2xl">{name}</CardTitle>
+          <CardAction>
+            <TooltipProvider>
+              <Tooltip>
+                <TooltipTrigger asChild>
+                  <Link to={`/stats/${name}`} className="inline-flex items-center justify-center h-9 w-9 rounded-md text-muted-foreground hover:text-foreground hover:bg-accent transition-colors">
+                    <BarChart3 className="h-5 w-5" />
+                  </Link>
+                </TooltipTrigger>
+                <TooltipContent>Statistics</TooltipContent>
+              </Tooltip>
+            </TooltipProvider>
+          </CardAction>
           <p className="text-muted-foreground">{currentPkg.pkgdesc}</p>
         </CardHeader>
         <CardContent className="space-y-6">

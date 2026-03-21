@@ -28,6 +28,22 @@ export function pickGroupedTS(preset: TimeWindow, hourly: GroupedBucket[], daily
   return source.filter((b) => new Date(b.bucket).getTime() >= t)
 }
 
-export function filterPackages(data: OverviewPackage[], preset: TimeWindow): OverviewPackage[] {
-  return [...data].sort((a, b) => (b.total_downloads[preset] ?? 0) - (a.total_downloads[preset] ?? 0))
+export interface FlatPackageEntry {
+  name: string
+  total: number
+  total_downloads: Record<string, number>
+  archs: Record<string, number>
+  is_framework: boolean
+}
+
+export function filterPackages(data: OverviewPackage[], preset: TimeWindow): FlatPackageEntry[] {
+  return [...data]
+    .map((pkg) => ({
+      name: pkg.name,
+      total: pkg.total_downloads[preset] ?? 0,
+      total_downloads: pkg.total_downloads,
+      archs: pkg.archs[preset] ?? pkg.archs["all"] ?? {},
+      is_framework: pkg.is_framework,
+    }))
+    .sort((a, b) => b.total - a.total)
 }

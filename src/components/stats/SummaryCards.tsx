@@ -3,49 +3,35 @@ import { Skeleton } from "@/components/ui/skeleton"
 import type { WindowStats } from "@/types/stats"
 
 export function SummaryCards({ summary, packagesLabel = "Packages", showPackages = true, loading }: { summary: WindowStats | null; packagesLabel?: string; showPackages?: boolean; loading?: boolean }) {
-  const titles = ["Total Downloads", "Unique Users", "Countries"]
-  if (showPackages) titles.push(packagesLabel)
-  const cols = showPackages ? "grid-cols-2 gap-4 lg:grid-cols-4" : "grid-cols-3 gap-4"
-
-  if (loading || !summary) {
-    return (
-      <div className={`grid ${cols}`}>
-        {titles.map((title) => (
-          <Card key={title}>
-            <CardHeader className="pb-2">
-              <CardTitle className="text-sm font-medium text-muted-foreground">
-                {title}
-              </CardTitle>
-            </CardHeader>
-            <CardContent>
-              <Skeleton className="h-9 w-24" />
-            </CardContent>
-          </Card>
-        ))}
-      </div>
-    )
-  }
-
   const cards = [
-    { title: "Total Downloads", value: summary.total_downloads.toLocaleString() },
-    { title: "Unique Users", value: summary.unique_users.toLocaleString() },
-    { title: "Countries", value: summary.unique_countries.toLocaleString() },
+    { title: "Total Downloads", hidden: false },
+    { title: "Approx Users", hidden: false },
+    { title: "Countries", hidden: true },
   ]
-  if (showPackages) {
-    cards.push({ title: packagesLabel, value: summary.unique_packages.toLocaleString() })
-  }
+  if (showPackages) cards.push({ title: packagesLabel, hidden: false })
+
+  const values: Record<string, string> = summary ? {
+    "Total Downloads": summary.total_downloads.toLocaleString(),
+    "Approx Users": summary.unique_users.toLocaleString(),
+    "Countries": summary.unique_countries.toLocaleString(),
+    [packagesLabel]: summary.unique_packages.toLocaleString(),
+  } : {}
 
   return (
-    <div className={`grid ${cols}`}>
+    <div className={`grid grid-cols-2 gap-4 ${showPackages ? "lg:grid-cols-4" : "lg:grid-cols-3"}`}>
       {cards.map((c) => (
-        <Card key={c.title}>
+        <Card key={c.title} className={c.hidden ? "hidden lg:flex" : ""}>
           <CardHeader className="pb-2">
             <CardTitle className="text-sm font-medium text-muted-foreground">
               {c.title}
             </CardTitle>
           </CardHeader>
           <CardContent>
-            <p className="text-3xl font-bold">{c.value}</p>
+            {loading || !summary ? (
+              <Skeleton className="h-9 w-24" />
+            ) : (
+              <p className="text-3xl font-bold">{values[c.title]}</p>
+            )}
           </CardContent>
         </Card>
       ))}

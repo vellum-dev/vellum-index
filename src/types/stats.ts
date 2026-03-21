@@ -9,7 +9,7 @@ export interface OverviewPackage {
   name: string
   total: number
   total_downloads: Record<string, number>
-  archs: Record<string, number>
+  archs: Record<string, Record<string, number>>
   is_bootstrap: boolean
   is_framework: boolean
 }

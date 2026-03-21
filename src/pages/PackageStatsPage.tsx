@@ -70,7 +70,7 @@ export function PackageStatsPage() {
           </BreadcrumbItem>
           <BreadcrumbSeparator />
           <BreadcrumbItem>
-            <BreadcrumbPage>Stats</BreadcrumbPage>
+            <BreadcrumbPage>Statistics</BreadcrumbPage>
           </BreadcrumbItem>
         </BreadcrumbList>
       </Breadcrumb>
