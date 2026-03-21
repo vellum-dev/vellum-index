@@ -121,12 +121,6 @@ function PackageActions({ name, currentPkg }: { name: string; currentPkg: FlatPa
           Flag Package Out-of-Date
         </a>
         <DownloadButton name={name} currentPkg={currentPkg} />
-        <Link
-          to={`/stats/${name}`}
-          className="text-sm text-primary hover:underline"
-        >
-          Statistics
-        </Link>
       </div>
     </div>
   );
