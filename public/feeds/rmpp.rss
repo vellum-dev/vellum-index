@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2026 16:57:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 12:47:26 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>rm-shot 1.0.3-r2</title>
+      <link>https://github.com/rmitchellscott/rm-shot</link>
+      <description><![CDATA[Screenshot extension for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>rmitchellscott</author>
+      <category>utilities</category>
+      <pubDate>Tue, 24 Mar 2026 12:47:05 +0000</pubDate>
+      <guid isPermaLink="false">rm-shot-1.0.3-r2</guid>
+    </item>
+    <item>
+      <title>quicksettings-screenshot 1.0.2-r4</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a screenshot button to the quick settings menu.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.24 - 3.27]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Tue, 24 Mar 2026 12:47:05 +0000</pubDate>
+      <guid isPermaLink="false">quicksettings-screenshot-1.0.2-r4</guid>
+    </item>
     <item>
       <title>floating-toolbar 2.0.2-r0</title>
       <link>https://github.com/FouzR/xovi-extensions</link>
@@ -105,15 +123,6 @@
       <category>ui</category>
       <pubDate>Fri, 20 Mar 2026 02:32:34 +0000</pubDate>
       <guid isPermaLink="false">quicksheet-use-template-1.0.1-r0</guid>
-    </item>
-    <item>
-      <title>quicksettings-screenshot 1.0.2-r3</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Adds a screenshot button to the quick settings menu.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.24 - 3.27]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Fri, 20 Mar 2026 02:32:33 +0000</pubDate>
-      <guid isPermaLink="false">quicksettings-screenshot-1.0.2-r3</guid>
     </item>
     <item>
       <title>quicksettings-clock-serif 1.0.2-r1</title>
@@ -690,15 +699,6 @@
       <category>utilities</category>
       <pubDate>Wed, 18 Feb 2026 20:06:35 +0000</pubDate>
       <guid isPermaLink="false">rm-stylus-0.3.0-r2</guid>
-    </item>
-    <item>
-      <title>rm-shot 1.0.3-r1</title>
-      <link>https://github.com/rmitchellscott/rm-shot</link>
-      <description><![CDATA[Screenshot extension for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>rmitchellscott</author>
-      <category>utilities</category>
-      <pubDate>Wed, 18 Feb 2026 20:06:35 +0000</pubDate>
-      <guid isPermaLink="false">rm-shot-1.0.3-r1</guid>
     </item>
     <item>
       <title>vellum 0.2.1-r0</title>
