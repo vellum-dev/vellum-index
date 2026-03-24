@@ -7349,6 +7349,50 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-24T12:47:05Z"
+      },
+      "2.0.0-r0": {
+        "pkgdesc": "Adds a screenshot button to the quick settings menu.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.27",
+        "os_constraints": [
+          {
+            "version": "3.25",
+            "operator": ">="
+          },
+          {
+            "version": "3.27",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "rm-shot>=1.1",
+          "rm-shot<1.2",
+          "xovi-message-broker>=18",
+          "xovi-message-broker<19"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-03-24T15:06:20Z"
       }
     },
     "quicksheet-use-template": {
@@ -7921,6 +7965,40 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-24T12:47:05Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Screenshot extension for xovi framework",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "GPL-3.0-or-later",
+        "url": "https://github.com/rmitchellscott/rm-shot",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "framebuffer-spy>=18",
+          "framebuffer-spy<19",
+          "xovi-message-broker>=18",
+          "xovi-message-broker<19"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-03-24T15:06:21Z"
       }
     },
     "rm-stylus": {
@@ -10860,7 +10938,7 @@
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
-          "framework"
+          "utilities"
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
@@ -10892,7 +10970,7 @@
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
-          "framework"
+          "utilities"
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
@@ -10924,7 +11002,7 @@
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
-          "framework"
+          "utilities"
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
@@ -11402,5 +11480,5 @@
       }
     }
   },
-  "generated": "2026-03-24T15:02:58Z"
+  "generated": "2026-03-24T15:06:42Z"
 }
