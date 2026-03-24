@@ -3705,7 +3705,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z"
       },
-      "18.0.0-r0": {
+      "18.0.0-r1": {
         "pkgdesc": "Module for exposing the address of the system framebuffer",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -3739,7 +3739,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-24T15:02:39Z"
+        "released": "2026-03-24T15:24:44Z"
       }
     },
     "gesture-colour-settings": {
@@ -6978,7 +6978,7 @@
         "auto_install": false,
         "released": "2026-03-18T22:05:22Z"
       },
-      "18.0.0-r0": {
+      "18.0.0-r1": {
         "pkgdesc": "Injects a QT module to execute shell commands from QML",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -7007,7 +7007,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-24T15:02:42Z"
+        "released": "2026-03-24T15:24:48Z"
       }
     },
     "qt-resource-rebuilder": {
@@ -7073,7 +7073,7 @@
         "auto_install": false,
         "released": "2026-03-18T22:05:22Z"
       },
-      "18.0.0-r0": {
+      "18.0.0-r1": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -7102,7 +7102,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-24T15:02:42Z"
+        "released": "2026-03-24T15:24:48Z"
       }
     },
     "quicksettings-clock-serif": {
@@ -11032,7 +11032,7 @@
         "auto_install": false,
         "released": "2026-03-18T22:05:27Z"
       },
-      "18.0.0-r0": {
+      "18.0.0-r1": {
         "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -11061,7 +11061,8 @@
         ],
         "depends": [
           "xovi-extensions",
-          "xovi-message-broker",
+          "xovi-message-broker>=18.0.0",
+          "xovi-message-broker<19.0.0",
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
@@ -11072,7 +11073,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-24T15:02:46Z"
+        "released": "2026-03-24T15:24:54Z"
       }
     },
     "xovi": {
@@ -11218,7 +11219,7 @@
         "auto_install": false,
         "released": "2026-03-18T22:05:27Z"
       },
-      "18.0.0-r0": {
+      "18.0.0-r1": {
         "pkgdesc": "Extensions for xovi framework",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -11254,7 +11255,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-24T15:02:46Z"
+        "released": "2026-03-24T15:24:54Z"
       }
     },
     "xovi-message-broker": {
@@ -11320,7 +11321,7 @@
         "auto_install": false,
         "released": "2026-03-18T22:05:27Z"
       },
-      "18.0.0-r0": {
+      "18.0.0-r1": {
         "pkgdesc": "IPC messaging between xovi extensions",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -11349,7 +11350,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-24T15:02:46Z"
+        "released": "2026-03-24T15:24:54Z"
       }
     },
     "xovi-settings-main": {
@@ -11515,5 +11516,5 @@
       }
     }
   },
-  "generated": "2026-03-24T15:12:28Z"
+  "generated": "2026-03-24T15:25:11Z"
 }
