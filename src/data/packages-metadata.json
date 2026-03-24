@@ -4908,6 +4908,48 @@
         "released": "2026-02-10T23:43:08Z"
       }
     },
+    "ghostbuster": {
+      "1.0.0-r0": {
+        "pkgdesc": "5-finger tap to perform a full screen refresh.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.22",
+        "os_max": "3.27",
+        "os_constraints": [
+          {
+            "version": "3.22",
+            "operator": ">="
+          },
+          {
+            "version": "3.27",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-03-24T20:57:30Z"
+      }
+    },
     "gomarkablestream": {
       "0.21-r0": {
         "pkgdesc": "Stream your reMarkable screen to a web browser",
@@ -11516,5 +11558,5 @@
       }
     }
   },
-  "generated": "2026-03-24T15:25:11Z"
+  "generated": "2026-03-24T20:57:56Z"
 }
