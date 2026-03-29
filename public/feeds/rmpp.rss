@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 17:44:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 22:37:14 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>prevent-notebook-zoomout 1.0.3-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.25 - 3.27]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Sun, 29 Mar 2026 22:36:52 +0000</pubDate>
+      <guid isPermaLink="false">prevent-notebook-zoomout-1.0.3-r0</guid>
+    </item>
     <item>
       <title>appload 0.5.0-r0</title>
       <link>https://github.com/asivery/rm-appload</link>
