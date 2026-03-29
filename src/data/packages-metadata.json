@@ -11178,6 +11178,37 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-24T15:02:46Z"
+      },
+      "0.3.3-r0": {
+        "pkgdesc": "Core xovi framework for reMarkable tablets",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/xovi",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [
+          "xovi-extensions<18.0.0"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-03-29T03:27:32Z"
       }
     },
     "xovi-extensions": {
@@ -11558,5 +11589,5 @@
       }
     }
   },
-  "generated": "2026-03-24T23:07:19Z"
+  "generated": "2026-03-29T03:27:47Z"
 }

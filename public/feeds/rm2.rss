@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 23:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 03:27:47 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>xovi 0.3.3-r0</title>
+      <link>https://github.com/asivery/xovi</link>
+      <description><![CDATA[Core xovi framework for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Sun, 29 Mar 2026 03:27:32 +0000</pubDate>
+      <guid isPermaLink="false">xovi-0.3.3-r0</guid>
+    </item>
     <item>
       <title>ghostbuster 1.0.0-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
