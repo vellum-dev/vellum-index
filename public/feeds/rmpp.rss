@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2026 18:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 18:45:54 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>vellum 0.2.4-r0</title>
@@ -13,8 +13,26 @@
       <description><![CDATA[Package manager wrapper for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
       <author>vellum-dev</author>
       <category>utilities</category>
-      <pubDate>Mon, 30 Mar 2026 18:45:14 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 18:45:37 +0000</pubDate>
       <guid isPermaLink="false">vellum-0.2.4-r0</guid>
+    </item>
+    <item>
+      <title>gestures-fouzr 1.0.10-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds four-finger document drawer, and multiple swipe gestures to control pen settings.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Mon, 30 Mar 2026 18:45:29 +0000</pubDate>
+      <guid isPermaLink="false">gestures-fouzr-1.0.10-r0</guid>
+    </item>
+    <item>
+      <title>floating-toolbar 2.0.3-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Floating toolbar for quick access to your favourite tools, presets, and layers.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Mon, 30 Mar 2026 18:45:28 +0000</pubDate>
+      <guid isPermaLink="false">floating-toolbar-2.0.3-r0</guid>
     </item>
     <item>
       <title>prevent-notebook-zoomout 1.0.3-r0</title>
