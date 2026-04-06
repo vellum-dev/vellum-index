@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2026 15:35:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 16:28:26 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>librarian 0.3.1-r0</title>
+      <link>https://github.com/rmitchellscott/rm-librarian</link>
+      <description><![CDATA[Document library management extension<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>rmitchellscott</author>
+      <category>framework</category>
+      <pubDate>Mon, 06 Apr 2026 16:28:03 +0000</pubDate>
+      <guid isPermaLink="false">librarian-0.3.1-r0</guid>
+    </item>
     <item>
       <title>vellum 0.2.4-r0</title>
       <link>https://github.com/vellum-dev/vellum-cli</link>
