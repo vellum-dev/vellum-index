@@ -8282,6 +8282,40 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-24T15:06:21Z"
+      },
+      "1.1.2-r0": {
+        "pkgdesc": "Screenshot extension for xovi framework",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "GPL-3.0-or-later",
+        "url": "https://github.com/rmitchellscott/rm-shot",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "framebuffer-spy>=18",
+          "framebuffer-spy<19",
+          "xovi-message-broker>=18",
+          "xovi-message-broker<19"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-04-06T18:33:48Z"
       }
     },
     "rm-stylus": {
@@ -11859,5 +11893,5 @@
       }
     }
   },
-  "generated": "2026-04-06T18:13:54Z"
+  "generated": "2026-04-06T18:34:08Z"
 }
