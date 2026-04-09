@@ -3913,7 +3913,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z"
       },
-      "18.0.0-r1": {
+      "18.0.0-r2": {
         "pkgdesc": "Module for exposing the address of the system framebuffer",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -3947,7 +3947,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-24T15:24:44Z"
+        "released": "2026-04-09T19:16:14Z"
       }
     },
     "gesture-colour-settings": {
@@ -7345,7 +7345,7 @@
         "auto_install": false,
         "released": "2026-03-18T22:05:22Z"
       },
-      "18.0.0-r1": {
+      "18.0.0-r2": {
         "pkgdesc": "Injects a QT module to execute shell commands from QML",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -7374,7 +7374,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-24T15:24:48Z"
+        "released": "2026-04-09T19:16:18Z"
       }
     },
     "qt-resource-rebuilder": {
@@ -7440,7 +7440,7 @@
         "auto_install": false,
         "released": "2026-03-18T22:05:22Z"
       },
-      "18.0.0-r1": {
+      "18.0.0-r2": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -7469,7 +7469,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-24T15:24:48Z"
+        "released": "2026-04-09T19:16:18Z"
       }
     },
     "quicksettings-clock-serif": {
@@ -11462,7 +11462,7 @@
         "auto_install": false,
         "released": "2026-03-18T22:05:27Z"
       },
-      "18.0.0-r1": {
+      "18.0.0-r2": {
         "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -11503,7 +11503,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-24T15:24:54Z"
+        "released": "2026-04-09T19:16:23Z"
       }
     },
     "xovi": {
@@ -11680,7 +11680,7 @@
         "auto_install": false,
         "released": "2026-03-18T22:05:27Z"
       },
-      "18.0.0-r1": {
+      "18.0.0-r2": {
         "pkgdesc": "Extensions for xovi framework",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -11716,7 +11716,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-24T15:24:54Z"
+        "released": "2026-04-09T19:16:24Z"
       }
     },
     "xovi-message-broker": {
@@ -11782,7 +11782,7 @@
         "auto_install": false,
         "released": "2026-03-18T22:05:27Z"
       },
-      "18.0.0-r1": {
+      "18.0.0-r2": {
         "pkgdesc": "IPC messaging between xovi extensions",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -11811,7 +11811,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-24T15:24:54Z"
+        "released": "2026-04-09T19:16:24Z"
       }
     },
     "xovi-settings-main": {
@@ -11857,7 +11857,7 @@
       }
     },
     "zig": {
-      "0.15.2-r0": {
+      "0.15.2-r1": {
         "pkgdesc": "A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software",
         "upstream_author": "ziglang",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
@@ -11884,11 +11884,11 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:13Z"
+        "released": "2026-04-09T19:16:24Z"
       }
     },
     "zig-doc": {
-      "0.15.2-r0": {
+      "0.15.2-r1": {
         "pkgdesc": "Zig documentation (language reference)",
         "upstream_author": "ziglang",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
@@ -11915,7 +11915,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:13Z"
+        "released": "2026-04-09T19:16:24Z"
       }
     },
     "vnsee-qtfb-rm1": {
@@ -11977,5 +11977,5 @@
       }
     }
   },
-  "generated": "2026-04-09T12:55:46Z"
+  "generated": "2026-04-09T19:16:41Z"
 }

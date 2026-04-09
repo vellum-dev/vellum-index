@@ -5,8 +5,80 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2026 12:55:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 19:16:41 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>zig-doc 0.15.2-r1</title>
+      <link>https://ziglang.org</link>
+      <description><![CDATA[Zig documentation (language reference)<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>ziglang</author>
+      <category>utilities</category>
+      <pubDate>Thu, 09 Apr 2026 19:16:24 +0000</pubDate>
+      <guid isPermaLink="false">zig-doc-0.15.2-r1</guid>
+    </item>
+    <item>
+      <title>zig 0.15.2-r1</title>
+      <link>https://ziglang.org</link>
+      <description><![CDATA[A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>ziglang</author>
+      <category>utilities</category>
+      <pubDate>Thu, 09 Apr 2026 19:16:24 +0000</pubDate>
+      <guid isPermaLink="false">zig-0.15.2-r1</guid>
+    </item>
+    <item>
+      <title>xovi-message-broker 18.0.0-r2</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[IPC messaging between xovi extensions<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Thu, 09 Apr 2026 19:16:24 +0000</pubDate>
+      <guid isPermaLink="false">xovi-message-broker-18.0.0-r2</guid>
+    </item>
+    <item>
+      <title>xovi-extensions 18.0.0-r2</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Extensions for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.20+]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Thu, 09 Apr 2026 19:16:24 +0000</pubDate>
+      <guid isPermaLink="false">xovi-extensions-18.0.0-r2</guid>
+    </item>
+    <item>
+      <title>webserver-remote 18.0.0-r2</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Exposes the USB webserver to all interfaces with connection confirmation dialog<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.23 - 3.27]]></description>
+      <author>asivery</author>
+      <category>utilities</category>
+      <pubDate>Thu, 09 Apr 2026 19:16:23 +0000</pubDate>
+      <guid isPermaLink="false">webserver-remote-18.0.0-r2</guid>
+    </item>
+    <item>
+      <title>qt-resource-rebuilder 18.0.0-r2</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Rebuilds QT resource databases on the fly to replace or add QML files<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Thu, 09 Apr 2026 19:16:18 +0000</pubDate>
+      <guid isPermaLink="false">qt-resource-rebuilder-18.0.0-r2</guid>
+    </item>
+    <item>
+      <title>qt-command-executor 18.0.0-r2</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Injects a QT module to execute shell commands from QML<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Thu, 09 Apr 2026 19:16:18 +0000</pubDate>
+      <guid isPermaLink="false">qt-command-executor-18.0.0-r2</guid>
+    </item>
+    <item>
+      <title>framebuffer-spy 18.0.0-r2</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Module for exposing the address of the system framebuffer<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Thu, 09 Apr 2026 19:16:14 +0000</pubDate>
+      <guid isPermaLink="false">framebuffer-spy-18.0.0-r2</guid>
+    </item>
     <item>
       <title>duplicate-annotated-pages 1.0.0-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
@@ -114,60 +186,6 @@
       <category>ui</category>
       <pubDate>Tue, 24 Mar 2026 20:57:30 +0000</pubDate>
       <guid isPermaLink="false">ghostbuster-1.0.0-r0</guid>
-    </item>
-    <item>
-      <title>xovi-message-broker 18.0.0-r1</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[IPC messaging between xovi extensions<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Tue, 24 Mar 2026 15:24:54 +0000</pubDate>
-      <guid isPermaLink="false">xovi-message-broker-18.0.0-r1</guid>
-    </item>
-    <item>
-      <title>xovi-extensions 18.0.0-r1</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Extensions for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.20+]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Tue, 24 Mar 2026 15:24:54 +0000</pubDate>
-      <guid isPermaLink="false">xovi-extensions-18.0.0-r1</guid>
-    </item>
-    <item>
-      <title>webserver-remote 18.0.0-r1</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Exposes the USB webserver to all interfaces with connection confirmation dialog<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.23 - 3.27]]></description>
-      <author>asivery</author>
-      <category>utilities</category>
-      <pubDate>Tue, 24 Mar 2026 15:24:54 +0000</pubDate>
-      <guid isPermaLink="false">webserver-remote-18.0.0-r1</guid>
-    </item>
-    <item>
-      <title>qt-resource-rebuilder 18.0.0-r1</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Rebuilds QT resource databases on the fly to replace or add QML files<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Tue, 24 Mar 2026 15:24:48 +0000</pubDate>
-      <guid isPermaLink="false">qt-resource-rebuilder-18.0.0-r1</guid>
-    </item>
-    <item>
-      <title>qt-command-executor 18.0.0-r1</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Injects a QT module to execute shell commands from QML<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Tue, 24 Mar 2026 15:24:48 +0000</pubDate>
-      <guid isPermaLink="false">qt-command-executor-18.0.0-r1</guid>
-    </item>
-    <item>
-      <title>framebuffer-spy 18.0.0-r1</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Module for exposing the address of the system framebuffer<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Tue, 24 Mar 2026 15:24:44 +0000</pubDate>
-      <guid isPermaLink="false">framebuffer-spy-18.0.0-r1</guid>
     </item>
     <item>
       <title>rmstream 0.1.4-r0</title>
@@ -1023,24 +1041,6 @@
       <category>utilities</category>
       <pubDate>Wed, 11 Feb 2026 16:21:02 +0000</pubDate>
       <guid isPermaLink="false">vellum-bash-completion-3.0.3-r3</guid>
-    </item>
-    <item>
-      <title>zig-doc 0.15.2-r0</title>
-      <link>https://ziglang.org</link>
-      <description><![CDATA[Zig documentation (language reference)<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>ziglang</author>
-      <category>utilities</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:13 +0000</pubDate>
-      <guid isPermaLink="false">zig-doc-0.15.2-r0</guid>
-    </item>
-    <item>
-      <title>zig 0.15.2-r0</title>
-      <link>https://ziglang.org</link>
-      <description><![CDATA[A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>ziglang</author>
-      <category>utilities</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:13 +0000</pubDate>
-      <guid isPermaLink="false">zig-0.15.2-r0</guid>
     </item>
     <item>
       <title>xovi-message-broker 16.0.0-r2</title>
