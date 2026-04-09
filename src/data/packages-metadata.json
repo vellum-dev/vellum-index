@@ -1433,6 +1433,48 @@
         "released": "2026-03-20T01:45:19Z"
       }
     },
+    "disable-infinite-scroll": {
+      "1.0.0-r0": {
+        "pkgdesc": "Disables infinite scroll by limiting zooming and scrolling to page boundaries.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.27",
+        "os_constraints": [
+          {
+            "version": "3.25",
+            "operator": ">="
+          },
+          {
+            "version": "3.27",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-04-09T12:55:17Z"
+      }
+    },
     "disable-selection-autoscroll": {
       "1.0.0-r2": {
         "pkgdesc": "Disables the auto scrolling when moving a selection added in 3.24.",
@@ -1473,6 +1515,48 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-20T02:32:27Z"
+      }
+    },
+    "duplicate-annotated-pages": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds an option to the Duplicate menu to duplicate only pages that have been annotated.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.27",
+        "os_constraints": [
+          {
+            "version": "3.25",
+            "operator": ">="
+          },
+          {
+            "version": "3.27",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-04-09T12:55:17Z"
       }
     },
     "enable-all-colors": {
@@ -11893,5 +11977,5 @@
       }
     }
   },
-  "generated": "2026-04-06T18:34:08Z"
+  "generated": "2026-04-09T12:55:46Z"
 }
