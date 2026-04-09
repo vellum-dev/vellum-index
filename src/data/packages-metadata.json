@@ -2027,7 +2027,7 @@
       }
     },
     "entware-rc": {
-      "0.1-r0": {
+      "0.1-r3": {
         "pkgdesc": "Manage entware installed services",
         "upstream_author": "toltec-dev",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -2056,7 +2056,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-02-10T23:43:06Z"
+        "released": "2026-04-09T22:48:44Z"
       }
     },
     "extend-list-title-width": {
@@ -11977,5 +11977,5 @@
       }
     }
   },
-  "generated": "2026-04-09T19:16:41Z"
+  "generated": "2026-04-09T22:49:13Z"
 }

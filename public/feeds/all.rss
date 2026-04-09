@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2026 19:16:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 22:49:13 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>entware-rc 0.1-r3</title>
+      <link>https://toltec-dev.org/</link>
+      <description><![CDATA[Manage entware installed services<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>toltec-dev</author>
+      <category>utilities</category>
+      <pubDate>Thu, 09 Apr 2026 22:48:44 +0000</pubDate>
+      <guid isPermaLink="false">entware-rc-0.1-r3</guid>
+    </item>
     <item>
       <title>zig-doc 0.15.2-r1</title>
       <link>https://ziglang.org</link>
@@ -2526,15 +2535,6 @@
       <category>ui</category>
       <pubDate>Tue, 10 Feb 2026 23:43:06 +0000</pubDate>
       <guid isPermaLink="false">fav-tag-button-1.0.0-r0</guid>
-    </item>
-    <item>
-      <title>entware-rc 0.1-r0</title>
-      <link>https://toltec-dev.org/</link>
-      <description><![CDATA[Manage entware installed services<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>toltec-dev</author>
-      <category>utilities</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:06 +0000</pubDate>
-      <guid isPermaLink="false">entware-rc-0.1-r0</guid>
     </item>
     <item>
       <title>entware 1.0.0-r1</title>
