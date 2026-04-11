@@ -1600,7 +1600,7 @@
       }
     },
     "duplicate-annotated-pages": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Adds an option to the Duplicate menu to duplicate only pages that have been annotated.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -1609,11 +1609,11 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "os_min": "3.25",
+        "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
           {
-            "version": "3.25",
+            "version": "3.26",
             "operator": ">="
           },
           {
@@ -1628,7 +1628,9 @@
           "rmppm"
         ],
         "depends": [
-          "qt-resource-rebuilder"
+          "qt-resource-rebuilder",
+          "librarian<1.0.0",
+          "qt-command-executor<=18"
         ],
         "conflicts": [],
         "provides": [],
@@ -1638,7 +1640,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-04-09T12:55:17Z"
+        "released": "2026-04-11T21:42:57Z"
       }
     },
     "enable-all-colors": {
@@ -12088,5 +12090,5 @@
       }
     }
   },
-  "generated": "2026-04-11T17:55:55Z"
+  "generated": "2026-04-11T21:43:26Z"
 }
