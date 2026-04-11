@@ -1515,6 +1515,46 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-09T12:55:17Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Disables infinite scroll by limiting zooming and scrolling to page boundaries.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.27",
+        "os_constraints": [
+          {
+            "version": "3.25",
+            "operator": ">="
+          },
+          {
+            "version": "3.27",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-04-11T17:55:27Z"
       }
     },
     "disable-selection-autoscroll": {
@@ -12048,5 +12088,5 @@
       }
     }
   },
-  "generated": "2026-04-11T17:44:34Z"
+  "generated": "2026-04-11T17:55:55Z"
 }
