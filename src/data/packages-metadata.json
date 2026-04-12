@@ -1600,7 +1600,7 @@
       }
     },
     "duplicate-annotated-pages": {
-      "1.0.0-r1": {
+      "1.0.0-r2": {
         "pkgdesc": "Adds an option to the Duplicate menu to duplicate only pages that have been annotated.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -1630,7 +1630,7 @@
         "depends": [
           "qt-resource-rebuilder",
           "librarian<1.0.0",
-          "qt-command-executor<=18"
+          "qt-command-executor<19"
         ],
         "conflicts": [],
         "provides": [],
@@ -1640,7 +1640,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-04-11T21:42:57Z"
+        "released": "2026-04-12T18:23:53Z"
       }
     },
     "enable-all-colors": {
@@ -12133,5 +12133,5 @@
       }
     }
   },
-  "generated": "2026-04-12T15:38:50Z"
+  "generated": "2026-04-12T18:24:23Z"
 }
