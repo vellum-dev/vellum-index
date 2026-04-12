@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2026 21:43:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 15:38:50 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>rmhacks 0.0.11_pre4_git4-r0</title>
+      <link>https://github.com/asivery/rm-hacks-qmd</link>
+      <description><![CDATA[reMarkable hacks in QMD format<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.24 - 3.25]]></description>
+      <author>asivery</author>
+      <category>ui</category>
+      <pubDate>Sun, 12 Apr 2026 15:38:28 +0000</pubDate>
+      <guid isPermaLink="false">rmhacks-0.0.11_pre4_git4-r0</guid>
+    </item>
     <item>
       <title>duplicate-annotated-pages 1.0.0-r1</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
