@@ -12083,6 +12083,35 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-09T19:16:24Z"
+      },
+      "0.16.0-r0": {
+        "pkgdesc": "A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software",
+        "upstream_author": "ziglang",
+        "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://ziglang.org",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-04-16T18:15:17Z"
       }
     },
     "zig-doc": {
@@ -12114,6 +12143,35 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-09T19:16:24Z"
+      },
+      "0.16.0-r0": {
+        "pkgdesc": "Zig documentation (language reference)",
+        "upstream_author": "ziglang",
+        "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://ziglang.org",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-04-16T18:15:17Z"
       }
     },
     "vnsee-qtfb-rm1": {
@@ -12175,5 +12233,5 @@
       }
     }
   },
-  "generated": "2026-04-16T17:52:48Z"
+  "generated": "2026-04-16T18:15:36Z"
 }

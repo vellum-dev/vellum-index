@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2026 17:52:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 18:15:36 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>zig-doc 0.16.0-r0</title>
+      <link>https://ziglang.org</link>
+      <description><![CDATA[Zig documentation (language reference)<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>ziglang</author>
+      <category>utilities</category>
+      <pubDate>Thu, 16 Apr 2026 18:15:17 +0000</pubDate>
+      <guid isPermaLink="false">zig-doc-0.16.0-r0</guid>
+    </item>
+    <item>
+      <title>zig 0.16.0-r0</title>
+      <link>https://ziglang.org</link>
+      <description><![CDATA[A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>ziglang</author>
+      <category>utilities</category>
+      <pubDate>Thu, 16 Apr 2026 18:15:17 +0000</pubDate>
+      <guid isPermaLink="false">zig-0.16.0-r0</guid>
+    </item>
     <item>
       <title>bettertoc 1.2.2-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
