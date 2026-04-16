@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2026 18:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 22:52:07 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>pen-layer-memory 1.0.0-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Remembers which layer each pen tool was last used on, and switches to that layer when the pen is selected.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Thu, 16 Apr 2026 22:51:44 +0000</pubDate>
+      <guid isPermaLink="false">pen-layer-memory-1.0.0-r0</guid>
+    </item>
     <item>
       <title>zig-doc 0.16.0-r0</title>
       <link>https://ziglang.org</link>
