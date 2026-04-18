@@ -7328,6 +7328,46 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-16T22:51:44Z"
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Remembers which layer each pen tool was last used on, and switches to that layer when the pen is selected.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.26",
+        "os_max": "3.27",
+        "os_constraints": [
+          {
+            "version": "3.26",
+            "operator": ">="
+          },
+          {
+            "version": "3.27",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-04-18T19:26:40Z"
       }
     },
     "prevent-notebook-zoomout": {
@@ -12317,5 +12357,5 @@
       }
     }
   },
-  "generated": "2026-04-17T18:47:48Z"
+  "generated": "2026-04-18T19:26:59Z"
 }
