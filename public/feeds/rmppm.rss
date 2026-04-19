@@ -5,8 +5,35 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2026 19:26:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 17:43:12 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>tripletap 1.0.0-r2</title>
+      <link>https://github.com/rmitchellscott/xovi-tripletap</link>
+      <description><![CDATA[Start xovi by triple-pressing the power button<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>rmitchellscott</author>
+      <category>utilities</category>
+      <pubDate>Sun, 19 Apr 2026 17:42:53 +0000</pubDate>
+      <guid isPermaLink="false">tripletap-1.0.0-r2</guid>
+    </item>
+    <item>
+      <title>tailscale 1.96.2-r1</title>
+      <link>https://tailscale.com</link>
+      <description><![CDATA[Tailscale VPN client<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>tailscale</author>
+      <category>utilities</category>
+      <pubDate>Sun, 19 Apr 2026 17:42:52 +0000</pubDate>
+      <guid isPermaLink="false">tailscale-1.96.2-r1</guid>
+    </item>
+    <item>
+      <title>entware-rc 0.1-r4</title>
+      <link>https://toltec-dev.org/</link>
+      <description><![CDATA[Manage entware installed services<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>toltec-dev</author>
+      <category>utilities</category>
+      <pubDate>Sun, 19 Apr 2026 17:42:42 +0000</pubDate>
+      <guid isPermaLink="false">entware-rc-0.1-r4</guid>
+    </item>
     <item>
       <title>pen-layer-memory 1.0.1-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
@@ -105,15 +132,6 @@
       <category>utilities</category>
       <pubDate>Sat, 11 Apr 2026 17:03:16 +0000</pubDate>
       <guid isPermaLink="false">vellum-0.2.5-r0</guid>
-    </item>
-    <item>
-      <title>entware-rc 0.1-r3</title>
-      <link>https://toltec-dev.org/</link>
-      <description><![CDATA[Manage entware installed services<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>toltec-dev</author>
-      <category>utilities</category>
-      <pubDate>Thu, 09 Apr 2026 22:48:44 +0000</pubDate>
-      <guid isPermaLink="false">entware-rc-0.1-r3</guid>
     </item>
     <item>
       <title>zig-doc 0.15.2-r1</title>
@@ -782,15 +800,6 @@
       <guid isPermaLink="false">vellum-0.2.2-r0</guid>
     </item>
     <item>
-      <title>tailscale 1.96.2-r0</title>
-      <link>https://tailscale.com</link>
-      <description><![CDATA[Tailscale VPN client<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>tailscale</author>
-      <category>utilities</category>
-      <pubDate>Thu, 19 Mar 2026 03:20:43 +0000</pubDate>
-      <guid isPermaLink="false">tailscale-1.96.2-r0</guid>
-    </item>
-    <item>
       <title>toolbar-icon 1.0.8-r0</title>
       <link>https://github.com/FouzR/xovi-extensions</link>
       <description><![CDATA[Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
@@ -1284,15 +1293,6 @@
       <category>ui</category>
       <pubDate>Tue, 10 Feb 2026 23:43:12 +0000</pubDate>
       <guid isPermaLink="false">uncompress-dock-1.0.0-r0</guid>
-    </item>
-    <item>
-      <title>tripletap 1.0.0-r1</title>
-      <link>https://github.com/rmitchellscott/xovi-tripletap</link>
-      <description><![CDATA[Start xovi by triple-pressing the power button<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>rmitchellscott</author>
-      <category>utilities</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:12 +0000</pubDate>
-      <guid isPermaLink="false">tripletap-1.0.0-r1</guid>
     </item>
     <item>
       <title>toolbar-icon 1.0.7-r0</title>
