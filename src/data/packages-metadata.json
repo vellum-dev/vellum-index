@@ -324,6 +324,46 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-29T17:44:06Z"
+      },
+      "0.5.1-r0": {
+        "pkgdesc": "XOVI extension for windowed and fullscreen apps",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-appload",
+        "os_min": "3.26",
+        "os_max": "3.27",
+        "os_constraints": [
+          {
+            "version": "3.26",
+            "operator": ">="
+          },
+          {
+            "version": "3.27",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-04-19T20:56:08Z"
       }
     },
     "bat": {
@@ -12399,5 +12439,5 @@
       }
     }
   },
-  "generated": "2026-04-19T17:44:12Z"
+  "generated": "2026-04-19T20:56:38Z"
 }
