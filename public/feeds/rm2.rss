@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 02:43:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 03:18:28 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>create-document-from-pages 1.0.0-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds an option to the Page Overview More menu to create a new document from selected pages.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Tue, 21 Apr 2026 03:17:55 +0000</pubDate>
+      <guid isPermaLink="false">create-document-from-pages-1.0.0-r0</guid>
+    </item>
     <item>
       <title>touch-lock 1.0.2-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>

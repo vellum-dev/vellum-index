@@ -1146,6 +1146,50 @@
         "released": "2026-02-10T23:43:05Z"
       }
     },
+    "create-document-from-pages": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds an option to the Page Overview More menu to create a new document from selected pages.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.26",
+        "os_max": "3.27",
+        "os_constraints": [
+          {
+            "version": "3.26",
+            "operator": ">="
+          },
+          {
+            "version": "3.27",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "librarian<1.0.0",
+          "qt-command-executor<19"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-04-21T03:17:55Z"
+      }
+    },
     "createpages-paperpro": {
       "1.0.0-r0": {
         "pkgdesc": "Overrides new page creation to use Paper Pro dimensions.",
@@ -12632,5 +12676,5 @@
       }
     }
   },
-  "generated": "2026-04-21T02:43:33Z"
+  "generated": "2026-04-21T03:18:28Z"
 }
