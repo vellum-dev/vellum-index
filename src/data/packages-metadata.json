@@ -855,7 +855,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z"
       },
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "Hold stylus button to select-erase, click once to change to selection, click twice to change pen.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -887,7 +887,7 @@
           "rm-stylus>=0.3.0"
         ],
         "conflicts": [
-          "shorcuts-to-choose-eraser",
+          "shortcuts-to-choose-eraser",
           "stylus-button-undo-redo"
         ],
         "provides": [],
@@ -897,7 +897,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:19Z"
+        "released": "2026-04-21T17:05:02Z"
       }
     },
     "change-green-color": {
@@ -2156,7 +2156,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "enable-shortcuts-scroll-page"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -2166,7 +2168,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z"
       },
-      "1.0.1-r1": {
+      "1.0.1-r2": {
         "pkgdesc": "Enables keyboard shortcuts for arrow key page and scroll navigation.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -2196,7 +2198,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "enable-shortcuts-scroll-page"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -2204,7 +2208,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:06Z"
+        "released": "2026-04-21T17:05:04Z"
       }
     },
     "enable-shortcuts-scroll-page": {
@@ -2238,7 +2242,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "enable-shortcuts"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -2278,7 +2284,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "enable-shortcuts"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -2288,7 +2296,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z"
       },
-      "1.0.2-r0": {
+      "1.0.2-r1": {
         "pkgdesc": "Advanced shortcuts with scroll or page change (requires gestureTapToPage).",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -2318,7 +2326,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "enable-shortcuts"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -2326,7 +2336,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-02-10T23:43:06Z"
+        "released": "2026-04-21T17:05:04Z"
       }
     },
     "entware": {
@@ -10079,6 +10089,7 @@
           "rm-stylus=0.2.0"
         ],
         "conflicts": [
+          "button-press-for-pen-change",
           "rubber-eraser-rm1",
           "stylus-button-eraser",
           "stylus-button-undo-redo"
@@ -10124,6 +10135,7 @@
           "rm-stylus=0.2.0"
         ],
         "conflicts": [
+          "button-press-for-pen-change",
           "rubber-eraser-rm1",
           "stylus-button-eraser",
           "stylus-button-undo-redo"
@@ -12676,5 +12688,5 @@
       }
     }
   },
-  "generated": "2026-04-21T03:18:28Z"
+  "generated": "2026-04-21T17:05:36Z"
 }

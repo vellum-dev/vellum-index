@@ -5,8 +5,35 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 03:18:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 17:05:36 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>enable-shortcuts-scroll-page 1.0.2-r1</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Advanced shortcuts with scroll or page change (requires gestureTapToPage).<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.24 - 3.25]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Tue, 21 Apr 2026 17:05:04 +0000</pubDate>
+      <guid isPermaLink="false">enable-shortcuts-scroll-page-1.0.2-r1</guid>
+    </item>
+    <item>
+      <title>enable-shortcuts 1.0.1-r2</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Enables keyboard shortcuts for arrow key page and scroll navigation.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.24 - 3.26]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Tue, 21 Apr 2026 17:05:04 +0000</pubDate>
+      <guid isPermaLink="false">enable-shortcuts-1.0.1-r2</guid>
+    </item>
+    <item>
+      <title>button-press-for-pen-change 1.0.1-r1</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Hold stylus button to select-erase, click once to change to selection, click twice to change pen.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Tue, 21 Apr 2026 17:05:02 +0000</pubDate>
+      <guid isPermaLink="false">button-press-for-pen-change-1.0.1-r1</guid>
+    </item>
     <item>
       <title>create-document-from-pages 1.0.0-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
@@ -825,15 +852,6 @@
       <category>ui</category>
       <pubDate>Fri, 20 Mar 2026 01:45:19 +0000</pubDate>
       <guid isPermaLink="false">change-green-color-1.0.2-r0</guid>
-    </item>
-    <item>
-      <title>button-press-for-pen-change 1.0.1-r0</title>
-      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
-      <description><![CDATA[Hold stylus button to select-erase, click once to change to selection, click twice to change pen.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
-      <author>ingatellent</author>
-      <category>ui</category>
-      <pubDate>Fri, 20 Mar 2026 01:45:19 +0000</pubDate>
-      <guid isPermaLink="false">button-press-for-pen-change-1.0.1-r0</guid>
     </item>
     <item>
       <title>add-tags-to-context-menu 1.0.1-r0</title>
@@ -2618,15 +2636,6 @@
       <guid isPermaLink="false">entware-1.0.0-r1</guid>
     </item>
     <item>
-      <title>enable-shortcuts-scroll-page 1.0.2-r0</title>
-      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
-      <description><![CDATA[Advanced shortcuts with scroll or page change (requires gestureTapToPage).<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.24 - 3.25]]></description>
-      <author>ingatellent</author>
-      <category>ui</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:06 +0000</pubDate>
-      <guid isPermaLink="false">enable-shortcuts-scroll-page-1.0.2-r0</guid>
-    </item>
-    <item>
       <title>enable-shortcuts-scroll-page 1.0.1-r0</title>
       <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
       <description><![CDATA[Advanced shortcuts with scroll or page change (requires gestureTapToPage).<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.23 - 3.24]]></description>
@@ -2643,15 +2652,6 @@
       <category>ui</category>
       <pubDate>Tue, 10 Feb 2026 23:43:06 +0000</pubDate>
       <guid isPermaLink="false">enable-shortcuts-scroll-page-1.0.0-r0</guid>
-    </item>
-    <item>
-      <title>enable-shortcuts 1.0.1-r1</title>
-      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
-      <description><![CDATA[Enables keyboard shortcuts for arrow key page and scroll navigation.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.24 - 3.26]]></description>
-      <author>ingatellent</author>
-      <category>ui</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:06 +0000</pubDate>
-      <guid isPermaLink="false">enable-shortcuts-1.0.1-r1</guid>
     </item>
     <item>
       <title>enable-shortcuts 1.0.0-r0</title>
