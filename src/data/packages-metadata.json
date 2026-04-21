@@ -735,6 +735,48 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-20T17:55:28Z"
+      },
+      "1.4.0-r0": {
+        "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.26",
+        "os_max": "3.27",
+        "os_constraints": [
+          {
+            "version": "3.26",
+            "operator": ">="
+          },
+          {
+            "version": "3.27",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "rmhacks"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-04-21T02:43:00Z"
       }
     },
     "btop": {
@@ -7492,6 +7534,46 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-18T19:26:40Z"
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Remembers which layer each pen tool was last used on, and switches to that layer when the pen is selected.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.26",
+        "os_max": "3.27",
+        "os_constraints": [
+          {
+            "version": "3.26",
+            "operator": ">="
+          },
+          {
+            "version": "3.27",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-04-21T02:43:08Z"
       }
     },
     "prevent-notebook-zoomout": {
@@ -11080,6 +11162,46 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-20T02:32:37Z"
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Adds a button to the toolbar to lock out touch input in documents. Toolbar remains touch-aware and pen input is unaffected.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "os_min": "3.25",
+        "os_max": "3.27",
+        "os_constraints": [
+          {
+            "version": "3.25",
+            "operator": ">="
+          },
+          {
+            "version": "3.27",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-04-21T02:43:13Z"
       }
     },
     "tripletap": {
@@ -12510,5 +12632,5 @@
       }
     }
   },
-  "generated": "2026-04-21T01:52:36Z"
+  "generated": "2026-04-21T02:43:33Z"
 }
