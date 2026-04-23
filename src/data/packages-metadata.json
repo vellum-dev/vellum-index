@@ -6832,7 +6832,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z"
       },
-      "2026.03-r0": {
+      "2026.03-r1": {
         "pkgdesc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.",
         "upstream_author": "koreader",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -6861,7 +6861,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-21T04:01:12Z"
+        "released": "2026-04-23T21:08:59Z"
       }
     },
     "less": {
@@ -12688,5 +12688,5 @@
       }
     }
   },
-  "generated": "2026-04-21T17:05:36Z"
+  "generated": "2026-04-23T21:09:20Z"
 }

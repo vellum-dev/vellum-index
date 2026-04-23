@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 17:05:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 21:09:20 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>koreader 2026.03-r1</title>
+      <link>https://github.com/koreader/koreader</link>
+      <description><![CDATA[An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>koreader</author>
+      <category>apps</category>
+      <pubDate>Thu, 23 Apr 2026 21:08:59 +0000</pubDate>
+      <guid isPermaLink="false">koreader-2026.03-r1</guid>
+    </item>
     <item>
       <title>enable-shortcuts-scroll-page 1.0.2-r1</title>
       <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
@@ -465,15 +474,6 @@
       <category>ui</category>
       <pubDate>Mon, 23 Mar 2026 16:57:13 +0000</pubDate>
       <guid isPermaLink="false">floating-toolbar-2.0.2-r0</guid>
-    </item>
-    <item>
-      <title>koreader 2026.03-r0</title>
-      <link>https://github.com/koreader/koreader</link>
-      <description><![CDATA[An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>koreader</author>
-      <category>apps</category>
-      <pubDate>Sat, 21 Mar 2026 04:01:12 +0000</pubDate>
-      <guid isPermaLink="false">koreader-2026.03-r0</guid>
     </item>
     <item>
       <title>appload 0.4.2-r0</title>
