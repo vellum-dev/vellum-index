@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 12:39:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 21:24:29 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>enable-typing-on-documents 1.0.0-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Enables the text typing feature on PDF and ePUB pages.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Thu, 30 Apr 2026 21:23:58 +0000</pubDate>
+      <guid isPermaLink="false">enable-typing-on-documents-1.0.0-r0</guid>
+    </item>
     <item>
       <title>disable-infinite-scroll 1.1.0-r1</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
