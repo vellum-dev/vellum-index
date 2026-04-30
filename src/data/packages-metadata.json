@@ -1768,7 +1768,7 @@
         "auto_install": false,
         "released": "2026-04-09T12:55:17Z"
       },
-      "1.1.0-r0": {
+      "1.1.0-r1": {
         "pkgdesc": "Disables infinite scroll by limiting zooming and scrolling to page boundaries.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -1798,7 +1798,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "disable-selection-autoscroll"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -1806,7 +1808,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-04-11T17:55:27Z"
+        "released": "2026-04-30T12:39:27Z"
       }
     },
     "disable-selection-autoscroll": {
@@ -1840,7 +1842,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "disable-infinite-scroll"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -12728,5 +12732,5 @@
       }
     }
   },
-  "generated": "2026-04-24T14:12:07Z"
+  "generated": "2026-04-30T12:39:54Z"
 }
