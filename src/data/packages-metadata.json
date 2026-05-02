@@ -780,48 +780,6 @@
       }
     },
     "bettertoc-collapse": {
-      "1.0.0-r0": {
-        "pkgdesc": "Adds chevrons to collapse / expand ToC entries based on indent.",
-        "upstream_author": "rmitchellscott",
-        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
-        "categories": [
-          "ui"
-        ],
-        "license": "GPL-3.0-only",
-        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "os_min": "3.26",
-        "os_max": "3.27",
-        "os_constraints": [
-          {
-            "version": "3.26",
-            "operator": ">="
-          },
-          {
-            "version": "3.27",
-            "operator": "<"
-          }
-        ],
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm"
-        ],
-        "depends": [
-          "qt-resource-rebuilder",
-          "bettertoc=1.4.0"
-        ],
-        "conflicts": [
-          "rmhacks"
-        ],
-        "provides": [],
-        "arch": [
-          "aarch64"
-        ],
-        "modifies_system": false,
-        "auto_install": false,
-        "released": "2026-05-01T16:15:13Z"
-      },
       "1.0.0-r1": {
         "pkgdesc": "Adds chevrons to collapse / expand ToC entries based on indent.",
         "upstream_author": "rmitchellscott",
@@ -859,6 +817,7 @@
         ],
         "provides": [],
         "arch": [
+          "aarch64",
           "armv7"
         ],
         "modifies_system": false,
@@ -12866,5 +12825,5 @@
       }
     }
   },
-  "generated": "2026-05-02T15:42:09Z"
+  "generated": "2026-05-02T23:15:38Z"
 }

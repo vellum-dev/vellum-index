@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 15:42:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 23:15:38 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>bettertoc-collapse 1.0.0-r1</title>
@@ -15,15 +15,6 @@
       <category>ui</category>
       <pubDate>Sat, 02 May 2026 15:41:52 +0000</pubDate>
       <guid isPermaLink="false">bettertoc-collapse-1.0.0-r1</guid>
-    </item>
-    <item>
-      <title>bettertoc-collapse 1.0.0-r0</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Adds chevrons to collapse / expand ToC entries based on indent.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.26 - 3.27]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Fri, 01 May 2026 16:15:13 +0000</pubDate>
-      <guid isPermaLink="false">bettertoc-collapse-1.0.0-r0</guid>
     </item>
     <item>
       <title>enable-typing-on-documents 1.0.0-r0</title>
