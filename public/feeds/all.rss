@@ -5,8 +5,62 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 May 2026 13:06:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 17:56:07 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>toolbar-icon 1.0.9-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.27 - 3.28]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 06 May 2026 17:55:48 +0000</pubDate>
+      <guid isPermaLink="false">toolbar-icon-1.0.9-r0</guid>
+    </item>
+    <item>
+      <title>selection-stuff 1.0.3-r2</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds the ability to select everything above the line.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.27 - 3.28]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 06 May 2026 17:55:47 +0000</pubDate>
+      <guid isPermaLink="false">selection-stuff-1.0.3-r2</guid>
+    </item>
+    <item>
+      <title>gestures-fouzr 1.0.11-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds four-finger document drawer, and multiple swipe gestures to control pen settings.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.27 - 3.28]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 06 May 2026 17:55:42 +0000</pubDate>
+      <guid isPermaLink="false">gestures-fouzr-1.0.11-r0</guid>
+    </item>
+    <item>
+      <title>gesture-colour-settings 1.0.10-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Accessibility menu for colour preferences.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.27 - 3.28]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 06 May 2026 17:55:41 +0000</pubDate>
+      <guid isPermaLink="false">gesture-colour-settings-1.0.10-r0</guid>
+    </item>
+    <item>
+      <title>floating-toolbar 2.0.4-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Floating toolbar for quick access to your favourite tools, presets, and layers.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.27 - 3.28]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 06 May 2026 17:55:41 +0000</pubDate>
+      <guid isPermaLink="false">floating-toolbar-2.0.4-r0</guid>
+    </item>
+    <item>
+      <title>fav-tag-button 1.0.7-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.27 - 3.28]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 06 May 2026 17:55:40 +0000</pubDate>
+      <guid isPermaLink="false">fav-tag-button-1.0.7-r0</guid>
+    </item>
     <item>
       <title>vellum 0.2.7-r0</title>
       <link>https://github.com/vellum-dev/vellum-cli</link>
