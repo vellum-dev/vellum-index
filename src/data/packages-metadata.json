@@ -120,6 +120,46 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-20T01:45:18Z"
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "Adds a Finished button when selecting documents, moving them to the first subfolder in the current folder",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-07T20:56:13Z"
       }
     },
     "add-tags-to-context-menu": {
@@ -202,6 +242,46 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-20T01:45:18Z"
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Add a tag directly from the selection context menu. Handwriting requires Connect/rmfakecloud.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-07T20:56:14Z"
       }
     },
     "appload": {
@@ -943,7 +1023,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z"
       },
-      "1.0.1-r1": {
+      "1.0.1-r2": {
         "pkgdesc": "Hold stylus button to select-erase, click once to change to selection, click twice to change pen.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -953,14 +1033,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -985,7 +1065,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-04-21T17:05:02Z"
+        "released": "2026-05-07T20:56:14Z"
       }
     },
     "change-green-color": {
@@ -1069,7 +1149,7 @@
         "auto_install": false,
         "released": "2026-03-08T13:45:15Z"
       },
-      "1.0.2-r0": {
+      "1.0.2-r1": {
         "pkgdesc": "Change the default green color to a darker green. Customizable via editing qmd.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -1079,14 +1159,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -1107,7 +1187,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:19Z"
+        "released": "2026-05-07T20:56:14Z"
       }
     },
     "change-vertical-jump": {
@@ -1151,7 +1231,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z"
       },
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "Increases scroll distance when scrolling down a page.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -1161,14 +1241,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -1189,7 +1269,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:19Z"
+        "released": "2026-05-07T20:56:15Z"
       }
     },
     "convert-to-text-remover": {
@@ -1860,7 +1940,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z"
       },
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "Delays color stroke refresh by 10 seconds of inactivity.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -1870,14 +1950,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -1898,7 +1978,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:19Z"
+        "released": "2026-05-07T20:56:15Z"
       }
     },
     "disable-infinite-scroll": {
@@ -2275,7 +2355,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z"
       },
-      "1.0.3-r0": {
+      "1.0.3-r1": {
         "pkgdesc": "Enables full color selection on rM1 and rM2.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -2285,14 +2365,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -2311,7 +2391,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:20Z"
+        "released": "2026-05-07T20:56:16Z"
       }
     },
     "enable-extra-pen-on-move": {
@@ -2352,7 +2432,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z"
       },
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "Adds extra pen slot to toolbar (RMPPM only, requires qt-resource-rebuilder v16+).",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -2362,14 +2442,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -2387,7 +2467,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:20Z"
+        "released": "2026-05-07T20:56:16Z"
       }
     },
     "enable-shortcuts": {
@@ -3230,7 +3310,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z"
       },
-      "1.0.2-r0": {
+      "1.0.2-r1": {
         "pkgdesc": "Changes 5-level light slider to 4-level.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -3240,14 +3320,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -3268,7 +3348,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:21Z"
+        "released": "2026-05-07T20:56:17Z"
       }
     },
     "filter-annotated-pages": {
@@ -3393,6 +3473,46 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z"
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Fixes rotation issues with the appload app.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "fixes"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "appload"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-07T20:56:17Z"
       }
     },
     "fix-battery-indicator": {
@@ -3521,7 +3641,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z"
       },
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "Makes Custom Fit zoom consistent across devices and orientations, ensuring the same document area is shown everywhere.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -3532,14 +3652,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -3560,7 +3680,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:21Z"
+        "released": "2026-05-07T20:56:17Z"
       }
     },
     "fix-light-indicator-gap": {
@@ -3814,7 +3934,7 @@
         "auto_install": false,
         "released": "2026-02-11T23:10:09Z"
       },
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "Fix highlighting selected filter in navigator sidebar",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -3825,14 +3945,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -3853,7 +3973,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:21Z"
+        "released": "2026-05-07T20:56:17Z"
       }
     },
     "floating-toolbar": {
@@ -4655,7 +4775,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z"
       },
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "Four-finger tap to toggle contrast filter in PDF/EPUB documents.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -4665,14 +4785,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -4695,7 +4815,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:22Z"
+        "released": "2026-05-07T20:56:18Z"
       }
     },
     "framebuffer-spy": {
@@ -6523,7 +6643,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z"
       },
-      "1.0.6-r0": {
+      "1.0.6-r1": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -6533,14 +6653,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -6561,7 +6681,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:24Z"
+        "released": "2026-05-07T20:56:21Z"
       }
     },
     "hide-hyperlink-back-button": {
@@ -6807,7 +6927,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z"
       },
-      "1.0.5-r0": {
+      "1.0.5-r1": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -6817,14 +6937,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -6845,7 +6965,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:24Z"
+        "released": "2026-05-07T20:56:21Z"
       }
     },
     "hide-show-toolbar": {
@@ -7089,7 +7209,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z"
       },
-      "1.0.6-r0": {
+      "1.0.6-r1": {
         "pkgdesc": "Hides the show toolbar button.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -7099,14 +7219,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -7127,7 +7247,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:24Z"
+        "released": "2026-05-07T20:56:21Z"
       }
     },
     "hide-zoom-indicator": {
@@ -7916,6 +8036,45 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-20T01:45:25Z"
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Provides additional light intensity settings beyond the default options.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rmpp"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "fewer-light-steps"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-07T20:56:22Z"
       }
     },
     "mount-utils": {
@@ -8060,6 +8219,47 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-20T01:45:25Z"
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Keyboard arrow key navigation: left/right for pages, up/down for scrolling.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "scroll-screen-up-or-down"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-07T20:56:23Z"
       }
     },
     "netevent": {
@@ -9227,6 +9427,46 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-24T14:11:44Z"
+      },
+      "1.0.7-r0": {
+        "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-07T20:56:24Z"
       }
     },
     "recents-tagged": {
@@ -10284,7 +10524,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z"
       },
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "Make the rubber eraser on a pen work as eraser on rM1.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -10294,14 +10534,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -10325,7 +10565,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:28Z"
+        "released": "2026-05-07T20:56:26Z"
       }
     },
     "scroll-screen-up-or-down": {
@@ -10369,7 +10609,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z"
       },
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "Screen scrolling with page change at boundaries. Prerequisite for tap and arrow key navigation.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -10379,14 +10619,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -10407,7 +10647,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:28Z"
+        "released": "2026-05-07T20:56:26Z"
       }
     },
     "selection-erase": {
@@ -10824,7 +11064,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z"
       },
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "Use stylus side button for erase selection and rubber eraser as regular eraser.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -10834,14 +11074,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -10868,7 +11108,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:28Z"
+        "released": "2026-05-07T20:56:26Z"
       }
     },
     "sidebar-clock": {
@@ -11076,7 +11316,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z"
       },
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "Swipe from toolbar edge to show/hide the toolbar.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -11086,14 +11326,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -11114,7 +11354,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:29Z"
+        "released": "2026-05-07T20:56:27Z"
       }
     },
     "tag-button": {
@@ -11296,7 +11536,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z"
       },
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "Tap screen edges to scroll/navigate pages when toolbar is hidden.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -11306,14 +11546,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -11335,7 +11575,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:29Z"
+        "released": "2026-05-07T20:56:27Z"
       }
     },
     "three-finger-swipe-to-reset-view": {
@@ -11379,7 +11619,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z"
       },
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "Swipe down with three fingers to reset pan and zoom to 100%.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -11389,14 +11629,14 @@
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -11417,7 +11657,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-20T01:45:29Z"
+        "released": "2026-05-07T20:56:27Z"
       }
     },
     "tilem": {
@@ -13478,5 +13718,5 @@
       }
     }
   },
-  "generated": "2026-05-07T01:17:58Z"
+  "generated": "2026-05-07T20:56:50Z"
 }
