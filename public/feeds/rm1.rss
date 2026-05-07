@@ -5,26 +5,8 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 00:16:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 00:19:52 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>netevent 2.2.2-r0</title>
-      <link>https://github.com/Blub/netevent</link>
-      <description><![CDATA[Input-Event device cloning utility<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>Blub</author>
-      <category>utilities</category>
-      <pubDate>Thu, 07 May 2026 00:16:33 +0000</pubDate>
-      <guid isPermaLink="false">netevent-2.2.2-r0</guid>
-    </item>
-    <item>
-      <title>disable-infinite-scroll 1.1.0-r2</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Disables infinite scroll by limiting zooming and scrolling to page boundaries.<br/>Devices: rm1, rm2, rmpp, rmppm<br/>OS: 3.25 - 3.27]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Thu, 07 May 2026 00:16:25 +0000</pubDate>
-      <guid isPermaLink="false">disable-infinite-scroll-1.1.0-r2</guid>
-    </item>
     <item>
       <title>toolbar-icon 1.0.9-r0</title>
       <link>https://github.com/FouzR/xovi-extensions</link>
