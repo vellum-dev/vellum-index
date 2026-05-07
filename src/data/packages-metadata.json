@@ -1849,53 +1849,12 @@
         ],
         "provides": [],
         "arch": [
-          "aarch64"
-        ],
-        "modifies_system": false,
-        "auto_install": false,
-        "released": "2026-04-30T12:39:27Z"
-      },
-      "1.1.0-r2": {
-        "pkgdesc": "Disables infinite scroll by limiting zooming and scrolling to page boundaries.",
-        "upstream_author": "rmitchellscott",
-        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
-        "categories": [
-          "ui"
-        ],
-        "license": "GPL-3.0-only",
-        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "os_min": "3.25",
-        "os_max": "3.27",
-        "os_constraints": [
-          {
-            "version": "3.25",
-            "operator": ">="
-          },
-          {
-            "version": "3.27",
-            "operator": "<"
-          }
-        ],
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm"
-        ],
-        "depends": [
-          "qt-resource-rebuilder"
-        ],
-        "conflicts": [
-          "disable-selection-autoscroll",
-          "prevent-notebook-zoomout"
-        ],
-        "provides": [],
-        "arch": [
+          "aarch64",
           "armv7"
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-07T00:10:05Z"
+        "released": "2026-04-30T12:39:27Z"
       }
     },
     "disable-selection-autoscroll": {
@@ -2925,6 +2884,7 @@
         "conflicts": [],
         "provides": [],
         "arch": [
+          "aarch64",
           "armv7"
         ],
         "modifies_system": false,
@@ -4224,6 +4184,7 @@
         ],
         "provides": [],
         "arch": [
+          "aarch64",
           "armv7"
         ],
         "modifies_system": false,
@@ -4946,6 +4907,7 @@
         "conflicts": [],
         "provides": [],
         "arch": [
+          "aarch64",
           "armv7"
         ],
         "modifies_system": false,
@@ -5623,6 +5585,7 @@
         ],
         "provides": [],
         "arch": [
+          "aarch64",
           "armv7"
         ],
         "modifies_system": false,
@@ -7956,9 +7919,7 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [
-          "disable-infinite-scroll"
-        ],
+        "conflicts": [],
         "provides": [],
         "arch": [
           "aarch64",
@@ -7998,9 +7959,7 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [
-          "disable-infinite-scroll"
-        ],
+        "conflicts": [],
         "provides": [],
         "arch": [
           "aarch64",
@@ -8040,9 +7999,7 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [
-          "disable-infinite-scroll"
-        ],
+        "conflicts": [],
         "provides": [],
         "arch": [
           "aarch64",
@@ -8082,9 +8039,7 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [
-          "disable-infinite-scroll"
-        ],
+        "conflicts": [],
         "provides": [],
         "arch": [
           "aarch64",
@@ -10393,6 +10348,7 @@
         "conflicts": [],
         "provides": [],
         "arch": [
+          "aarch64",
           "armv7"
         ],
         "modifies_system": false,
@@ -11557,6 +11513,7 @@
         "conflicts": [],
         "provides": [],
         "arch": [
+          "aarch64",
           "armv7"
         ],
         "modifies_system": false,
@@ -13084,36 +13041,6 @@
         "released": "2026-04-16T18:15:17Z"
       }
     },
-    "netevent": {
-      "2.2.2-r0": {
-        "pkgdesc": "Input-Event device cloning utility",
-        "upstream_author": "Blub",
-        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
-        "categories": [
-          "utilities"
-        ],
-        "license": "GPL-2.0-only",
-        "url": "https://github.com/Blub/netevent",
-        "os_min": null,
-        "os_max": null,
-        "os_constraints": null,
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm"
-        ],
-        "depends": [],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "armv7"
-        ],
-        "modifies_system": false,
-        "auto_install": false,
-        "released": "2026-05-07T00:10:13Z"
-      }
-    },
     "vnsee-qtfb-rm1": {
       "1.1.0-r1": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen (rm1)",
@@ -13173,5 +13100,5 @@
       }
     }
   },
-  "generated": "2026-05-07T00:10:21Z"
+  "generated": "2026-05-07T00:10:24Z"
 }
