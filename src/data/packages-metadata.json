@@ -10349,7 +10349,7 @@
       }
     },
     "rm-pdfium": {
-      "0.1.0-r1": {
+      "0.1.0-r2": {
         "pkgdesc": "xovi extension to expose xochitl's libpdfium.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -10360,14 +10360,14 @@
         "url": "https://github.com/rmitchellscott/rm-pdfium",
         "status": "maintained",
         "os_min": "3.26",
-        "os_max": "3.27",
+        "os_max": "3.28",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.27",
+            "version": "3.28",
             "operator": "<"
           }
         ],
@@ -10389,7 +10389,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:31Z",
+        "released": "2026-05-08T17:12:51Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-pdfium/v0.1.0/README.md",
         "donateurl": null
       }
@@ -14820,5 +14820,5 @@
       }
     }
   },
-  "generated": "2026-05-08T02:48:32Z"
+  "generated": "2026-05-08T17:13:22Z"
 }
