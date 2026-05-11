@@ -1,4 +1,12 @@
-export type Device = 'rm1' | 'rm2' | 'rmpp' | 'rmppm' | 'rmppmove' | 'rmppure';
+export type Device = 'rm1' | 'rm2' | 'rmpp' | 'rmppmove' | 'rmppure';
+
+const DEVICE_ALIASES: Record<string, Device> = {
+  rmppm: 'rmppmove',
+};
+
+export function normalizeDevice(device: string): Device {
+  return DEVICE_ALIASES[device] ?? device as Device;
+}
 export type Architecture = 'aarch64' | 'armv7' | 'noarch';
 
 export interface OSConstraint {

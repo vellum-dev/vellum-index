@@ -1,6 +1,7 @@
 import { useMemo } from 'react';
 import packagesData from '@/data/packages-metadata.json';
-import type { PackagesMetadata, FlatPackage, PackageVersion } from '@/types/packages';
+import type { PackagesMetadata, FlatPackage, PackageVersion, Device } from '@/types/packages';
+import { normalizeDevice } from '@/types/packages';
 
 const SUFFIX_WEIGHTS: Record<string, number> = {
   alpha: -4,
@@ -160,15 +161,17 @@ export function usePackages() {
       const latestVersion = versionKeys[0];
 
       for (const [version, info] of nonAutoInstallVersions) {
+        const devices = [...new Set(info.devices.map(normalizeDevice))];
         flatPackages.push({
           name,
           version,
           latestVersion,
           ...info,
+          devices,
         });
 
         info.categories.forEach((cat) => categoriesSet.add(cat));
-        info.devices.forEach((d) => devicesSet.add(d));
+        devices.forEach((d) => devicesSet.add(d));
         if (info.os_min) osMinVersions.push(normalizeMajorMinor(info.os_min));
         if (info.os_max) osMaxVersions.push(normalizeMajorMinor(info.os_max));
       }
