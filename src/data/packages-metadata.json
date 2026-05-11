@@ -1520,7 +1520,7 @@
       }
     },
     "convert-to-text-remover": {
-      "1.0.0-r1": {
+      "1.0.0-r2": {
         "pkgdesc": "Removes the Convert to text option from selection menus and the toolbar.",
         "upstream_author": "NohamR",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -1529,7 +1529,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/NohamR/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -1561,7 +1561,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:18Z",
+        "released": "2026-05-11T05:29:32Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott"
       }
@@ -1576,7 +1576,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -1623,7 +1623,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -1671,7 +1671,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -1721,7 +1721,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -1768,7 +1768,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -1815,7 +1815,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -1862,7 +1862,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -1909,7 +1909,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -1958,7 +1958,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -2005,7 +2005,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -2052,7 +2052,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -2099,7 +2099,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -2146,7 +2146,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -2195,7 +2195,7 @@
         ],
         "license": "curl",
         "url": "https://curl.se/",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -2231,7 +2231,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.18",
         "os_max": "3.26",
         "os_constraints": [
@@ -2276,7 +2276,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -2323,7 +2323,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.25",
         "os_max": "3.27",
         "os_constraints": [
@@ -2368,7 +2368,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.25",
         "os_max": "3.28",
         "os_constraints": [
@@ -2418,7 +2418,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.24",
         "os_max": "3.28",
         "os_constraints": [
@@ -2467,7 +2467,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -2514,7 +2514,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -2562,7 +2562,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -2612,7 +2612,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.20",
         "os_max": "3.23",
         "os_constraints": [
@@ -2654,7 +2654,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -2696,7 +2696,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.24",
         "os_max": "3.26",
         "os_constraints": [
@@ -2738,7 +2738,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -2782,7 +2782,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.22",
         "os_max": "3.26",
         "os_constraints": [
@@ -2824,7 +2824,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -2867,7 +2867,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.18",
         "os_max": "3.24",
         "os_constraints": [
@@ -2914,7 +2914,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.24",
         "os_max": "3.26",
         "os_constraints": [
@@ -2963,7 +2963,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.18",
         "os_max": "3.23",
         "os_constraints": [
@@ -3010,7 +3010,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -3057,7 +3057,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -3665,7 +3665,7 @@
       }
     },
     "favorite-button": {
-      "1.0.0-r1": {
+      "1.0.0-r2": {
         "pkgdesc": "Restores a Favorite action in the document list header for faster pinning.",
         "upstream_author": "NohamR",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -3706,7 +3706,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:21Z",
+        "released": "2026-05-11T05:29:35Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott"
       }
@@ -5347,7 +5347,7 @@
       }
     },
     "force-sync": {
-      "1.0.0-r1": {
+      "1.0.0-r2": {
         "pkgdesc": "Adds a cloud button in Quick Settings that forces a library sync when tapped.",
         "upstream_author": "NohamR",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -5388,7 +5388,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:23Z",
+        "released": "2026-05-11T05:29:37Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott"
       }
@@ -12585,7 +12585,7 @@
       }
     },
     "sidebar-clock": {
-      "1.0.0-r1": {
+      "1.0.0-r2": {
         "pkgdesc": "Adds a live clock to the library sidebar; tap the entry to toggle seconds display.",
         "upstream_author": "NohamR",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -12626,7 +12626,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:33Z",
+        "released": "2026-05-11T05:29:47Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott"
       }
@@ -12861,7 +12861,7 @@
       }
     },
     "tag-button": {
-      "1.0.0-r1": {
+      "1.0.0-r2": {
         "pkgdesc": "Puts a Tag action next to other list controls to open the tag editor directly.",
         "upstream_author": "NohamR",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -12902,7 +12902,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:33Z",
+        "released": "2026-05-11T05:29:47Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott"
       }
@@ -13919,7 +13919,7 @@
       }
     },
     "uncompress-dock": {
-      "1.0.0-r1": {
+      "1.0.0-r2": {
         "pkgdesc": "Replaces the More menu in the document dock with dedicated notebook, folder, and quick sheet buttons.",
         "upstream_author": "NohamR",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -13960,7 +13960,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:35Z",
+        "released": "2026-05-11T05:29:49Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott"
       }
@@ -15551,5 +15551,5 @@
       }
     }
   },
-  "generated": "2026-05-11T05:25:38Z"
+  "generated": "2026-05-11T05:30:17Z"
 }

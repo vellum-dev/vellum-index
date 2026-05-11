@@ -5,8 +5,62 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2026 05:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 05:30:17 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppmove.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>uncompress-dock 1.0.0-r2</title>
+      <link>https://github.com/NohamR/xovi-qmd-extensions</link>
+      <description><![CDATA[Replaces the More menu in the document dock with dedicated notebook, folder, and quick sheet buttons.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.24]]></description>
+      <author>NohamR</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 05:29:49 +0000</pubDate>
+      <guid isPermaLink="false">uncompress-dock-1.0.0-r2</guid>
+    </item>
+    <item>
+      <title>tag-button 1.0.0-r2</title>
+      <link>https://github.com/NohamR/xovi-qmd-extensions</link>
+      <description><![CDATA[Puts a Tag action next to other list controls to open the tag editor directly.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.24]]></description>
+      <author>NohamR</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 05:29:47 +0000</pubDate>
+      <guid isPermaLink="false">tag-button-1.0.0-r2</guid>
+    </item>
+    <item>
+      <title>sidebar-clock 1.0.0-r2</title>
+      <link>https://github.com/NohamR/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a live clock to the library sidebar; tap the entry to toggle seconds display.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.24]]></description>
+      <author>NohamR</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 05:29:47 +0000</pubDate>
+      <guid isPermaLink="false">sidebar-clock-1.0.0-r2</guid>
+    </item>
+    <item>
+      <title>force-sync 1.0.0-r2</title>
+      <link>https://github.com/NohamR/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a cloud button in Quick Settings that forces a library sync when tapped.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.24]]></description>
+      <author>NohamR</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 05:29:37 +0000</pubDate>
+      <guid isPermaLink="false">force-sync-1.0.0-r2</guid>
+    </item>
+    <item>
+      <title>favorite-button 1.0.0-r2</title>
+      <link>https://github.com/NohamR/xovi-qmd-extensions</link>
+      <description><![CDATA[Restores a Favorite action in the document list header for faster pinning.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.24]]></description>
+      <author>NohamR</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 05:29:35 +0000</pubDate>
+      <guid isPermaLink="false">favorite-button-1.0.0-r2</guid>
+    </item>
+    <item>
+      <title>convert-to-text-remover 1.0.0-r2</title>
+      <link>https://github.com/NohamR/xovi-qmd-extensions</link>
+      <description><![CDATA[Removes the Convert to text option from selection menus and the toolbar.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.24]]></description>
+      <author>NohamR</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 05:29:32 +0000</pubDate>
+      <guid isPermaLink="false">convert-to-text-remover-1.0.0-r2</guid>
+    </item>
     <item>
       <title>unlock-methods-content 1.0.2-r5</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
@@ -467,15 +521,6 @@
       <guid isPermaLink="false">webserver-remote-18.0.0-r4</guid>
     </item>
     <item>
-      <title>uncompress-dock 1.0.0-r1</title>
-      <link>https://github.com/NohamR/xovi-qmd-extensions</link>
-      <description><![CDATA[Replaces the More menu in the document dock with dedicated notebook, folder, and quick sheet buttons.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.24]]></description>
-      <author>NohamR</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:35 +0000</pubDate>
-      <guid isPermaLink="false">uncompress-dock-1.0.0-r1</guid>
-    </item>
-    <item>
       <title>toolbar-icon 1.0.9-r1</title>
       <link>https://github.com/FouzR/xovi-extensions</link>
       <description><![CDATA[Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
@@ -521,15 +566,6 @@
       <guid isPermaLink="false">tailscale-1.96.2-r2</guid>
     </item>
     <item>
-      <title>tag-button 1.0.0-r1</title>
-      <link>https://github.com/NohamR/xovi-qmd-extensions</link>
-      <description><![CDATA[Puts a Tag action next to other list controls to open the tag editor directly.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.24]]></description>
-      <author>NohamR</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:33 +0000</pubDate>
-      <guid isPermaLink="false">tag-button-1.0.0-r1</guid>
-    </item>
-    <item>
       <title>swipe-to-hide-or-show-toolbar 1.0.1-r2</title>
       <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
       <description><![CDATA[Swipe from toolbar edge to show/hide the toolbar.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
@@ -546,15 +582,6 @@
       <category>utilities</category>
       <pubDate>Fri, 08 May 2026 02:18:33 +0000</pubDate>
       <guid isPermaLink="false">starship-1.24.2-r1</guid>
-    </item>
-    <item>
-      <title>sidebar-clock 1.0.0-r1</title>
-      <link>https://github.com/NohamR/xovi-qmd-extensions</link>
-      <description><![CDATA[Adds a live clock to the library sidebar; tap the entry to toggle seconds display.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.24]]></description>
-      <author>NohamR</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:33 +0000</pubDate>
-      <guid isPermaLink="false">sidebar-clock-1.0.0-r1</guid>
     </item>
     <item>
       <title>shortcuts-to-choose-eraser 1.0.1-r2</title>
@@ -827,15 +854,6 @@
       <guid isPermaLink="false">four-finger-change-filter-1.0.1-r2</guid>
     </item>
     <item>
-      <title>force-sync 1.0.0-r1</title>
-      <link>https://github.com/NohamR/xovi-qmd-extensions</link>
-      <description><![CDATA[Adds a cloud button in Quick Settings that forces a library sync when tapped.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.24]]></description>
-      <author>NohamR</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:23 +0000</pubDate>
-      <guid isPermaLink="false">force-sync-1.0.0-r1</guid>
-    </item>
-    <item>
       <title>force-koreader-landscape 1.0.1-r1</title>
       <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
       <description><![CDATA[Keeps the KOReader appload app in the same aspect ratio as the screen<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.27]]></description>
@@ -890,15 +908,6 @@
       <guid isPermaLink="false">fewer-light-steps-1.0.2-r2</guid>
     </item>
     <item>
-      <title>favorite-button 1.0.0-r1</title>
-      <link>https://github.com/NohamR/xovi-qmd-extensions</link>
-      <description><![CDATA[Restores a Favorite action in the document list header for faster pinning.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.24]]></description>
-      <author>NohamR</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:21 +0000</pubDate>
-      <guid isPermaLink="false">favorite-button-1.0.0-r1</guid>
-    </item>
-    <item>
       <title>fav-tag-button 1.0.7-r1</title>
       <link>https://github.com/FouzR/xovi-extensions</link>
       <description><![CDATA[Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
@@ -951,15 +960,6 @@
       <category>utilities</category>
       <pubDate>Fri, 08 May 2026 02:18:19 +0000</pubDate>
       <guid isPermaLink="false">curl-8.11.0-r2</guid>
-    </item>
-    <item>
-      <title>convert-to-text-remover 1.0.0-r1</title>
-      <link>https://github.com/NohamR/xovi-qmd-extensions</link>
-      <description><![CDATA[Removes the Convert to text option from selection menus and the toolbar.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.24]]></description>
-      <author>NohamR</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:18 +0000</pubDate>
-      <guid isPermaLink="false">convert-to-text-remover-1.0.0-r1</guid>
     </item>
     <item>
       <title>change-vertical-jump 1.0.1-r2</title>
