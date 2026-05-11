@@ -1,4 +1,4 @@
-export type Device = 'rm1' | 'rm2' | 'rmpp' | 'rmppm';
+export type Device = 'rm1' | 'rm2' | 'rmpp' | 'rmppm' | 'rmppmove' | 'rmppure';
 export type Architecture = 'aarch64' | 'armv7' | 'noarch';
 
 export interface OSConstraint {

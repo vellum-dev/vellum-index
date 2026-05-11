@@ -11,7 +11,9 @@ const deviceInfo: Record<Device, { label: string; description: string }> = {
   rm1: { label: 'RM1', description: 'reMarkable 1' },
   rm2: { label: 'RM2', description: 'reMarkable 2' },
   rmpp: { label: 'RMPP', description: 'reMarkable Paper Pro' },
-  rmppm: { label: 'RMPPM', description: 'reMarkable Paper Pro Move' },
+  rmppm: { label: 'RMPPMove', description: 'reMarkable Paper Pro Move' },
+  rmppmove: { label: 'RMPPMove', description: 'reMarkable Paper Pro Move' },
+  rmppure: { label: 'RMPPure', description: 'reMarkable Paper Pure' },
 };
 
 interface DeviceBadgeProps {
