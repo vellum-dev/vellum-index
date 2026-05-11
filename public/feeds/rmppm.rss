@@ -5,8 +5,134 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2026 06:08:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 06:15:51 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>xovi-message-broker 18.0.0-r5</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[IPC messaging between xovi extensions<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Mon, 11 May 2026 06:15:25 +0000</pubDate>
+      <guid isPermaLink="false">xovi-message-broker-18.0.0-r5</guid>
+    </item>
+    <item>
+      <title>xovi-extensions 18.0.0-r5</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Extensions for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.20+]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Mon, 11 May 2026 06:15:24 +0000</pubDate>
+      <guid isPermaLink="false">xovi-extensions-18.0.0-r5</guid>
+    </item>
+    <item>
+      <title>xovi 0.3.3-r2</title>
+      <link>https://github.com/asivery/xovi</link>
+      <description><![CDATA[Core xovi framework for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Mon, 11 May 2026 06:15:24 +0000</pubDate>
+      <guid isPermaLink="false">xovi-0.3.3-r2</guid>
+    </item>
+    <item>
+      <title>webserver-remote 18.0.0-r5</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Exposes the USB webserver to all interfaces with connection confirmation dialog<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.28]]></description>
+      <author>asivery</author>
+      <category>utilities</category>
+      <pubDate>Mon, 11 May 2026 06:15:24 +0000</pubDate>
+      <guid isPermaLink="false">webserver-remote-18.0.0-r5</guid>
+    </item>
+    <item>
+      <title>rmstream 0.1.4-r2</title>
+      <link>https://github.com/asivery/appload-rmstream</link>
+      <description><![CDATA[Stream your reMarkable's screen to any device on the local network via HTTP<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>apps</category>
+      <pubDate>Mon, 11 May 2026 06:15:19 +0000</pubDate>
+      <guid isPermaLink="false">rmstream-0.1.4-r2</guid>
+    </item>
+    <item>
+      <title>rmhacks 0.0.11_pre4_git4-r2</title>
+      <link>https://github.com/asivery/rm-hacks-qmd</link>
+      <description><![CDATA[reMarkable hacks in QMD format<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.25]]></description>
+      <author>asivery</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 06:15:18 +0000</pubDate>
+      <guid isPermaLink="false">rmhacks-0.0.11_pre4_git4-r2</guid>
+    </item>
+    <item>
+      <title>rmhacks 0.0.11_pre3-r2</title>
+      <link>https://github.com/asivery/rm-hacks-qmd</link>
+      <description><![CDATA[reMarkable hacks in QMD format<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.22 - 3.23]]></description>
+      <author>asivery</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 06:15:18 +0000</pubDate>
+      <guid isPermaLink="false">rmhacks-0.0.11_pre3-r2</guid>
+    </item>
+    <item>
+      <title>rmhacks 0.0.11_pre2-r2</title>
+      <link>https://github.com/asivery/rm-hacks-qmd</link>
+      <description><![CDATA[reMarkable hacks in QMD format<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.20 - 3.22]]></description>
+      <author>asivery</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 06:15:18 +0000</pubDate>
+      <guid isPermaLink="false">rmhacks-0.0.11_pre2-r2</guid>
+    </item>
+    <item>
+      <title>rmhacks 0.0.11_pre1-r2</title>
+      <link>https://github.com/asivery/rm-hacks-qmd</link>
+      <description><![CDATA[reMarkable hacks in QMD format<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.17 - 3.20]]></description>
+      <author>asivery</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 06:15:18 +0000</pubDate>
+      <guid isPermaLink="false">rmhacks-0.0.11_pre1-r2</guid>
+    </item>
+    <item>
+      <title>qt-resource-rebuilder 18.0.0-r5</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Rebuilds QT resource databases on the fly to replace or add QML files<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Mon, 11 May 2026 06:15:16 +0000</pubDate>
+      <guid isPermaLink="false">qt-resource-rebuilder-18.0.0-r5</guid>
+    </item>
+    <item>
+      <title>qt-command-executor 18.0.0-r5</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Injects a QT module to execute shell commands from QML<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Mon, 11 May 2026 06:15:16 +0000</pubDate>
+      <guid isPermaLink="false">qt-command-executor-18.0.0-r5</guid>
+    </item>
+    <item>
+      <title>literm 0.1.6-r7</title>
+      <link>https://github.com/asivery/rm-literm</link>
+      <description><![CDATA[A terminal emulator using QtQuick.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.28]]></description>
+      <author>asivery</author>
+      <category>apps</category>
+      <pubDate>Mon, 11 May 2026 06:15:14 +0000</pubDate>
+      <guid isPermaLink="false">literm-0.1.6-r7</guid>
+    </item>
+    <item>
+      <title>framebuffer-spy 18.0.0-r5</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Module for exposing the address of the system framebuffer<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Mon, 11 May 2026 06:15:09 +0000</pubDate>
+      <guid isPermaLink="false">framebuffer-spy-18.0.0-r5</guid>
+    </item>
+    <item>
+      <title>appload 0.5.2-r1</title>
+      <link>https://github.com/asivery/rm-appload</link>
+      <description><![CDATA[XOVI extension for windowed and fullscreen apps<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Mon, 11 May 2026 06:15:03 +0000</pubDate>
+      <guid isPermaLink="false">appload-0.5.2-r1</guid>
+    </item>
     <item>
       <title>toolbar-icon 1.0.9-r2</title>
       <link>https://github.com/FouzR/xovi-extensions</link>
@@ -539,15 +665,6 @@
       <guid isPermaLink="false">enable-extra-pen-on-move-1.0.1-r3</guid>
     </item>
     <item>
-      <title>appload 0.5.2-r0</title>
-      <link>https://github.com/asivery/rm-appload</link>
-      <description><![CDATA[XOVI extension for windowed and fullscreen apps<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Fri, 08 May 2026 02:47:44 +0000</pubDate>
-      <guid isPermaLink="false">appload-0.5.2-r0</guid>
-    </item>
-    <item>
       <title>xovi-settings-main 1.0.0-r1</title>
       <link>https://github.com/PepikVaio/reMarkable_Xovi_Extensions</link>
       <description><![CDATA[Add settings to your extension. The extension will do nothing unless you add additional files.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.25]]></description>
@@ -555,42 +672,6 @@
       <category>framework</category>
       <pubDate>Fri, 08 May 2026 02:18:37 +0000</pubDate>
       <guid isPermaLink="false">xovi-settings-main-1.0.0-r1</guid>
-    </item>
-    <item>
-      <title>xovi-message-broker 18.0.0-r4</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[IPC messaging between xovi extensions<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Fri, 08 May 2026 02:18:37 +0000</pubDate>
-      <guid isPermaLink="false">xovi-message-broker-18.0.0-r4</guid>
-    </item>
-    <item>
-      <title>xovi-extensions 18.0.0-r4</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Extensions for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.20+]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Fri, 08 May 2026 02:18:37 +0000</pubDate>
-      <guid isPermaLink="false">xovi-extensions-18.0.0-r4</guid>
-    </item>
-    <item>
-      <title>xovi 0.3.3-r1</title>
-      <link>https://github.com/asivery/xovi</link>
-      <description><![CDATA[Core xovi framework for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Fri, 08 May 2026 02:18:37 +0000</pubDate>
-      <guid isPermaLink="false">xovi-0.3.3-r1</guid>
-    </item>
-    <item>
-      <title>webserver-remote 18.0.0-r4</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Exposes the USB webserver to all interfaces with connection confirmation dialog<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.28]]></description>
-      <author>asivery</author>
-      <category>utilities</category>
-      <pubDate>Fri, 08 May 2026 02:18:37 +0000</pubDate>
-      <guid isPermaLink="false">webserver-remote-18.0.0-r4</guid>
     </item>
     <item>
       <title>vnsee-qtfb 1.1.0-r3</title>
@@ -683,51 +764,6 @@
       <guid isPermaLink="false">rubber-eraser-rm1-1.0.1-r2</guid>
     </item>
     <item>
-      <title>rmstream 0.1.4-r1</title>
-      <link>https://github.com/asivery/appload-rmstream</link>
-      <description><![CDATA[Stream your reMarkable's screen to any device on the local network via HTTP<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>asivery</author>
-      <category>apps</category>
-      <pubDate>Fri, 08 May 2026 02:18:32 +0000</pubDate>
-      <guid isPermaLink="false">rmstream-0.1.4-r1</guid>
-    </item>
-    <item>
-      <title>rmhacks 0.0.11_pre4_git4-r1</title>
-      <link>https://github.com/asivery/rm-hacks-qmd</link>
-      <description><![CDATA[reMarkable hacks in QMD format<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.25]]></description>
-      <author>asivery</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:32 +0000</pubDate>
-      <guid isPermaLink="false">rmhacks-0.0.11_pre4_git4-r1</guid>
-    </item>
-    <item>
-      <title>rmhacks 0.0.11_pre3-r1</title>
-      <link>https://github.com/asivery/rm-hacks-qmd</link>
-      <description><![CDATA[reMarkable hacks in QMD format<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.22 - 3.23]]></description>
-      <author>asivery</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:31 +0000</pubDate>
-      <guid isPermaLink="false">rmhacks-0.0.11_pre3-r1</guid>
-    </item>
-    <item>
-      <title>rmhacks 0.0.11_pre2-r1</title>
-      <link>https://github.com/asivery/rm-hacks-qmd</link>
-      <description><![CDATA[reMarkable hacks in QMD format<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.20 - 3.22]]></description>
-      <author>asivery</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:31 +0000</pubDate>
-      <guid isPermaLink="false">rmhacks-0.0.11_pre2-r1</guid>
-    </item>
-    <item>
-      <title>rmhacks 0.0.11_pre1-r1</title>
-      <link>https://github.com/asivery/rm-hacks-qmd</link>
-      <description><![CDATA[reMarkable hacks in QMD format<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.17 - 3.20]]></description>
-      <author>asivery</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:31 +0000</pubDate>
-      <guid isPermaLink="false">rmhacks-0.0.11_pre1-r1</guid>
-    </item>
-    <item>
       <title>rmfakecloud-proxy 0.0.10-r1</title>
       <link>https://github.com/ddvk/rmfakecloud-proxy</link>
       <description><![CDATA[HTTPS proxy for rmfakecloud - redirects reMarkable cloud traffic<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -744,24 +780,6 @@
       <category>ui</category>
       <pubDate>Fri, 08 May 2026 02:18:30 +0000</pubDate>
       <guid isPermaLink="false">random-sleep-screen-1.0.7-r1</guid>
-    </item>
-    <item>
-      <title>qt-resource-rebuilder 18.0.0-r4</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Rebuilds QT resource databases on the fly to replace or add QML files<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Fri, 08 May 2026 02:18:29 +0000</pubDate>
-      <guid isPermaLink="false">qt-resource-rebuilder-18.0.0-r4</guid>
-    </item>
-    <item>
-      <title>qt-command-executor 18.0.0-r4</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Injects a QT module to execute shell commands from QML<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Fri, 08 May 2026 02:18:29 +0000</pubDate>
-      <guid isPermaLink="false">qt-command-executor-18.0.0-r4</guid>
     </item>
     <item>
       <title>netevent 2.2.2-r1</title>
@@ -789,15 +807,6 @@
       <category>apps</category>
       <pubDate>Fri, 08 May 2026 02:18:27 +0000</pubDate>
       <guid isPermaLink="false">micro-2.0.14-r1</guid>
-    </item>
-    <item>
-      <title>literm 0.1.6-r6</title>
-      <link>https://github.com/asivery/rm-literm</link>
-      <description><![CDATA[A terminal emulator using QtQuick.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.28]]></description>
-      <author>asivery</author>
-      <category>apps</category>
-      <pubDate>Fri, 08 May 2026 02:18:27 +0000</pubDate>
-      <guid isPermaLink="false">literm-0.1.6-r6</guid>
     </item>
     <item>
       <title>koreader 2026.03-r2</title>
@@ -861,15 +870,6 @@
       <category>ui</category>
       <pubDate>Fri, 08 May 2026 02:18:25 +0000</pubDate>
       <guid isPermaLink="false">gestures-ingatellent-1.0.3-r1</guid>
-    </item>
-    <item>
-      <title>framebuffer-spy 18.0.0-r4</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Module for exposing the address of the system framebuffer<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Fri, 08 May 2026 02:18:23 +0000</pubDate>
-      <guid isPermaLink="false">framebuffer-spy-18.0.0-r4</guid>
     </item>
     <item>
       <title>four-finger-change-filter 1.0.1-r2</title>
