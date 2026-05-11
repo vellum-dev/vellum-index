@@ -5,8 +5,80 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2026 05:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 06:08:21 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>toolbar-icon 1.0.9-r2</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 06:07:51 +0000</pubDate>
+      <guid isPermaLink="false">toolbar-icon-1.0.9-r2</guid>
+    </item>
+    <item>
+      <title>selection-stuff 1.0.3-r4</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds the ability to select everything above the line.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 06:07:49 +0000</pubDate>
+      <guid isPermaLink="false">selection-stuff-1.0.3-r4</guid>
+    </item>
+    <item>
+      <title>selection-erase 1.0.3-r4</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds the ability to delete a stroke once selected by the selection tool.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.27]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 06:07:48 +0000</pubDate>
+      <guid isPermaLink="false">selection-erase-1.0.3-r4</guid>
+    </item>
+    <item>
+      <title>recents-tagged 1.0.2-r2</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds a new menu to the document drawer that shows only tagged files, sorted by last modified.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.22 - 3.23]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 06:07:46 +0000</pubDate>
+      <guid isPermaLink="false">recents-tagged-1.0.2-r2</guid>
+    </item>
+    <item>
+      <title>gestures-fouzr 1.0.11-r2</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds four-finger document drawer, and multiple swipe gestures to control pen settings.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 06:07:40 +0000</pubDate>
+      <guid isPermaLink="false">gestures-fouzr-1.0.11-r2</guid>
+    </item>
+    <item>
+      <title>gesture-colour-settings 1.0.10-r2</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Accessibility menu for colour preferences.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 06:07:39 +0000</pubDate>
+      <guid isPermaLink="false">gesture-colour-settings-1.0.10-r2</guid>
+    </item>
+    <item>
+      <title>floating-toolbar 2.0.4-r2</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Floating toolbar for quick access to your favourite tools, presets, and layers.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 06:07:38 +0000</pubDate>
+      <guid isPermaLink="false">floating-toolbar-2.0.4-r2</guid>
+    </item>
+    <item>
+      <title>fav-tag-button 1.0.7-r2</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Mon, 11 May 2026 06:07:36 +0000</pubDate>
+      <guid isPermaLink="false">fav-tag-button-1.0.7-r2</guid>
+    </item>
     <item>
       <title>uncompress-dock 1.0.0-r2</title>
       <link>https://github.com/NohamR/xovi-qmd-extensions</link>
@@ -530,15 +602,6 @@
       <guid isPermaLink="false">vnsee-qtfb-1.1.0-r3</guid>
     </item>
     <item>
-      <title>toolbar-icon 1.0.9-r1</title>
-      <link>https://github.com/FouzR/xovi-extensions</link>
-      <description><![CDATA[Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>FouzR</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:35 +0000</pubDate>
-      <guid isPermaLink="false">toolbar-icon-1.0.9-r1</guid>
-    </item>
-    <item>
       <title>tilem 0.1.3_git6-r2</title>
       <link>https://github.com/timower/rM2-stuff</link>
       <description><![CDATA[A TI-84+ calculator emulator for the remarkable.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -600,24 +663,6 @@
       <category>ui</category>
       <pubDate>Fri, 08 May 2026 02:18:33 +0000</pubDate>
       <guid isPermaLink="false">shortcuts-to-choose-eraser-1.0.1-r2</guid>
-    </item>
-    <item>
-      <title>selection-stuff 1.0.3-r3</title>
-      <link>https://github.com/FouzR/xovi-extensions</link>
-      <description><![CDATA[Adds the ability to select everything above the line.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>FouzR</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:33 +0000</pubDate>
-      <guid isPermaLink="false">selection-stuff-1.0.3-r3</guid>
-    </item>
-    <item>
-      <title>selection-erase 1.0.3-r3</title>
-      <link>https://github.com/FouzR/xovi-extensions</link>
-      <description><![CDATA[Adds the ability to delete a stroke once selected by the selection tool.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.27]]></description>
-      <author>FouzR</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:32 +0000</pubDate>
-      <guid isPermaLink="false">selection-erase-1.0.3-r3</guid>
     </item>
     <item>
       <title>scroll-screen-up-or-down 1.0.1-r2</title>
@@ -690,15 +735,6 @@
       <category>utilities</category>
       <pubDate>Fri, 08 May 2026 02:18:31 +0000</pubDate>
       <guid isPermaLink="false">rmfakecloud-proxy-0.0.10-r1</guid>
-    </item>
-    <item>
-      <title>recents-tagged 1.0.2-r1</title>
-      <link>https://github.com/FouzR/xovi-extensions</link>
-      <description><![CDATA[Adds a new menu to the document drawer that shows only tagged files, sorted by last modified.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.22 - 3.23]]></description>
-      <author>FouzR</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:31 +0000</pubDate>
-      <guid isPermaLink="false">recents-tagged-1.0.2-r1</guid>
     </item>
     <item>
       <title>random-sleep-screen 1.0.7-r1</title>
@@ -827,24 +863,6 @@
       <guid isPermaLink="false">gestures-ingatellent-1.0.3-r1</guid>
     </item>
     <item>
-      <title>gestures-fouzr 1.0.11-r1</title>
-      <link>https://github.com/FouzR/xovi-extensions</link>
-      <description><![CDATA[Adds four-finger document drawer, and multiple swipe gestures to control pen settings.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>FouzR</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:25 +0000</pubDate>
-      <guid isPermaLink="false">gestures-fouzr-1.0.11-r1</guid>
-    </item>
-    <item>
-      <title>gesture-colour-settings 1.0.10-r1</title>
-      <link>https://github.com/FouzR/xovi-extensions</link>
-      <description><![CDATA[Accessibility menu for colour preferences.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>FouzR</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:24 +0000</pubDate>
-      <guid isPermaLink="false">gesture-colour-settings-1.0.10-r1</guid>
-    </item>
-    <item>
       <title>framebuffer-spy 18.0.0-r4</title>
       <link>https://github.com/asivery/rm-xovi-extensions</link>
       <description><![CDATA[Module for exposing the address of the system framebuffer<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -870,15 +888,6 @@
       <category>ui</category>
       <pubDate>Fri, 08 May 2026 02:18:23 +0000</pubDate>
       <guid isPermaLink="false">force-koreader-landscape-1.0.1-r1</guid>
-    </item>
-    <item>
-      <title>floating-toolbar 2.0.4-r1</title>
-      <link>https://github.com/FouzR/xovi-extensions</link>
-      <description><![CDATA[Floating toolbar for quick access to your favourite tools, presets, and layers.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>FouzR</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:23 +0000</pubDate>
-      <guid isPermaLink="false">floating-toolbar-2.0.4-r1</guid>
     </item>
     <item>
       <title>fix-sidebar-filters 1.0.1-r2</title>
@@ -915,15 +924,6 @@
       <category>ui</category>
       <pubDate>Fri, 08 May 2026 02:18:21 +0000</pubDate>
       <guid isPermaLink="false">fewer-light-steps-1.0.2-r2</guid>
-    </item>
-    <item>
-      <title>fav-tag-button 1.0.7-r1</title>
-      <link>https://github.com/FouzR/xovi-extensions</link>
-      <description><![CDATA[Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>FouzR</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:21 +0000</pubDate>
-      <guid isPermaLink="false">fav-tag-button-1.0.7-r1</guid>
     </item>
     <item>
       <title>fastfetch 2.58.0_git11-r3</title>

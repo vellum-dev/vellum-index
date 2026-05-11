@@ -3346,7 +3346,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -3391,7 +3391,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -3436,7 +3436,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.3-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -3481,7 +3481,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.4-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -3526,7 +3526,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.5-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -3571,7 +3571,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.6-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -3616,9 +3616,9 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
-      "1.0.7-r1": {
+      "1.0.7-r2": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
         "upstream_author": "FouzR",
         "maintainer": "Fouz Reda <fouz290903@gmail.com>",
@@ -3659,9 +3659,9 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:21Z",
+        "released": "2026-05-11T06:07:36Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       }
     },
     "favorite-button": {
@@ -3708,7 +3708,7 @@
         "auto_install": false,
         "released": "2026-05-11T05:29:35Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       }
     },
     "fewer-light-steps": {
@@ -3755,7 +3755,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.1-r2": {
         "pkgdesc": "Changes 5-level light slider to 4-level.",
@@ -3800,7 +3800,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.2-r2": {
         "pkgdesc": "Changes 5-level light slider to 4-level.",
@@ -3845,7 +3845,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:21Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       }
     },
     "filter-annotated-pages": {
@@ -4593,7 +4593,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.1-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -4640,7 +4640,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.2-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -4687,7 +4687,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.3-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -4734,7 +4734,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.4-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -4781,7 +4781,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.5-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -4828,7 +4828,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.6-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -4875,7 +4875,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.7-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -4922,7 +4922,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.8-r1": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -4969,7 +4969,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.9-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -5016,7 +5016,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "2.0.0-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -5063,7 +5063,7 @@
         "auto_install": false,
         "released": "2026-03-16T19:52:45Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "2.0.1-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -5110,7 +5110,7 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "2.0.2-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -5157,7 +5157,7 @@
         "auto_install": false,
         "released": "2026-03-23T16:57:13Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "2.0.3-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -5204,9 +5204,9 @@
         "auto_install": false,
         "released": "2026-03-30T18:45:28Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
-      "2.0.4-r1": {
+      "2.0.4-r2": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
         "upstream_author": "FouzR",
         "maintainer": "Fouz Reda <fouz290903@gmail.com>",
@@ -5249,9 +5249,9 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:23Z",
+        "released": "2026-05-11T06:07:38Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       }
     },
     "force-koreader-landscape": {
@@ -5298,7 +5298,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/eda7ff2bb6012417bd37634958a1dc8f9bc1377e/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.1-r1": {
         "pkgdesc": "Keeps the KOReader appload app in the same aspect ratio as the screen",
@@ -5343,7 +5343,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:23Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/eda7ff2bb6012417bd37634958a1dc8f9bc1377e/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       }
     },
     "force-sync": {
@@ -5390,7 +5390,7 @@
         "auto_install": false,
         "released": "2026-05-11T05:29:37Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       }
     },
     "four-finger-change-filter": {
@@ -5439,7 +5439,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.1-r2": {
         "pkgdesc": "Four-finger tap to toggle contrast filter in PDF/EPUB documents.",
@@ -5486,7 +5486,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:23Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       }
     },
     "framebuffer-spy": {
@@ -5611,7 +5611,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.1-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -5656,7 +5656,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.2-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -5701,7 +5701,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.3-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -5746,7 +5746,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.4-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -5791,7 +5791,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.5-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -5836,7 +5836,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.6-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -5881,7 +5881,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.7-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -5926,7 +5926,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.8-r1": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -5972,7 +5972,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.9-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -6018,9 +6018,9 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
-      "1.0.10-r1": {
+      "1.0.10-r2": {
         "pkgdesc": "Accessibility menu for colour preferences.",
         "upstream_author": "FouzR",
         "maintainer": "Fouz Reda <fouz290903@gmail.com>",
@@ -6062,9 +6062,9 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:24Z",
+        "released": "2026-05-11T06:07:39Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       }
     },
     "gesture-contrast-toggle": {
@@ -6348,7 +6348,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6395,7 +6395,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6442,7 +6442,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.3-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6489,7 +6489,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.4-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6536,7 +6536,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.5-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6583,7 +6583,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.6-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6630,7 +6630,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.7-r1": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6678,7 +6678,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.8-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6726,7 +6726,7 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:13Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.10-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6774,9 +6774,9 @@
         "auto_install": false,
         "released": "2026-03-30T18:45:29Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
-      "1.0.11-r1": {
+      "1.0.11-r2": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
         "upstream_author": "FouzR",
         "maintainer": "Fouz Reda <fouz290903@gmail.com>",
@@ -6820,9 +6820,9 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:25Z",
+        "released": "2026-05-11T06:07:40Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       }
     },
     "gestures-ingatellent": {
@@ -6871,7 +6871,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.1-r0": {
         "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
@@ -6918,7 +6918,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.2-r0": {
         "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
@@ -6965,7 +6965,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.3-r1": {
         "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
@@ -7012,7 +7012,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:25Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       }
     },
     "ghostbuster": {
@@ -10768,7 +10768,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds a new menu to the document drawer that shows only tagged files, sorted by last modified.",
@@ -10813,9 +10813,9 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
-      "1.0.2-r1": {
+      "1.0.2-r2": {
         "pkgdesc": "Adds a new menu to the document drawer that shows only tagged files, sorted by last modified.",
         "upstream_author": "FouzR",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -10856,9 +10856,9 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:31Z",
+        "released": "2026-05-11T06:07:46Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       }
     },
     "rm-pdfium": {
@@ -12112,7 +12112,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
@@ -12157,7 +12157,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
@@ -12202,9 +12202,9 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
-      "1.0.3-r3": {
+      "1.0.3-r4": {
         "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
         "upstream_author": "FouzR",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -12245,9 +12245,9 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:32Z",
+        "released": "2026-05-11T06:07:48Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       }
     },
     "selection-stuff": {
@@ -12294,7 +12294,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds the ability to select everything above the line.",
@@ -12339,7 +12339,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.2-r2": {
         "pkgdesc": "Adds the ability to select everything above the line.",
@@ -12384,9 +12384,9 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:17Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
-      "1.0.3-r3": {
+      "1.0.3-r4": {
         "pkgdesc": "Adds the ability to select everything above the line.",
         "upstream_author": "FouzR",
         "maintainer": "Fouz Reda <fouz290903@gmail.com>",
@@ -12427,9 +12427,9 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:33Z",
+        "released": "2026-05-11T06:07:49Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       }
     },
     "settings-rmsync-restart": {
@@ -13334,7 +13334,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13379,7 +13379,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13424,7 +13424,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.3-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13469,7 +13469,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.4-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13514,7 +13514,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.5-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13559,7 +13559,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.6-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13604,7 +13604,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.7-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13649,7 +13649,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
       "1.0.8-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13694,9 +13694,9 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:18Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       },
-      "1.0.9-r1": {
+      "1.0.9-r2": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
         "upstream_author": "FouzR",
         "maintainer": "Fouz Reda <fouz290903@gmail.com>",
@@ -13737,9 +13737,9 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:35Z",
+        "released": "2026-05-11T06:07:51Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://ko-fi.com/fouzr"
       }
     },
     "touch-lock": {
@@ -15551,5 +15551,5 @@
       }
     }
   },
-  "generated": "2026-05-11T05:30:17Z"
+  "generated": "2026-05-11T06:08:21Z"
 }
