@@ -23,6 +23,9 @@ export interface PackageVersion {
   arch: Architecture[];
   modifies_system: boolean;
   auto_install: boolean;
+  status: string;
+  readmeurl: string | null;
+  donateurl: string | null;
 }
 
 export interface PackagesMetadata {

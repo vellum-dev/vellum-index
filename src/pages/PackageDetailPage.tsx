@@ -23,6 +23,8 @@ import {
   BreadcrumbSeparator,
 } from '@/components/ui/breadcrumb';
 import { DeviceBadge } from '@/components/packages/DeviceBadge';
+import { StatusBadge } from '@/components/packages/StatusBadge';
+import { ReadmeSection } from '@/components/packages/ReadmeSection';
 import type { FlatPackage } from '@/types/packages';
 
 function parseDepName(dep: string): string {
@@ -120,6 +122,16 @@ function PackageActions({ name, currentPkg }: { name: string; currentPkg: FlatPa
         >
           Flag Package Out-of-Date
         </a>
+        {currentPkg.donateurl && (
+          <a
+            href={currentPkg.donateurl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-sm text-primary hover:underline"
+          >
+            Donate
+          </a>
+        )}
         <DownloadButton name={name} currentPkg={currentPkg} />
       </div>
     </div>
@@ -174,7 +186,10 @@ export function PackageDetailPage() {
 
       <Card>
         <CardHeader>
-          <CardTitle className="text-2xl">{name}</CardTitle>
+          <CardTitle className="text-2xl flex items-center gap-2">
+            {name}
+            <StatusBadge status={currentPkg.status} />
+          </CardTitle>
           <CardAction>
             <TooltipProvider>
               <Tooltip>
@@ -408,6 +423,8 @@ export function PackageDetailPage() {
           </dl>
 
           <PackageActions name={name!} currentPkg={currentPkg} />
+
+          <ReadmeSection url={currentPkg.readmeurl} />
 
           <div>
             <h3 className="text-sm font-medium text-muted-foreground mb-2">Installation</h3>
