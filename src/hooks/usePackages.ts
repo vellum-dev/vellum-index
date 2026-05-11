@@ -1,6 +1,6 @@
 import { useMemo } from 'react';
 import packagesData from '@/data/packages-metadata.json';
-import type { PackagesMetadata, FlatPackage, PackageVersion, Device } from '@/types/packages';
+import type { PackagesMetadata, FlatPackage, PackageVersion } from '@/types/packages';
 import { normalizeDevice } from '@/types/packages';
 
 const SUFFIX_WEIGHTS: Record<string, number> = {
