@@ -5525,7 +5525,7 @@
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
         "donateurl": "https://ko-fi.com/asivery"
       },
-      "18.0.0-r5": {
+      "18.0.0-r6": {
         "pkgdesc": "Module for exposing the address of the system framebuffer",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -5548,8 +5548,7 @@
           "rm2",
           "rmpp",
           "rmppm",
-          "rmppmove",
-          "rmppure"
+          "rmppmove"
         ],
         "depends": [
           "xovi-extensions"
@@ -5562,7 +5561,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-11T06:15:09Z",
+        "released": "2026-05-11T14:42:25Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
         "donateurl": "https://ko-fi.com/asivery"
       }
@@ -8510,7 +8509,7 @@
         "readmeurl": "https://raw.githubusercontent.com/koreader/koreader/v2026.03/README.md",
         "donateurl": null
       },
-      "2026.03-r2": {
+      "2026.03-r3": {
         "pkgdesc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.",
         "upstream_author": "koreader",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -8528,8 +8527,7 @@
           "rm2",
           "rmpp",
           "rmppm",
-          "rmppmove",
-          "rmppure"
+          "rmppmove"
         ],
         "depends": [
           "appload>=0.4.2"
@@ -8542,7 +8540,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:27Z",
+        "released": "2026-05-11T14:42:28Z",
         "readmeurl": "https://raw.githubusercontent.com/koreader/koreader/v2026.03/README.md",
         "donateurl": null
       }
@@ -9798,7 +9796,7 @@
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
         "donateurl": "https://ko-fi.com/asivery"
       },
-      "18.0.0-r5": {
+      "18.0.0-r6": {
         "pkgdesc": "Injects a QT module to execute shell commands from QML",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -9830,7 +9828,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-11T06:15:16Z",
+        "released": "2026-05-11T14:42:30Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
         "donateurl": "https://ko-fi.com/asivery"
       }
@@ -9908,7 +9906,7 @@
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
         "donateurl": "https://ko-fi.com/asivery"
       },
-      "18.0.0-r5": {
+      "18.0.0-r6": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -9940,7 +9938,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-11T06:15:16Z",
+        "released": "2026-05-11T14:42:30Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
         "donateurl": "https://ko-fi.com/asivery"
       }
@@ -14723,7 +14721,7 @@
       }
     },
     "vnsee-qtfb": {
-      "1.1.0-r3": {
+      "1.1.0-r4": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen",
         "upstream_author": "khyryra",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
@@ -14753,7 +14751,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:36Z",
+        "released": "2026-05-11T14:42:37Z",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
         "donateurl": null
       }
@@ -14897,7 +14895,7 @@
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
         "donateurl": "https://ko-fi.com/asivery"
       },
-      "18.0.0-r5": {
+      "18.0.0-r6": {
         "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -14941,7 +14939,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-11T06:15:24Z",
+        "released": "2026-05-11T14:42:37Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
         "donateurl": "https://ko-fi.com/asivery"
       }
@@ -15145,7 +15143,7 @@
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
         "donateurl": "https://ko-fi.com/asivery"
       },
-      "18.0.0-r5": {
+      "18.0.0-r6": {
         "pkgdesc": "Extensions for xovi framework",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -15184,7 +15182,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-11T06:15:24Z",
+        "released": "2026-05-11T14:42:37Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
         "donateurl": "https://ko-fi.com/asivery"
       }
@@ -15262,7 +15260,7 @@
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
         "donateurl": "https://ko-fi.com/asivery"
       },
-      "18.0.0-r5": {
+      "18.0.0-r6": {
         "pkgdesc": "IPC messaging between xovi extensions",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -15294,7 +15292,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-11T06:15:25Z",
+        "released": "2026-05-11T14:42:37Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
         "donateurl": "https://ko-fi.com/asivery"
       }
@@ -15551,5 +15549,5 @@
       }
     }
   },
-  "generated": "2026-05-11T13:29:00Z"
+  "generated": "2026-05-11T14:42:59Z"
 }
