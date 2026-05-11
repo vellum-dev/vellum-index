@@ -581,7 +581,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:17Z",
         "readmeurl": "https://raw.githubusercontent.com/sharkdp/bat/v0.26.1/README.md",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": null
       }
     },
     "bettertoc": {
@@ -1187,7 +1187,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:18Z",
         "readmeurl": "https://raw.githubusercontent.com/aristocratos/btop/v1.4.6/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "button-press-for-pen-change": {
@@ -1238,7 +1238,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r3": {
         "pkgdesc": "Hold stylus button to select-erase, click once to change to selection, click twice to change pen.",
@@ -1287,7 +1287,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:18Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "change-green-color": {
@@ -1334,7 +1334,7 @@
         "auto_install": false,
         "released": "2026-02-23T18:48:32Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r0": {
         "pkgdesc": "Change the default green color to a darker green. Customizable via editing qmd.",
@@ -1379,7 +1379,7 @@
         "auto_install": false,
         "released": "2026-03-08T13:45:15Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.2-r2": {
         "pkgdesc": "Change the default green color to a darker green. Customizable via editing qmd.",
@@ -1424,7 +1424,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:18Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "change-vertical-jump": {
@@ -1471,7 +1471,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r2": {
         "pkgdesc": "Increases scroll distance when scrolling down a page.",
@@ -1516,7 +1516,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:18Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "convert-to-text-remover": {
@@ -1563,7 +1563,7 @@
         "auto_install": false,
         "released": "2026-05-11T05:29:32Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "create-document-from-pages": {
@@ -1576,7 +1576,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -1623,7 +1623,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -1671,7 +1671,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -1721,7 +1721,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -1768,7 +1768,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -1815,7 +1815,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -1862,7 +1862,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -1909,7 +1909,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -1958,7 +1958,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -2005,7 +2005,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -2052,7 +2052,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -2099,7 +2099,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -2146,7 +2146,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -2195,7 +2195,7 @@
         ],
         "license": "curl",
         "url": "https://curl.se/",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -2218,7 +2218,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:19Z",
         "readmeurl": "https://raw.githubusercontent.com/curl/curl/curl-8_11_0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "delay-stroke-screen-refresh": {
@@ -2231,7 +2231,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.18",
         "os_max": "3.26",
         "os_constraints": [
@@ -2265,7 +2265,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r2": {
         "pkgdesc": "Delays color stroke refresh by 10 seconds of inactivity.",
@@ -2276,7 +2276,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -2310,7 +2310,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:19Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "disable-infinite-scroll": {
@@ -2323,7 +2323,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.27",
         "os_constraints": [
@@ -2368,7 +2368,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.28",
         "os_constraints": [
@@ -2418,7 +2418,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.28",
         "os_constraints": [
@@ -2467,7 +2467,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -2514,7 +2514,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -2562,7 +2562,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -2612,7 +2612,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.20",
         "os_max": "3.23",
         "os_constraints": [
@@ -2643,7 +2643,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r0": {
         "pkgdesc": "Enables full color selection on rM1 and rM2.",
@@ -2654,7 +2654,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -2685,7 +2685,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.2-r1": {
         "pkgdesc": "Enables full color selection on rM1 and rM2.",
@@ -2696,7 +2696,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.26",
         "os_constraints": [
@@ -2727,7 +2727,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.3-r2": {
         "pkgdesc": "Enables full color selection on rM1 and rM2.",
@@ -2738,7 +2738,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -2769,7 +2769,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:20Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "enable-extra-pen-on-move": {
@@ -2782,7 +2782,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.26",
         "os_constraints": [
@@ -2813,7 +2813,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r3": {
         "pkgdesc": "Adds extra pen slot to toolbar (RMPPM only, requires qt-resource-rebuilder v16+).",
@@ -2824,7 +2824,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -2854,7 +2854,7 @@
         "auto_install": false,
         "released": "2026-05-11T05:12:50Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "enable-shortcuts": {
@@ -2867,7 +2867,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.18",
         "os_max": "3.24",
         "os_constraints": [
@@ -2903,7 +2903,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r3": {
         "pkgdesc": "Enables keyboard shortcuts for arrow key page and scroll navigation.",
@@ -2914,7 +2914,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.26",
         "os_constraints": [
@@ -2950,7 +2950,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:20Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "enable-shortcuts-scroll-page": {
@@ -2963,7 +2963,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.18",
         "os_max": "3.23",
         "os_constraints": [
@@ -2999,7 +2999,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r0": {
         "pkgdesc": "Advanced shortcuts with scroll or page change (requires gestureTapToPage).",
@@ -3010,7 +3010,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -3046,7 +3046,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.2-r2": {
         "pkgdesc": "Advanced shortcuts with scroll or page change (requires gestureTapToPage).",
@@ -3057,7 +3057,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -3093,7 +3093,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:20Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "enable-typing-on-documents": {
@@ -3153,7 +3153,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://entware.net/",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -3177,8 +3177,8 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/c41737290b02a7f9dbd2d2d1e343facd61945282/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       }
     },
     "entware-rc": {
@@ -3191,7 +3191,7 @@
         ],
         "license": "MIT",
         "url": "https://toltec-dev.org/",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -3215,8 +3215,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-19T17:42:42Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/c41737290b02a7f9dbd2d2d1e343facd61945282/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       }
     },
     "extend-list-title-width": {
@@ -3229,7 +3229,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.28",
         "os_constraints": [
@@ -3276,7 +3276,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/fastfetch-cli/fastfetch",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -3299,7 +3299,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:20Z",
         "readmeurl": "https://raw.githubusercontent.com/fastfetch-cli/fastfetch/2.25.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "fav-tag-button": {
@@ -3312,7 +3312,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.15",
         "os_max": "3.19",
         "os_constraints": [
@@ -3357,7 +3357,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.19",
         "os_max": "3.21",
         "os_constraints": [
@@ -3402,7 +3402,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -3447,7 +3447,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -3492,7 +3492,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -3537,7 +3537,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -3582,7 +3582,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -3627,7 +3627,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -3708,7 +3708,7 @@
         "auto_install": false,
         "released": "2026-05-11T05:29:35Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": null
       }
     },
     "fewer-light-steps": {
@@ -3721,7 +3721,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.18",
         "os_max": "3.23",
         "os_constraints": [
@@ -3755,7 +3755,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": null
       },
       "1.0.1-r2": {
         "pkgdesc": "Changes 5-level light slider to 4-level.",
@@ -3766,7 +3766,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.26",
         "os_constraints": [
@@ -3800,7 +3800,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": null
       },
       "1.0.2-r2": {
         "pkgdesc": "Changes 5-level light slider to 4-level.",
@@ -3811,7 +3811,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -3845,7 +3845,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:21Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": null
       }
     },
     "filter-annotated-pages": {
@@ -3858,7 +3858,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -3903,7 +3903,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -3950,7 +3950,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -3984,7 +3984,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r1": {
         "pkgdesc": "Fixes rotation issues with the appload app.",
@@ -3995,7 +3995,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -4029,7 +4029,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:21Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "fix-battery-indicator": {
@@ -4043,7 +4043,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.27",
         "os_constraints": [
@@ -4089,7 +4089,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -4137,7 +4137,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.26",
         "os_constraints": [
@@ -4171,7 +4171,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r2": {
         "pkgdesc": "Makes Custom Fit zoom consistent across devices and orientations, ensuring the same document area is shown everywhere.",
@@ -4183,7 +4183,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -4217,7 +4217,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:22Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "fix-light-indicator-gap": {
@@ -4231,7 +4231,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.28",
         "os_constraints": [
@@ -4276,7 +4276,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -4322,7 +4322,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.28",
         "os_constraints": [
@@ -4464,7 +4464,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -4498,7 +4498,7 @@
         "auto_install": false,
         "released": "2026-02-11T23:10:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r2": {
         "pkgdesc": "Fix highlighting selected filter in navigator sidebar",
@@ -4510,7 +4510,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -4544,7 +4544,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:22Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "floating-toolbar": {
@@ -4557,7 +4557,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.15",
         "os_max": "3.17",
         "os_constraints": [
@@ -4604,7 +4604,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.17",
         "os_max": "3.18",
         "os_constraints": [
@@ -4651,7 +4651,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.18",
         "os_max": "3.19",
         "os_constraints": [
@@ -4698,7 +4698,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.19",
         "os_max": "3.20",
         "os_constraints": [
@@ -4745,7 +4745,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.20",
         "os_max": "3.21",
         "os_constraints": [
@@ -4792,7 +4792,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -4839,7 +4839,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -4886,7 +4886,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -4933,7 +4933,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -4980,7 +4980,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -5027,7 +5027,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -5074,7 +5074,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -5121,7 +5121,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -5168,7 +5168,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -5215,7 +5215,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -5264,7 +5264,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.26",
         "os_constraints": [
@@ -5298,7 +5298,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/eda7ff2bb6012417bd37634958a1dc8f9bc1377e/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": null
       },
       "1.0.1-r1": {
         "pkgdesc": "Keeps the KOReader appload app in the same aspect ratio as the screen",
@@ -5309,7 +5309,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.27",
         "os_constraints": [
@@ -5343,7 +5343,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:23Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/eda7ff2bb6012417bd37634958a1dc8f9bc1377e/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": null
       }
     },
     "force-sync": {
@@ -5390,7 +5390,7 @@
         "auto_install": false,
         "released": "2026-05-11T05:29:37Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": null
       }
     },
     "four-finger-change-filter": {
@@ -5403,7 +5403,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -5439,7 +5439,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": null
       },
       "1.0.1-r2": {
         "pkgdesc": "Four-finger tap to toggle contrast filter in PDF/EPUB documents.",
@@ -5450,7 +5450,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -5486,7 +5486,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:23Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": null
       }
     },
     "framebuffer-spy": {
@@ -5499,7 +5499,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -5534,7 +5534,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": "3.28",
         "os_constraints": [
@@ -5577,7 +5577,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.15",
         "os_max": "3.17",
         "os_constraints": [
@@ -5622,7 +5622,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.17",
         "os_max": "3.18",
         "os_constraints": [
@@ -5667,7 +5667,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.18",
         "os_max": "3.19",
         "os_constraints": [
@@ -5712,7 +5712,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.19",
         "os_max": "3.20",
         "os_constraints": [
@@ -5757,7 +5757,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.20",
         "os_max": "3.21",
         "os_constraints": [
@@ -5802,7 +5802,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -5847,7 +5847,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -5892,7 +5892,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -5937,7 +5937,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -5983,7 +5983,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -6029,7 +6029,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -6312,7 +6312,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.15",
         "os_max": "3.17",
         "os_constraints": [
@@ -6359,7 +6359,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.17",
         "os_max": "3.18",
         "os_constraints": [
@@ -6406,7 +6406,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.18",
         "os_max": "3.19",
         "os_constraints": [
@@ -6453,7 +6453,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.19",
         "os_max": "3.20",
         "os_constraints": [
@@ -6500,7 +6500,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.20",
         "os_max": "3.23",
         "os_constraints": [
@@ -6547,7 +6547,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -6594,7 +6594,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -6641,7 +6641,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -6689,7 +6689,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -6737,7 +6737,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -6785,7 +6785,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -6835,7 +6835,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.18",
         "os_max": "3.20",
         "os_constraints": [
@@ -6871,7 +6871,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": null
       },
       "1.0.1-r0": {
         "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
@@ -6882,7 +6882,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.20",
         "os_max": "3.21",
         "os_constraints": [
@@ -6918,7 +6918,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": null
       },
       "1.0.2-r0": {
         "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
@@ -6929,7 +6929,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -6965,7 +6965,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": null
       },
       "1.0.3-r1": {
         "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
@@ -6976,7 +6976,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -7012,7 +7012,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:25Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": null
       }
     },
     "ghostbuster": {
@@ -7025,7 +7025,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.28",
         "os_constraints": [
@@ -7072,7 +7072,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/owulveryck/goMarkableStream",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -7092,7 +7092,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/owulveryck/goMarkableStream/v1.2.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.2.0-r1": {
         "pkgdesc": "Stream your reMarkable screen to a web browser",
@@ -7103,7 +7103,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/owulveryck/goMarkableStream",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": null,
         "os_constraints": [
@@ -7128,7 +7128,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:25Z",
         "readmeurl": "https://raw.githubusercontent.com/owulveryck/goMarkableStream/v1.2.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "hide-dev-mode-icon": {
@@ -7141,7 +7141,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -7186,7 +7186,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -7231,7 +7231,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.28",
         "os_constraints": [
@@ -7276,7 +7276,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.18",
         "os_max": "3.20",
         "os_constraints": [
@@ -7310,7 +7310,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -7321,7 +7321,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.20",
         "os_max": "3.21",
         "os_constraints": [
@@ -7355,7 +7355,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.2-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -7366,7 +7366,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -7400,7 +7400,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.3-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -7411,7 +7411,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -7445,7 +7445,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.4-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -7456,7 +7456,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -7490,7 +7490,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.5-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -7501,7 +7501,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -7535,7 +7535,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.6-r2": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -7546,7 +7546,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -7580,7 +7580,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:26Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "hide-hyperlink-back-button": {
@@ -7593,7 +7593,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -7640,7 +7640,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.18",
         "os_max": "3.20",
         "os_constraints": [
@@ -7674,7 +7674,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r0": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -7685,7 +7685,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.20",
         "os_max": "3.23",
         "os_constraints": [
@@ -7719,7 +7719,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.2-r0": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -7730,7 +7730,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -7764,7 +7764,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.3-r0": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -7775,7 +7775,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -7809,7 +7809,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.4-r1": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -7820,7 +7820,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.26",
         "os_constraints": [
@@ -7854,7 +7854,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.5-r2": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -7865,7 +7865,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -7899,7 +7899,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:26Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "hide-show-toolbar": {
@@ -7912,7 +7912,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.18",
         "os_max": "3.20",
         "os_constraints": [
@@ -7946,7 +7946,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r0": {
         "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
@@ -7957,7 +7957,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.20",
         "os_max": "3.21",
         "os_constraints": [
@@ -7991,7 +7991,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.2-r0": {
         "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
@@ -8002,7 +8002,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -8036,7 +8036,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.3-r0": {
         "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
@@ -8047,7 +8047,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -8081,7 +8081,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.4-r0": {
         "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
@@ -8092,7 +8092,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -8126,7 +8126,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.5-r0": {
         "pkgdesc": "Hides the show toolbar button.",
@@ -8137,7 +8137,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -8171,7 +8171,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.6-r2": {
         "pkgdesc": "Hides the show toolbar button.",
@@ -8182,7 +8182,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -8216,7 +8216,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:27Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "hide-zoom-indicator": {
@@ -8229,7 +8229,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.20",
         "os_max": "3.21",
         "os_constraints": [
@@ -8274,7 +8274,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -8319,7 +8319,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -8364,7 +8364,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.28",
         "os_constraints": [
@@ -8411,7 +8411,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/hykilpikonna/hyfetch",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -8434,7 +8434,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:27Z",
         "readmeurl": "https://raw.githubusercontent.com/hykilpikonna/hyfetch/2.0.5/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "jq": {
@@ -8447,7 +8447,7 @@
         ],
         "license": "MIT",
         "url": "https://jqlang.org/",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -8470,7 +8470,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:27Z",
         "readmeurl": "https://raw.githubusercontent.com/jqlang/jq/jq-1.8.1/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "koreader": {
@@ -8483,7 +8483,7 @@
         ],
         "license": "AGPL-3.0",
         "url": "https://github.com/koreader/koreader",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -8508,7 +8508,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/koreader/koreader/v2026.03/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "2026.03-r2": {
         "pkgdesc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.",
@@ -8519,7 +8519,7 @@
         ],
         "license": "AGPL-3.0",
         "url": "https://github.com/koreader/koreader",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -8544,7 +8544,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:27Z",
         "readmeurl": "https://raw.githubusercontent.com/koreader/koreader/v2026.03/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "less": {
@@ -8557,7 +8557,7 @@
         ],
         "license": "GPL-3.0-or-later OR BSD-2-Clause",
         "url": "https://greenwoodsoftware.com/less/",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -8579,8 +8579,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-11T18:30:44Z",
-        "readmeurl": "https://raw.githubusercontent.com/koreader/koreader/v2026.03/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       }
     },
     "librarian": {
@@ -8593,7 +8593,7 @@
         ],
         "license": "GPL-3.0-or-later",
         "url": "https://github.com/rmitchellscott/rm-librarian",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -8632,7 +8632,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/asivery/rm-literm",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -8677,7 +8677,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/asivery/rm-literm",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.28",
         "os_constraints": [
@@ -8724,7 +8724,7 @@
         ],
         "license": "MIT",
         "url": "https://micro-editor.github.io/",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -8747,7 +8747,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:27Z",
         "readmeurl": "https://raw.githubusercontent.com/zyedidia/micro/v2.0.14/README.md",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": null
       }
     },
     "mini-light-sleep": {
@@ -8760,7 +8760,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.20",
         "os_max": "3.21",
         "os_constraints": [
@@ -8805,7 +8805,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -8850,7 +8850,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -8895,7 +8895,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -8940,7 +8940,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -8985,7 +8985,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -9032,7 +9032,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -9064,7 +9064,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r0": {
         "pkgdesc": "Provides additional light intensity settings beyond the default options.",
@@ -9075,7 +9075,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -9107,7 +9107,7 @@
         "auto_install": false,
         "released": "2026-03-20T01:45:25Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.2-r2": {
         "pkgdesc": "Provides additional light intensity settings beyond the default options.",
@@ -9118,7 +9118,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -9149,7 +9149,7 @@
         "auto_install": false,
         "released": "2026-05-11T05:12:58Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "mount-utils": {
@@ -9162,7 +9162,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -9184,8 +9184,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       },
       "1.1.0-r0": {
         "pkgdesc": "Commands to toggle reMarkable filesystem between read-write and read-only",
@@ -9196,7 +9196,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -9218,8 +9218,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-16T21:38:53Z",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       }
     },
     "navigate-using-arrow-keys": {
@@ -9232,7 +9232,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -9267,7 +9267,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r0": {
         "pkgdesc": "Keyboard arrow key navigation: left/right for pages, up/down for scrolling.",
@@ -9278,7 +9278,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -9313,7 +9313,7 @@
         "auto_install": false,
         "released": "2026-03-20T01:45:25Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.2-r1": {
         "pkgdesc": "Keyboard arrow key navigation: left/right for pages, up/down for scrolling.",
@@ -9324,7 +9324,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -9359,7 +9359,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:28Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "netevent": {
@@ -9372,7 +9372,7 @@
         ],
         "license": "GPL-2.0-only",
         "url": "https://github.com/Blub/netevent",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -9395,7 +9395,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:28Z",
         "readmeurl": "https://raw.githubusercontent.com/Blub/netevent/2.2.2/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "pen-layer-memory": {
@@ -9408,7 +9408,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -9453,7 +9453,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -9498,7 +9498,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -9545,7 +9545,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -9592,7 +9592,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -9639,7 +9639,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.27",
         "os_constraints": [
@@ -9686,7 +9686,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.28",
         "os_constraints": [
@@ -9735,7 +9735,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -9771,7 +9771,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -9807,7 +9807,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -9845,7 +9845,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -9881,7 +9881,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -9917,7 +9917,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -9955,7 +9955,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -10000,7 +10000,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -10045,7 +10045,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.28",
         "os_constraints": [
@@ -10092,7 +10092,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -10137,7 +10137,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -10182,7 +10182,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.27",
         "os_constraints": [
@@ -10229,7 +10229,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.28",
         "os_constraints": [
@@ -10280,7 +10280,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -10325,7 +10325,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -10372,7 +10372,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -10406,7 +10406,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -10417,7 +10417,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -10451,7 +10451,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.2-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -10462,7 +10462,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -10496,7 +10496,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.3-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -10507,7 +10507,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -10541,7 +10541,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.4-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -10552,7 +10552,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -10586,7 +10586,7 @@
         "auto_install": false,
         "released": "2026-02-12T15:09:12Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.5-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -10597,7 +10597,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -10631,7 +10631,7 @@
         "auto_install": false,
         "released": "2026-03-20T01:45:26Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.6-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -10642,7 +10642,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -10676,7 +10676,7 @@
         "auto_install": false,
         "released": "2026-04-24T14:11:44Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.7-r1": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -10687,7 +10687,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -10721,7 +10721,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:30Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "recents-tagged": {
@@ -10871,7 +10871,7 @@
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/rm-pdfium",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -10919,7 +10919,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/rm-pokemon",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -10953,7 +10953,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/rm-pokemon",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -10989,7 +10989,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/rm-shot",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11026,7 +11026,7 @@
         ],
         "license": "GPL-3.0-or-later",
         "url": "https://github.com/rmitchellscott/rm-shot",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11063,7 +11063,7 @@
         ],
         "license": "GPL-3.0-or-later",
         "url": "https://github.com/rmitchellscott/rm-shot",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11102,7 +11102,7 @@
         ],
         "license": "GPL-3.0-or-later",
         "url": "https://github.com/rmitchellscott/rm-shot",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11143,7 +11143,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/rm-stylus",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11179,7 +11179,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/rm-stylus",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11211,7 +11211,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/rm-stylus",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11245,7 +11245,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/rm-version-switcher",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11279,7 +11279,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/rm-version-switcher",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11315,7 +11315,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/ddvk/rmfakecloud-proxy",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11338,7 +11338,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/ddvk/rmfakecloud-proxy/v0.0.10/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "0.0.9-r0": {
         "pkgdesc": "HTTPS proxy for rmfakecloud - redirects reMarkable cloud traffic",
@@ -11349,7 +11349,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/ddvk/rmfakecloud-proxy",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11372,7 +11372,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/ddvk/rmfakecloud-proxy/v0.0.10/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "0.0.10-r1": {
         "pkgdesc": "HTTPS proxy for rmfakecloud - redirects reMarkable cloud traffic",
@@ -11383,7 +11383,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/ddvk/rmfakecloud-proxy",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11406,7 +11406,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:31Z",
         "readmeurl": "https://raw.githubusercontent.com/ddvk/rmfakecloud-proxy/v0.0.10/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "rmhacks": {
@@ -11419,7 +11419,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/asivery/rm-hacks-qmd",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.17",
         "os_max": "3.20",
         "os_constraints": [
@@ -11468,7 +11468,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/asivery/rm-hacks-qmd",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.20",
         "os_max": "3.22",
         "os_constraints": [
@@ -11517,7 +11517,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/asivery/rm-hacks-qmd",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -11566,7 +11566,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/asivery/rm-hacks-qmd",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -11615,7 +11615,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/asivery/rm-hacks-qmd",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -11666,7 +11666,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/appload-rmstream",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11703,7 +11703,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/appload-rmstream",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11740,7 +11740,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/appload-rmstream",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11780,7 +11780,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/appload-rmstream",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11818,7 +11818,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/rmtree",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11852,7 +11852,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/rmtree",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11888,7 +11888,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -11925,7 +11925,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r2": {
         "pkgdesc": "Make the rubber eraser on a pen work as eraser on rM1.",
@@ -11936,7 +11936,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -11973,7 +11973,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:32Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "scroll-screen-up-or-down": {
@@ -11986,7 +11986,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -12020,7 +12020,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r2": {
         "pkgdesc": "Screen scrolling with page change at boundaries. Prerequisite for tap and arrow key navigation.",
@@ -12031,7 +12031,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -12065,7 +12065,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:32Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "selection-erase": {
@@ -12260,7 +12260,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.15",
         "os_max": "3.19",
         "os_constraints": [
@@ -12305,7 +12305,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.19",
         "os_max": "3.23",
         "os_constraints": [
@@ -12350,7 +12350,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.27",
         "os_constraints": [
@@ -12395,7 +12395,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -12442,7 +12442,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22.4.2",
         "os_max": "3.28",
         "os_constraints": [
@@ -12490,7 +12490,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -12530,7 +12530,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r2": {
         "pkgdesc": "Use stylus side button for erase selection and rubber eraser as regular eraser.",
@@ -12541,7 +12541,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -12581,7 +12581,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:33Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "sidebar-clock": {
@@ -12628,7 +12628,7 @@
         "auto_install": false,
         "released": "2026-05-11T05:29:47Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "starship": {
@@ -12641,7 +12641,7 @@
         ],
         "license": "ISC",
         "url": "https://starship.rs/",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -12664,7 +12664,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:33Z",
         "readmeurl": "https://raw.githubusercontent.com/starship/starship/v1.24.2/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "stylus-button-eraser": {
@@ -12677,7 +12677,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.28",
         "os_constraints": [
@@ -12727,7 +12727,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.28",
         "os_constraints": [
@@ -12778,7 +12778,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -12812,7 +12812,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r2": {
         "pkgdesc": "Swipe from toolbar edge to show/hide the toolbar.",
@@ -12823,7 +12823,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -12857,7 +12857,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:33Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "tag-button": {
@@ -12904,7 +12904,7 @@
         "auto_install": false,
         "released": "2026-05-11T05:29:47Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "tailscale": {
@@ -12917,7 +12917,7 @@
         ],
         "license": "BSD-3-Clause",
         "url": "https://tailscale.com",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -12942,7 +12942,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.96.2/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.94.2-r1": {
         "pkgdesc": "Tailscale VPN client",
@@ -12953,7 +12953,7 @@
         ],
         "license": "BSD-3-Clause",
         "url": "https://tailscale.com",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -12978,7 +12978,7 @@
         "auto_install": false,
         "released": "2026-03-10T19:44:49Z",
         "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.96.2/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.96.2-r2": {
         "pkgdesc": "Tailscale VPN client",
@@ -12989,7 +12989,7 @@
         ],
         "license": "BSD-3-Clause",
         "url": "https://tailscale.com",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -13014,7 +13014,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:34Z",
         "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.96.2/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "tap-to-change-view-or-page": {
@@ -13027,7 +13027,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -13062,7 +13062,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r2": {
         "pkgdesc": "Tap screen edges to scroll/navigate pages when toolbar is hidden.",
@@ -13073,7 +13073,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -13108,7 +13108,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:34Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "three-finger-swipe-to-reset-view": {
@@ -13121,7 +13121,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -13155,7 +13155,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       },
       "1.0.1-r2": {
         "pkgdesc": "Swipe down with three fingers to reset pan and zoom to 100%.",
@@ -13166,7 +13166,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -13200,7 +13200,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:34Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "tilem": {
@@ -13213,7 +13213,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/timower/rM2-stuff",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -13239,7 +13239,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:34Z",
         "readmeurl": "https://raw.githubusercontent.com/timower/rM2-stuff/v0.1.3/Readme.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "toc-from-selection": {
@@ -13252,7 +13252,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.28",
         "os_constraints": [
@@ -13300,7 +13300,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.15",
         "os_max": "3.18",
         "os_constraints": [
@@ -13345,7 +13345,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.18",
         "os_max": "3.19",
         "os_constraints": [
@@ -13390,7 +13390,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.19",
         "os_max": "3.20",
         "os_constraints": [
@@ -13435,7 +13435,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.20",
         "os_max": "3.21",
         "os_constraints": [
@@ -13480,7 +13480,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -13525,7 +13525,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -13570,7 +13570,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -13615,7 +13615,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -13660,7 +13660,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.26",
         "os_max": "3.27",
         "os_constraints": [
@@ -13705,7 +13705,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/FouzR/xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -13752,7 +13752,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.26",
         "os_constraints": [
@@ -13797,7 +13797,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.27",
         "os_constraints": [
@@ -13842,7 +13842,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.25",
         "os_max": "3.28",
         "os_constraints": [
@@ -13889,7 +13889,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-tripletap",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -13962,7 +13962,7 @@
         "auto_install": false,
         "released": "2026-05-11T05:29:49Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "unlock-methods-content": {
@@ -13975,7 +13975,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.22",
         "os_max": "3.23",
         "os_constraints": [
@@ -14020,7 +14020,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -14065,7 +14065,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.28",
         "os_constraints": [
@@ -14112,7 +14112,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum-cli",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14134,8 +14134,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.1.2-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14146,7 +14146,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum-cli",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14168,8 +14168,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.1.3-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14180,7 +14180,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum-cli",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14202,8 +14202,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.1.4-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14214,7 +14214,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum-cli",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14236,8 +14236,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.1.6-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14248,7 +14248,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum-cli",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14270,8 +14270,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.1.7-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14282,7 +14282,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum-cli",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14304,8 +14304,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.1.8-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14316,7 +14316,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum-cli",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14338,8 +14338,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.1.9-r1": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14350,7 +14350,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum-cli",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14372,8 +14372,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-12T15:09:15Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.2.0-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14384,7 +14384,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum-cli",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14406,8 +14406,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-16T21:46:45Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.2.1-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14418,7 +14418,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum-cli",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14440,8 +14440,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-17T00:54:31Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.2.2-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14452,7 +14452,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum-cli",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14474,8 +14474,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-19T22:56:21Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.2.3-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14486,7 +14486,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum-cli",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14508,8 +14508,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-19T23:43:33Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.2.4-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14520,7 +14520,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum-cli",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14542,8 +14542,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-30T18:45:37Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.2.5-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14554,7 +14554,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum-cli",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14576,8 +14576,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-11T17:03:16Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.2.6-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14588,7 +14588,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum-cli",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14610,8 +14610,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-20T23:01:21Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.2.7-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14622,7 +14622,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum-cli",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14644,8 +14644,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-04T22:04:01Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       }
     },
     "vellum-bash-completion": {
@@ -14658,7 +14658,7 @@
         ],
         "license": "GPL-2.0-only",
         "url": "https://github.com/vellum-dev/apk-tools",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14680,8 +14680,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-11T16:21:02Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       }
     },
     "vellum-hosts": {
@@ -14694,7 +14694,7 @@
         ],
         "license": "MIT",
         "url": "https://github.com/vellum-dev/vellum",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14718,8 +14718,8 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "readmeurl": null,
+        "donateurl": null
       }
     },
     "vnsee-qtfb": {
@@ -14732,7 +14732,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/khyryra/vnsee-qtfb",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14755,7 +14755,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:36Z",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "vnsee-qtfb-rmpp": {
@@ -14768,7 +14768,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/khyryra/vnsee-qtfb",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14787,7 +14787,7 @@
         "auto_install": true,
         "released": "2026-02-10T23:43:13Z",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "vnsee-qtfb-rmppm": {
@@ -14800,7 +14800,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/khyryra/vnsee-qtfb",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14819,7 +14819,7 @@
         "auto_install": true,
         "released": "2026-02-10T23:43:13Z",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "webserver-remote": {
@@ -14832,7 +14832,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14869,7 +14869,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14906,7 +14906,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.28",
         "os_constraints": [
@@ -14956,7 +14956,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/xovi",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -14990,7 +14990,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/xovi",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -15026,7 +15026,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/xovi",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -15064,7 +15064,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.20",
         "os_max": "3.26",
         "os_constraints": [
@@ -15109,7 +15109,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.20",
         "os_max": "3.27",
         "os_constraints": [
@@ -15154,7 +15154,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.20",
         "os_max": null,
         "os_constraints": [
@@ -15199,7 +15199,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -15235,7 +15235,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -15271,7 +15271,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/asivery/rm-xovi-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -15309,7 +15309,7 @@
         ],
         "license": "CC-BY-NC-ND-4.0",
         "url": "https://github.com/PepikVaio/reMarkable_Xovi_Extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.24",
         "os_max": "3.25",
         "os_constraints": [
@@ -15343,7 +15343,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:37Z",
         "readmeurl": "https://raw.githubusercontent.com/PepikVaio/reMarkable_Xovi_Extensions/4d24da8dbf92cec060e29f64568dc6963cf6d6fe/README.md",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": null
       }
     },
     "zig": {
@@ -15356,7 +15356,7 @@
         ],
         "license": "MIT",
         "url": "https://ziglang.org",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -15378,8 +15378,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-09T19:16:24Z",
-        "readmeurl": "https://raw.githubusercontent.com/asivery/xovi/v0.3.3/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.16.0-r0": {
         "pkgdesc": "A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software",
@@ -15390,7 +15390,7 @@
         ],
         "license": "MIT",
         "url": "https://ziglang.org",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -15412,8 +15412,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-16T18:15:17Z",
-        "readmeurl": "https://raw.githubusercontent.com/asivery/xovi/v0.3.3/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "readmeurl": null,
+        "donateurl": null
       }
     },
     "zig-doc": {
@@ -15426,7 +15426,7 @@
         ],
         "license": "MIT",
         "url": "https://ziglang.org",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -15448,8 +15448,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-09T19:16:24Z",
-        "readmeurl": "https://raw.githubusercontent.com/asivery/xovi/v0.3.3/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "readmeurl": null,
+        "donateurl": null
       },
       "0.16.0-r0": {
         "pkgdesc": "Zig documentation (language reference)",
@@ -15460,7 +15460,7 @@
         ],
         "license": "MIT",
         "url": "https://ziglang.org",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -15482,8 +15482,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-16T18:15:17Z",
-        "readmeurl": "https://raw.githubusercontent.com/asivery/xovi/v0.3.3/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "readmeurl": null,
+        "donateurl": null
       }
     },
     "vnsee-qtfb-rm1": {
@@ -15496,7 +15496,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/khyryra/vnsee-qtfb",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -15515,7 +15515,7 @@
         "auto_install": true,
         "released": "2026-02-10T23:43:22Z",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     },
     "vnsee-qtfb-rm2": {
@@ -15528,7 +15528,7 @@
         ],
         "license": "GPL-3.0",
         "url": "https://github.com/khyryra/vnsee-qtfb",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -15547,9 +15547,9 @@
         "auto_install": true,
         "released": "2026-02-10T23:43:22Z",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": null
       }
     }
   },
-  "generated": "2026-05-11T06:15:51Z"
+  "generated": "2026-05-11T13:29:00Z"
 }
