@@ -5,14 +5,14 @@ import {
   TooltipProvider,
   TooltipTrigger,
 } from '@/components/ui/tooltip';
-import type { Device } from '@/types/packages';
+import { DEVICE_LABELS, type Device } from '@/types/packages';
 
-const deviceInfo: Record<Device, { label: string; description: string }> = {
-  rm1: { label: 'RM1', description: 'reMarkable 1' },
-  rm2: { label: 'RM2', description: 'reMarkable 2' },
-  rmpp: { label: 'RMPP', description: 'reMarkable Paper Pro' },
-  rmppmove: { label: 'RMPPMove', description: 'reMarkable Paper Pro Move' },
-  rmppure: { label: 'RMPPure', description: 'reMarkable Paper Pro Pure' },
+const deviceDescriptions: Record<Device, string> = {
+  rm1: 'reMarkable 1',
+  rm2: 'reMarkable 2',
+  rmpp: 'reMarkable Paper Pro',
+  rmppmove: 'reMarkable Paper Pro Move',
+  rmppure: 'reMarkable Paper Pure',
 };
 
 interface DeviceBadgeProps {
@@ -20,15 +20,13 @@ interface DeviceBadgeProps {
 }
 
 export function DeviceBadge({ device }: DeviceBadgeProps) {
-  const info = deviceInfo[device];
-
   return (
     <TooltipProvider>
       <Tooltip>
         <TooltipTrigger>
-          <Badge variant="outline">{info.label}</Badge>
+          <Badge variant="outline">{DEVICE_LABELS[device]}</Badge>
         </TooltipTrigger>
-        <TooltipContent>{info.description}</TooltipContent>
+        <TooltipContent>{deviceDescriptions[device]}</TooltipContent>
       </Tooltip>
     </TooltipProvider>
   );

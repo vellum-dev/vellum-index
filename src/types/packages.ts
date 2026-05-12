@@ -1,5 +1,13 @@
 export type Device = 'rm1' | 'rm2' | 'rmpp' | 'rmppmove' | 'rmppure';
 
+export const DEVICE_LABELS: Record<Device, string> = {
+  rm1: 'RM1',
+  rm2: 'RM2',
+  rmpp: 'RMPP',
+  rmppmove: 'RMPPMove',
+  rmppure: 'RMPPure',
+};
+
 const DEVICE_ALIASES: Record<string, Device> = {
   rmppm: 'rmppmove',
 };

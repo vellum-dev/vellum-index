@@ -1,4 +1,5 @@
 import { X } from 'lucide-react';
+import { DEVICE_LABELS, type Device } from '@/types/packages';
 import { Input } from '@/components/ui/input';
 import {
   Select,
@@ -76,7 +77,7 @@ export function PackageFilters({
           <SelectItem value="all">All Devices</SelectItem>
           {devices.map((dev) => (
             <SelectItem key={dev} value={dev}>
-              {dev.toUpperCase()}
+              {DEVICE_LABELS[dev as Device] ?? dev}
             </SelectItem>
           ))}
         </SelectContent>
