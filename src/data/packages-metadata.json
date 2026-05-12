@@ -11332,7 +11332,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-12T16:45:28Z",
+        "released": "2026-05-12T16:45:58Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-version-switcher/v1.1.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott"
       }
@@ -13946,7 +13946,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:08Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-tripletap/v1.0.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-tripletap/v1.1.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott"
       },
       "1.1.0-r0": {
@@ -13977,12 +13977,13 @@
         "conflicts": [],
         "provides": [],
         "arch": [
+          "aarch64",
           "armv7"
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-12T16:45:57Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-tripletap/v1.0.0/README.md",
+        "released": "2026-05-12T16:46:02Z",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-tripletap/v1.1.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott"
       }
     },
@@ -15619,5 +15620,5 @@
       }
     }
   },
-  "generated": "2026-05-12T16:46:00Z"
+  "generated": "2026-05-12T16:46:32Z"
 }

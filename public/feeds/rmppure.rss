@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pure</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2026 16:46:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 16:46:32 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppure.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>tripletap 1.1.0-r0</title>
@@ -13,7 +13,7 @@
       <description><![CDATA[Start xovi by triple-pressing the power button<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>rmitchellscott</author>
       <category>utilities</category>
-      <pubDate>Tue, 12 May 2026 16:45:57 +0000</pubDate>
+      <pubDate>Tue, 12 May 2026 16:46:02 +0000</pubDate>
       <guid isPermaLink="false">tripletap-1.1.0-r0</guid>
     </item>
     <item>
@@ -22,7 +22,7 @@
       <description><![CDATA[Interactive CLI tool for switching between installed reMarkable OS versions<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>rmitchellscott</author>
       <category>utilities</category>
-      <pubDate>Tue, 12 May 2026 16:45:28 +0000</pubDate>
+      <pubDate>Tue, 12 May 2026 16:45:58 +0000</pubDate>
       <guid isPermaLink="false">rm-version-switcher-1.1.0-r0</guid>
     </item>
     <item>
