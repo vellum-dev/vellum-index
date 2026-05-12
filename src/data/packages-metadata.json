@@ -11265,7 +11265,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-version-switcher/v1.0.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-version-switcher/v1.1.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott"
       },
       "1.0.0-r3": {
@@ -11299,7 +11299,41 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:04Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-version-switcher/v1.0.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-version-switcher/v1.1.0/README.md",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Interactive CLI tool for switching between installed reMarkable OS versions",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/rm-version-switcher",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-12T16:45:28Z",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-version-switcher/v1.1.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott"
       }
     },
@@ -13914,6 +13948,42 @@
         "released": "2026-05-11T05:25:08Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-tripletap/v1.0.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Start xovi by triple-pressing the power button",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-tripletap",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "xovi",
+          "mount-utils"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-12T16:45:57Z",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-tripletap/v1.0.0/README.md",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott"
       }
     },
     "uncompress-dock": {
@@ -15549,5 +15619,5 @@
       }
     }
   },
-  "generated": "2026-05-11T14:42:59Z"
+  "generated": "2026-05-12T16:46:00Z"
 }

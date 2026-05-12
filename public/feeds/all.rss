@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2026 14:42:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 16:46:00 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>tripletap 1.1.0-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-tripletap</link>
+      <description><![CDATA[Start xovi by triple-pressing the power button<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rmitchellscott</author>
+      <category>utilities</category>
+      <pubDate>Tue, 12 May 2026 16:45:57 +0000</pubDate>
+      <guid isPermaLink="false">tripletap-1.1.0-r0</guid>
+    </item>
+    <item>
+      <title>rm-version-switcher 1.1.0-r0</title>
+      <link>https://github.com/rmitchellscott/rm-version-switcher</link>
+      <description><![CDATA[Interactive CLI tool for switching between installed reMarkable OS versions<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rmitchellscott</author>
+      <category>utilities</category>
+      <pubDate>Tue, 12 May 2026 16:45:28 +0000</pubDate>
+      <guid isPermaLink="false">rm-version-switcher-1.1.0-r0</guid>
+    </item>
     <item>
       <title>xovi-message-broker 18.0.0-r6</title>
       <link>https://github.com/asivery/rm-xovi-extensions</link>
