@@ -44,7 +44,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-27T18:18:23Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds a Finished button when selecting documents, moving them to the first subfolder in the current folder",
@@ -89,7 +90,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-27T18:18:23Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds a Finished button when selecting documents, moving them to the first subfolder in the current folder",
@@ -134,7 +136,8 @@
         "auto_install": false,
         "released": "2026-03-20T01:45:18Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-27T18:18:23Z"
       },
       "1.0.3-r1": {
         "pkgdesc": "Adds a Finished button when selecting documents, moving them to the first subfolder in the current folder",
@@ -179,7 +182,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:17Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-27T18:18:23Z"
       }
     },
     "add-tags-to-context-menu": {
@@ -226,7 +230,8 @@
         "auto_install": false,
         "released": "2026-02-25T16:06:41Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-25T16:06:07Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Add a tag directly from the selection context menu. Handwriting requires Connect/rmfakecloud.",
@@ -271,7 +276,8 @@
         "auto_install": false,
         "released": "2026-03-20T01:45:18Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-25T16:06:07Z"
       },
       "1.0.2-r1": {
         "pkgdesc": "Add a tag directly from the selection context menu. Handwriting requires Connect/rmfakecloud.",
@@ -316,7 +322,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:17Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-25T16:06:07Z"
       }
     },
     "appload": {
@@ -363,7 +370,8 @@
         "auto_install": false,
         "released": "2026-03-18T21:57:33Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.2/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-24T17:26:06Z"
       },
       "0.4.2-r0": {
         "pkgdesc": "XOVI extension for windowed and fullscreen apps",
@@ -408,7 +416,8 @@
         "auto_install": false,
         "released": "2026-03-21T03:51:55Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.2/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-24T17:26:06Z"
       },
       "0.5.0-r0": {
         "pkgdesc": "XOVI extension for windowed and fullscreen apps",
@@ -453,7 +462,8 @@
         "auto_install": false,
         "released": "2026-03-29T17:44:06Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.2/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-24T17:26:06Z"
       },
       "0.5.1-r1": {
         "pkgdesc": "XOVI extension for windowed and fullscreen apps",
@@ -498,7 +508,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:17Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.2/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-24T17:26:06Z"
       },
       "0.5.2-r1": {
         "pkgdesc": "XOVI extension for windowed and fullscreen apps",
@@ -543,7 +554,8 @@
         "auto_install": false,
         "released": "2026-05-11T06:15:03Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.2/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-24T17:26:06Z"
       }
     },
     "bat": {
@@ -581,7 +593,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:17Z",
         "readmeurl": "https://raw.githubusercontent.com/sharkdp/bat/v0.26.1/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-04-02T17:44:56Z"
       }
     },
     "bettertoc": {
@@ -630,7 +643,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:55Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
@@ -677,7 +691,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:55Z"
       },
       "1.1.0-r1": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
@@ -724,7 +739,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:55Z"
       },
       "1.2.0-r2": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
@@ -771,7 +787,8 @@
         "auto_install": false,
         "released": "2026-03-20T02:32:26Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:55Z"
       },
       "1.2.1-r0": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
@@ -818,7 +835,8 @@
         "auto_install": false,
         "released": "2026-04-11T17:44:04Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:55Z"
       },
       "1.2.2-r0": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
@@ -865,7 +883,8 @@
         "auto_install": false,
         "released": "2026-04-16T17:52:18Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:55Z"
       },
       "1.3.0-r0": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
@@ -912,7 +931,8 @@
         "auto_install": false,
         "released": "2026-04-19T17:43:41Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:55Z"
       },
       "1.3.1-r0": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
@@ -959,7 +979,8 @@
         "auto_install": false,
         "released": "2026-04-20T17:55:28Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:55Z"
       },
       "1.4.0-r0": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
@@ -1006,7 +1027,8 @@
         "auto_install": false,
         "released": "2026-04-21T02:43:00Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:55Z"
       },
       "1.4.1-r1": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
@@ -1053,7 +1075,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:18Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:55Z"
       },
       "1.4.2-r1": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
@@ -1100,7 +1123,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:49Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:55Z"
       }
     },
     "bettertoc-collapse": {
@@ -1151,7 +1175,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:49Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/820e2805312a3d4db09d409e31edd62d07b55303/README.md#bettertoccollapse",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-05-01T16:14:16Z"
       }
     },
     "btop": {
@@ -1187,7 +1212,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:18Z",
         "readmeurl": "https://raw.githubusercontent.com/aristocratos/btop/v1.4.6/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-27T22:19:45Z"
       }
     },
     "button-press-for-pen-change": {
@@ -1238,7 +1264,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:53:07Z"
       },
       "1.0.1-r3": {
         "pkgdesc": "Hold stylus button to select-erase, click once to change to selection, click twice to change pen.",
@@ -1287,7 +1314,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:18Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:53:07Z"
       }
     },
     "change-green-color": {
@@ -1334,7 +1362,8 @@
         "auto_install": false,
         "released": "2026-02-23T18:48:32Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T18:48:03Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Change the default green color to a darker green. Customizable via editing qmd.",
@@ -1379,7 +1408,8 @@
         "auto_install": false,
         "released": "2026-03-08T13:45:15Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T18:48:03Z"
       },
       "1.0.2-r2": {
         "pkgdesc": "Change the default green color to a darker green. Customizable via editing qmd.",
@@ -1424,7 +1454,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:18Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T18:48:03Z"
       }
     },
     "change-vertical-jump": {
@@ -1471,7 +1502,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T19:58:03Z"
       },
       "1.0.1-r2": {
         "pkgdesc": "Increases scroll distance when scrolling down a page.",
@@ -1516,7 +1548,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:18Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T19:58:03Z"
       }
     },
     "convert-to-text-remover": {
@@ -1563,7 +1596,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:29:32Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-04-02T17:44:57Z"
       }
     },
     "create-document-from-pages": {
@@ -1612,7 +1646,8 @@
         "auto_install": false,
         "released": "2026-04-21T03:17:55Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#createdocumentfrompages",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-21T03:17:24Z"
       },
       "2.0.0-r0": {
         "pkgdesc": "Adds an option to the Page Overview More menu to create a new document from selected pages.",
@@ -1660,7 +1695,8 @@
         "auto_install": false,
         "released": "2026-05-07T01:17:24Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#createdocumentfrompages",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-21T03:17:24Z"
       },
       "2.0.1-r2": {
         "pkgdesc": "Adds an option to the Page Overview More menu to create a new document from selected pages.",
@@ -1708,7 +1744,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:50Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#createdocumentfrompages",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-21T03:17:24Z"
       }
     },
     "createpages-paperpro": {
@@ -1757,7 +1794,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagespaperprosize",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:56Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Overrides new page creation to use Paper Pro dimensions.",
@@ -1804,7 +1842,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagespaperprosize",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:56Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Overrides new page creation to use Paper Pro dimensions.",
@@ -1851,7 +1890,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagespaperprosize",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:56Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Overrides new page creation to use Paper Pro dimensions.",
@@ -1898,7 +1938,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagespaperprosize",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:56Z"
       },
       "1.0.4-r3": {
         "pkgdesc": "Overrides new page creation to use Paper Pro dimensions.",
@@ -1945,7 +1986,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:50Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagespaperprosize",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:56Z"
       }
     },
     "createpages-rm2": {
@@ -1994,7 +2036,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagesrm2size",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:55Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Overrides new page creation to use reMarkable 2 dimensions.",
@@ -2041,7 +2084,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagesrm2size",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:55Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Overrides new page creation to use reMarkable 2 dimensions.",
@@ -2088,7 +2132,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagesrm2size",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:55Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Overrides new page creation to use reMarkable 2 dimensions.",
@@ -2135,7 +2180,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagesrm2size",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:55Z"
       },
       "1.0.4-r3": {
         "pkgdesc": "Overrides new page creation to use reMarkable 2 dimensions.",
@@ -2182,7 +2228,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:50Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagesrm2size",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:57:55Z"
       }
     },
     "curl": {
@@ -2218,7 +2265,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:19Z",
         "readmeurl": "https://raw.githubusercontent.com/curl/curl/curl-8_11_0/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-27T22:19:48Z"
       }
     },
     "delay-stroke-screen-refresh": {
@@ -2265,7 +2313,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T19:57:39Z"
       },
       "1.0.1-r2": {
         "pkgdesc": "Delays color stroke refresh by 10 seconds of inactivity.",
@@ -2310,7 +2359,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:19Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T19:57:39Z"
       }
     },
     "disable-infinite-scroll": {
@@ -2357,7 +2407,8 @@
         "auto_install": false,
         "released": "2026-04-09T12:55:17Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/4f0391346e6eb1ff1e23f393c267a6923dd6481e/README.md#disableinfinitescroll",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-09T12:54:33Z"
       },
       "1.1.0-r5": {
         "pkgdesc": "Disables infinite scroll by limiting zooming and scrolling to page boundaries.",
@@ -2405,7 +2456,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:50Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/4f0391346e6eb1ff1e23f393c267a6923dd6481e/README.md#disableinfinitescroll",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-09T12:54:33Z"
       }
     },
     "disable-selection-autoscroll": {
@@ -2454,7 +2506,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:51Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#disableselectionautoscroll",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-14T19:57:21Z"
       }
     },
     "duplicate-annotated-pages": {
@@ -2503,7 +2556,8 @@
         "auto_install": false,
         "released": "2026-04-12T18:23:53Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#duplicateannotatedpages",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-11T21:42:11Z"
       },
       "2.0.0-r0": {
         "pkgdesc": "Adds an option to the Duplicate menu to duplicate only pages that have been annotated.",
@@ -2551,7 +2605,8 @@
         "auto_install": false,
         "released": "2026-05-07T01:17:24Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#duplicateannotatedpages",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-11T21:42:11Z"
       },
       "2.0.1-r2": {
         "pkgdesc": "Adds an option to the Duplicate menu to duplicate only pages that have been annotated.",
@@ -2599,7 +2654,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:51Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#duplicateannotatedpages",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-11T21:42:11Z"
       }
     },
     "enable-all-colors": {
@@ -2643,7 +2699,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:43Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Enables full color selection on rM1 and rM2.",
@@ -2685,7 +2742,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:43Z"
       },
       "1.0.2-r1": {
         "pkgdesc": "Enables full color selection on rM1 and rM2.",
@@ -2727,7 +2785,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:43Z"
       },
       "1.0.3-r2": {
         "pkgdesc": "Enables full color selection on rM1 and rM2.",
@@ -2769,7 +2828,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:20Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:43Z"
       }
     },
     "enable-extra-pen-on-move": {
@@ -2813,7 +2873,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T19:57:51Z"
       },
       "1.0.1-r3": {
         "pkgdesc": "Adds extra pen slot to toolbar (RMPPM only, requires qt-resource-rebuilder v16+).",
@@ -2854,7 +2915,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:12:50Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T19:57:51Z"
       }
     },
     "enable-shortcuts": {
@@ -2903,7 +2965,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:43Z"
       },
       "1.0.1-r3": {
         "pkgdesc": "Enables keyboard shortcuts for arrow key page and scroll navigation.",
@@ -2950,7 +3013,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:20Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:43Z"
       }
     },
     "enable-shortcuts-scroll-page": {
@@ -2999,7 +3063,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:44Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Advanced shortcuts with scroll or page change (requires gestureTapToPage).",
@@ -3046,7 +3111,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:44Z"
       },
       "1.0.2-r2": {
         "pkgdesc": "Advanced shortcuts with scroll or page change (requires gestureTapToPage).",
@@ -3093,7 +3159,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:20Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:44Z"
       }
     },
     "enable-typing-on-documents": {
@@ -3140,7 +3207,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:52Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/c41737290b02a7f9dbd2d2d1e343facd61945282/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-30T21:23:16Z"
       }
     },
     "entware": {
@@ -3178,7 +3246,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T19:57:34Z"
       }
     },
     "entware-rc": {
@@ -3216,7 +3285,8 @@
         "auto_install": false,
         "released": "2026-04-19T17:42:42Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-04-02T17:44:57Z"
       }
     },
     "extend-list-title-width": {
@@ -3263,7 +3333,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:52Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#extendlisttitlewidth",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-14T19:57:36Z"
       }
     },
     "fastfetch": {
@@ -3299,7 +3370,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:20Z",
         "readmeurl": "https://raw.githubusercontent.com/fastfetch-cli/fastfetch/2.25.0/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-27T22:19:50Z"
       }
     },
     "fav-tag-button": {
@@ -3346,7 +3418,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:48Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -3391,7 +3464,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:48Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -3436,7 +3510,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:48Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -3481,7 +3556,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:48Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -3526,7 +3602,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:48Z"
       },
       "1.0.5-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -3571,7 +3648,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:48Z"
       },
       "1.0.6-r0": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -3616,7 +3694,8 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:48Z"
       },
       "1.0.7-r2": {
         "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
@@ -3661,7 +3740,8 @@
         "auto_install": false,
         "released": "2026-05-11T06:07:36Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:48Z"
       }
     },
     "favorite-button": {
@@ -3708,7 +3788,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:29:35Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-04-02T17:44:57Z"
       }
     },
     "fewer-light-steps": {
@@ -3755,7 +3836,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:44Z"
       },
       "1.0.1-r2": {
         "pkgdesc": "Changes 5-level light slider to 4-level.",
@@ -3800,7 +3882,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:44Z"
       },
       "1.0.2-r2": {
         "pkgdesc": "Changes 5-level light slider to 4-level.",
@@ -3845,7 +3928,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:21Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:44Z"
       }
     },
     "filter-annotated-pages": {
@@ -3892,7 +3976,8 @@
         "auto_install": false,
         "released": "2026-04-20T17:55:30Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#filterannotatedpages",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-06T18:12:54Z"
       },
       "1.0.1-r2": {
         "pkgdesc": "Adds a button to the Page Overview to show only pages with annotations",
@@ -3937,7 +4022,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:53Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#filterannotatedpages",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-06T18:12:54Z"
       }
     },
     "fix-appload-rotation": {
@@ -3984,7 +4070,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:55:35Z"
       },
       "1.0.1-r1": {
         "pkgdesc": "Fixes rotation issues with the appload app.",
@@ -4029,7 +4116,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:21Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:55:35Z"
       }
     },
     "fix-battery-indicator": {
@@ -4077,7 +4165,8 @@
         "auto_install": false,
         "released": "2026-03-20T02:32:28Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#fixbatteryindicator",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-14T19:57:51Z"
       },
       "1.0.1-r2": {
         "pkgdesc": "Fixes battery icon not updating after charging while device is asleep",
@@ -4123,7 +4212,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:53Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#fixbatteryindicator",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-14T19:57:51Z"
       }
     },
     "fix-custom-fit": {
@@ -4171,7 +4261,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-19T15:15:13Z"
       },
       "1.0.1-r2": {
         "pkgdesc": "Makes Custom Fit zoom consistent across devices and orientations, ensuring the same document area is shown everywhere.",
@@ -4217,7 +4308,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:22Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-19T15:15:13Z"
       }
     },
     "fix-light-indicator-gap": {
@@ -4262,7 +4354,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:12:51Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#fixlightindicatorgap",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-14T19:57:54Z"
       }
     },
     "fix-page-number-on-slider": {
@@ -4310,7 +4403,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#fixpagenumberonslider",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:21Z"
       },
       "1.0.1-r5": {
         "pkgdesc": "Restores the z-index for the pageLabel element so it appears on top of the page slider like in previous versions.",
@@ -4356,7 +4450,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:53Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#fixpagenumberonslider",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:21Z"
       }
     },
     "fix-quick-settings-temp-separator": {
@@ -4404,7 +4499,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:21Z"
       },
       "1.0.1-r2": {
         "pkgdesc": "Removes the duplicate horizontal separator in quick settings when high temp warnings are present on Paper Pro family devices.",
@@ -4450,7 +4546,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:53Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:21Z"
       }
     },
     "fix-sidebar-filters": {
@@ -4498,7 +4595,8 @@
         "auto_install": false,
         "released": "2026-02-11T23:10:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:54:56Z"
       },
       "1.0.1-r2": {
         "pkgdesc": "Fix highlighting selected filter in navigator sidebar",
@@ -4544,7 +4642,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:22Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:54:56Z"
       }
     },
     "floating-toolbar": {
@@ -4593,7 +4692,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T06:00:23Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -4640,7 +4740,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T06:00:23Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -4687,7 +4788,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T06:00:23Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -4734,7 +4836,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T06:00:23Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -4781,7 +4884,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T06:00:23Z"
       },
       "1.0.5-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -4828,7 +4932,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T06:00:23Z"
       },
       "1.0.6-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -4875,7 +4980,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T06:00:23Z"
       },
       "1.0.7-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -4922,7 +5028,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T06:00:23Z"
       },
       "1.0.8-r1": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -4969,7 +5076,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T06:00:23Z"
       },
       "1.0.9-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -5016,7 +5124,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T06:00:23Z"
       },
       "2.0.0-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -5063,7 +5172,8 @@
         "auto_install": false,
         "released": "2026-03-16T19:52:45Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T06:00:23Z"
       },
       "2.0.1-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -5110,7 +5220,8 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T06:00:23Z"
       },
       "2.0.2-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -5157,7 +5268,8 @@
         "auto_install": false,
         "released": "2026-03-23T16:57:13Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T06:00:23Z"
       },
       "2.0.3-r0": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -5204,7 +5316,8 @@
         "auto_install": false,
         "released": "2026-03-30T18:45:28Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T06:00:23Z"
       },
       "2.0.4-r2": {
         "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
@@ -5251,7 +5364,8 @@
         "auto_install": false,
         "released": "2026-05-11T06:07:38Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T06:00:23Z"
       }
     },
     "force-koreader-landscape": {
@@ -5298,7 +5412,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/eda7ff2bb6012417bd37634958a1dc8f9bc1377e/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-28T13:42:37Z"
       },
       "1.0.1-r1": {
         "pkgdesc": "Keeps the KOReader appload app in the same aspect ratio as the screen",
@@ -5343,7 +5458,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:23Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/eda7ff2bb6012417bd37634958a1dc8f9bc1377e/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-28T13:42:37Z"
       }
     },
     "force-sync": {
@@ -5390,7 +5506,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:29:37Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-04-02T17:44:57Z"
       }
     },
     "four-finger-change-filter": {
@@ -5439,7 +5556,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:55:19Z"
       },
       "1.0.1-r2": {
         "pkgdesc": "Four-finger tap to toggle contrast filter in PDF/EPUB documents.",
@@ -5486,7 +5604,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:23Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:55:19Z"
       }
     },
     "framebuffer-spy": {
@@ -5523,7 +5642,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       },
       "18.0.0-r6": {
         "pkgdesc": "Module for exposing the address of the system framebuffer",
@@ -5563,7 +5683,8 @@
         "auto_install": false,
         "released": "2026-05-11T14:42:25Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       }
     },
     "gesture-colour-settings": {
@@ -5610,7 +5731,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:50Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -5655,7 +5777,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:50Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -5700,7 +5823,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:50Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -5745,7 +5869,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:50Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -5790,7 +5915,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:50Z"
       },
       "1.0.5-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -5835,7 +5961,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:50Z"
       },
       "1.0.6-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -5880,7 +6007,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:50Z"
       },
       "1.0.7-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -5925,7 +6053,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:50Z"
       },
       "1.0.8-r1": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -5971,7 +6100,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:50Z"
       },
       "1.0.9-r0": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -6017,7 +6147,8 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:50Z"
       },
       "1.0.10-r2": {
         "pkgdesc": "Accessibility menu for colour preferences.",
@@ -6063,7 +6194,8 @@
         "auto_install": false,
         "released": "2026-05-11T06:07:39Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:50Z"
       }
     },
     "gesture-contrast-toggle": {
@@ -6110,7 +6242,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:56Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-14T19:57:55Z"
       }
     },
     "gesture-reset-view": {
@@ -6157,7 +6290,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:56Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-14T19:58:09Z"
       }
     },
     "gesture-tap-to-page": {
@@ -6204,7 +6338,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:56Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-14T19:57:30Z"
       }
     },
     "gesture-toolbar-hide": {
@@ -6251,7 +6386,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:56Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-14T19:58:01Z"
       }
     },
     "gesture-toolbar-show": {
@@ -6298,7 +6434,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:56Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-14T19:57:22Z"
       }
     },
     "gestures-fouzr": {
@@ -6347,7 +6484,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:44Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6394,7 +6532,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:44Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6441,7 +6580,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:44Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6488,7 +6628,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:44Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6535,7 +6676,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:44Z"
       },
       "1.0.5-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6582,7 +6724,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:44Z"
       },
       "1.0.6-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6629,7 +6772,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:44Z"
       },
       "1.0.7-r1": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6677,7 +6821,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:44Z"
       },
       "1.0.8-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6725,7 +6870,8 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:13Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:44Z"
       },
       "1.0.10-r0": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6773,7 +6919,8 @@
         "auto_install": false,
         "released": "2026-03-30T18:45:29Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:44Z"
       },
       "1.0.11-r2": {
         "pkgdesc": "Adds four-finger document drawer, and multiple swipe gestures to control pen settings.",
@@ -6821,7 +6968,8 @@
         "auto_install": false,
         "released": "2026-05-11T06:07:40Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:44Z"
       }
     },
     "gestures-ingatellent": {
@@ -6870,7 +7018,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:44Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
@@ -6917,7 +7066,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:44Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
@@ -6964,7 +7114,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:44Z"
       },
       "1.0.3-r1": {
         "pkgdesc": "Multi-gesture support for toolbar, navigation, and view controls.",
@@ -7011,7 +7162,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:25Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:44Z"
       }
     },
     "ghostbuster": {
@@ -7058,7 +7210,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:57Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/44244e6fb6797a807357d651192040b46b141b3b/README.md#ghostbuster",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-02T17:44:58Z"
       }
     },
     "gomarkablestream": {
@@ -7091,7 +7244,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/owulveryck/goMarkableStream/v1.2.0/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-27T18:17:30Z"
       },
       "1.2.0-r1": {
         "pkgdesc": "Stream your reMarkable screen to a web browser",
@@ -7127,7 +7281,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:25Z",
         "readmeurl": "https://raw.githubusercontent.com/owulveryck/goMarkableStream/v1.2.0/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-27T18:17:30Z"
       }
     },
     "hide-dev-mode-icon": {
@@ -7174,7 +7329,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#hidedevmodeicon",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:21Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Hides the developer mode icon next to the battery icon.",
@@ -7219,7 +7375,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#hidedevmodeicon",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:21Z"
       },
       "1.0.2-r6": {
         "pkgdesc": "Hides the developer mode icon next to the battery icon.",
@@ -7262,7 +7419,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:57Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#hidedevmodeicon",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:21Z"
       }
     },
     "hide-document-close": {
@@ -7309,7 +7467,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:45Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -7354,7 +7513,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:45Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -7399,7 +7559,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:45Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -7444,7 +7605,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:45Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -7489,7 +7651,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:45Z"
       },
       "1.0.5-r0": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -7534,7 +7697,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:45Z"
       },
       "1.0.6-r2": {
         "pkgdesc": "Hides close button, use slide-down from top instead.",
@@ -7579,7 +7743,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:26Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:45Z"
       }
     },
     "hide-hyperlink-back-button": {
@@ -7626,7 +7791,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:58Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/95223b96928596eaacb8416f6b72c083baf582db/README.md#hidehyperlinkbackbutton",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-17T18:46:34Z"
       }
     },
     "hide-page-labels-fullscreen": {
@@ -7673,7 +7839,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:41Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -7718,7 +7885,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:41Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -7763,7 +7931,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:41Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -7808,7 +7977,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:41Z"
       },
       "1.0.4-r1": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -7853,7 +8023,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:41Z"
       },
       "1.0.5-r2": {
         "pkgdesc": "Hides page numbers when toolbar is hidden (except on last page).",
@@ -7898,7 +8069,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:26Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:41Z"
       }
     },
     "hide-show-toolbar": {
@@ -7945,7 +8117,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:41Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
@@ -7990,7 +8163,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:41Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
@@ -8035,7 +8209,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:41Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
@@ -8080,7 +8255,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:41Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Hides the show toolbar button (use with gestureToolbarShow).",
@@ -8125,7 +8301,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:41Z"
       },
       "1.0.5-r0": {
         "pkgdesc": "Hides the show toolbar button.",
@@ -8170,7 +8347,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:41Z"
       },
       "1.0.6-r2": {
         "pkgdesc": "Hides the show toolbar button.",
@@ -8215,7 +8393,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:27Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:41Z"
       }
     },
     "hide-zoom-indicator": {
@@ -8262,7 +8441,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#hidezoomindicator",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:22Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Auto-hides zoom indicator after 4 seconds",
@@ -8307,7 +8487,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#hidezoomindicator",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:22Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Auto-hides zoom indicator after 4 seconds",
@@ -8352,7 +8533,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#hidezoomindicator",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:22Z"
       },
       "1.0.3-r5": {
         "pkgdesc": "Auto-hides zoom indicator after 4 seconds",
@@ -8397,7 +8579,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:59Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#hidezoomindicator",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:22Z"
       }
     },
     "hyfetch": {
@@ -8433,7 +8616,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:27Z",
         "readmeurl": "https://raw.githubusercontent.com/hykilpikonna/hyfetch/2.0.5/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-03T20:22:08Z"
       }
     },
     "jq": {
@@ -8469,7 +8653,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:27Z",
         "readmeurl": "https://raw.githubusercontent.com/jqlang/jq/jq-1.8.1/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-04-02T17:44:58Z"
       }
     },
     "koreader": {
@@ -8507,7 +8692,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/koreader/koreader/v2026.03/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-27T18:17:32Z"
       },
       "2026.03-r3": {
         "pkgdesc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.",
@@ -8542,7 +8728,8 @@
         "auto_install": false,
         "released": "2026-05-11T14:42:28Z",
         "readmeurl": "https://raw.githubusercontent.com/koreader/koreader/v2026.03/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-27T18:17:32Z"
       }
     },
     "less": {
@@ -8578,7 +8765,8 @@
         "auto_install": false,
         "released": "2026-02-11T18:30:44Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-11T18:30:44Z"
       }
     },
     "librarian": {
@@ -8617,7 +8805,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:24:59Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-librarian/v0.3.1/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-06T16:27:26Z"
       }
     },
     "literm": {
@@ -8664,7 +8853,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-literm/v0.1.6/README.md",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-14T19:57:06Z"
       },
       "0.1.6-r7": {
         "pkgdesc": "A terminal emulator using QtQuick.",
@@ -8709,7 +8899,8 @@
         "auto_install": false,
         "released": "2026-05-11T06:15:14Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-literm/v0.1.6/README.md",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-14T19:57:06Z"
       }
     },
     "micro": {
@@ -8745,7 +8936,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:27Z",
         "readmeurl": "https://raw.githubusercontent.com/zyedidia/micro/v2.0.14/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-04-02T17:44:58Z"
       }
     },
     "mini-light-sleep": {
@@ -8792,7 +8984,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#minilightsleep",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:23Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
@@ -8837,7 +9030,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#minilightsleep",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:23Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
@@ -8882,7 +9076,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#minilightsleep",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:23Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
@@ -8927,7 +9122,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#minilightsleep",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:23Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
@@ -8972,7 +9168,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#minilightsleep",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:23Z"
       },
       "1.0.5-r3": {
         "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
@@ -9017,7 +9214,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:00Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#minilightsleep",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:23Z"
       }
     },
     "more-light-settings": {
@@ -9062,7 +9260,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:54:32Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Provides additional light intensity settings beyond the default options.",
@@ -9105,7 +9304,8 @@
         "auto_install": false,
         "released": "2026-03-20T01:45:25Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:54:32Z"
       },
       "1.0.2-r2": {
         "pkgdesc": "Provides additional light intensity settings beyond the default options.",
@@ -9147,7 +9347,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:12:58Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:54:32Z"
       }
     },
     "mount-utils": {
@@ -9183,7 +9384,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-12T15:07:14Z"
       },
       "1.1.0-r0": {
         "pkgdesc": "Commands to toggle reMarkable filesystem between read-write and read-only",
@@ -9217,7 +9419,8 @@
         "auto_install": false,
         "released": "2026-02-16T21:38:53Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-12T15:07:14Z"
       }
     },
     "navigate-using-arrow-keys": {
@@ -9265,7 +9468,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:55:21Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Keyboard arrow key navigation: left/right for pages, up/down for scrolling.",
@@ -9311,7 +9515,8 @@
         "auto_install": false,
         "released": "2026-03-20T01:45:25Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:55:21Z"
       },
       "1.0.2-r1": {
         "pkgdesc": "Keyboard arrow key navigation: left/right for pages, up/down for scrolling.",
@@ -9357,7 +9562,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:28Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:55:21Z"
       }
     },
     "netevent": {
@@ -9393,7 +9599,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:28Z",
         "readmeurl": "https://raw.githubusercontent.com/Blub/netevent/2.2.2/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-05-06T17:54:25Z"
       }
     },
     "pen-layer-memory": {
@@ -9440,7 +9647,8 @@
         "auto_install": false,
         "released": "2026-04-16T22:51:44Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ac1c883a3fa60855708285b0037cfd3db3d73570/README.md#penlayermemory",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-16T22:50:56Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Remembers which layer each pen tool was last used on, and switches to that layer when the pen is selected.",
@@ -9485,7 +9693,8 @@
         "auto_install": false,
         "released": "2026-04-18T19:26:40Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ac1c883a3fa60855708285b0037cfd3db3d73570/README.md#penlayermemory",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-16T22:50:56Z"
       },
       "1.0.2-r3": {
         "pkgdesc": "Remembers which layer each pen tool was last used on, and switches to that layer when the pen is selected.",
@@ -9530,7 +9739,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:01Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ac1c883a3fa60855708285b0037cfd3db3d73570/README.md#penlayermemory",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-16T22:50:56Z"
       }
     },
     "prevent-notebook-zoomout": {
@@ -9579,7 +9789,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#preventnotebookzoomout",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:18Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode",
@@ -9626,7 +9837,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#preventnotebookzoomout",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:18Z"
       },
       "1.0.2-r2": {
         "pkgdesc": "Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode",
@@ -9673,7 +9885,8 @@
         "auto_install": false,
         "released": "2026-03-20T02:32:33Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#preventnotebookzoomout",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:18Z"
       },
       "1.0.3-r3": {
         "pkgdesc": "Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode",
@@ -9720,7 +9933,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:01Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#preventnotebookzoomout",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:18Z"
       }
     },
     "qt-command-executor": {
@@ -9758,7 +9972,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       },
       "17.0.0-r5": {
         "pkgdesc": "Injects a QT module to execute shell commands from QML",
@@ -9794,7 +10009,8 @@
         "auto_install": false,
         "released": "2026-03-18T22:05:22Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       },
       "18.0.0-r6": {
         "pkgdesc": "Injects a QT module to execute shell commands from QML",
@@ -9830,7 +10046,8 @@
         "auto_install": false,
         "released": "2026-05-11T14:42:30Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       }
     },
     "qt-resource-rebuilder": {
@@ -9868,7 +10085,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       },
       "17.0.0-r5": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
@@ -9904,7 +10122,8 @@
         "auto_install": false,
         "released": "2026-03-18T22:05:22Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       },
       "18.0.0-r6": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
@@ -9940,7 +10159,8 @@
         "auto_install": false,
         "released": "2026-05-11T14:42:30Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       }
     },
     "quicksettings-clock-serif": {
@@ -9987,7 +10207,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#quicksettingsclockserif",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:18Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds a clock to the quick settings menu in serif font",
@@ -10032,7 +10253,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#quicksettingsclockserif",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:18Z"
       },
       "1.0.2-r4": {
         "pkgdesc": "Adds a clock to the quick settings menu in serif font",
@@ -10077,7 +10299,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:02Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#quicksettingsclockserif",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:18Z"
       }
     },
     "quicksettings-screenshot": {
@@ -10124,7 +10347,8 @@
         "auto_install": false,
         "released": "2026-02-15T16:27:13Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/aa94b9572cc8e71c2b05a56f1a11b2c9fe3b9c00/README.md#quicksettingsscreenshot",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T05:33:39Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds a screenshot button to the quick settings menu.",
@@ -10169,7 +10393,8 @@
         "auto_install": false,
         "released": "2026-02-15T16:27:14Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/aa94b9572cc8e71c2b05a56f1a11b2c9fe3b9c00/README.md#quicksettingsscreenshot",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T05:33:39Z"
       },
       "1.0.2-r4": {
         "pkgdesc": "Adds a screenshot button to the quick settings menu.",
@@ -10216,7 +10441,8 @@
         "auto_install": false,
         "released": "2026-03-24T12:47:05Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/aa94b9572cc8e71c2b05a56f1a11b2c9fe3b9c00/README.md#quicksettingsscreenshot",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T05:33:39Z"
       },
       "2.0.0-r3": {
         "pkgdesc": "Adds a screenshot button to the quick settings menu.",
@@ -10265,7 +10491,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:02Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/aa94b9572cc8e71c2b05a56f1a11b2c9fe3b9c00/README.md#quicksettingsscreenshot",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T05:33:39Z"
       }
     },
     "quicksheet-use-template": {
@@ -10312,7 +10539,8 @@
         "auto_install": false,
         "released": "2026-03-03T01:24:04Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#quicksheetusetemplate",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-03-03T01:23:22Z"
       },
       "1.0.1-r3": {
         "pkgdesc": "Use the last page's template when adding a quicksheet page",
@@ -10357,7 +10585,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:02Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#quicksheetusetemplate",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-03-03T01:23:22Z"
       }
     },
     "random-sleep-screen": {
@@ -10404,7 +10633,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:42Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -10449,7 +10679,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:42Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -10494,7 +10725,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:42Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -10539,7 +10771,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:42Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -10584,7 +10817,8 @@
         "auto_install": false,
         "released": "2026-02-12T15:09:12Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:42Z"
       },
       "1.0.5-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -10629,7 +10863,8 @@
         "auto_install": false,
         "released": "2026-03-20T01:45:26Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:42Z"
       },
       "1.0.6-r0": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -10674,7 +10909,8 @@
         "auto_install": false,
         "released": "2026-04-24T14:11:44Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:42Z"
       },
       "1.0.7-r1": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
@@ -10719,7 +10955,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:30Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-12T21:36:42Z"
       }
     },
     "recents-tagged": {
@@ -10766,7 +11003,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:45Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds a new menu to the document drawer that shows only tagged files, sorted by last modified.",
@@ -10811,7 +11049,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:45Z"
       },
       "1.0.2-r2": {
         "pkgdesc": "Adds a new menu to the document drawer that shows only tagged files, sorted by last modified.",
@@ -10856,7 +11095,8 @@
         "auto_install": false,
         "released": "2026-05-11T06:07:46Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:45Z"
       }
     },
     "rm-pdfium": {
@@ -10904,7 +11144,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:03Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-pdfium/v0.1.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-05-07T00:09:15Z"
       }
     },
     "rm-pokemon": {
@@ -10940,7 +11181,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-pokemon/v0.2.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-02-04T18:16:59Z"
       },
       "0.2.0-r2": {
         "pkgdesc": "Display the Pokemon sprite matching your reMarkable firmware codename",
@@ -10974,7 +11216,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:03Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-pokemon/v0.2.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-02-04T18:16:59Z"
       }
     },
     "rm-shot": {
@@ -11013,7 +11256,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-shot/v1.1.2/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-14T19:57:03Z"
       },
       "1.0.3-r2": {
         "pkgdesc": "Screenshot extension for xovi framework",
@@ -11050,7 +11294,8 @@
         "auto_install": false,
         "released": "2026-03-24T12:47:05Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-shot/v1.1.2/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-14T19:57:03Z"
       },
       "1.1.0-r0": {
         "pkgdesc": "Screenshot extension for xovi framework",
@@ -11089,7 +11334,8 @@
         "auto_install": false,
         "released": "2026-03-24T15:06:21Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-shot/v1.1.2/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-14T19:57:03Z"
       },
       "1.1.2-r2": {
         "pkgdesc": "Screenshot extension for xovi framework",
@@ -11128,7 +11374,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:03Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-shot/v1.1.2/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-14T19:57:03Z"
       }
     },
     "rm-stylus": {
@@ -11166,7 +11413,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:04Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-stylus/v0.3.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-02-09T18:26:52Z"
       },
       "0.1.0-r0": {
         "pkgdesc": "Xovi extension that adds support for LAMY button",
@@ -11198,7 +11446,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:20Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-stylus/v0.3.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-02-09T18:26:52Z"
       },
       "0.2.0-r0": {
         "pkgdesc": "Xovi extension that adds support for LAMY button",
@@ -11230,7 +11479,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:20Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-stylus/v0.3.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-02-09T18:26:52Z"
       }
     },
     "rm-version-switcher": {
@@ -11266,7 +11516,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-version-switcher/v1.1.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-05T01:09:28Z"
       },
       "1.0.0-r3": {
         "pkgdesc": "Interactive CLI tool for switching between installed reMarkable OS versions",
@@ -11300,7 +11551,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:04Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-version-switcher/v1.1.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-05T01:09:28Z"
       },
       "1.1.0-r0": {
         "pkgdesc": "Interactive CLI tool for switching between installed reMarkable OS versions",
@@ -11334,7 +11586,8 @@
         "auto_install": false,
         "released": "2026-05-12T16:45:58Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-version-switcher/v1.1.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-05T01:09:28Z"
       }
     },
     "rmfakecloud-proxy": {
@@ -11370,7 +11623,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/ddvk/rmfakecloud-proxy/v0.0.10/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-05T01:09:28Z"
       },
       "0.0.9-r0": {
         "pkgdesc": "HTTPS proxy for rmfakecloud - redirects reMarkable cloud traffic",
@@ -11404,7 +11658,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/ddvk/rmfakecloud-proxy/v0.0.10/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-05T01:09:28Z"
       },
       "0.0.10-r1": {
         "pkgdesc": "HTTPS proxy for rmfakecloud - redirects reMarkable cloud traffic",
@@ -11438,7 +11693,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:31Z",
         "readmeurl": "https://raw.githubusercontent.com/ddvk/rmfakecloud-proxy/v0.0.10/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-05T01:09:28Z"
       }
     },
     "rmhacks": {
@@ -11489,7 +11745,8 @@
         "auto_install": false,
         "released": "2026-05-11T06:15:18Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-hacks-qmd/a5a921cda5b0db3fa9a93fd016187a8928abfe9b/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-02-23T13:55:08Z"
       },
       "0.0.11_pre2-r2": {
         "pkgdesc": "reMarkable hacks in QMD format",
@@ -11538,7 +11795,8 @@
         "auto_install": false,
         "released": "2026-05-11T06:15:18Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-hacks-qmd/a5a921cda5b0db3fa9a93fd016187a8928abfe9b/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-02-23T13:55:08Z"
       },
       "0.0.11_pre3-r2": {
         "pkgdesc": "reMarkable hacks in QMD format",
@@ -11587,7 +11845,8 @@
         "auto_install": false,
         "released": "2026-05-11T06:15:18Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-hacks-qmd/a5a921cda5b0db3fa9a93fd016187a8928abfe9b/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-02-23T13:55:08Z"
       },
       "0.0.11_pre4-r0": {
         "pkgdesc": "reMarkable hacks in QMD format",
@@ -11636,7 +11895,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-hacks-qmd/a5a921cda5b0db3fa9a93fd016187a8928abfe9b/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-02-23T13:55:08Z"
       },
       "0.0.11_pre4_git4-r2": {
         "pkgdesc": "reMarkable hacks in QMD format",
@@ -11685,7 +11945,8 @@
         "auto_install": false,
         "released": "2026-05-11T06:15:18Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-hacks-qmd/a5a921cda5b0db3fa9a93fd016187a8928abfe9b/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-02-23T13:55:08Z"
       }
     },
     "rmstream": {
@@ -11724,7 +11985,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.4/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-27T18:18:17Z"
       },
       "0.1.3-r0": {
         "pkgdesc": "Stream your reMarkable's screen to any device on the local network via HTTP",
@@ -11761,7 +12023,8 @@
         "auto_install": false,
         "released": "2026-03-08T16:53:28Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.4/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-27T18:18:17Z"
       },
       "0.1.4-r2": {
         "pkgdesc": "Stream your reMarkable's screen to any device on the local network via HTTP",
@@ -11801,7 +12064,8 @@
         "auto_install": false,
         "released": "2026-05-11T06:15:19Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.4/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-27T18:18:17Z"
       },
       "0.1.2-r0": {
         "pkgdesc": "Stream your reMarkable's screen to any device on the local network via HTTP",
@@ -11837,7 +12101,8 @@
         "auto_install": false,
         "released": "2026-03-01T23:02:05Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.4/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-27T18:18:17Z"
       }
     },
     "rmtree": {
@@ -11873,7 +12138,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rmtree/v1.0.1/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-06T19:39:37Z"
       },
       "1.0.1-r3": {
         "pkgdesc": "Display reMarkable document hierarchy in tree format",
@@ -11907,7 +12173,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:05Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rmtree/v1.0.1/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-06T19:39:37Z"
       }
     },
     "rubber-eraser-rm1": {
@@ -11957,7 +12224,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:54:36Z"
       },
       "1.0.1-r2": {
         "pkgdesc": "Make the rubber eraser on a pen work as eraser on rM1.",
@@ -12005,7 +12273,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:32Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:54:36Z"
       }
     },
     "scroll-screen-up-or-down": {
@@ -12052,7 +12321,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:54:39Z"
       },
       "1.0.1-r2": {
         "pkgdesc": "Screen scrolling with page change at boundaries. Prerequisite for tap and arrow key navigation.",
@@ -12097,7 +12367,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:32Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:54:39Z"
       }
     },
     "selection-erase": {
@@ -12144,7 +12415,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:45Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
@@ -12189,7 +12461,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:45Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
@@ -12234,7 +12507,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:45Z"
       },
       "1.0.3-r4": {
         "pkgdesc": "Adds the ability to delete a stroke once selected by the selection tool.",
@@ -12279,7 +12553,8 @@
         "auto_install": false,
         "released": "2026-05-11T06:07:48Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:45Z"
       }
     },
     "selection-stuff": {
@@ -12326,7 +12601,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:46Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds the ability to select everything above the line.",
@@ -12371,7 +12647,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:46Z"
       },
       "1.0.2-r2": {
         "pkgdesc": "Adds the ability to select everything above the line.",
@@ -12416,7 +12693,8 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:17Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:46Z"
       },
       "1.0.3-r4": {
         "pkgdesc": "Adds the ability to select everything above the line.",
@@ -12461,7 +12739,8 @@
         "auto_install": false,
         "released": "2026-05-11T06:07:49Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:46Z"
       }
     },
     "settings-rmsync-restart": {
@@ -12509,7 +12788,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:06Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#settingsrmsyncrestart",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-02-22T22:17:26Z"
       }
     },
     "shortcuts-to-choose-eraser": {
@@ -12562,7 +12842,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-05T04:10:43Z"
       },
       "1.0.1-r2": {
         "pkgdesc": "Use stylus side button for erase selection and rubber eraser as regular eraser.",
@@ -12613,7 +12894,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:33Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-05T04:10:43Z"
       }
     },
     "sidebar-clock": {
@@ -12660,7 +12942,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:29:47Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-04-02T17:44:59Z"
       }
     },
     "starship": {
@@ -12696,7 +12979,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:33Z",
         "readmeurl": "https://raw.githubusercontent.com/starship/starship/v1.24.2/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-04-02T17:44:59Z"
       }
     },
     "stylus-button-eraser": {
@@ -12746,7 +13030,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:06Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#stylusbuttoneraser",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-02-22T22:17:31Z"
       }
     },
     "stylus-button-undo-redo": {
@@ -12797,7 +13082,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:06Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-02-22T22:17:15Z"
       }
     },
     "swipe-to-hide-or-show-toolbar": {
@@ -12844,7 +13130,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:54:46Z"
       },
       "1.0.1-r2": {
         "pkgdesc": "Swipe from toolbar edge to show/hide the toolbar.",
@@ -12889,7 +13176,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:33Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:54:46Z"
       }
     },
     "tag-button": {
@@ -12936,7 +13224,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:29:47Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-04-02T17:44:59Z"
       }
     },
     "tailscale": {
@@ -12974,7 +13263,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.96.2/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-12T15:07:43Z"
       },
       "1.94.2-r1": {
         "pkgdesc": "Tailscale VPN client",
@@ -13010,7 +13300,8 @@
         "auto_install": false,
         "released": "2026-03-10T19:44:49Z",
         "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.96.2/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-12T15:07:43Z"
       },
       "1.96.2-r2": {
         "pkgdesc": "Tailscale VPN client",
@@ -13046,7 +13337,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:34Z",
         "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.96.2/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-12T15:07:43Z"
       }
     },
     "tap-to-change-view-or-page": {
@@ -13094,7 +13386,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:54:58Z"
       },
       "1.0.1-r2": {
         "pkgdesc": "Tap screen edges to scroll/navigate pages when toolbar is hidden.",
@@ -13140,7 +13433,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:34Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:54:58Z"
       }
     },
     "three-finger-swipe-to-reset-view": {
@@ -13187,7 +13481,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:55:23Z"
       },
       "1.0.1-r2": {
         "pkgdesc": "Swipe down with three fingers to reset pan and zoom to 100%.",
@@ -13232,7 +13527,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:34Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-23T13:55:23Z"
       }
     },
     "tilem": {
@@ -13271,7 +13567,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:34Z",
         "readmeurl": "https://raw.githubusercontent.com/timower/rM2-stuff/v0.1.3/Readme.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-03T20:19:10Z"
       }
     },
     "toc-from-selection": {
@@ -13319,7 +13616,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:07Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/37379cb23d51f580f0355c5560abdac26d1fe550/README.md#tocfromselection",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-02-25T00:39:33Z"
       }
     },
     "toolbar-icon": {
@@ -13366,7 +13664,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:47Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13411,7 +13710,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:47Z"
       },
       "1.0.2-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13456,7 +13756,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:47Z"
       },
       "1.0.3-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13501,7 +13802,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:47Z"
       },
       "1.0.4-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13546,7 +13848,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:47Z"
       },
       "1.0.5-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13591,7 +13894,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:47Z"
       },
       "1.0.6-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13636,7 +13940,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:47Z"
       },
       "1.0.7-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13681,7 +13986,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:47Z"
       },
       "1.0.8-r0": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13726,7 +14032,8 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:18Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:47Z"
       },
       "1.0.9-r2": {
         "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
@@ -13771,7 +14078,8 @@
         "auto_install": false,
         "released": "2026-05-11T06:07:51Z",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
-        "donateurl": "https://ko-fi.com/fouzr"
+        "donateurl": "https://ko-fi.com/fouzr",
+        "first_released": "2026-01-09T04:09:47Z"
       }
     },
     "touch-lock": {
@@ -13818,7 +14126,8 @@
         "auto_install": false,
         "released": "2026-03-12T13:41:42Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ac1c883a3fa60855708285b0037cfd3db3d73570/README.md#touchlock",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-03-12T13:41:06Z"
       },
       "1.0.1-r1": {
         "pkgdesc": "Adds a button to the toolbar to lock out touch input in documents. Toolbar remains touch-aware and pen input is unaffected.",
@@ -13863,7 +14172,8 @@
         "auto_install": false,
         "released": "2026-03-20T02:32:37Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ac1c883a3fa60855708285b0037cfd3db3d73570/README.md#touchlock",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-03-12T13:41:06Z"
       },
       "1.0.2-r3": {
         "pkgdesc": "Adds a button to the toolbar to lock out touch input in documents. Toolbar remains touch-aware and pen input is unaffected.",
@@ -13908,7 +14218,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:08Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ac1c883a3fa60855708285b0037cfd3db3d73570/README.md#touchlock",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-03-12T13:41:06Z"
       }
     },
     "tripletap": {
@@ -13947,7 +14258,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:08Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-tripletap/v1.1.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-14T14:46:17Z"
       },
       "1.1.0-r0": {
         "pkgdesc": "Start xovi by triple-pressing the power button",
@@ -13984,7 +14296,8 @@
         "auto_install": false,
         "released": "2026-05-12T16:46:02Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-tripletap/v1.1.0/README.md",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-14T14:46:17Z"
       }
     },
     "uncompress-dock": {
@@ -14031,7 +14344,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:29:49Z",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-04-02T17:45:00Z"
       }
     },
     "unlock-methods-content": {
@@ -14078,7 +14392,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:19Z"
       },
       "1.0.1-r0": {
         "pkgdesc": "Bypasses subscription check for using on-device Methods templates and documents.",
@@ -14123,7 +14438,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:19Z"
       },
       "1.0.2-r5": {
         "pkgdesc": "Bypasses subscription check for using on-device Methods templates and documents.",
@@ -14168,7 +14484,8 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:08Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
-        "donateurl": "https://buymeacoffee.com/rmitchellscott"
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:19Z"
       }
     },
     "vellum": {
@@ -14204,7 +14521,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       },
       "0.1.2-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14238,7 +14556,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       },
       "0.1.3-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14272,7 +14591,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       },
       "0.1.4-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14306,7 +14626,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       },
       "0.1.6-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14340,7 +14661,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       },
       "0.1.7-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14374,7 +14696,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       },
       "0.1.8-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14408,7 +14731,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       },
       "0.1.9-r1": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14442,7 +14766,8 @@
         "auto_install": false,
         "released": "2026-02-12T15:09:15Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       },
       "0.2.0-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14476,7 +14801,8 @@
         "auto_install": false,
         "released": "2026-02-16T21:46:45Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       },
       "0.2.1-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14510,7 +14836,8 @@
         "auto_install": false,
         "released": "2026-02-17T00:54:31Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       },
       "0.2.2-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14544,7 +14871,8 @@
         "auto_install": false,
         "released": "2026-03-19T22:56:21Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       },
       "0.2.3-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14578,7 +14906,8 @@
         "auto_install": false,
         "released": "2026-03-19T23:43:33Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       },
       "0.2.4-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14612,7 +14941,8 @@
         "auto_install": false,
         "released": "2026-03-30T18:45:37Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       },
       "0.2.5-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14646,7 +14976,8 @@
         "auto_install": false,
         "released": "2026-04-11T17:03:16Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       },
       "0.2.6-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14680,7 +15011,8 @@
         "auto_install": false,
         "released": "2026-04-20T23:01:21Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       },
       "0.2.7-r0": {
         "pkgdesc": "Package manager wrapper for reMarkable tablets",
@@ -14714,7 +15046,8 @@
         "auto_install": false,
         "released": "2026-05-04T22:04:01Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       }
     },
     "vellum-bash-completion": {
@@ -14750,7 +15083,8 @@
         "auto_install": false,
         "released": "2026-02-11T16:21:02Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-09T03:03:33Z"
       }
     },
     "vellum-hosts": {
@@ -14788,7 +15122,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-03-18T17:31:05Z"
       }
     },
     "vnsee-qtfb": {
@@ -14824,7 +15159,8 @@
         "auto_install": false,
         "released": "2026-05-11T14:42:37Z",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-28T23:03:00Z"
       }
     },
     "vnsee-qtfb-rmpp": {
@@ -14856,7 +15192,8 @@
         "auto_install": true,
         "released": "2026-02-10T23:43:13Z",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-28T23:03:00Z"
       }
     },
     "vnsee-qtfb-rmppm": {
@@ -14888,7 +15225,8 @@
         "auto_install": true,
         "released": "2026-02-10T23:43:13Z",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-01-28T23:03:00Z"
       }
     },
     "webserver-remote": {
@@ -14927,7 +15265,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       },
       "17.0.0-r5": {
         "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
@@ -14964,7 +15303,8 @@
         "auto_install": false,
         "released": "2026-03-18T22:05:27Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       },
       "18.0.0-r6": {
         "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
@@ -15012,7 +15352,8 @@
         "auto_install": false,
         "released": "2026-05-11T14:42:37Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       }
     },
     "xovi": {
@@ -15048,7 +15389,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/xovi/v0.3.3/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-14T14:46:17Z"
       },
       "0.3.2-r1": {
         "pkgdesc": "Core xovi framework for reMarkable tablets",
@@ -15084,7 +15426,8 @@
         "auto_install": false,
         "released": "2026-03-24T15:02:46Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/xovi/v0.3.3/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-14T14:46:17Z"
       },
       "0.3.3-r2": {
         "pkgdesc": "Core xovi framework for reMarkable tablets",
@@ -15120,7 +15463,8 @@
         "auto_install": false,
         "released": "2026-05-11T06:15:24Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/xovi/v0.3.3/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-14T14:46:17Z"
       }
     },
     "xovi-extensions": {
@@ -15167,7 +15511,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       },
       "17.0.0-r5": {
         "pkgdesc": "Extensions for xovi framework",
@@ -15212,7 +15557,8 @@
         "auto_install": false,
         "released": "2026-03-18T22:05:27Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       },
       "18.0.0-r6": {
         "pkgdesc": "Extensions for xovi framework",
@@ -15255,7 +15601,8 @@
         "auto_install": false,
         "released": "2026-05-11T14:42:37Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       }
     },
     "xovi-message-broker": {
@@ -15293,7 +15640,8 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       },
       "17.0.0-r5": {
         "pkgdesc": "IPC messaging between xovi extensions",
@@ -15329,7 +15677,8 @@
         "auto_install": false,
         "released": "2026-03-18T22:05:27Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       },
       "18.0.0-r6": {
         "pkgdesc": "IPC messaging between xovi extensions",
@@ -15365,7 +15714,8 @@
         "auto_install": false,
         "released": "2026-05-11T14:42:37Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v18-23032026/README.MD",
-        "donateurl": "https://ko-fi.com/asivery"
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-10T17:52:54Z"
       }
     },
     "xovi-settings-main": {
@@ -15412,7 +15762,8 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:37Z",
         "readmeurl": "https://raw.githubusercontent.com/PepikVaio/reMarkable_Xovi_Extensions/4d24da8dbf92cec060e29f64568dc6963cf6d6fe/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-04-02T17:45:00Z"
       }
     },
     "zig": {
@@ -15448,7 +15799,8 @@
         "auto_install": false,
         "released": "2026-04-09T19:16:24Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-04-02T17:45:00Z"
       },
       "0.16.0-r0": {
         "pkgdesc": "A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software",
@@ -15482,7 +15834,8 @@
         "auto_install": false,
         "released": "2026-04-16T18:15:17Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-04-02T17:45:00Z"
       }
     },
     "zig-doc": {
@@ -15518,7 +15871,8 @@
         "auto_install": false,
         "released": "2026-04-09T19:16:24Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-04-02T17:45:01Z"
       },
       "0.16.0-r0": {
         "pkgdesc": "Zig documentation (language reference)",
@@ -15552,7 +15906,8 @@
         "auto_install": false,
         "released": "2026-04-16T18:15:17Z",
         "readmeurl": null,
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-04-02T17:45:01Z"
       }
     },
     "vnsee-qtfb-rm1": {
@@ -15584,7 +15939,8 @@
         "auto_install": true,
         "released": "2026-02-10T23:43:22Z",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-10T23:43:22Z"
       }
     },
     "vnsee-qtfb-rm2": {
@@ -15616,9 +15972,10 @@
         "auto_install": true,
         "released": "2026-02-10T23:43:22Z",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
-        "donateurl": null
+        "donateurl": null,
+        "first_released": "2026-02-10T23:43:22Z"
       }
     }
   },
-  "generated": "2026-05-12T23:06:41Z"
+  "generated": "2026-05-13T18:32:20Z"
 }
