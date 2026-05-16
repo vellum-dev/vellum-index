@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 May 2026 22:27:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 22:29:43 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppmove.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>debootstrap 1.0.133-r0</title>
+      <link>https://wiki.debian.org/Debootstrap</link>
+      <description><![CDATA[debootstrap is a tool which will install a Debian base system into a subdirectory of another, already installed system.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Debian</author>
+      <category>utilities</category>
+      <pubDate>Sat, 16 May 2026 22:28:58 +0000</pubDate>
+      <guid isPermaLink="false">debootstrap-1.0.133-r0</guid>
+    </item>
+    <item>
+      <title>debian-chroot 0.0.0-r0</title>
+      <link>https://github.com/Eeems-org/remarkable-debian-chroot</link>
+      <description><![CDATA[A minimal Debian chroot for the reMarkable tablet<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-org</author>
+      <category>utilities</category>
+      <pubDate>Sat, 16 May 2026 22:28:58 +0000</pubDate>
+      <guid isPermaLink="false">debian-chroot-0.0.0-r0</guid>
+    </item>
     <item>
       <title>tripletap 1.1.0-r0</title>
       <link>https://github.com/rmitchellscott/xovi-tripletap</link>

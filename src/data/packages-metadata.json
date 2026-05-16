@@ -2269,6 +2269,85 @@
         "first_released": "2026-01-27T22:19:48Z"
       }
     },
+    "debian-chroot": {
+      "0.0.0-r0": {
+        "pkgdesc": "A minimal Debian chroot for the reMarkable tablet",
+        "upstream_author": "Eeems-org",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/Eeems-org/remarkable-debian-chroot",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "entware",
+          "debootstrap"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-16T22:28:58Z",
+        "readmeurl": "https://raw.githubusercontent.com/Eeems-org/remarkable-debian-chroot/92356654e185e42b6d179d2ede6eab75778c76eb/README.md",
+        "donateurl": null,
+        "first_released": "2026-05-16T22:28:58Z"
+      }
+    },
+    "debootstrap": {
+      "1.0.133-r0": {
+        "pkgdesc": "debootstrap is a tool which will install a Debian base system into a subdirectory of another, already installed system.",
+        "upstream_author": "Debian",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://wiki.debian.org/Debootstrap",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "entware"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-16T22:28:58Z",
+        "readmeurl": "https://salsa.debian.org/installer-team/debootstrap/-/raw/1.0.133/README?ref_type=tags",
+        "donateurl": null,
+        "first_released": "2026-05-16T22:28:58Z"
+      }
+    },
     "delay-stroke-screen-refresh": {
       "1.0.0-r1": {
         "pkgdesc": "Delays color stroke refresh by 10 seconds of inactivity.",
@@ -15977,5 +16056,5 @@
       }
     }
   },
-  "generated": "2026-05-16T22:27:51Z"
+  "generated": "2026-05-16T22:29:43Z"
 }
