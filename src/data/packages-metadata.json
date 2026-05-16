@@ -558,6 +558,43 @@
         "first_released": "2026-01-24T17:26:06Z"
       }
     },
+    "bandwhich": {
+      "0.23.1-r0": {
+        "pkgdesc": "CLI network utilization tool",
+        "upstream_author": "imsnif",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/imsnif/bandwhich",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-16T22:30:08Z",
+        "readmeurl": "https://raw.githubusercontent.com/imsnif/bandwhich/v0.23.1/README.md",
+        "donateurl": null,
+        "first_released": "2026-05-16T22:30:08Z"
+      }
+    },
     "bat": {
       "0.26.1-r1": {
         "pkgdesc": "A cat(1) clone with wings.",
@@ -2272,14 +2309,14 @@
     "debian-chroot": {
       "0.0.0-r0": {
         "pkgdesc": "A minimal Debian chroot for the reMarkable tablet",
-        "upstream_author": "Eeems-org",
+        "upstream_author": "unknown",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
         "categories": [
-          "utilities"
+          "other"
         ],
         "license": "MIT",
         "url": "https://github.com/Eeems-org/remarkable-debian-chroot",
-        "status": "maintained",
+        "status": "deprecated",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -2303,23 +2340,23 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-16T22:29:43Z",
-        "readmeurl": "https://raw.githubusercontent.com/Eeems-org/remarkable-debian-chroot/92356654e185e42b6d179d2ede6eab75778c76eb/README.md",
+        "released": "2026-05-16T22:28:58Z",
+        "readmeurl": null,
         "donateurl": null,
-        "first_released": "2026-05-16T22:29:43Z"
+        "first_released": "2026-05-16T22:28:58Z"
       }
     },
     "debootstrap": {
       "1.0.133-r0": {
         "pkgdesc": "debootstrap is a tool which will install a Debian base system into a subdirectory of another, already installed system.",
-        "upstream_author": "Debian",
+        "upstream_author": "unknown",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
         "categories": [
-          "utilities"
+          "other"
         ],
         "license": "MIT",
         "url": "https://wiki.debian.org/Debootstrap",
-        "status": "maintained",
+        "status": "deprecated",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -2342,10 +2379,10 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-16T22:29:43Z",
-        "readmeurl": "https://salsa.debian.org/installer-team/debootstrap/-/raw/1.0.133/README?ref_type=tags",
+        "released": "2026-05-16T22:28:58Z",
+        "readmeurl": null,
         "donateurl": null,
-        "first_released": "2026-05-16T22:29:43Z"
+        "first_released": "2026-05-16T22:28:58Z"
       }
     },
     "delay-stroke-screen-refresh": {
@@ -8739,14 +8776,14 @@
     "keyd": {
       "2.6.0-r0": {
         "pkgdesc": "A key remapping daemon for linux",
-        "upstream_author": "rvaiya",
+        "upstream_author": "unknown",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
         "categories": [
-          "utilities"
+          "other"
         ],
         "license": "MIT",
         "url": "https://github.com/rvaiya/keyd",
-        "status": "maintained",
+        "status": "deprecated",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -8767,23 +8804,23 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-16T22:29:52Z",
-        "readmeurl": "https://raw.githubusercontent.com/rvaiya/keyd/v2.6.0/README.md",
+        "released": "2026-05-16T22:30:19Z",
+        "readmeurl": null,
         "donateurl": null,
-        "first_released": "2026-05-16T22:29:52Z"
+        "first_released": "2026-05-16T22:30:19Z"
       }
     },
     "keyd-doc": {
       "2.6.0-r0": {
         "pkgdesc": "A key remapping daemon for linux",
-        "upstream_author": "rvaiya",
+        "upstream_author": "unknown",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
         "categories": [
-          "utilities"
+          "other"
         ],
         "license": "MIT",
         "url": "https://github.com/rvaiya/keyd",
-        "status": "maintained",
+        "status": "deprecated",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -8804,10 +8841,10 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-16T22:29:52Z",
-        "readmeurl": "https://raw.githubusercontent.com/rvaiya/keyd/v2.6.0/README.md",
+        "released": "2026-05-16T22:30:19Z",
+        "readmeurl": null,
         "donateurl": null,
-        "first_released": "2026-05-16T22:29:52Z"
+        "first_released": "2026-05-16T22:30:19Z"
       }
     },
     "koreader": {
@@ -16130,5 +16167,5 @@
       }
     }
   },
-  "generated": "2026-05-16T22:30:31Z"
+  "generated": "2026-05-16T22:30:59Z"
 }
