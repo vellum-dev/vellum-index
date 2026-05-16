@@ -2303,10 +2303,10 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-16T22:28:58Z",
+        "released": "2026-05-16T22:29:43Z",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-org/remarkable-debian-chroot/92356654e185e42b6d179d2ede6eab75778c76eb/README.md",
         "donateurl": null,
-        "first_released": "2026-05-16T22:28:58Z"
+        "first_released": "2026-05-16T22:29:43Z"
       }
     },
     "debootstrap": {
@@ -2342,10 +2342,10 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-16T22:28:58Z",
+        "released": "2026-05-16T22:29:43Z",
         "readmeurl": "https://salsa.debian.org/installer-team/debootstrap/-/raw/1.0.133/README?ref_type=tags",
         "donateurl": null,
-        "first_released": "2026-05-16T22:28:58Z"
+        "first_released": "2026-05-16T22:29:43Z"
       }
     },
     "delay-stroke-screen-refresh": {
@@ -8734,6 +8734,80 @@
         "readmeurl": "https://raw.githubusercontent.com/jqlang/jq/jq-1.8.1/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:58Z"
+      }
+    },
+    "keyd": {
+      "2.6.0-r0": {
+        "pkgdesc": "A key remapping daemon for linux",
+        "upstream_author": "rvaiya",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rvaiya/keyd",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-16T22:29:52Z",
+        "readmeurl": "https://raw.githubusercontent.com/rvaiya/keyd/v2.6.0/README.md",
+        "donateurl": null,
+        "first_released": "2026-05-16T22:29:52Z"
+      }
+    },
+    "keyd-doc": {
+      "2.6.0-r0": {
+        "pkgdesc": "A key remapping daemon for linux",
+        "upstream_author": "rvaiya",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rvaiya/keyd",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-16T22:29:52Z",
+        "readmeurl": "https://raw.githubusercontent.com/rvaiya/keyd/v2.6.0/README.md",
+        "donateurl": null,
+        "first_released": "2026-05-16T22:29:52Z"
       }
     },
     "koreader": {
@@ -16056,5 +16130,5 @@
       }
     }
   },
-  "generated": "2026-05-16T22:29:43Z"
+  "generated": "2026-05-16T22:30:31Z"
 }
