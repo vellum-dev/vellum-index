@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 03:40:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 03:42:51 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>zerotier-selftest 1.16.0-r0</title>
+      <link>https://github.com/zerotier/ZeroTierOne</link>
+      <description><![CDATA[Unit test zerotier to ensure that it works as expected on the system<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>zerotier</author>
+      <category>utilities</category>
+      <pubDate>Sun, 17 May 2026 03:42:24 +0000</pubDate>
+      <guid isPermaLink="false">zerotier-selftest-1.16.0-r0</guid>
+    </item>
+    <item>
+      <title>zerotier-one 1.16.0-r0</title>
+      <link>https://github.com/zerotier/ZeroTierOne</link>
+      <description><![CDATA[A Smart Ethernet Switch for Earth<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>zerotier</author>
+      <category>utilities</category>
+      <pubDate>Sun, 17 May 2026 03:42:24 +0000</pubDate>
+      <guid isPermaLink="false">zerotier-one-1.16.0-r0</guid>
+    </item>
     <item>
       <title>restream 1.4.0-r0</title>
       <link>https://github.com/rien/reStream</link>

@@ -15993,6 +15993,80 @@
         "first_released": "2026-04-02T17:45:00Z"
       }
     },
+    "zerotier-one": {
+      "1.16.0-r0": {
+        "pkgdesc": "A Smart Ethernet Switch for Earth",
+        "upstream_author": "zerotier",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MPL-2.0",
+        "url": "https://github.com/zerotier/ZeroTierOne",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-17T03:42:24Z",
+        "readmeurl": "https://raw.githubusercontent.com/zerotier/ZeroTierOne/1.16.0/README.md",
+        "donateurl": null,
+        "first_released": "2026-05-17T03:42:24Z"
+      }
+    },
+    "zerotier-selftest": {
+      "1.16.0-r0": {
+        "pkgdesc": "Unit test zerotier to ensure that it works as expected on the system",
+        "upstream_author": "zerotier",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MPL-2.0",
+        "url": "https://github.com/zerotier/ZeroTierOne",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-17T03:42:24Z",
+        "readmeurl": "https://raw.githubusercontent.com/zerotier/ZeroTierOne/1.16.0/README.md",
+        "donateurl": null,
+        "first_released": "2026-05-17T03:42:24Z"
+      }
+    },
     "zig": {
       "0.15.2-r1": {
         "pkgdesc": "A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software",
@@ -16240,5 +16314,5 @@
       }
     }
   },
-  "generated": "2026-05-17T03:40:20Z"
+  "generated": "2026-05-17T03:42:51Z"
 }
