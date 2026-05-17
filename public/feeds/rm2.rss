@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 03:42:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 18:52:56 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>puzzles 0.2.4-r1</title>
+      <link>https://github.com/mrichards42/remarkable_puzzles</link>
+      <description><![CDATA[Simon Tatham's Puzzle Package<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>mrichards42</author>
+      <category>apps</category>
+      <pubDate>Sun, 17 May 2026 18:52:19 +0000</pubDate>
+      <guid isPermaLink="false">puzzles-0.2.4-r1</guid>
+    </item>
     <item>
       <title>zerotier-selftest 1.16.0-r0</title>
       <link>https://github.com/zerotier/ZeroTierOne</link>
@@ -33,15 +42,6 @@
       <category>utilities</category>
       <pubDate>Sun, 17 May 2026 03:40:11 +0000</pubDate>
       <guid isPermaLink="false">restream-1.4.0-r0</guid>
-    </item>
-    <item>
-      <title>puzzles 0.2.4-r0</title>
-      <link>https://github.com/mrichards42/remarkable_puzzles</link>
-      <description><![CDATA[Simon Tatham's Puzzle Package<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>mrichards42</author>
-      <category>apps</category>
-      <pubDate>Sun, 17 May 2026 03:37:42 +0000</pubDate>
-      <guid isPermaLink="false">puzzles-0.2.4-r0</guid>
     </item>
     <item>
       <title>keyd-doc 2.6.0-r0</title>
