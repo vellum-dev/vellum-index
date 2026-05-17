@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 03:38:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 03:40:20 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>restream 1.4.0-r0</title>
+      <link>https://github.com/rien/reStream</link>
+      <description><![CDATA[Binary framebuffer capture tool for the reStream script<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rien</author>
+      <category>utilities</category>
+      <pubDate>Sun, 17 May 2026 03:40:11 +0000</pubDate>
+      <guid isPermaLink="false">restream-1.4.0-r0</guid>
+    </item>
     <item>
       <title>puzzles 0.2.4-r0</title>
       <link>https://github.com/mrichards42/remarkable_puzzles</link>
