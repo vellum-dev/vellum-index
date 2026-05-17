@@ -2309,14 +2309,14 @@
     "debian-chroot": {
       "0.0.0-r0": {
         "pkgdesc": "A minimal Debian chroot for the reMarkable tablet",
-        "upstream_author": "unknown",
+        "upstream_author": "Eeems-org",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
         "categories": [
-          "other"
+          "utilities"
         ],
         "license": "MIT",
         "url": "https://github.com/Eeems-org/remarkable-debian-chroot",
-        "status": "deprecated",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -2341,7 +2341,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-16T22:28:58Z",
-        "readmeurl": null,
+        "readmeurl": "https://raw.githubusercontent.com/Eeems-org/remarkable-debian-chroot/92356654e185e42b6d179d2ede6eab75778c76eb/README.md",
         "donateurl": null,
         "first_released": "2026-05-16T22:28:58Z"
       }
@@ -2349,14 +2349,14 @@
     "debootstrap": {
       "1.0.133-r0": {
         "pkgdesc": "debootstrap is a tool which will install a Debian base system into a subdirectory of another, already installed system.",
-        "upstream_author": "unknown",
+        "upstream_author": "Debian",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
         "categories": [
-          "other"
+          "utilities"
         ],
         "license": "MIT",
         "url": "https://wiki.debian.org/Debootstrap",
-        "status": "deprecated",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -2380,7 +2380,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-16T22:28:58Z",
-        "readmeurl": null,
+        "readmeurl": "https://salsa.debian.org/installer-team/debootstrap/-/raw/1.0.133/README?ref_type=tags",
         "donateurl": null,
         "first_released": "2026-05-16T22:28:58Z"
       }
@@ -8776,14 +8776,14 @@
     "keyd": {
       "2.6.0-r0": {
         "pkgdesc": "A key remapping daemon for linux",
-        "upstream_author": "unknown",
+        "upstream_author": "rvaiya",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
         "categories": [
-          "other"
+          "utilities"
         ],
         "license": "MIT",
         "url": "https://github.com/rvaiya/keyd",
-        "status": "deprecated",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -8805,7 +8805,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-16T22:30:19Z",
-        "readmeurl": null,
+        "readmeurl": "https://raw.githubusercontent.com/rvaiya/keyd/v2.6.0/README.md",
         "donateurl": null,
         "first_released": "2026-05-16T22:30:19Z"
       }
@@ -8813,14 +8813,14 @@
     "keyd-doc": {
       "2.6.0-r0": {
         "pkgdesc": "A key remapping daemon for linux",
-        "upstream_author": "unknown",
+        "upstream_author": "rvaiya",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
         "categories": [
-          "other"
+          "utilities"
         ],
         "license": "MIT",
         "url": "https://github.com/rvaiya/keyd",
-        "status": "deprecated",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -8842,7 +8842,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-16T22:30:19Z",
-        "readmeurl": null,
+        "readmeurl": "https://raw.githubusercontent.com/rvaiya/keyd/v2.6.0/README.md",
         "donateurl": null,
         "first_released": "2026-05-16T22:30:19Z"
       }
@@ -10125,6 +10125,43 @@
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#preventnotebookzoomout",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
+      }
+    },
+    "puzzles": {
+      "0.2.4-r0": {
+        "pkgdesc": "Simon Tatham's Puzzle Package",
+        "upstream_author": "mrichards42",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "apps"
+        ],
+        "license": "GPL-2.0-only",
+        "url": "https://github.com/mrichards42/remarkable_puzzles",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-17T03:37:42Z",
+        "readmeurl": "https://raw.githubusercontent.com/mrichards42/remarkable_puzzles/v0.2.4/README.md",
+        "donateurl": null,
+        "first_released": "2026-05-17T03:37:42Z"
       }
     },
     "qt-command-executor": {
@@ -16167,5 +16204,5 @@
       }
     }
   },
-  "generated": "2026-05-16T22:30:59Z"
+  "generated": "2026-05-17T03:38:18Z"
 }

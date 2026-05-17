@@ -5,14 +5,23 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 May 2026 22:30:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 03:38:18 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>puzzles 0.2.4-r0</title>
+      <link>https://github.com/mrichards42/remarkable_puzzles</link>
+      <description><![CDATA[Simon Tatham's Puzzle Package<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>mrichards42</author>
+      <category>apps</category>
+      <pubDate>Sun, 17 May 2026 03:37:42 +0000</pubDate>
+      <guid isPermaLink="false">puzzles-0.2.4-r0</guid>
+    </item>
     <item>
       <title>keyd-doc 2.6.0-r0</title>
       <link>https://github.com/rvaiya/keyd</link>
       <description><![CDATA[A key remapping daemon for linux<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>unknown</author>
-      <category>other</category>
+      <author>rvaiya</author>
+      <category>utilities</category>
       <pubDate>Sat, 16 May 2026 22:30:19 +0000</pubDate>
       <guid isPermaLink="false">keyd-doc-2.6.0-r0</guid>
     </item>
@@ -20,8 +29,8 @@
       <title>keyd 2.6.0-r0</title>
       <link>https://github.com/rvaiya/keyd</link>
       <description><![CDATA[A key remapping daemon for linux<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>unknown</author>
-      <category>other</category>
+      <author>rvaiya</author>
+      <category>utilities</category>
       <pubDate>Sat, 16 May 2026 22:30:19 +0000</pubDate>
       <guid isPermaLink="false">keyd-2.6.0-r0</guid>
     </item>
@@ -38,8 +47,8 @@
       <title>debootstrap 1.0.133-r0</title>
       <link>https://wiki.debian.org/Debootstrap</link>
       <description><![CDATA[debootstrap is a tool which will install a Debian base system into a subdirectory of another, already installed system.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>unknown</author>
-      <category>other</category>
+      <author>Debian</author>
+      <category>utilities</category>
       <pubDate>Sat, 16 May 2026 22:28:58 +0000</pubDate>
       <guid isPermaLink="false">debootstrap-1.0.133-r0</guid>
     </item>
@@ -47,8 +56,8 @@
       <title>debian-chroot 0.0.0-r0</title>
       <link>https://github.com/Eeems-org/remarkable-debian-chroot</link>
       <description><![CDATA[A minimal Debian chroot for the reMarkable tablet<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>unknown</author>
-      <category>other</category>
+      <author>Eeems-org</author>
+      <category>utilities</category>
       <pubDate>Sat, 16 May 2026 22:28:58 +0000</pubDate>
       <guid isPermaLink="false">debian-chroot-0.0.0-r0</guid>
     </item>
