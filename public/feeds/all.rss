@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 19:12:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 18:28:58 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>force-koreader-landscape 1.0.2-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Keeps the KOReader appload app in the same aspect ratio as the screen<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Mon, 18 May 2026 18:28:16 +0000</pubDate>
+      <guid isPermaLink="false">force-koreader-landscape-1.0.2-r0</guid>
+    </item>
     <item>
       <title>puzzles 0.2.4-r1</title>
       <link>https://github.com/mrichards42/remarkable_puzzles</link>

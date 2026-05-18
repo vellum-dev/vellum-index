@@ -5527,7 +5527,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/eda7ff2bb6012417bd37634958a1dc8f9bc1377e/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/927231f34c624263b78bb6b4690fd1b0b150321c/README.md",
         "donateurl": null,
         "first_released": "2026-01-28T13:42:37Z"
       },
@@ -5573,7 +5573,53 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:23Z",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/eda7ff2bb6012417bd37634958a1dc8f9bc1377e/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/927231f34c624263b78bb6b4690fd1b0b150321c/README.md",
+        "donateurl": null,
+        "first_released": "2026-01-28T13:42:37Z"
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Keeps the KOReader appload app in the same aspect ratio as the screen",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-18T18:28:16Z",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/927231f34c624263b78bb6b4690fd1b0b150321c/README.md",
         "donateurl": null,
         "first_released": "2026-01-28T13:42:37Z"
       }
@@ -16316,5 +16362,5 @@
       }
     }
   },
-  "generated": "2026-05-17T19:12:10Z"
+  "generated": "2026-05-18T18:28:58Z"
 }
