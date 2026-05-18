@@ -2307,7 +2307,7 @@
       }
     },
     "debian-chroot": {
-      "0.0.0-r0": {
+      "0.0.0-r1": {
         "pkgdesc": "A minimal Debian chroot for the reMarkable tablet",
         "upstream_author": "Eeems-org",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -2340,8 +2340,8 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-16T22:28:58Z",
-        "readmeurl": "https://raw.githubusercontent.com/Eeems-org/remarkable-debian-chroot/92356654e185e42b6d179d2ede6eab75778c76eb/README.md",
+        "released": "2026-05-18T23:14:19Z",
+        "readmeurl": "https://raw.githubusercontent.com/Eeems-org/remarkable-debian-chroot/8e14f6f0b75102053acf6b61b60827b61812edf0/README.md",
         "donateurl": null,
         "first_released": "2026-05-16T22:28:58Z"
       }
@@ -16362,5 +16362,5 @@
       }
     }
   },
-  "generated": "2026-05-18T18:28:58Z"
+  "generated": "2026-05-18T23:15:05Z"
 }
