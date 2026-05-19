@@ -326,6 +326,83 @@
         "first_released": "2026-02-25T16:06:07Z"
       }
     },
+    "alpine-chroot": {
+      "0.0.0-r1": {
+        "pkgdesc": "A minimal alpine chroot for the reMarkable tablet",
+        "upstream_author": "Eeems",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/Eeems/remarkable-alpine-chroot",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "entware",
+          "alpine-chroot-install"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-19T00:17:43Z",
+        "readmeurl": "https://raw.githubusercontent.com/Eeems/remarkable-alpine-chroot/1a545809c859d2159bcd6fc917d76eac83735c42/README.md",
+        "donateurl": null,
+        "first_released": "2026-05-19T00:17:43Z"
+      }
+    },
+    "alpine-chroot-install": {
+      "0.14.0-r0": {
+        "pkgdesc": "Install Alpine Linux in chroot with a breeze.",
+        "upstream_author": "alpinelinux",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/alpinelinux/alpine-chroot-install",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-19T00:17:43Z",
+        "readmeurl": "https://raw.githubusercontent.com/alpinelinux/alpine-chroot-install/v0.14.0/README.adoc",
+        "donateurl": null,
+        "first_released": "2026-05-19T00:17:43Z"
+      }
+    },
     "appload": {
       "0.4.1-r3": {
         "pkgdesc": "Xovi extension for windowed and fullscreen apps on reMarkable tablets",
@@ -16362,5 +16439,5 @@
       }
     }
   },
-  "generated": "2026-05-18T23:15:05Z"
+  "generated": "2026-05-19T00:18:34Z"
 }

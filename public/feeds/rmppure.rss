@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pure</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2026 23:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 00:18:34 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppure.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>alpine-chroot-install 0.14.0-r0</title>
+      <link>https://github.com/alpinelinux/alpine-chroot-install</link>
+      <description><![CDATA[Install Alpine Linux in chroot with a breeze.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>alpinelinux</author>
+      <category>utilities</category>
+      <pubDate>Tue, 19 May 2026 00:17:43 +0000</pubDate>
+      <guid isPermaLink="false">alpine-chroot-install-0.14.0-r0</guid>
+    </item>
+    <item>
+      <title>alpine-chroot 0.0.0-r1</title>
+      <link>https://github.com/Eeems/remarkable-alpine-chroot</link>
+      <description><![CDATA[A minimal alpine chroot for the reMarkable tablet<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems</author>
+      <category>utilities</category>
+      <pubDate>Tue, 19 May 2026 00:17:43 +0000</pubDate>
+      <guid isPermaLink="false">alpine-chroot-0.0.0-r1</guid>
+    </item>
     <item>
       <title>debian-chroot 0.0.0-r1</title>
       <link>https://github.com/Eeems-org/remarkable-debian-chroot</link>
