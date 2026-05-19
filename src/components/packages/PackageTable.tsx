@@ -10,6 +10,7 @@ import {
   TableRow,
 } from '@/components/ui/table';
 import { Badge } from '@/components/ui/badge';
+import { StatusBadge } from '@/components/packages/StatusBadge';
 import type { FlatPackage } from '@/types/packages';
 
 interface PackageTableProps {
@@ -76,12 +77,18 @@ export function PackageTable({ packages }: PackageTableProps) {
         {sortedPackages.map((pkg) => (
           <TableRow key={`${pkg.name}-${pkg.version}`}>
             <TableCell>
+              <span className="xl:hidden">
+                <StatusBadge status={pkg.status} size="sm" />
+              </span>
               <Link
                 to={`/package/${pkg.name}${searchParams.size > 0 ? `?${searchParams}` : ''}`}
                 className="font-medium text-primary hover:underline"
               >
                 {pkg.name}
               </Link>
+              <span className="hidden xl:inline ml-2">
+                <StatusBadge status={pkg.status} />
+              </span>
             </TableCell>
             <TableCell className="hidden md:table-cell max-w-sm truncate">
               {pkg.pkgdesc}
