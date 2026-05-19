@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2026 00:18:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 05:35:14 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>yaft 0.1.3-r0</title>
+      <link>https://github.com/timower/rM2-stuff</link>
+      <description><![CDATA[Yet another framebuffer terminal<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>timower</author>
+      <category>apps</category>
+      <pubDate>Tue, 19 May 2026 05:35:13 +0000</pubDate>
+      <guid isPermaLink="false">yaft-0.1.3-r0</guid>
+    </item>
     <item>
       <title>alpine-chroot-install 0.14.0-r0</title>
       <link>https://github.com/alpinelinux/alpine-chroot-install</link>
