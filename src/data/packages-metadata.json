@@ -13438,6 +13438,45 @@
         "first_released": "2026-02-22T22:17:15Z"
       }
     },
+    "stylus-remapper": {
+      "0.1.0-r0": {
+        "pkgdesc": "Remaps stylus input events with configurable presets, pressure curves, and position offsets.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/rm-stylus-remapper",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "xovi-extensions"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-20T20:06:24Z",
+        "readmeurl": null,
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-05-20T20:06:24Z"
+      }
+    },
     "swipe-to-hide-or-show-toolbar": {
       "1.0.0-r0": {
         "pkgdesc": "Swipe from toolbar edge to show/hide the toolbar.",
@@ -16551,5 +16590,5 @@
       }
     }
   },
-  "generated": "2026-05-19T21:03:01Z"
+  "generated": "2026-05-20T20:06:56Z"
 }
