@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2026 21:58:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 21:59:11 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>stylus-remapper 0.1.0-r1</title>
@@ -13,7 +13,7 @@
       <description><![CDATA[Remaps stylus input events with configurable presets, pressure curves, and position offsets.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>rmitchellscott</author>
       <category>utilities</category>
-      <pubDate>Wed, 20 May 2026 21:58:50 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:58:38 +0000</pubDate>
       <guid isPermaLink="false">stylus-remapper-0.1.0-r1</guid>
     </item>
     <item>
@@ -22,17 +22,8 @@
       <description><![CDATA[Adds a Bluetooth settings page for pairing and managing Bluetooth keyboards.<br/>Devices: rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
       <author>rmitchellscott</author>
       <category>ui</category>
-      <pubDate>Wed, 20 May 2026 21:58:05 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:58:21 +0000</pubDate>
       <guid isPermaLink="false">bluetooth-settings-0.1.0-r1</guid>
-    </item>
-    <item>
-      <title>stylus-remapper 0.1.0-r0</title>
-      <link>https://github.com/rmitchellscott/rm-stylus-remapper</link>
-      <description><![CDATA[Remaps stylus input events with configurable presets, pressure curves, and position offsets.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rmitchellscott</author>
-      <category>utilities</category>
-      <pubDate>Wed, 20 May 2026 20:06:24 +0000</pubDate>
-      <guid isPermaLink="false">stylus-remapper-0.1.0-r0</guid>
     </item>
     <item>
       <title>yaft 0.1.4-r0</title>
