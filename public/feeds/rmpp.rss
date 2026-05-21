@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2026 19:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 21:47:01 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>appload 0.5.3-r0</title>
+      <link>https://github.com/asivery/rm-appload</link>
+      <description><![CDATA[XOVI extension for windowed and fullscreen apps<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Thu, 21 May 2026 21:46:11 +0000</pubDate>
+      <guid isPermaLink="false">appload-0.5.3-r0</guid>
+    </item>
     <item>
       <title>yaft 0.1.4-r1</title>
       <link>https://github.com/timower/rM2-stuff</link>

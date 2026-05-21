@@ -446,7 +446,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-18T21:57:33Z",
-        "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.2/README.MD",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.3/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-24T17:26:06Z"
       },
@@ -492,7 +492,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-21T03:51:55Z",
-        "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.2/README.MD",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.3/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-24T17:26:06Z"
       },
@@ -538,7 +538,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-29T17:44:06Z",
-        "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.2/README.MD",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.3/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-24T17:26:06Z"
       },
@@ -584,7 +584,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:17Z",
-        "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.2/README.MD",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.3/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-24T17:26:06Z"
       },
@@ -630,7 +630,53 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T06:15:03Z",
-        "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.2/README.MD",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.3/README.MD",
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-24T17:26:06Z"
+      },
+      "0.5.3-r0": {
+        "pkgdesc": "XOVI extension for windowed and fullscreen apps",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/rm-appload",
+        "status": "maintained",
+        "os_min": "3.26",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.26",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-21T21:46:11Z",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.3/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-24T17:26:06Z"
       }
@@ -16672,5 +16718,5 @@
       }
     }
   },
-  "generated": "2026-05-21T19:27:10Z"
+  "generated": "2026-05-21T21:47:01Z"
 }
