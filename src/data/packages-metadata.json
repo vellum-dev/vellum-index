@@ -16634,7 +16634,7 @@
         "donateurl": null,
         "first_released": "2026-05-19T05:35:13Z"
       },
-      "0.1.4-r0": {
+      "0.1.4-r1": {
         "pkgdesc": "Yet another framebuffer terminal",
         "upstream_author": "timower",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -16665,12 +16665,12 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-19T21:03:01Z",
+        "released": "2026-05-21T19:27:10Z",
         "readmeurl": "https://raw.githubusercontent.com/timower/rM2-stuff/v0.1.4/README.md",
         "donateurl": null,
         "first_released": "2026-05-19T05:35:13Z"
       }
     }
   },
-  "generated": "2026-05-20T22:42:18Z"
+  "generated": "2026-05-21T19:27:10Z"
 }

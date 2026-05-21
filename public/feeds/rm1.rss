@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2026 22:42:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 19:27:10 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>yaft 0.1.4-r1</title>
+      <link>https://github.com/timower/rM2-stuff</link>
+      <description><![CDATA[Yet another framebuffer terminal<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>timower</author>
+      <category>apps</category>
+      <pubDate>Thu, 21 May 2026 19:27:10 +0000</pubDate>
+      <guid isPermaLink="false">yaft-0.1.4-r1</guid>
+    </item>
     <item>
       <title>vellum 0.3.0-r0</title>
       <link>https://github.com/vellum-dev/vellum-cli</link>
@@ -24,15 +33,6 @@
       <category>utilities</category>
       <pubDate>Wed, 20 May 2026 21:58:38 +0000</pubDate>
       <guid isPermaLink="false">stylus-remapper-0.1.0-r1</guid>
-    </item>
-    <item>
-      <title>yaft 0.1.4-r0</title>
-      <link>https://github.com/timower/rM2-stuff</link>
-      <description><![CDATA[Yet another framebuffer terminal<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>timower</author>
-      <category>apps</category>
-      <pubDate>Tue, 19 May 2026 21:03:01 +0000</pubDate>
-      <guid isPermaLink="false">yaft-0.1.4-r0</guid>
     </item>
     <item>
       <title>tilem 0.1.4-r0</title>
