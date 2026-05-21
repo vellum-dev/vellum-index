@@ -15605,6 +15605,41 @@
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
+      },
+      "0.3.1-r0": {
+        "pkgdesc": "Package manager wrapper for reMarkable tablets",
+        "upstream_author": "vellum-dev",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/vellum-dev/vellum-cli",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-21T22:22:10Z",
+        "readmeurl": null,
+        "donateurl": null,
+        "first_released": "2026-01-14T22:09:23Z"
       }
     },
     "vellum-bash-completion": {
@@ -16718,5 +16753,5 @@
       }
     }
   },
-  "generated": "2026-05-21T21:47:01Z"
+  "generated": "2026-05-21T22:22:39Z"
 }

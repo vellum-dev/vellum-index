@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2026 21:47:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 22:22:39 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>vellum 0.3.1-r0</title>
+      <link>https://github.com/vellum-dev/vellum-cli</link>
+      <description><![CDATA[Package manager wrapper for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>vellum-dev</author>
+      <category>utilities</category>
+      <pubDate>Thu, 21 May 2026 22:22:10 +0000</pubDate>
+      <guid isPermaLink="false">vellum-0.3.1-r0</guid>
+    </item>
     <item>
       <title>appload 0.5.3-r0</title>
       <link>https://github.com/asivery/rm-appload</link>
