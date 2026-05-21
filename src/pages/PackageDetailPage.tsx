@@ -61,7 +61,7 @@ function DownloadButton({ name, currentPkg }: { name: string; currentPkg: FlatPa
         href={buildUrl(downloadArchs[0])}
         className="text-sm text-primary hover:underline"
       >
-        {downloadArchs[0]}
+        Download
       </a>
     );
   }
