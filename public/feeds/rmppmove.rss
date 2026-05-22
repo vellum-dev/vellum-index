@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2026 18:04:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 19:48:12 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppmove.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>chessmarkable 0.8.1-r1</title>
+      <link>https://github.com/LinusCDE/chessmarkable</link>
+      <description><![CDATA[Chess game<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>LinusCDE</author>
+      <category>apps</category>
+      <pubDate>Fri, 22 May 2026 19:47:20 +0000</pubDate>
+      <guid isPermaLink="false">chessmarkable-0.8.1-r1</guid>
+    </item>
     <item>
       <title>doomarkable 0.4.1-r0</title>
       <link>https://github.com/LinusCDE/doomarkable</link>

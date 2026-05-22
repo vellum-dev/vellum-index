@@ -1759,6 +1759,44 @@
         "first_released": "2026-01-14T19:58:03Z"
       }
     },
+    "chessmarkable": {
+      "0.8.1-r1": {
+        "pkgdesc": "Chess game",
+        "upstream_author": "LinusCDE",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "apps"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/LinusCDE/chessmarkable",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "appload>=0.5.3"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-22T19:47:20Z",
+        "readmeurl": "https://raw.githubusercontent.com/LinusCDE/chessmarkable/0.8.1-1/README.md",
+        "donateurl": null,
+        "first_released": "2026-05-22T19:47:20Z"
+      }
+    },
     "convert-to-text-remover": {
       "1.0.0-r2": {
         "pkgdesc": "Removes the Convert to text option from selection menus and the toolbar.",
@@ -16828,5 +16866,5 @@
       }
     }
   },
-  "generated": "2026-05-22T18:04:26Z"
+  "generated": "2026-05-22T19:48:12Z"
 }
