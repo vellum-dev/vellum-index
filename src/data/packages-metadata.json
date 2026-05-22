@@ -2796,6 +2796,44 @@
         "first_released": "2026-01-14T19:57:21Z"
       }
     },
+    "doomarkable": {
+      "0.4.1-r0": {
+        "pkgdesc": "DOOM game",
+        "upstream_author": "LinusCDE",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "apps"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/LinusCDE/doomarkable",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "appload>=0.5.3"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-22T18:03:35Z",
+        "readmeurl": "https://raw.githubusercontent.com/LinusCDE/doomarkable/0.4.1/README.md",
+        "donateurl": null,
+        "first_released": "2026-05-22T18:03:35Z"
+      }
+    },
     "duplicate-annotated-pages": {
       "1.0.0-r2": {
         "pkgdesc": "Adds an option to the Duplicate menu to duplicate only pages that have been annotated.",
@@ -16790,5 +16828,5 @@
       }
     }
   },
-  "generated": "2026-05-22T04:12:24Z"
+  "generated": "2026-05-22T18:04:26Z"
 }
