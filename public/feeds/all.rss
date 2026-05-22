@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2026 22:22:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 04:12:24 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>stylus-remapper 0.2.0-r0</title>
+      <link>https://github.com/rmitchellscott/rm-stylus-remapper</link>
+      <description><![CDATA[Remaps stylus input events with configurable presets, pressure curves, and position offsets.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rmitchellscott</author>
+      <category>utilities</category>
+      <pubDate>Fri, 22 May 2026 04:11:57 +0000</pubDate>
+      <guid isPermaLink="false">stylus-remapper-0.2.0-r0</guid>
+    </item>
     <item>
       <title>vellum 0.3.1-r0</title>
       <link>https://github.com/vellum-dev/vellum-cli</link>
