@@ -5,8 +5,116 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pure</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2026 19:48:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 20:27:25 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppure.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>xovi-message-broker 19.0.0-r0</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[IPC messaging between xovi extensions<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Sat, 23 May 2026 20:26:54 +0000</pubDate>
+      <guid isPermaLink="false">xovi-message-broker-19.0.0-r0</guid>
+    </item>
+    <item>
+      <title>xovi-extensions 19.0.0-r0</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Extensions for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.20+]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Sat, 23 May 2026 20:26:54 +0000</pubDate>
+      <guid isPermaLink="false">xovi-extensions-19.0.0-r0</guid>
+    </item>
+    <item>
+      <title>webserver-remote 19.0.0-r0</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Exposes the USB webserver to all interfaces with connection confirmation dialog<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.28]]></description>
+      <author>asivery</author>
+      <category>utilities</category>
+      <pubDate>Sat, 23 May 2026 20:26:54 +0000</pubDate>
+      <guid isPermaLink="false">webserver-remote-19.0.0-r0</guid>
+    </item>
+    <item>
+      <title>rmstream 0.1.4-r3</title>
+      <link>https://github.com/asivery/appload-rmstream</link>
+      <description><![CDATA[Stream your reMarkable's screen to any device on the local network via HTTP<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>apps</category>
+      <pubDate>Sat, 23 May 2026 20:26:48 +0000</pubDate>
+      <guid isPermaLink="false">rmstream-0.1.4-r3</guid>
+    </item>
+    <item>
+      <title>rm-shot 1.1.2-r3</title>
+      <link>https://github.com/rmitchellscott/rm-shot</link>
+      <description><![CDATA[Screenshot extension for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rmitchellscott</author>
+      <category>framework</category>
+      <pubDate>Sat, 23 May 2026 20:26:47 +0000</pubDate>
+      <guid isPermaLink="false">rm-shot-1.1.2-r3</guid>
+    </item>
+    <item>
+      <title>rm-pdfium 0.1.0-r4</title>
+      <link>https://github.com/rmitchellscott/rm-pdfium</link>
+      <description><![CDATA[xovi extension to expose xochitl's libpdfium.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
+      <author>rmitchellscott</author>
+      <category>framework</category>
+      <pubDate>Sat, 23 May 2026 20:26:46 +0000</pubDate>
+      <guid isPermaLink="false">rm-pdfium-0.1.0-r4</guid>
+    </item>
+    <item>
+      <title>quicksettings-screenshot 2.0.0-r4</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a screenshot button to the quick settings menu.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.28]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Sat, 23 May 2026 20:26:45 +0000</pubDate>
+      <guid isPermaLink="false">quicksettings-screenshot-2.0.0-r4</guid>
+    </item>
+    <item>
+      <title>qt-resource-rebuilder 19.0.0-r0</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Rebuilds QT resource databases on the fly to replace or add QML files<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Sat, 23 May 2026 20:26:45 +0000</pubDate>
+      <guid isPermaLink="false">qt-resource-rebuilder-19.0.0-r0</guid>
+    </item>
+    <item>
+      <title>qt-command-executor 19.0.0-r0</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Injects a QT module to execute shell commands from QML<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Sat, 23 May 2026 20:26:44 +0000</pubDate>
+      <guid isPermaLink="false">qt-command-executor-19.0.0-r0</guid>
+    </item>
+    <item>
+      <title>librarian 0.3.1-r3</title>
+      <link>https://github.com/rmitchellscott/rm-librarian</link>
+      <description><![CDATA[Document library management extension<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rmitchellscott</author>
+      <category>framework</category>
+      <pubDate>Sat, 23 May 2026 20:26:42 +0000</pubDate>
+      <guid isPermaLink="false">librarian-0.3.1-r3</guid>
+    </item>
+    <item>
+      <title>duplicate-annotated-pages 2.0.1-r3</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds an option to the Duplicate menu to duplicate only pages that have been annotated.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Sat, 23 May 2026 20:26:33 +0000</pubDate>
+      <guid isPermaLink="false">duplicate-annotated-pages-2.0.1-r3</guid>
+    </item>
+    <item>
+      <title>create-document-from-pages 2.0.1-r3</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds an option to the Page Overview More menu to create a new document from selected pages.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Sat, 23 May 2026 20:26:32 +0000</pubDate>
+      <guid isPermaLink="false">create-document-from-pages-2.0.1-r3</guid>
+    </item>
     <item>
       <title>chessmarkable 0.8.1-r1</title>
       <link>https://github.com/LinusCDE/chessmarkable</link>
@@ -368,15 +476,6 @@
       <guid isPermaLink="false">xovi-0.3.3-r2</guid>
     </item>
     <item>
-      <title>rmstream 0.1.4-r2</title>
-      <link>https://github.com/asivery/appload-rmstream</link>
-      <description><![CDATA[Stream your reMarkable's screen to any device on the local network via HTTP<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>asivery</author>
-      <category>apps</category>
-      <pubDate>Mon, 11 May 2026 06:15:19 +0000</pubDate>
-      <guid isPermaLink="false">rmstream-0.1.4-r2</guid>
-    </item>
-    <item>
       <title>rmhacks 0.0.11_pre4_git4-r2</title>
       <link>https://github.com/asivery/rm-hacks-qmd</link>
       <description><![CDATA[reMarkable hacks in QMD format<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.25]]></description>
@@ -647,15 +746,6 @@
       <guid isPermaLink="false">rm-stylus-0.3.0-r4</guid>
     </item>
     <item>
-      <title>rm-shot 1.1.2-r2</title>
-      <link>https://github.com/rmitchellscott/rm-shot</link>
-      <description><![CDATA[Screenshot extension for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rmitchellscott</author>
-      <category>framework</category>
-      <pubDate>Mon, 11 May 2026 05:25:03 +0000</pubDate>
-      <guid isPermaLink="false">rm-shot-1.1.2-r2</guid>
-    </item>
-    <item>
       <title>rm-pokemon 0.2.0-r2</title>
       <link>https://github.com/rmitchellscott/rm-pokemon</link>
       <description><![CDATA[Display the Pokemon sprite matching your reMarkable firmware codename<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -665,15 +755,6 @@
       <guid isPermaLink="false">rm-pokemon-0.2.0-r2</guid>
     </item>
     <item>
-      <title>rm-pdfium 0.1.0-r3</title>
-      <link>https://github.com/rmitchellscott/rm-pdfium</link>
-      <description><![CDATA[xovi extension to expose xochitl's libpdfium.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>framework</category>
-      <pubDate>Mon, 11 May 2026 05:25:03 +0000</pubDate>
-      <guid isPermaLink="false">rm-pdfium-0.1.0-r3</guid>
-    </item>
-    <item>
       <title>quicksheet-use-template 1.0.1-r3</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
       <description><![CDATA[Use the last page's template when adding a quicksheet page<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
@@ -681,15 +762,6 @@
       <category>ui</category>
       <pubDate>Mon, 11 May 2026 05:25:02 +0000</pubDate>
       <guid isPermaLink="false">quicksheet-use-template-1.0.1-r3</guid>
-    </item>
-    <item>
-      <title>quicksettings-screenshot 2.0.0-r3</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Adds a screenshot button to the quick settings menu.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:25:02 +0000</pubDate>
-      <guid isPermaLink="false">quicksettings-screenshot-2.0.0-r3</guid>
     </item>
     <item>
       <title>quicksettings-clock-serif 1.0.2-r4</title>
@@ -726,15 +798,6 @@
       <category>ui</category>
       <pubDate>Mon, 11 May 2026 05:25:00 +0000</pubDate>
       <guid isPermaLink="false">mini-light-sleep-1.0.5-r3</guid>
-    </item>
-    <item>
-      <title>librarian 0.3.1-r2</title>
-      <link>https://github.com/rmitchellscott/rm-librarian</link>
-      <description><![CDATA[Document library management extension<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rmitchellscott</author>
-      <category>framework</category>
-      <pubDate>Mon, 11 May 2026 05:24:59 +0000</pubDate>
-      <guid isPermaLink="false">librarian-0.3.1-r2</guid>
     </item>
     <item>
       <title>hide-zoom-indicator 1.0.3-r5</title>
@@ -872,15 +935,6 @@
       <guid isPermaLink="false">enable-typing-on-documents-1.0.0-r2</guid>
     </item>
     <item>
-      <title>duplicate-annotated-pages 2.0.1-r2</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Adds an option to the Duplicate menu to duplicate only pages that have been annotated.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:24:51 +0000</pubDate>
-      <guid isPermaLink="false">duplicate-annotated-pages-2.0.1-r2</guid>
-    </item>
-    <item>
       <title>disable-selection-autoscroll 1.0.0-r5</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
       <description><![CDATA[Disables the auto scrolling when moving a selection added in 3.24.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.28]]></description>
@@ -915,15 +969,6 @@
       <category>ui</category>
       <pubDate>Mon, 11 May 2026 05:24:50 +0000</pubDate>
       <guid isPermaLink="false">createpages-paperpro-1.0.4-r3</guid>
-    </item>
-    <item>
-      <title>create-document-from-pages 2.0.1-r2</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Adds an option to the Page Overview More menu to create a new document from selected pages.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:24:50 +0000</pubDate>
-      <guid isPermaLink="false">create-document-from-pages-2.0.1-r2</guid>
     </item>
     <item>
       <title>bettertoc-collapse 1.0.0-r4</title>
