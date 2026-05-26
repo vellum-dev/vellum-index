@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 20:15:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 21:59:42 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>rmstream 0.1.5-r0</title>
+      <link>https://github.com/asivery/appload-rmstream</link>
+      <description><![CDATA[Stream your reMarkable's screen to any device on the local network via HTTP<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>apps</category>
+      <pubDate>Tue, 26 May 2026 21:59:09 +0000</pubDate>
+      <guid isPermaLink="false">rmstream-0.1.5-r0</guid>
+    </item>
     <item>
       <title>gomarkablestream 1.3.1-r0</title>
       <link>https://github.com/owulveryck/goMarkableStream</link>

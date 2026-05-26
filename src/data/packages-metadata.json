@@ -12655,7 +12655,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
-        "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.4/README.MD",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.5/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-27T18:18:17Z"
       },
@@ -12693,7 +12693,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-08T16:53:28Z",
-        "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.4/README.MD",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.5/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-27T18:18:17Z"
       },
@@ -12734,7 +12734,48 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-23T20:26:48Z",
-        "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.4/README.MD",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.5/README.MD",
+        "donateurl": "https://ko-fi.com/asivery",
+        "first_released": "2026-01-27T18:18:17Z"
+      },
+      "0.1.5-r0": {
+        "pkgdesc": "Stream your reMarkable's screen to any device on the local network via HTTP",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "apps"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/appload-rmstream",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "appload",
+          "framebuffer-spy>=18.0.0",
+          "framebuffer-spy<20.0.0",
+          "xovi-message-broker>=18.0.0",
+          "xovi-message-broker<20.0.0"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-26T21:59:09Z",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.5/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-27T18:18:17Z"
       },
@@ -12771,7 +12812,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-01T23:02:05Z",
-        "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.4/README.MD",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.5/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-27T18:18:17Z"
       }
@@ -17147,5 +17188,5 @@
       }
     }
   },
-  "generated": "2026-05-26T20:15:46Z"
+  "generated": "2026-05-26T21:59:42Z"
 }
