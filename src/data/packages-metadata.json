@@ -1760,7 +1760,7 @@
       }
     },
     "chessmarkable": {
-      "0.8.1-r1": {
+      "0.8.1-r2": {
         "pkgdesc": "Chess game",
         "upstream_author": "LinusCDE",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -1778,8 +1778,7 @@
           "rm2",
           "rmpp",
           "rmppm",
-          "rmppmove",
-          "rmppure"
+          "rmppmove"
         ],
         "depends": [
           "appload>=0.5.3"
@@ -1791,7 +1790,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-22T19:47:20Z",
+        "released": "2026-05-26T19:37:01Z",
         "readmeurl": "https://raw.githubusercontent.com/LinusCDE/chessmarkable/0.8.1-1/README.md",
         "donateurl": null,
         "first_released": "2026-05-22T19:47:20Z"
@@ -2835,7 +2834,7 @@
       }
     },
     "doomarkable": {
-      "0.4.1-r0": {
+      "0.4.1-r1": {
         "pkgdesc": "DOOM game",
         "upstream_author": "LinusCDE",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -2853,8 +2852,7 @@
           "rm2",
           "rmpp",
           "rmppm",
-          "rmppmove",
-          "rmppure"
+          "rmppmove"
         ],
         "depends": [
           "appload>=0.5.3"
@@ -2866,7 +2864,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-22T18:03:35Z",
+        "released": "2026-05-26T19:37:03Z",
         "readmeurl": "https://raw.githubusercontent.com/LinusCDE/doomarkable/0.4.1/README.md",
         "donateurl": null,
         "first_released": "2026-05-22T18:03:35Z"
@@ -6094,7 +6092,7 @@
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r0": {
+      "19.0.0-r1": {
         "pkgdesc": "Module for exposing the address of the system framebuffer",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -6117,7 +6115,8 @@
           "rm2",
           "rmpp",
           "rmppm",
-          "rmppmove"
+          "rmppmove",
+          "rmppure"
         ],
         "depends": [
           "xovi-extensions"
@@ -6130,7 +6129,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-23T20:26:38Z",
+        "released": "2026-05-26T19:37:07Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -10612,7 +10611,7 @@
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r0": {
+      "19.0.0-r1": {
         "pkgdesc": "Injects a QT module to execute shell commands from QML",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -10644,7 +10643,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-23T20:26:44Z",
+        "released": "2026-05-26T19:37:14Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -10762,7 +10761,7 @@
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r0": {
+      "19.0.0-r1": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -10794,7 +10793,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-23T20:26:45Z",
+        "released": "2026-05-26T19:37:14Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -16176,7 +16175,7 @@
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r0": {
+      "19.0.0-r1": {
         "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -16220,7 +16219,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-23T20:26:54Z",
+        "released": "2026-05-26T19:37:23Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -16474,7 +16473,7 @@
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r0": {
+      "19.0.0-r1": {
         "pkgdesc": "Extensions for xovi framework",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -16513,7 +16512,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-23T20:26:54Z",
+        "released": "2026-05-26T19:37:24Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -16631,7 +16630,7 @@
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r0": {
+      "19.0.0-r1": {
         "pkgdesc": "IPC messaging between xovi extensions",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -16663,7 +16662,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-23T20:26:54Z",
+        "released": "2026-05-26T19:37:24Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -17113,5 +17112,5 @@
       }
     }
   },
-  "generated": "2026-05-26T18:22:01Z"
+  "generated": "2026-05-26T19:37:54Z"
 }

@@ -5,8 +5,80 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 18:22:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 19:37:54 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>xovi-message-broker 19.0.0-r1</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[IPC messaging between xovi extensions<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Tue, 26 May 2026 19:37:24 +0000</pubDate>
+      <guid isPermaLink="false">xovi-message-broker-19.0.0-r1</guid>
+    </item>
+    <item>
+      <title>xovi-extensions 19.0.0-r1</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Extensions for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.20+]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Tue, 26 May 2026 19:37:24 +0000</pubDate>
+      <guid isPermaLink="false">xovi-extensions-19.0.0-r1</guid>
+    </item>
+    <item>
+      <title>webserver-remote 19.0.0-r1</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Exposes the USB webserver to all interfaces with connection confirmation dialog<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.28]]></description>
+      <author>asivery</author>
+      <category>utilities</category>
+      <pubDate>Tue, 26 May 2026 19:37:23 +0000</pubDate>
+      <guid isPermaLink="false">webserver-remote-19.0.0-r1</guid>
+    </item>
+    <item>
+      <title>qt-resource-rebuilder 19.0.0-r1</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Rebuilds QT resource databases on the fly to replace or add QML files<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Tue, 26 May 2026 19:37:14 +0000</pubDate>
+      <guid isPermaLink="false">qt-resource-rebuilder-19.0.0-r1</guid>
+    </item>
+    <item>
+      <title>qt-command-executor 19.0.0-r1</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Injects a QT module to execute shell commands from QML<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Tue, 26 May 2026 19:37:14 +0000</pubDate>
+      <guid isPermaLink="false">qt-command-executor-19.0.0-r1</guid>
+    </item>
+    <item>
+      <title>framebuffer-spy 19.0.0-r1</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Module for exposing the address of the system framebuffer<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Tue, 26 May 2026 19:37:07 +0000</pubDate>
+      <guid isPermaLink="false">framebuffer-spy-19.0.0-r1</guid>
+    </item>
+    <item>
+      <title>doomarkable 0.4.1-r1</title>
+      <link>https://github.com/LinusCDE/doomarkable</link>
+      <description><![CDATA[DOOM game<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove]]></description>
+      <author>LinusCDE</author>
+      <category>apps</category>
+      <pubDate>Tue, 26 May 2026 19:37:03 +0000</pubDate>
+      <guid isPermaLink="false">doomarkable-0.4.1-r1</guid>
+    </item>
+    <item>
+      <title>chessmarkable 0.8.1-r2</title>
+      <link>https://github.com/LinusCDE/chessmarkable</link>
+      <description><![CDATA[Chess game<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove]]></description>
+      <author>LinusCDE</author>
+      <category>apps</category>
+      <pubDate>Tue, 26 May 2026 19:37:01 +0000</pubDate>
+      <guid isPermaLink="false">chessmarkable-0.8.1-r2</guid>
+    </item>
     <item>
       <title>koreader 2026.03-r4</title>
       <link>https://github.com/koreader/koreader</link>
@@ -33,33 +105,6 @@
       <category>apps</category>
       <pubDate>Sun, 24 May 2026 23:36:46 +0000</pubDate>
       <guid isPermaLink="false">tilem-0.1.4-r1</guid>
-    </item>
-    <item>
-      <title>xovi-message-broker 19.0.0-r0</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[IPC messaging between xovi extensions<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Sat, 23 May 2026 20:26:54 +0000</pubDate>
-      <guid isPermaLink="false">xovi-message-broker-19.0.0-r0</guid>
-    </item>
-    <item>
-      <title>xovi-extensions 19.0.0-r0</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Extensions for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.20+]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Sat, 23 May 2026 20:26:54 +0000</pubDate>
-      <guid isPermaLink="false">xovi-extensions-19.0.0-r0</guid>
-    </item>
-    <item>
-      <title>webserver-remote 19.0.0-r0</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Exposes the USB webserver to all interfaces with connection confirmation dialog<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.28]]></description>
-      <author>asivery</author>
-      <category>utilities</category>
-      <pubDate>Sat, 23 May 2026 20:26:54 +0000</pubDate>
-      <guid isPermaLink="false">webserver-remote-19.0.0-r0</guid>
     </item>
     <item>
       <title>rmstream 0.1.4-r3</title>
@@ -98,24 +143,6 @@
       <guid isPermaLink="false">quicksettings-screenshot-2.0.0-r4</guid>
     </item>
     <item>
-      <title>qt-resource-rebuilder 19.0.0-r0</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Rebuilds QT resource databases on the fly to replace or add QML files<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Sat, 23 May 2026 20:26:45 +0000</pubDate>
-      <guid isPermaLink="false">qt-resource-rebuilder-19.0.0-r0</guid>
-    </item>
-    <item>
-      <title>qt-command-executor 19.0.0-r0</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Injects a QT module to execute shell commands from QML<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Sat, 23 May 2026 20:26:44 +0000</pubDate>
-      <guid isPermaLink="false">qt-command-executor-19.0.0-r0</guid>
-    </item>
-    <item>
       <title>librarian 0.3.1-r3</title>
       <link>https://github.com/rmitchellscott/rm-librarian</link>
       <description><![CDATA[Document library management extension<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -123,15 +150,6 @@
       <category>framework</category>
       <pubDate>Sat, 23 May 2026 20:26:42 +0000</pubDate>
       <guid isPermaLink="false">librarian-0.3.1-r3</guid>
-    </item>
-    <item>
-      <title>framebuffer-spy 19.0.0-r0</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Module for exposing the address of the system framebuffer<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Sat, 23 May 2026 20:26:38 +0000</pubDate>
-      <guid isPermaLink="false">framebuffer-spy-19.0.0-r0</guid>
     </item>
     <item>
       <title>duplicate-annotated-pages 2.0.1-r3</title>
@@ -150,24 +168,6 @@
       <category>ui</category>
       <pubDate>Sat, 23 May 2026 20:26:32 +0000</pubDate>
       <guid isPermaLink="false">create-document-from-pages-2.0.1-r3</guid>
-    </item>
-    <item>
-      <title>chessmarkable 0.8.1-r1</title>
-      <link>https://github.com/LinusCDE/chessmarkable</link>
-      <description><![CDATA[Chess game<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>LinusCDE</author>
-      <category>apps</category>
-      <pubDate>Fri, 22 May 2026 19:47:20 +0000</pubDate>
-      <guid isPermaLink="false">chessmarkable-0.8.1-r1</guid>
-    </item>
-    <item>
-      <title>doomarkable 0.4.1-r0</title>
-      <link>https://github.com/LinusCDE/doomarkable</link>
-      <description><![CDATA[DOOM game<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>LinusCDE</author>
-      <category>apps</category>
-      <pubDate>Fri, 22 May 2026 18:03:35 +0000</pubDate>
-      <guid isPermaLink="false">doomarkable-0.4.1-r0</guid>
     </item>
     <item>
       <title>stylus-remapper 0.2.0-r0</title>
