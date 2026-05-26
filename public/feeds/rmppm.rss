@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2026 23:37:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 18:22:01 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>koreader 2026.03-r4</title>
+      <link>https://github.com/koreader/koreader</link>
+      <description><![CDATA[An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>koreader</author>
+      <category>apps</category>
+      <pubDate>Tue, 26 May 2026 18:21:18 +0000</pubDate>
+      <guid isPermaLink="false">koreader-2026.03-r4</guid>
+    </item>
     <item>
       <title>yaft 0.1.4-r2</title>
       <link>https://github.com/timower/rM2-stuff</link>
@@ -483,15 +492,6 @@
       <category>framework</category>
       <pubDate>Mon, 11 May 2026 14:42:30 +0000</pubDate>
       <guid isPermaLink="false">qt-command-executor-18.0.0-r6</guid>
-    </item>
-    <item>
-      <title>koreader 2026.03-r3</title>
-      <link>https://github.com/koreader/koreader</link>
-      <description><![CDATA[An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove]]></description>
-      <author>koreader</author>
-      <category>apps</category>
-      <pubDate>Mon, 11 May 2026 14:42:28 +0000</pubDate>
-      <guid isPermaLink="false">koreader-2026.03-r3</guid>
     </item>
     <item>
       <title>framebuffer-spy 18.0.0-r6</title>

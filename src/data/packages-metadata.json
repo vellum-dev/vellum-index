@@ -9218,7 +9218,7 @@
         "donateurl": null,
         "first_released": "2026-01-27T18:17:32Z"
       },
-      "2026.03-r3": {
+      "2026.03-r4": {
         "pkgdesc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.",
         "upstream_author": "koreader",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -9236,7 +9236,8 @@
           "rm2",
           "rmpp",
           "rmppm",
-          "rmppmove"
+          "rmppmove",
+          "rmppure"
         ],
         "depends": [
           "appload>=0.4.2"
@@ -9249,7 +9250,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-11T14:42:28Z",
+        "released": "2026-05-26T18:21:18Z",
         "readmeurl": "https://raw.githubusercontent.com/koreader/koreader/v2026.03/README.md",
         "donateurl": null,
         "first_released": "2026-01-27T18:17:32Z"
@@ -17112,5 +17113,5 @@
       }
     }
   },
-  "generated": "2026-05-24T23:37:20Z"
+  "generated": "2026-05-26T18:22:01Z"
 }
