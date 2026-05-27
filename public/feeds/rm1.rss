@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 21:41:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 21:43:53 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>stylus-remapper 0.2.1-r0</title>
+      <link>https://github.com/rmitchellscott/rm-stylus-remapper</link>
+      <description><![CDATA[Remaps stylus input events with configurable presets, pressure curves, and position offsets.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rmitchellscott</author>
+      <category>utilities</category>
+      <pubDate>Wed, 27 May 2026 21:43:18 +0000</pubDate>
+      <guid isPermaLink="false">stylus-remapper-0.2.1-r0</guid>
+    </item>
     <item>
       <title>puzzles 0.2.4-r2</title>
       <link>https://github.com/rmkit-dev/remarkable_puzzles</link>

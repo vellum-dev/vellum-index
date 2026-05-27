@@ -13885,7 +13885,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-20T21:58:38Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-stylus-remapper/v0.2.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-stylus-remapper/v0.2.1/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-05-20T20:06:24Z"
       },
@@ -13922,7 +13922,44 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-22T04:11:57Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-stylus-remapper/v0.2.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-stylus-remapper/v0.2.1/README.md",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-05-20T20:06:24Z"
+      },
+      "0.2.1-r0": {
+        "pkgdesc": "Remaps stylus input events with configurable presets, pressure curves, and position offsets.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/rm-stylus-remapper",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "xovi-extensions"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-27T21:43:18Z",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-stylus-remapper/v0.2.1/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-05-20T20:06:24Z"
       }
@@ -17241,5 +17278,5 @@
       }
     }
   },
-  "generated": "2026-05-27T21:41:35Z"
+  "generated": "2026-05-27T21:43:53Z"
 }
