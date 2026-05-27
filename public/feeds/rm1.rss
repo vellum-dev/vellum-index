@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 21:41:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 21:41:35 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>puzzles 0.2.4-r2</title>
@@ -13,8 +13,17 @@
       <description><![CDATA[Simon Tatham's Puzzle Package<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>rmkit-dev</author>
       <category>apps</category>
-      <pubDate>Wed, 27 May 2026 21:40:34 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 21:40:54 +0000</pubDate>
       <guid isPermaLink="false">puzzles-0.2.4-r2</guid>
+    </item>
+    <item>
+      <title>prevent-notebook-zoomout 1.1.0-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 27 May 2026 21:40:54 +0000</pubDate>
+      <guid isPermaLink="false">prevent-notebook-zoomout-1.1.0-r0</guid>
     </item>
     <item>
       <title>rmstream 0.1.5-r0</title>

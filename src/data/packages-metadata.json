@@ -4611,7 +4611,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "prevent-notebook-zoomout"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -4658,7 +4660,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "prevent-notebook-zoomout"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -10346,7 +10350,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#preventnotebookzoomout",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/1eeaf96acc28202067346826dd94afb2768099de/README.md#preventnotebookzoomout",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
       },
@@ -10394,7 +10398,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#preventnotebookzoomout",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/1eeaf96acc28202067346826dd94afb2768099de/README.md#preventnotebookzoomout",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
       },
@@ -10442,7 +10446,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-20T02:32:33Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#preventnotebookzoomout",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/1eeaf96acc28202067346826dd94afb2768099de/README.md#preventnotebookzoomout",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
       },
@@ -10490,7 +10494,56 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:01Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#preventnotebookzoomout",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/1eeaf96acc28202067346826dd94afb2768099de/README.md#preventnotebookzoomout",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:18Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "disable-infinite-scroll",
+          "fix-custom-fit"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-27T21:40:54Z",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/1eeaf96acc28202067346826dd94afb2768099de/README.md#preventnotebookzoomout",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
       }
@@ -10528,7 +10581,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-27T21:40:34Z",
+        "released": "2026-05-27T21:40:54Z",
         "readmeurl": "https://raw.githubusercontent.com/rmkit-dev/remarkable_puzzles/v0.2.4/README.md",
         "donateurl": null,
         "first_released": "2026-05-17T03:37:42Z"
@@ -17188,5 +17241,5 @@
       }
     }
   },
-  "generated": "2026-05-27T21:41:16Z"
+  "generated": "2026-05-27T21:41:35Z"
 }
