@@ -16989,7 +16989,42 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-17T03:42:24Z",
-        "readmeurl": "https://raw.githubusercontent.com/zerotier/ZeroTierOne/1.16.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/zerotier/ZeroTierOne/1.16.2/README.md",
+        "donateurl": null,
+        "first_released": "2026-05-17T03:42:24Z"
+      },
+      "1.16.2-r0": {
+        "pkgdesc": "A Smart Ethernet Switch for Earth",
+        "upstream_author": "zerotier",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MPL-2.0",
+        "url": "https://github.com/zerotier/ZeroTierOne",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-30T17:02:48Z",
+        "readmeurl": "https://raw.githubusercontent.com/zerotier/ZeroTierOne/1.16.2/README.md",
         "donateurl": null,
         "first_released": "2026-05-17T03:42:24Z"
       }
@@ -17026,7 +17061,42 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-17T03:42:24Z",
-        "readmeurl": "https://raw.githubusercontent.com/zerotier/ZeroTierOne/1.16.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/zerotier/ZeroTierOne/1.16.2/README.md",
+        "donateurl": null,
+        "first_released": "2026-05-17T03:42:24Z"
+      },
+      "1.16.2-r0": {
+        "pkgdesc": "Unit test zerotier to ensure that it works as expected on the system",
+        "upstream_author": "zerotier",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MPL-2.0",
+        "url": "https://github.com/zerotier/ZeroTierOne",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-05-30T17:02:48Z",
+        "readmeurl": "https://raw.githubusercontent.com/zerotier/ZeroTierOne/1.16.2/README.md",
         "donateurl": null,
         "first_released": "2026-05-17T03:42:24Z"
       }
@@ -17278,5 +17348,5 @@
       }
     }
   },
-  "generated": "2026-05-27T21:43:53Z"
+  "generated": "2026-05-30T17:03:19Z"
 }
