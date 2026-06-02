@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2026 01:55:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 01:55:57 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppmove.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>yaft 0.1.4-r3</title>
@@ -13,7 +13,7 @@
       <description><![CDATA[Yet another framebuffer terminal<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>timower</author>
       <category>apps</category>
-      <pubDate>Tue, 02 Jun 2026 01:55:11 +0000</pubDate>
+      <pubDate>Tue, 02 Jun 2026 01:55:26 +0000</pubDate>
       <guid isPermaLink="false">yaft-0.1.4-r3</guid>
     </item>
     <item>
@@ -22,7 +22,7 @@
       <description><![CDATA[A TI-84+ calculator emulator for the remarkable.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>timower</author>
       <category>apps</category>
-      <pubDate>Tue, 02 Jun 2026 01:55:06 +0000</pubDate>
+      <pubDate>Tue, 02 Jun 2026 01:55:21 +0000</pubDate>
       <guid isPermaLink="false">tilem-0.1.4-r2</guid>
     </item>
     <item>
