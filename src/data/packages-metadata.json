@@ -10549,7 +10549,7 @@
       }
     },
     "puzzles": {
-      "0.2.4-r2": {
+      "0.2.4-r3": {
         "pkgdesc": "Simon Tatham's Puzzle Package",
         "upstream_author": "rmkit-dev",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -10571,7 +10571,7 @@
           "rmppure"
         ],
         "depends": [
-          "appload"
+          "appload>=0.5.3"
         ],
         "conflicts": [],
         "provides": [],
@@ -10581,7 +10581,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-27T21:40:54Z",
+        "released": "2026-06-02T02:04:09Z",
         "readmeurl": "https://raw.githubusercontent.com/rmkit-dev/remarkable_puzzles/v0.2.4/README.md",
         "donateurl": null,
         "first_released": "2026-05-17T03:37:42Z"
@@ -17348,5 +17348,5 @@
       }
     }
   },
-  "generated": "2026-06-02T01:55:57Z"
+  "generated": "2026-06-02T02:04:48Z"
 }

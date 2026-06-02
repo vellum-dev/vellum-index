@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2026 01:55:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 02:04:48 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>puzzles 0.2.4-r3</title>
+      <link>https://github.com/rmkit-dev/remarkable_puzzles</link>
+      <description><![CDATA[Simon Tatham's Puzzle Package<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rmkit-dev</author>
+      <category>apps</category>
+      <pubDate>Tue, 02 Jun 2026 02:04:09 +0000</pubDate>
+      <guid isPermaLink="false">puzzles-0.2.4-r3</guid>
+    </item>
     <item>
       <title>yaft 0.1.4-r3</title>
       <link>https://github.com/timower/rM2-stuff</link>
@@ -51,15 +60,6 @@
       <category>utilities</category>
       <pubDate>Wed, 27 May 2026 21:43:18 +0000</pubDate>
       <guid isPermaLink="false">stylus-remapper-0.2.1-r0</guid>
-    </item>
-    <item>
-      <title>puzzles 0.2.4-r2</title>
-      <link>https://github.com/rmkit-dev/remarkable_puzzles</link>
-      <description><![CDATA[Simon Tatham's Puzzle Package<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rmkit-dev</author>
-      <category>apps</category>
-      <pubDate>Wed, 27 May 2026 21:40:54 +0000</pubDate>
-      <guid isPermaLink="false">puzzles-0.2.4-r2</guid>
     </item>
     <item>
       <title>prevent-notebook-zoomout 1.1.0-r0</title>
