@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2026 17:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 01:55:41 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>yaft 0.1.4-r3</title>
+      <link>https://github.com/timower/rM2-stuff</link>
+      <description><![CDATA[Yet another framebuffer terminal<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>timower</author>
+      <category>apps</category>
+      <pubDate>Tue, 02 Jun 2026 01:55:11 +0000</pubDate>
+      <guid isPermaLink="false">yaft-0.1.4-r3</guid>
+    </item>
+    <item>
+      <title>tilem 0.1.4-r2</title>
+      <link>https://github.com/timower/rM2-stuff</link>
+      <description><![CDATA[A TI-84+ calculator emulator for the remarkable.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>timower</author>
+      <category>apps</category>
+      <pubDate>Tue, 02 Jun 2026 01:55:06 +0000</pubDate>
+      <guid isPermaLink="false">tilem-0.1.4-r2</guid>
+    </item>
     <item>
       <title>zerotier-selftest 1.16.2-r0</title>
       <link>https://github.com/zerotier/ZeroTierOne</link>
@@ -141,24 +159,6 @@
       <category>apps</category>
       <pubDate>Tue, 26 May 2026 18:21:18 +0000</pubDate>
       <guid isPermaLink="false">koreader-2026.03-r4</guid>
-    </item>
-    <item>
-      <title>yaft 0.1.4-r2</title>
-      <link>https://github.com/timower/rM2-stuff</link>
-      <description><![CDATA[Yet another framebuffer terminal<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>timower</author>
-      <category>apps</category>
-      <pubDate>Sun, 24 May 2026 23:36:50 +0000</pubDate>
-      <guid isPermaLink="false">yaft-0.1.4-r2</guid>
-    </item>
-    <item>
-      <title>tilem 0.1.4-r1</title>
-      <link>https://github.com/timower/rM2-stuff</link>
-      <description><![CDATA[A TI-84+ calculator emulator for the remarkable.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>timower</author>
-      <category>apps</category>
-      <pubDate>Sun, 24 May 2026 23:36:46 +0000</pubDate>
-      <guid isPermaLink="false">tilem-0.1.4-r1</guid>
     </item>
     <item>
       <title>rmstream 0.1.4-r3</title>
