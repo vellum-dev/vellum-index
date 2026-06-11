@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2026 14:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 19:23:50 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppmove.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>rm-shot 1.2.0-r0</title>
+      <link>https://github.com/rmitchellscott/rm-shot</link>
+      <description><![CDATA[Screenshot extension for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rmitchellscott</author>
+      <category>framework</category>
+      <pubDate>Thu, 11 Jun 2026 19:23:11 +0000</pubDate>
+      <guid isPermaLink="false">rm-shot-1.2.0-r0</guid>
+    </item>
+    <item>
+      <title>quicksettings-screenshot 2.0.0-r5</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a screenshot button to the quick settings menu.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.28]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Thu, 11 Jun 2026 19:23:10 +0000</pubDate>
+      <guid isPermaLink="false">quicksettings-screenshot-2.0.0-r5</guid>
+    </item>
     <item>
       <title>bluetooth-settings 0.1.1-r0</title>
       <link>https://github.com/rmitchellscott/xovi-bluetoothsettings</link>
@@ -195,15 +213,6 @@
       <category>framework</category>
       <pubDate>Sat, 23 May 2026 20:26:46 +0000</pubDate>
       <guid isPermaLink="false">rm-pdfium-0.1.0-r4</guid>
-    </item>
-    <item>
-      <title>quicksettings-screenshot 2.0.0-r4</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Adds a screenshot button to the quick settings menu.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Sat, 23 May 2026 20:26:45 +0000</pubDate>
-      <guid isPermaLink="false">quicksettings-screenshot-2.0.0-r4</guid>
     </item>
     <item>
       <title>librarian 0.3.1-r3</title>
