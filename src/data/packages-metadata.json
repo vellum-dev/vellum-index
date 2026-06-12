@@ -12758,6 +12758,42 @@
         "first_released": "2026-02-23T13:55:08Z"
       }
     },
+    "rmpp-fixes": {
+      "0.1-r0": {
+        "pkgdesc": "Fix systemd service startup issues on the rMPP",
+        "upstream_author": "vellum-dev",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "fixes"
+        ],
+        "license": "MIT",
+        "url": "https://vellum.delivery/",
+        "status": "maintained",
+        "os_min": "3.27.1.0",
+        "os_max": null,
+        "os_constraints": [
+          {
+            "version": "3.27.1.0",
+            "operator": ">="
+          }
+        ],
+        "devices": [
+          "rmpp"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64"
+        ],
+        "modifies_system": true,
+        "auto_install": false,
+        "released": "2026-06-12T23:26:09Z",
+        "readmeurl": null,
+        "donateurl": null,
+        "first_released": "2026-06-12T23:26:09Z"
+      }
+    },
     "rmstream": {
       "0.1.1-r1": {
         "pkgdesc": "Stream your reMarkable's screen to any device on the local network via HTTP",
@@ -17433,5 +17469,5 @@
       }
     }
   },
-  "generated": "2026-06-11T19:23:50Z"
+  "generated": "2026-06-12T23:26:47Z"
 }
