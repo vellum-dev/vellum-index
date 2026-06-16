@@ -2778,7 +2778,7 @@
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-09T12:54:33Z"
       },
-      "1.1.0-r5": {
+      "1.1.0-r6": {
         "pkgdesc": "Disables infinite scroll by limiting zooming and scrolling to page boundaries.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -2813,6 +2813,7 @@
         ],
         "conflicts": [
           "disable-selection-autoscroll",
+          "fix-custom-fit",
           "prevent-notebook-zoomout"
         ],
         "provides": [],
@@ -2822,7 +2823,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-11T05:24:50Z",
+        "released": "2026-06-16T14:20:32Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/4f0391346e6eb1ff1e23f393c267a6923dd6481e/README.md#disableinfinitescroll",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-09T12:54:33Z"
@@ -4657,6 +4658,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [
+          "disable-infinite-scroll",
           "prevent-notebook-zoomout"
         ],
         "provides": [],
@@ -4706,6 +4708,7 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [
+          "disable-infinite-scroll",
           "prevent-notebook-zoomout"
         ],
         "provides": [],
@@ -17469,5 +17472,5 @@
       }
     }
   },
-  "generated": "2026-06-12T23:26:47Z"
+  "generated": "2026-06-16T14:21:15Z"
 }

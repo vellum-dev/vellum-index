@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 23:26:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 14:21:15 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>disable-infinite-scroll 1.1.0-r6</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Disables infinite scroll by limiting zooming and scrolling to page boundaries.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.28]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Tue, 16 Jun 2026 14:20:32 +0000</pubDate>
+      <guid isPermaLink="false">disable-infinite-scroll-1.1.0-r6</guid>
+    </item>
     <item>
       <title>rmpp-fixes 0.1-r0</title>
       <link>https://vellum.delivery/</link>
@@ -1059,15 +1068,6 @@
       <category>ui</category>
       <pubDate>Mon, 11 May 2026 05:24:51 +0000</pubDate>
       <guid isPermaLink="false">disable-selection-autoscroll-1.0.0-r5</guid>
-    </item>
-    <item>
-      <title>disable-infinite-scroll 1.1.0-r5</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Disables infinite scroll by limiting zooming and scrolling to page boundaries.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:24:50 +0000</pubDate>
-      <guid isPermaLink="false">disable-infinite-scroll-1.1.0-r5</guid>
     </item>
     <item>
       <title>createpages-rm2 1.0.4-r3</title>
