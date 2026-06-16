@@ -10213,6 +10213,45 @@
         "first_released": "2026-05-06T17:54:25Z"
       }
     },
+    "os-fixes": {
+      "0.1-r0": {
+        "pkgdesc": "Fix systemd service startup issues on some devices",
+        "upstream_author": "vellum-dev",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "fixes"
+        ],
+        "license": "MIT",
+        "url": "https://vellum.delivery/",
+        "status": "maintained",
+        "os_min": "3.27.1.0",
+        "os_max": null,
+        "os_constraints": [
+          {
+            "version": "3.27.1.0",
+            "operator": ">="
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": true,
+        "auto_install": false,
+        "released": "2026-06-16T16:31:25Z",
+        "readmeurl": null,
+        "donateurl": null,
+        "first_released": "2026-06-16T16:31:25Z"
+      }
+    },
     "pen-layer-memory": {
       "1.0.0-r0": {
         "pkgdesc": "Remembers which layer each pen tool was last used on, and switches to that layer when the pen is selected.",
@@ -12764,14 +12803,14 @@
     "rmpp-fixes": {
       "0.1-r0": {
         "pkgdesc": "Fix systemd service startup issues on the rMPP",
-        "upstream_author": "vellum-dev",
+        "upstream_author": "unknown",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
         "categories": [
-          "fixes"
+          "other"
         ],
         "license": "MIT",
         "url": "https://vellum.delivery/",
-        "status": "maintained",
+        "status": "deprecated",
         "os_min": "3.27.1.0",
         "os_max": null,
         "os_constraints": [
@@ -12789,7 +12828,7 @@
         "arch": [
           "aarch64"
         ],
-        "modifies_system": true,
+        "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-12T23:26:09Z",
         "readmeurl": null,
@@ -17472,5 +17511,5 @@
       }
     }
   },
-  "generated": "2026-06-16T14:21:15Z"
+  "generated": "2026-06-16T16:32:06Z"
 }
