@@ -10214,7 +10214,7 @@
       }
     },
     "os-fixes": {
-      "0.1-r0": {
+      "0.1-r1": {
         "pkgdesc": "Fix systemd service startup issues on some devices",
         "upstream_author": "vellum-dev",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -10239,14 +10239,16 @@
         ],
         "depends": [],
         "conflicts": [],
-        "provides": [],
+        "provides": [
+          "rmpp-fixes"
+        ],
         "arch": [
           "aarch64",
           "armv7"
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-06-16T16:31:25Z",
+        "released": "2026-06-17T20:06:43Z",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-06-16T16:31:25Z"
@@ -17511,5 +17513,5 @@
       }
     }
   },
-  "generated": "2026-06-16T16:32:06Z"
+  "generated": "2026-06-17T20:07:24Z"
 }

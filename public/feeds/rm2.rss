@@ -5,16 +5,16 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 16:32:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:07:24 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
     <item>
-      <title>os-fixes 0.1-r0</title>
+      <title>os-fixes 0.1-r1</title>
       <link>https://vellum.delivery/</link>
       <description><![CDATA[Fix systemd service startup issues on some devices<br/>Devices: rm1, rm2, rmpp<br/>OS: 3.27.1.0+]]></description>
       <author>vellum-dev</author>
       <category>fixes</category>
-      <pubDate>Tue, 16 Jun 2026 16:31:25 +0000</pubDate>
-      <guid isPermaLink="false">os-fixes-0.1-r0</guid>
+      <pubDate>Wed, 17 Jun 2026 20:06:43 +0000</pubDate>
+      <guid isPermaLink="false">os-fixes-0.1-r1</guid>
     </item>
     <item>
       <title>disable-infinite-scroll 1.1.0-r6</title>
