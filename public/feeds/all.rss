@@ -5,16 +5,16 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 20:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 20:15:03 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
     <item>
-      <title>os-fixes 0.1-r1</title>
+      <title>os-fixes 0.1-r2</title>
       <link>https://vellum.delivery/</link>
-      <description><![CDATA[Fix systemd service startup issues on some devices<br/>Devices: rm1, rm2, rmpp<br/>OS: 3.27.1.0+]]></description>
+      <description><![CDATA[Fix systemd service startup issues on some devices<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove<br/>OS: 3.27.1.0+]]></description>
       <author>vellum-dev</author>
       <category>fixes</category>
-      <pubDate>Wed, 17 Jun 2026 20:06:43 +0000</pubDate>
-      <guid isPermaLink="false">os-fixes-0.1-r1</guid>
+      <pubDate>Thu, 18 Jun 2026 20:14:23 +0000</pubDate>
+      <guid isPermaLink="false">os-fixes-0.1-r2</guid>
     </item>
     <item>
       <title>disable-infinite-scroll 1.1.0-r6</title>
