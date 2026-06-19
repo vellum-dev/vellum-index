@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 20:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 18:31:30 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>librarian 0.3.1-r4</title>
+      <link>https://github.com/rmitchellscott/rm-librarian</link>
+      <description><![CDATA[Document library management extension<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rmitchellscott</author>
+      <category>framework</category>
+      <pubDate>Fri, 19 Jun 2026 18:30:54 +0000</pubDate>
+      <guid isPermaLink="false">librarian-0.3.1-r4</guid>
+    </item>
     <item>
       <title>os-fixes 0.1-r2</title>
       <link>https://vellum.delivery/</link>
@@ -222,15 +231,6 @@
       <category>framework</category>
       <pubDate>Sat, 23 May 2026 20:26:46 +0000</pubDate>
       <guid isPermaLink="false">rm-pdfium-0.1.0-r4</guid>
-    </item>
-    <item>
-      <title>librarian 0.3.1-r3</title>
-      <link>https://github.com/rmitchellscott/rm-librarian</link>
-      <description><![CDATA[Document library management extension<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rmitchellscott</author>
-      <category>framework</category>
-      <pubDate>Sat, 23 May 2026 20:26:42 +0000</pubDate>
-      <guid isPermaLink="false">librarian-0.3.1-r3</guid>
     </item>
     <item>
       <title>duplicate-annotated-pages 2.0.1-r3</title>
