@@ -11732,7 +11732,7 @@
         "donateurl": null,
         "first_released": "2026-01-12T21:36:42Z"
       },
-      "1.0.7-r1": {
+      "1.0.7-r2": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -11759,8 +11759,7 @@
           "rm2",
           "rmpp",
           "rmppm",
-          "rmppmove",
-          "rmppure"
+          "rmppmove"
         ],
         "depends": [
           "qt-resource-rebuilder"
@@ -11773,7 +11772,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:30Z",
+        "released": "2026-06-20T03:02:53Z",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -17520,5 +17519,5 @@
       }
     }
   },
-  "generated": "2026-06-19T18:31:30Z"
+  "generated": "2026-06-20T03:03:25Z"
 }

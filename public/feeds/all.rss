@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 18:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 03:03:25 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>random-sleep-screen 1.0.7-r2</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Picks random sleep screen from ~/sleepScreens/ folder.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove<br/>OS: 3.27 - 3.28]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Sat, 20 Jun 2026 03:02:53 +0000</pubDate>
+      <guid isPermaLink="false">random-sleep-screen-1.0.7-r2</guid>
+    </item>
     <item>
       <title>librarian 0.3.1-r4</title>
       <link>https://github.com/rmitchellscott/rm-librarian</link>
@@ -1221,15 +1230,6 @@
       <category>utilities</category>
       <pubDate>Fri, 08 May 2026 02:18:31 +0000</pubDate>
       <guid isPermaLink="false">rmfakecloud-proxy-0.0.10-r1</guid>
-    </item>
-    <item>
-      <title>random-sleep-screen 1.0.7-r1</title>
-      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
-      <description><![CDATA[Picks random sleep screen from ~/sleepScreens/ folder.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>ingatellent</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:30 +0000</pubDate>
-      <guid isPermaLink="false">random-sleep-screen-1.0.7-r1</guid>
     </item>
     <item>
       <title>netevent 2.2.2-r1</title>
