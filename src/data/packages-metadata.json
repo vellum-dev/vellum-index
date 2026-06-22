@@ -2961,7 +2961,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-12T18:23:53Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#duplicateannotatedpages",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/4a31c5f21cf6cc3364f21d2a15098e3ab72fe8ca/README.md#duplicateannotatedpages",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-11T21:42:11Z"
       },
@@ -3010,7 +3010,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-07T01:17:24Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#duplicateannotatedpages",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/4a31c5f21cf6cc3364f21d2a15098e3ab72fe8ca/README.md#duplicateannotatedpages",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-11T21:42:11Z"
       },
@@ -3059,7 +3059,57 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-23T20:26:33Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#duplicateannotatedpages",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/4a31c5f21cf6cc3364f21d2a15098e3ab72fe8ca/README.md#duplicateannotatedpages",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-11T21:42:11Z"
+      },
+      "2.1.0-r0": {
+        "pkgdesc": "Adds an option to the Duplicate menu to duplicate only pages that have been annotated.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "librarian>=0.4.0",
+          "librarian<1.0.0",
+          "qt-command-executor<20",
+          "rm-pdfium<1.0.0"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-06-22T19:53:26Z",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/4a31c5f21cf6cc3364f21d2a15098e3ab72fe8ca/README.md#duplicateannotatedpages",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-11T21:42:11Z"
       }
@@ -4381,7 +4431,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-20T17:55:30Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#filterannotatedpages",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/57f3fa7231ab734df9fc6e6e62adced6488bfc9b/README.md#filterannotatedpages",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-06T18:12:54Z"
       },
@@ -4427,7 +4477,56 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:53Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#filterannotatedpages",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/57f3fa7231ab734df9fc6e6e62adced6488bfc9b/README.md#filterannotatedpages",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-06T18:12:54Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Adds a button to the Page Overview to show only pages with annotations",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "librarian>=0.4.0",
+          "librarian<1.0.0",
+          "qt-command-executor<20"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-06-22T19:53:28Z",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/57f3fa7231ab734df9fc6e6e62adced6488bfc9b/README.md#filterannotatedpages",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-06T18:12:54Z"
       }
@@ -9419,7 +9518,50 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-19T18:30:54Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-librarian/v0.3.1/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-librarian/v0.4.0/README.md",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-04-06T16:27:26Z"
+      },
+      "0.4.0-r0": {
+        "pkgdesc": "Document library management extension",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0-or-later",
+        "url": "https://github.com/rmitchellscott/rm-librarian",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "xovi-message-broker>=18",
+          "xovi-message-broker<20"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-06-22T19:53:35Z",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-librarian/v0.4.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-06T16:27:26Z"
       }
@@ -17565,5 +17707,5 @@
       }
     }
   },
-  "generated": "2026-06-22T15:44:14Z"
+  "generated": "2026-06-22T19:54:18Z"
 }

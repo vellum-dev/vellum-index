@@ -5,8 +5,35 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 15:44:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 19:54:18 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>librarian 0.4.0-r0</title>
+      <link>https://github.com/rmitchellscott/rm-librarian</link>
+      <description><![CDATA[Document library management extension<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rmitchellscott</author>
+      <category>framework</category>
+      <pubDate>Mon, 22 Jun 2026 19:53:35 +0000</pubDate>
+      <guid isPermaLink="false">librarian-0.4.0-r0</guid>
+    </item>
+    <item>
+      <title>filter-annotated-pages 1.1.0-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a button to the Page Overview to show only pages with annotations<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Mon, 22 Jun 2026 19:53:28 +0000</pubDate>
+      <guid isPermaLink="false">filter-annotated-pages-1.1.0-r0</guid>
+    </item>
+    <item>
+      <title>duplicate-annotated-pages 2.1.0-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds an option to the Duplicate menu to duplicate only pages that have been annotated.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Mon, 22 Jun 2026 19:53:26 +0000</pubDate>
+      <guid isPermaLink="false">duplicate-annotated-pages-2.1.0-r0</guid>
+    </item>
     <item>
       <title>quicksettings-clock-serif 1.1.0-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
