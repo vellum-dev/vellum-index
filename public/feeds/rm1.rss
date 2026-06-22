@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jun 2026 03:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 15:44:14 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>quicksettings-clock-serif 1.1.0-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a clock to the quick settings menu<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Mon, 22 Jun 2026 15:43:31 +0000</pubDate>
+      <guid isPermaLink="false">quicksettings-clock-serif-1.1.0-r0</guid>
+    </item>
     <item>
       <title>random-sleep-screen 1.0.7-r2</title>
       <link>https://github.com/ingatellent/xovi-qmd-extensions</link>

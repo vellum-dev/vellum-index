@@ -11026,7 +11026,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#quicksettingsclockserif",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/f5485763b05a1e223b989b151f0d46dd5bae834c/README.md#quicksettingsclockserif",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
       },
@@ -11072,7 +11072,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#quicksettingsclockserif",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/f5485763b05a1e223b989b151f0d46dd5bae834c/README.md#quicksettingsclockserif",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
       },
@@ -11118,7 +11118,53 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:02Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#quicksettingsclockserif",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/f5485763b05a1e223b989b151f0d46dd5bae834c/README.md#quicksettingsclockserif",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-01-09T04:32:18Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Adds a clock to the quick settings menu",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-06-22T15:43:31Z",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/f5485763b05a1e223b989b151f0d46dd5bae834c/README.md#quicksettingsclockserif",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
       }
@@ -17519,5 +17565,5 @@
       }
     }
   },
-  "generated": "2026-06-20T03:03:25Z"
+  "generated": "2026-06-22T15:44:14Z"
 }
