@@ -1429,6 +1429,51 @@
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-bluetoothsettings/main/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-05-20T21:46:27Z"
+      },
+      "0.1.2-r0": {
+        "pkgdesc": "Adds a Bluetooth settings page for pairing and managing Bluetooth keyboards.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-bluetoothsettings",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "qt-command-executor"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-06-24T21:51:31Z",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-bluetoothsettings/main/README.md",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-05-20T21:46:27Z"
       }
     },
     "btop": {
@@ -17707,5 +17752,5 @@
       }
     }
   },
-  "generated": "2026-06-22T19:54:18Z"
+  "generated": "2026-06-24T21:52:23Z"
 }
