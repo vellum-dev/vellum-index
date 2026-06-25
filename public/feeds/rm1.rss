@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 12:45:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 14:00:43 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>gestik 1.0.0-r0</title>
+      <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
+      <description><![CDATA[Configurable multi-finger gestures for tool switching and page/ToC navigation<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>alefaraci</author>
+      <category>ui</category>
+      <pubDate>Thu, 25 Jun 2026 13:59:53 +0000</pubDate>
+      <guid isPermaLink="false">gestik-1.0.0-r0</guid>
+    </item>
     <item>
       <title>faster-scroll-bar 1.0.0-r0</title>
       <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
