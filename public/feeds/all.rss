@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 14:12:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 14:14:43 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>link-from-selection 1.0.0-r0</title>
+      <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
+      <description><![CDATA[On-page links from a lasso selection: jump to a page in this or another document<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>alefaraci</author>
+      <category>ui</category>
+      <pubDate>Thu, 25 Jun 2026 14:14:05 +0000</pubDate>
+      <guid isPermaLink="false">link-from-selection-1.0.0-r0</guid>
+    </item>
     <item>
       <title>nav-history 1.0.0-r0</title>
       <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
