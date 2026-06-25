@@ -3838,6 +3838,54 @@
         "first_released": "2026-01-14T19:57:36Z"
       }
     },
+    "faster-page-labels": {
+      "1.0.0-r0": {
+        "pkgdesc": "Auto-hides the page-number label ~1.25s after a page turn",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-06-25T14:06:42Z",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#fasterpagelabels",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "first_released": "2026-06-25T14:06:42Z"
+      }
+    },
     "faster-scroll-bar": {
       "1.0.0-r0": {
         "pkgdesc": "Auto-hides the document scrollbar ~0.35s after you stop scrolling",
@@ -17970,5 +18018,5 @@
       }
     }
   },
-  "generated": "2026-06-25T14:06:20Z"
+  "generated": "2026-06-25T14:07:34Z"
 }
