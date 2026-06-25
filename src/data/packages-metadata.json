@@ -2972,6 +2972,56 @@
         "first_released": "2026-01-14T19:57:21Z"
       }
     },
+    "dock-buttons": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds My Files / Favorites / Tags / Trash shortcut buttons to the homepage dock",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "fav-tag-button"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-06-25T14:10:33Z",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#dockbuttons",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "first_released": "2026-06-25T14:10:33Z"
+      }
+    },
     "doomarkable": {
       "0.4.1-r1": {
         "pkgdesc": "DOOM game",
@@ -3889,14 +3939,14 @@
     "faster-page-labels": {
       "1.0.0-r0": {
         "pkgdesc": "Auto-hides the page-number label ~1.25s after a page turn",
-        "upstream_author": "unknown",
+        "upstream_author": "alefaraci",
         "maintainer": "Alessio Faraci <contact@afaraci.com>",
         "categories": [
-          "other"
+          "ui"
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/alefaraci/xovi-qmd-extensions",
-        "status": "deprecated",
+        "status": "maintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -3929,8 +3979,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-25T14:07:19Z",
-        "readmeurl": null,
-        "donateurl": null,
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#fasterpagelabels",
+        "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T14:07:19Z"
       }
     },
@@ -4053,7 +4103,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "dock-buttons"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -4099,7 +4151,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "dock-buttons"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -4145,7 +4199,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "dock-buttons"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -4191,7 +4247,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "dock-buttons"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -4237,7 +4295,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "dock-buttons"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -4283,7 +4343,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "dock-buttons"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -4329,7 +4391,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "dock-buttons"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -4375,7 +4439,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "dock-buttons"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -9341,14 +9407,14 @@
     "hide-title-quick-browse": {
       "1.0.0-r0": {
         "pkgdesc": "Hides the document-title bar shown while the quick-browse page-slider is up",
-        "upstream_author": "unknown",
+        "upstream_author": "alefaraci",
         "maintainer": "Alessio Faraci <contact@afaraci.com>",
         "categories": [
-          "other"
+          "ui"
         ],
         "license": "GPL-3.0-only",
         "url": "https://github.com/alefaraci/xovi-qmd-extensions",
-        "status": "deprecated",
+        "status": "maintained",
         "os_min": "3.27",
         "os_max": "3.28",
         "os_constraints": [
@@ -9381,8 +9447,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-25T14:05:36Z",
-        "readmeurl": null,
-        "donateurl": null,
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#hidetitlequickbrowse",
+        "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T14:05:36Z"
       }
     },
@@ -18066,5 +18132,5 @@
       }
     }
   },
-  "generated": "2026-06-25T14:08:13Z"
+  "generated": "2026-06-25T14:11:26Z"
 }
