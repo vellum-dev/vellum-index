@@ -5,23 +5,32 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 14:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 14:08:13 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>faster-page-labels 1.0.0-r0</title>
       <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
       <description><![CDATA[Auto-hides the page-number label ~1.25s after a page turn<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>unknown</author>
+      <category>other</category>
+      <pubDate>Thu, 25 Jun 2026 14:07:19 +0000</pubDate>
+      <guid isPermaLink="false">faster-page-labels-1.0.0-r0</guid>
+    </item>
+    <item>
+      <title>collapse-toolbar-on-open 1.0.0-r0</title>
+      <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
+      <description><![CDATA[Opens every document with the toolbar collapsed<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
       <author>alefaraci</author>
       <category>ui</category>
-      <pubDate>Thu, 25 Jun 2026 14:06:42 +0000</pubDate>
-      <guid isPermaLink="false">faster-page-labels-1.0.0-r0</guid>
+      <pubDate>Thu, 25 Jun 2026 14:07:16 +0000</pubDate>
+      <guid isPermaLink="false">collapse-toolbar-on-open-1.0.0-r0</guid>
     </item>
     <item>
       <title>hide-title-quick-browse 1.0.0-r0</title>
       <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
       <description><![CDATA[Hides the document-title bar shown while the quick-browse page-slider is up<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>alefaraci</author>
-      <category>ui</category>
+      <author>unknown</author>
+      <category>other</category>
       <pubDate>Thu, 25 Jun 2026 14:05:36 +0000</pubDate>
       <guid isPermaLink="false">hide-title-quick-browse-1.0.0-r0</guid>
     </item>
