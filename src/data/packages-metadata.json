@@ -10601,6 +10601,54 @@
         "first_released": "2026-02-12T15:07:14Z"
       }
     },
+    "nav-history": {
+      "1.0.0-r0": {
+        "pkgdesc": "Back & Forward navigation through your visited-page history",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-06-25T14:11:59Z",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#navhistory",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "first_released": "2026-06-25T14:11:59Z"
+      }
+    },
     "navigate-using-arrow-keys": {
       "1.0.0-r0": {
         "pkgdesc": "Keyboard arrow key navigation: left/right for pages, up/down for scrolling.",
@@ -18132,5 +18180,5 @@
       }
     }
   },
-  "generated": "2026-06-25T14:11:26Z"
+  "generated": "2026-06-25T14:12:42Z"
 }
