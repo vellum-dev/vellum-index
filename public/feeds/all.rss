@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 18:45:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 04:18:37 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>yaft 0.1.4-r4</title>
+      <link>https://github.com/timower/rM2-stuff</link>
+      <description><![CDATA[Yet another framebuffer terminal<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>timower</author>
+      <category>apps</category>
+      <pubDate>Fri, 26 Jun 2026 04:18:04 +0000</pubDate>
+      <guid isPermaLink="false">yaft-0.1.4-r4</guid>
+    </item>
     <item>
       <title>hide-back-to-page-bar 1.0.0-r0</title>
       <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
@@ -222,15 +231,6 @@
       <category>apps</category>
       <pubDate>Tue, 02 Jun 2026 02:04:09 +0000</pubDate>
       <guid isPermaLink="false">puzzles-0.2.4-r3</guid>
-    </item>
-    <item>
-      <title>yaft 0.1.4-r3</title>
-      <link>https://github.com/timower/rM2-stuff</link>
-      <description><![CDATA[Yet another framebuffer terminal<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>timower</author>
-      <category>apps</category>
-      <pubDate>Tue, 02 Jun 2026 01:55:26 +0000</pubDate>
-      <guid isPermaLink="false">yaft-0.1.4-r3</guid>
     </item>
     <item>
       <title>tilem 0.1.4-r2</title>

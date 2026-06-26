@@ -17815,7 +17815,7 @@
       }
     },
     "yaft": {
-      "0.1.4-r3": {
+      "0.1.4-r4": {
         "pkgdesc": "Yet another framebuffer terminal",
         "upstream_author": "timower",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -17845,9 +17845,9 @@
           "aarch64",
           "armv7"
         ],
-        "modifies_system": false,
+        "modifies_system": true,
         "auto_install": false,
-        "released": "2026-06-02T01:55:26Z",
+        "released": "2026-06-26T04:18:04Z",
         "readmeurl": "https://raw.githubusercontent.com/timower/rM2-stuff/v0.1.4/README.md",
         "donateurl": null,
         "first_released": "2026-05-19T05:35:13Z"
@@ -17881,7 +17881,7 @@
         "arch": [
           "armv7"
         ],
-        "modifies_system": false,
+        "modifies_system": true,
         "auto_install": false,
         "released": "2026-05-19T05:35:13Z",
         "readmeurl": "https://raw.githubusercontent.com/timower/rM2-stuff/v0.1.4/README.md",
@@ -18280,5 +18280,5 @@
       }
     }
   },
-  "generated": "2026-06-25T18:45:14Z"
+  "generated": "2026-06-26T04:18:37Z"
 }
