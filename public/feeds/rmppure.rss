@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pure</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 22:51:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 23:48:20 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppure.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>netsurf 0.5.0-r0</title>

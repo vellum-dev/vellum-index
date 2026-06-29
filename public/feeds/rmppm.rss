@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 22:51:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 23:48:20 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>chessmarkable 0.8.1-r3</title>
+      <link>https://github.com/LinusCDE/chessmarkable</link>
+      <description><![CDATA[Chess game<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove]]></description>
+      <author>LinusCDE</author>
+      <category>apps</category>
+      <pubDate>Mon, 29 Jun 2026 23:47:35 +0000</pubDate>
+      <guid isPermaLink="false">chessmarkable-0.8.1-r3</guid>
+    </item>
     <item>
       <title>netsurf 0.5.0-r0</title>
       <link>https://github.com/MaicroNotHard/netsurf-reMarkable</link>
@@ -348,15 +357,6 @@
       <category>apps</category>
       <pubDate>Tue, 26 May 2026 19:37:03 +0000</pubDate>
       <guid isPermaLink="false">doomarkable-0.4.1-r1</guid>
-    </item>
-    <item>
-      <title>chessmarkable 0.8.1-r2</title>
-      <link>https://github.com/LinusCDE/chessmarkable</link>
-      <description><![CDATA[Chess game<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove]]></description>
-      <author>LinusCDE</author>
-      <category>apps</category>
-      <pubDate>Tue, 26 May 2026 19:37:01 +0000</pubDate>
-      <guid isPermaLink="false">chessmarkable-0.8.1-r2</guid>
     </item>
     <item>
       <title>koreader 2026.03-r4</title>
