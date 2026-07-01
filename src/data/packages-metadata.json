@@ -757,6 +757,54 @@
         "first_released": "2026-04-02T17:44:56Z"
       }
     },
+    "battery-percentage": {
+      "1.0.0-r0": {
+        "pkgdesc": "Shows the battery percentage next to the battery icon in the main view header.",
+        "upstream_author": "NohamR",
+        "maintainer": "NohamR <noham@noh.am>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/NohamR/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-01T22:40:22Z",
+        "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/86e43a4d8d26c49abcc81f149245ff1f52961124/README.md",
+        "donateurl": null,
+        "first_released": "2026-07-01T22:40:22Z"
+      }
+    },
     "bettertoc": {
       "1.0.0-r0": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
@@ -1938,13 +1986,13 @@
       "1.0.0-r2": {
         "pkgdesc": "Removes the Convert to text option from selection menus and the toolbar.",
         "upstream_author": "NohamR",
-        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "maintainer": "NohamR <noham@noh.am>",
         "categories": [
           "ui"
         ],
         "license": "MIT",
         "url": "https://github.com/NohamR/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -1977,7 +2025,53 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:29:32Z",
-        "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/86e43a4d8d26c49abcc81f149245ff1f52961124/README.md",
+        "donateurl": null,
+        "first_released": "2026-04-02T17:44:57Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Removes the Convert to text option from selection menus and the toolbar.",
+        "upstream_author": "NohamR",
+        "maintainer": "NohamR <noham@noh.am>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/NohamR/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-01T22:40:23Z",
+        "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/86e43a4d8d26c49abcc81f149245ff1f52961124/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:57Z"
       }
@@ -14634,13 +14728,13 @@
       "1.0.0-r2": {
         "pkgdesc": "Adds a live clock to the library sidebar; tap the entry to toggle seconds display.",
         "upstream_author": "NohamR",
-        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "maintainer": "NohamR <noham@noh.am>",
         "categories": [
           "ui"
         ],
         "license": "MIT",
         "url": "https://github.com/NohamR/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -14673,7 +14767,53 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:29:47Z",
-        "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/28fe82a3bca3f13b3834d73755f85b12448190ea/README.md",
+        "donateurl": null,
+        "first_released": "2026-04-02T17:44:59Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Adds a live clock to the library sidebar; tap the entry to toggle seconds display.",
+        "upstream_author": "NohamR",
+        "maintainer": "NohamR <noham@noh.am>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/NohamR/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-01T22:40:41Z",
+        "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/28fe82a3bca3f13b3834d73755f85b12448190ea/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:59Z"
       }
@@ -16191,13 +16331,13 @@
       "1.0.0-r2": {
         "pkgdesc": "Replaces the More menu in the document dock with dedicated notebook, folder, and quick sheet buttons.",
         "upstream_author": "NohamR",
-        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "maintainer": "NohamR <noham@noh.am>",
         "categories": [
           "ui"
         ],
         "license": "MIT",
         "url": "https://github.com/NohamR/xovi-qmd-extensions",
-        "status": "unmaintained",
+        "status": "maintained",
         "os_min": "3.23",
         "os_max": "3.24",
         "os_constraints": [
@@ -16230,7 +16370,53 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:29:49Z",
-        "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/86e43a4d8d26c49abcc81f149245ff1f52961124/README.md",
+        "donateurl": null,
+        "first_released": "2026-04-02T17:45:00Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Replaces the More menu in the document dock with dedicated notebook, folder, and quick sheet buttons.",
+        "upstream_author": "NohamR",
+        "maintainer": "NohamR <noham@noh.am>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/NohamR/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-01T22:40:44Z",
+        "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/86e43a4d8d26c49abcc81f149245ff1f52961124/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:45:00Z"
       }
@@ -18319,5 +18505,5 @@
       }
     }
   },
-  "generated": "2026-06-29T23:48:20Z"
+  "generated": "2026-07-01T22:41:19Z"
 }
