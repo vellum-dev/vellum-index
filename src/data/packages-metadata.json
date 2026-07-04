@@ -18433,7 +18433,41 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-17T03:40:11Z",
-        "readmeurl": "https://raw.githubusercontent.com/rien/reStream/v1.4.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/rien/reStream/v1.5.0/README.md",
+        "donateurl": null,
+        "first_released": "2026-05-17T03:40:11Z"
+      },
+      "1.5.0-r0": {
+        "pkgdesc": "Binary framebuffer capture tool for the reStream script",
+        "upstream_author": "rien",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rien/reStream",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-04T03:50:32Z",
+        "readmeurl": "https://raw.githubusercontent.com/rien/reStream/v1.5.0/README.md",
         "donateurl": null,
         "first_released": "2026-05-17T03:40:11Z"
       }
@@ -18505,5 +18539,5 @@
       }
     }
   },
-  "generated": "2026-07-01T22:41:19Z"
+  "generated": "2026-07-04T03:50:42Z"
 }
