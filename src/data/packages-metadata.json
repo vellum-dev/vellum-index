@@ -3148,7 +3148,42 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-26T19:37:03Z",
-        "readmeurl": "https://raw.githubusercontent.com/LinusCDE/doomarkable/0.4.1/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/LinusCDE/doomarkable/0.4.2/README.md",
+        "donateurl": null,
+        "first_released": "2026-05-22T18:03:35Z"
+      },
+      "0.4.2-r0": {
+        "pkgdesc": "DOOM game",
+        "upstream_author": "LinusCDE",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "apps"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/LinusCDE/doomarkable",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rmpp",
+          "rmppm",
+          "rmppmove"
+        ],
+        "depends": [
+          "appload>=0.5.3"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-06T16:30:04Z",
+        "readmeurl": "https://raw.githubusercontent.com/LinusCDE/doomarkable/0.4.2/README.md",
         "donateurl": null,
         "first_released": "2026-05-22T18:03:35Z"
       }
@@ -18539,5 +18574,5 @@
       }
     }
   },
-  "generated": "2026-07-04T03:50:42Z"
+  "generated": "2026-07-06T16:31:03Z"
 }
