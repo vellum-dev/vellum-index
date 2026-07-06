@@ -1382,7 +1382,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:49Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/820e2805312a3d4db09d409e31edd62d07b55303/README.md#bettertoccollapse",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/dc095f5ead38b66a77e24419ebab1535da31409c/README.md#bettertoccollapse",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-05-01T16:14:16Z"
       },
@@ -1432,7 +1432,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-06T19:04:08Z",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/820e2805312a3d4db09d409e31edd62d07b55303/README.md#bettertoccollapse",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/dc095f5ead38b66a77e24419ebab1535da31409c/README.md#bettertoccollapse",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-05-01T16:14:16Z"
       }
@@ -4118,14 +4118,14 @@
     "external-keyboard-qpa": {
       "0.1.0-r0": {
         "pkgdesc": "Qt platform plugin for reMarkable e-paper displays with external keyboard support",
-        "upstream_author": "unknown",
+        "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
-          "other"
+          "framework"
         ],
         "license": "LGPL-2.1-only",
         "url": "https://github.com/rmitchellscott/epaper-qpa",
-        "status": "deprecated",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -4149,8 +4149,8 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-06T19:16:24Z",
-        "readmeurl": null,
-        "donateurl": null,
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/epaper-qpa/external-keyboard/README.md",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-07-06T19:16:24Z"
       }
     },
@@ -11804,14 +11804,14 @@
     "qt-plugin-path": {
       "1.0.0-r0": {
         "pkgdesc": "Sets QT_PLUGIN_PATH for xochitl to find plugins in .vellum/lib/plugins",
-        "upstream_author": "unknown",
+        "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
-          "other"
+          "framework"
         ],
         "license": "MIT",
         "url": "https://github.com/rmitchellscott/epaper-qpa",
-        "status": "deprecated",
+        "status": "maintained",
         "os_min": null,
         "os_max": null,
         "os_constraints": null,
@@ -11836,7 +11836,7 @@
         "auto_install": false,
         "released": "2026-07-06T19:16:34Z",
         "readmeurl": null,
-        "donateurl": null,
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-07-06T19:16:34Z"
       }
     },
@@ -12366,6 +12366,54 @@
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/aa94b9572cc8e71c2b05a56f1a11b2c9fe3b9c00/README.md#quicksettingsscreenshot",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T05:33:39Z"
+      }
+    },
+    "quicksettings-timer": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds a countdown timer and stopwatch to the quick settings panel.",
+        "upstream_author": "NohamR",
+        "maintainer": "NohamR <noham@noh.am>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/NohamR/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.24",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.24",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-06T22:17:15Z",
+        "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/404c970f3602a970e899fe150245826552d5614d/README.md",
+        "donateurl": null,
+        "first_released": "2026-07-06T22:17:15Z"
       }
     },
     "quicksheet-use-template": {
@@ -18702,5 +18750,5 @@
       }
     }
   },
-  "generated": "2026-07-06T20:06:37Z"
+  "generated": "2026-07-06T22:17:58Z"
 }
