@@ -4115,6 +4115,45 @@
         "first_released": "2026-01-14T19:57:36Z"
       }
     },
+    "external-keyboard-qpa": {
+      "0.1.0-r0": {
+        "pkgdesc": "Qt platform plugin for reMarkable e-paper displays with external keyboard support",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "LGPL-2.1-only",
+        "url": "https://github.com/rmitchellscott/epaper-qpa",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "xovi",
+          "qt-plugin-path"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-06T19:16:24Z",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/epaper-qpa/external-keyboard/README.md",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-07-06T19:16:24Z"
+      }
+    },
     "faster-page-labels": {
       "1.0.0-r0": {
         "pkgdesc": "Auto-hides the page-number label ~1.25s after a page turn",
@@ -11762,6 +11801,45 @@
         "first_released": "2026-01-10T17:52:54Z"
       }
     },
+    "qt-plugin-path": {
+      "1.0.0-r0": {
+        "pkgdesc": "Sets QT_PLUGIN_PATH for xochitl to find plugins in .vellum/lib/plugins",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "framework"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/rmitchellscott/epaper-qpa",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "xovi-extensions"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-06T19:16:34Z",
+        "readmeurl": null,
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-07-06T19:16:34Z"
+      }
+    },
     "qt-resource-rebuilder": {
       "16.0.0-r2": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
@@ -18624,5 +18702,5 @@
       }
     }
   },
-  "generated": "2026-07-06T19:04:57Z"
+  "generated": "2026-07-06T19:17:18Z"
 }
