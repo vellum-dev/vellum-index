@@ -5,14 +5,14 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 19:17:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 20:06:37 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>qt-plugin-path 1.0.0-r0</title>
       <link>https://github.com/rmitchellscott/epaper-qpa</link>
       <description><![CDATA[Sets QT_PLUGIN_PATH for xochitl to find plugins in .vellum/lib/plugins<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rmitchellscott</author>
-      <category>framework</category>
+      <author>unknown</author>
+      <category>other</category>
       <pubDate>Mon, 06 Jul 2026 19:16:34 +0000</pubDate>
       <guid isPermaLink="false">qt-plugin-path-1.0.0-r0</guid>
     </item>
@@ -20,8 +20,8 @@
       <title>external-keyboard-qpa 0.1.0-r0</title>
       <link>https://github.com/rmitchellscott/epaper-qpa</link>
       <description><![CDATA[Qt platform plugin for reMarkable e-paper displays with external keyboard support<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rmitchellscott</author>
-      <category>framework</category>
+      <author>unknown</author>
+      <category>other</category>
       <pubDate>Mon, 06 Jul 2026 19:16:24 +0000</pubDate>
       <guid isPermaLink="false">external-keyboard-qpa-0.1.0-r0</guid>
     </item>
