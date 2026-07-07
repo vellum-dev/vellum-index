@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 19:51:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 20:07:14 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>sort-templates-recent 1.0.0-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Sort the template selector by most recently used<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Tue, 07 Jul 2026 20:06:33 +0000</pubDate>
+      <guid isPermaLink="false">sort-templates-recent-1.0.0-r0</guid>
+    </item>
+    <item>
+      <title>default-template 1.0.0-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Set a default template used for new notebooks, pages, and quicksheets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Tue, 07 Jul 2026 20:06:15 +0000</pubDate>
+      <guid isPermaLink="false">default-template-1.0.0-r0</guid>
+    </item>
     <item>
       <title>tun 1.0.1-r0</title>
       <link>https://github.com/esclee/tun-package</link>

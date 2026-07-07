@@ -2919,6 +2919,56 @@
         "first_released": "2026-05-16T22:28:58Z"
       }
     },
+    "default-template": {
+      "1.0.0-r0": {
+        "pkgdesc": "Set a default template used for new notebooks, pages, and quicksheets",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "quicksheet-use-template"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-07T20:06:15Z",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/9db5b1efd5cbf76311d25b23a2cfc8e4437f3ed8/README.md#defaulttemplate",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-07-07T20:06:15Z"
+      }
+    },
     "delay-stroke-screen-refresh": {
       "1.0.0-r1": {
         "pkgdesc": "Delays color stroke refresh by 10 seconds of inactivity.",
@@ -12579,7 +12629,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "default-template"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -12625,7 +12677,9 @@
         "depends": [
           "qt-resource-rebuilder"
         ],
-        "conflicts": [],
+        "conflicts": [
+          "default-template"
+        ],
         "provides": [],
         "arch": [
           "aarch64",
@@ -15156,6 +15210,54 @@
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/28fe82a3bca3f13b3834d73755f85b12448190ea/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:59Z"
+      }
+    },
+    "sort-templates-recent": {
+      "1.0.0-r0": {
+        "pkgdesc": "Sort the template selector by most recently used",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-07T20:06:33Z",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/9db5b1efd5cbf76311d25b23a2cfc8e4437f3ed8/README.md#sorttemplatesrecent",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "first_released": "2026-07-07T20:06:33Z"
       }
     },
     "starship": {
@@ -18924,5 +19026,5 @@
       }
     }
   },
-  "generated": "2026-07-07T19:51:06Z"
+  "generated": "2026-07-07T20:07:14Z"
 }
