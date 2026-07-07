@@ -2007,8 +2007,6 @@
         "os_max": null,
         "os_constraints": null,
         "devices": [
-          "rm1",
-          "rm2",
           "rmpp",
           "rmppm",
           "rmppmove"
@@ -3276,8 +3274,6 @@
         "os_max": null,
         "os_constraints": null,
         "devices": [
-          "rm1",
-          "rm2",
           "rmpp",
           "rmppm",
           "rmppmove"
@@ -4225,8 +4221,6 @@
         "os_max": null,
         "os_constraints": null,
         "devices": [
-          "rm1",
-          "rm2",
           "rmpp",
           "rmppm",
           "rmppmove",
@@ -13574,8 +13568,7 @@
         "os_constraints": null,
         "devices": [
           "rm1",
-          "rm2",
-          "rmppure"
+          "rm2"
         ],
         "depends": [
           "xovi"
@@ -13607,8 +13600,7 @@
         "os_constraints": null,
         "devices": [
           "rm1",
-          "rm2",
-          "rmppure"
+          "rm2"
         ],
         "depends": [
           "xovi"
@@ -14302,11 +14294,7 @@
         "os_constraints": null,
         "devices": [
           "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
+          "rm2"
         ],
         "depends": [
           "appload",
@@ -18579,11 +18567,7 @@
         "os_constraints": null,
         "devices": [
           "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
+          "rm2"
         ],
         "depends": [
           "appload"
@@ -18905,11 +18889,7 @@
         "os_constraints": null,
         "devices": [
           "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
+          "rm2"
         ],
         "depends": [],
         "conflicts": [],
@@ -18939,11 +18919,7 @@
         "os_constraints": null,
         "devices": [
           "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
+          "rm2"
         ],
         "depends": [],
         "conflicts": [],
@@ -19026,5 +19002,5 @@
       }
     }
   },
-  "generated": "2026-07-07T20:07:14Z"
+  "generated": "2026-07-07T20:39:55Z"
 }

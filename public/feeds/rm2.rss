@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 20:07:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 20:39:55 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>sort-templates-recent 1.0.0-r0</title>
@@ -62,15 +62,6 @@
       <guid isPermaLink="false">qt-plugin-path-1.0.0-r0</guid>
     </item>
     <item>
-      <title>external-keyboard-qpa 0.1.0-r0</title>
-      <link>https://github.com/rmitchellscott/epaper-qpa</link>
-      <description><![CDATA[Qt platform plugin for reMarkable e-paper displays with external keyboard support<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rmitchellscott</author>
-      <category>framework</category>
-      <pubDate>Mon, 06 Jul 2026 19:16:24 +0000</pubDate>
-      <guid isPermaLink="false">external-keyboard-qpa-0.1.0-r0</guid>
-    </item>
-    <item>
       <title>bettertoc-collapse 1.1.0-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
       <description><![CDATA[Adds chevrons to collapse / expand ToC entries based on indent.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
@@ -82,7 +73,7 @@
     <item>
       <title>restream 1.5.0-r0</title>
       <link>https://github.com/rien/reStream</link>
-      <description><![CDATA[Binary framebuffer capture tool for the reStream script<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <description><![CDATA[Binary framebuffer capture tool for the reStream script<br/>Devices: rm1, rm2]]></description>
       <author>rien</author>
       <category>utilities</category>
       <pubDate>Sat, 04 Jul 2026 03:50:32 +0000</pubDate>
@@ -123,15 +114,6 @@
       <category>ui</category>
       <pubDate>Wed, 01 Jul 2026 22:40:22 +0000</pubDate>
       <guid isPermaLink="false">battery-percentage-1.0.0-r0</guid>
-    </item>
-    <item>
-      <title>chessmarkable 0.8.1-r3</title>
-      <link>https://github.com/LinusCDE/chessmarkable</link>
-      <description><![CDATA[Chess game<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove]]></description>
-      <author>LinusCDE</author>
-      <category>apps</category>
-      <pubDate>Mon, 29 Jun 2026 23:47:35 +0000</pubDate>
-      <guid isPermaLink="false">chessmarkable-0.8.1-r3</guid>
     </item>
     <item>
       <title>netsurf 0.5.0-r0</title>
@@ -449,15 +431,6 @@
       <guid isPermaLink="false">framebuffer-spy-19.0.0-r1</guid>
     </item>
     <item>
-      <title>doomarkable 0.4.1-r1</title>
-      <link>https://github.com/LinusCDE/doomarkable</link>
-      <description><![CDATA[DOOM game<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove]]></description>
-      <author>LinusCDE</author>
-      <category>apps</category>
-      <pubDate>Tue, 26 May 2026 19:37:03 +0000</pubDate>
-      <guid isPermaLink="false">doomarkable-0.4.1-r1</guid>
-    </item>
-    <item>
       <title>koreader 2026.03-r4</title>
       <link>https://github.com/koreader/koreader</link>
       <description><![CDATA[An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -640,7 +613,7 @@
     <item>
       <title>yaft 0.1.3-r0</title>
       <link>https://github.com/timower/rM2-stuff</link>
-      <description><![CDATA[Yet another framebuffer terminal<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <description><![CDATA[Yet another framebuffer terminal<br/>Devices: rm1, rm2]]></description>
       <author>timower</author>
       <category>apps</category>
       <pubDate>Tue, 19 May 2026 05:35:13 +0000</pubDate>
@@ -703,7 +676,7 @@
     <item>
       <title>restream 1.4.0-r0</title>
       <link>https://github.com/rien/reStream</link>
-      <description><![CDATA[Binary framebuffer capture tool for the reStream script<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <description><![CDATA[Binary framebuffer capture tool for the reStream script<br/>Devices: rm1, rm2]]></description>
       <author>rien</author>
       <category>utilities</category>
       <pubDate>Sun, 17 May 2026 03:40:11 +0000</pubDate>
@@ -2170,7 +2143,7 @@
     <item>
       <title>rmstream 0.1.2-r0</title>
       <link>https://github.com/asivery/appload-rmstream</link>
-      <description><![CDATA[Stream your reMarkable's screen to any device on the local network via HTTP<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <description><![CDATA[Stream your reMarkable's screen to any device on the local network via HTTP<br/>Devices: rm1, rm2]]></description>
       <author>asivery</author>
       <category>apps</category>
       <pubDate>Sun, 01 Mar 2026 23:02:05 +0000</pubDate>
@@ -2287,7 +2260,7 @@
     <item>
       <title>rm-stylus 0.2.0-r0</title>
       <link>https://github.com/rmitchellscott/rm-stylus</link>
-      <description><![CDATA[Xovi extension that adds support for LAMY button<br/>Devices: rm1, rm2, rmppure]]></description>
+      <description><![CDATA[Xovi extension that adds support for LAMY button<br/>Devices: rm1, rm2]]></description>
       <author>rmitchellscott</author>
       <category>framework</category>
       <pubDate>Tue, 10 Feb 2026 23:43:20 +0000</pubDate>
@@ -2296,7 +2269,7 @@
     <item>
       <title>rm-stylus 0.1.0-r0</title>
       <link>https://github.com/rmitchellscott/rm-stylus</link>
-      <description><![CDATA[Xovi extension that adds support for LAMY button<br/>Devices: rm1, rm2, rmppure]]></description>
+      <description><![CDATA[Xovi extension that adds support for LAMY button<br/>Devices: rm1, rm2]]></description>
       <author>rmitchellscott</author>
       <category>framework</category>
       <pubDate>Tue, 10 Feb 2026 23:43:20 +0000</pubDate>
