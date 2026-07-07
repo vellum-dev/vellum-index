@@ -10962,6 +10962,41 @@
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-02-12T15:07:14Z"
+      },
+      "1.2.0-r0": {
+        "pkgdesc": "Commands to toggle reMarkable filesystem between read-write and read-only",
+        "upstream_author": "vellum-dev",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/vellum-dev/vellum",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-07T19:50:19Z",
+        "readmeurl": null,
+        "donateurl": null,
+        "first_released": "2026-02-12T15:07:14Z"
       }
     },
     "nav-history": {
@@ -16632,6 +16667,51 @@
         "first_released": "2026-01-14T14:46:17Z"
       }
     },
+    "tun": {
+      "1.0.1-r0": {
+        "pkgdesc": "TUN module for rMP[Pro, Move, Pure], compiled from kernel code released by rM using rM's SDKs",
+        "upstream_author": "esclee",
+        "maintainer": "esclee <5288860+esclee@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "GPL-2.0-or-later",
+        "url": "https://github.com/esclee/tun-package",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "mount-utils"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64"
+        ],
+        "modifies_system": true,
+        "auto_install": false,
+        "released": "2026-07-07T19:50:29Z",
+        "readmeurl": null,
+        "donateurl": null,
+        "first_released": "2026-07-07T19:50:29Z"
+      }
+    },
     "uncompress-dock": {
       "1.0.0-r2": {
         "pkgdesc": "Replaces the More menu in the document dock with dedicated notebook, folder, and quick sheet buttons.",
@@ -18844,5 +18924,5 @@
       }
     }
   },
-  "generated": "2026-07-06T22:24:57Z"
+  "generated": "2026-07-07T19:51:06Z"
 }

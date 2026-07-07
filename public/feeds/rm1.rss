@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 22:24:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 19:51:06 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>mount-utils 1.2.0-r0</title>
+      <link>https://github.com/vellum-dev/vellum</link>
+      <description><![CDATA[Commands to toggle reMarkable filesystem between read-write and read-only<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>vellum-dev</author>
+      <category>utilities</category>
+      <pubDate>Tue, 07 Jul 2026 19:50:19 +0000</pubDate>
+      <guid isPermaLink="false">mount-utils-1.2.0-r0</guid>
+    </item>
     <item>
       <title>quicksettings-bluetooth 1.0.0-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
