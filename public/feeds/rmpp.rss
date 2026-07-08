@@ -5,8 +5,35 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2026 15:50:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 22:38:48 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>tun 1.0.1-r1</title>
+      <link>https://github.com/esclee/tun-package</link>
+      <description><![CDATA[TUN module for rMP[Pro, Move, Pure], compiled from kernel code released by rM using rM's SDKs<br/>Devices: rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>esclee</author>
+      <category>utilities</category>
+      <pubDate>Wed, 08 Jul 2026 22:38:10 +0000</pubDate>
+      <guid isPermaLink="false">tun-1.0.1-r1</guid>
+    </item>
+    <item>
+      <title>tailscale-tun 1.98.8-r0</title>
+      <link>https://tailscale.com</link>
+      <description><![CDATA[Tailscale VPN client<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>tailscale</author>
+      <category>utilities</category>
+      <pubDate>Wed, 08 Jul 2026 22:38:08 +0000</pubDate>
+      <guid isPermaLink="false">tailscale-tun-1.98.8-r0</guid>
+    </item>
+    <item>
+      <title>tailscale 1.98.8-r0</title>
+      <link>https://tailscale.com</link>
+      <description><![CDATA[Tailscale VPN client<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>tailscale</author>
+      <category>utilities</category>
+      <pubDate>Wed, 08 Jul 2026 22:38:08 +0000</pubDate>
+      <guid isPermaLink="false">tailscale-1.98.8-r0</guid>
+    </item>
     <item>
       <title>gestik 1.1.0-r0</title>
       <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
@@ -33,15 +60,6 @@
       <category>ui</category>
       <pubDate>Tue, 07 Jul 2026 20:06:15 +0000</pubDate>
       <guid isPermaLink="false">default-template-1.0.0-r0</guid>
-    </item>
-    <item>
-      <title>tun 1.0.1-r0</title>
-      <link>https://github.com/esclee/tun-package</link>
-      <description><![CDATA[TUN module for rMP[Pro, Move, Pure], compiled from kernel code released by rM using rM's SDKs<br/>Devices: rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>esclee</author>
-      <category>utilities</category>
-      <pubDate>Tue, 07 Jul 2026 19:50:29 +0000</pubDate>
-      <guid isPermaLink="false">tun-1.0.1-r0</guid>
     </item>
     <item>
       <title>mount-utils 1.2.0-r0</title>

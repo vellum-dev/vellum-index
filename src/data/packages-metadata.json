@@ -15728,7 +15728,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
-        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.96.2/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.98.8/README.md",
         "donateurl": null,
         "first_released": "2026-02-12T15:07:43Z"
       },
@@ -15765,7 +15765,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-10T19:44:49Z",
-        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.96.2/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.98.8/README.md",
         "donateurl": null,
         "first_released": "2026-02-12T15:07:43Z"
       },
@@ -15802,9 +15802,86 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:34Z",
-        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.96.2/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.98.8/README.md",
         "donateurl": null,
         "first_released": "2026-02-12T15:07:43Z"
+      },
+      "1.98.8-r0": {
+        "pkgdesc": "Tailscale VPN client",
+        "upstream_author": "tailscale",
+        "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "BSD-3-Clause",
+        "url": "https://tailscale.com",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "mount-utils"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-08T22:38:08Z",
+        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.98.8/README.md",
+        "donateurl": null,
+        "first_released": "2026-02-12T15:07:43Z"
+      }
+    },
+    "tailscale-tun": {
+      "1.98.8-r0": {
+        "pkgdesc": "Tailscale VPN client",
+        "upstream_author": "tailscale",
+        "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "BSD-3-Clause",
+        "url": "https://tailscale.com",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "tun",
+          "tailscale"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-08T22:38:08Z",
+        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.98.8/README.md",
+        "donateurl": null,
+        "first_released": "2026-07-08T22:38:08Z"
       }
     },
     "tap-to-change-view-or-page": {
@@ -16809,7 +16886,7 @@
       }
     },
     "tun": {
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "TUN module for rMP[Pro, Move, Pure], compiled from kernel code released by rM using rM's SDKs",
         "upstream_author": "esclee",
         "maintainer": "esclee <5288860+esclee@users.noreply.github.com>",
@@ -16847,7 +16924,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-07-07T19:50:29Z",
+        "released": "2026-07-08T22:38:10Z",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-07-07T19:50:29Z"
@@ -19053,5 +19130,5 @@
       }
     }
   },
-  "generated": "2026-07-08T15:50:27Z"
+  "generated": "2026-07-08T22:38:48Z"
 }
