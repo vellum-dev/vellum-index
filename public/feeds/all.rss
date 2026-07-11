@@ -5,8 +5,170 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 05:26:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 19:47:01 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>zig-doc 0.16.0-r1</title>
+      <link>https://ziglang.org</link>
+      <description><![CDATA[Zig documentation (language reference)<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>ziglang</author>
+      <category>development</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:24 +0000</pubDate>
+      <guid isPermaLink="false">zig-doc-0.16.0-r1</guid>
+    </item>
+    <item>
+      <title>zig 0.16.0-r1</title>
+      <link>https://ziglang.org</link>
+      <description><![CDATA[A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>ziglang</author>
+      <category>development</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:24 +0000</pubDate>
+      <guid isPermaLink="false">zig-0.16.0-r1</guid>
+    </item>
+    <item>
+      <title>oxide-xovi 3.0.2-r0</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Xovi application registration for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>framework</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:11 +0000</pubDate>
+      <guid isPermaLink="false">oxide-xovi-3.0.2-r0</guid>
+    </item>
+    <item>
+      <title>oxide-utils 3.0.2-r0</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Command line tools for Oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:11 +0000</pubDate>
+      <guid isPermaLink="false">oxide-utils-3.0.2-r0</guid>
+    </item>
+    <item>
+      <title>oxide-tests 3.0.2-r0</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Automated tests for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>framework</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:11 +0000</pubDate>
+      <guid isPermaLink="false">oxide-tests-3.0.2-r0</guid>
+    </item>
+    <item>
+      <title>oxide-extra 3.0.2-r0</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Extra applications for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>apps</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:11 +0000</pubDate>
+      <guid isPermaLink="false">oxide-extra-3.0.2-r0</guid>
+    </item>
+    <item>
+      <title>oxide-display-dev 3.0.2-r0</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>development</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:11 +0000</pubDate>
+      <guid isPermaLink="false">oxide-display-dev-3.0.2-r0</guid>
+    </item>
+    <item>
+      <title>oxide-display 3.0.2-r0</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
+      <author>Eeems-Org</author>
+      <category>framework</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:11 +0000</pubDate>
+      <guid isPermaLink="false">oxide-display-3.0.2-r0</guid>
+    </item>
+    <item>
+      <title>oxide 3.0.2-r0</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Launcher application<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>launchers</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:11 +0000</pubDate>
+      <guid isPermaLink="false">oxide-3.0.2-r0</guid>
+    </item>
+    <item>
+      <title>lockscreen_hook 3.0.2-r0</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Run scripts after unlock<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
+      <author>Eeems-Org</author>
+      <category>framework</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:09 +0000</pubDate>
+      <guid isPermaLink="false">lockscreen_hook-3.0.2-r0</guid>
+    </item>
+    <item>
+      <title>liboxide-dev 3.0.2-r0</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Shared library for oxide applications<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>development</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:09 +0000</pubDate>
+      <guid isPermaLink="false">liboxide-dev-3.0.2-r0</guid>
+    </item>
+    <item>
+      <title>liboxide 3.0.2-r0</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Shared library for oxide applications<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>framework</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:08 +0000</pubDate>
+      <guid isPermaLink="false">liboxide-3.0.2-r0</guid>
+    </item>
+    <item>
+      <title>launcherctl-oxide 3.0.2-r0</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Launcherctl configuration for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:08 +0000</pubDate>
+      <guid isPermaLink="false">launcherctl-oxide-3.0.2-r0</guid>
+    </item>
+    <item>
+      <title>launcherctl-appload 0.5.3-r1</title>
+      <link>https://github.com/asivery/rm-appload</link>
+      <description><![CDATA[Launcherctl configuration for appload<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>utilities</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:08 +0000</pubDate>
+      <guid isPermaLink="false">launcherctl-appload-0.5.3-r1</guid>
+    </item>
+    <item>
+      <title>launcherctl 3.0.2-r0</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Manage your installed launcher<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:08 +0000</pubDate>
+      <guid isPermaLink="false">launcherctl-3.0.2-r0</guid>
+    </item>
+    <item>
+      <title>inject_evdev 3.0.2-r0</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Inject input events<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:08 +0000</pubDate>
+      <guid isPermaLink="false">inject_evdev-3.0.2-r0</guid>
+    </item>
+    <item>
+      <title>fbinfo 3.0.2-r0</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Print out framebuffer info<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Sat, 11 Jul 2026 19:46:00 +0000</pubDate>
+      <guid isPermaLink="false">fbinfo-3.0.2-r0</guid>
+    </item>
+    <item>
+      <title>appload 0.5.3-r1</title>
+      <link>https://github.com/asivery/rm-appload</link>
+      <description><![CDATA[XOVI extension for windowed and fullscreen apps<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
+      <author>asivery</author>
+      <category>launchers</category>
+      <pubDate>Sat, 11 Jul 2026 19:45:55 +0000</pubDate>
+      <guid isPermaLink="false">appload-0.5.3-r1</guid>
+    </item>
     <item>
       <title>retaskable-capture 1.0.5-r0</title>
       <link>https://github.com/jdkruzr/reTaskable</link>
@@ -665,15 +827,6 @@
       <guid isPermaLink="false">vellum-0.3.1-r0</guid>
     </item>
     <item>
-      <title>appload 0.5.3-r0</title>
-      <link>https://github.com/asivery/rm-appload</link>
-      <description><![CDATA[XOVI extension for windowed and fullscreen apps<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Thu, 21 May 2026 21:46:11 +0000</pubDate>
-      <guid isPermaLink="false">appload-0.5.3-r0</guid>
-    </item>
-    <item>
       <title>vellum 0.3.0-r0</title>
       <link>https://github.com/vellum-dev/vellum-cli</link>
       <description><![CDATA[Package manager wrapper for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -1029,7 +1182,7 @@
       <link>https://github.com/asivery/rm-appload</link>
       <description><![CDATA[XOVI extension for windowed and fullscreen apps<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
       <author>asivery</author>
-      <category>framework</category>
+      <category>launchers</category>
       <pubDate>Mon, 11 May 2026 06:15:03 +0000</pubDate>
       <guid isPermaLink="false">appload-0.5.2-r1</guid>
     </item>
@@ -1794,7 +1947,7 @@
       <link>https://github.com/asivery/rm-appload</link>
       <description><![CDATA[XOVI extension for windowed and fullscreen apps<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.27]]></description>
       <author>asivery</author>
-      <category>framework</category>
+      <category>launchers</category>
       <pubDate>Fri, 08 May 2026 02:18:17 +0000</pubDate>
       <guid isPermaLink="false">appload-0.5.1-r1</guid>
     </item>
@@ -1934,24 +2087,6 @@
       <guid isPermaLink="false">pen-layer-memory-1.0.0-r0</guid>
     </item>
     <item>
-      <title>zig-doc 0.16.0-r0</title>
-      <link>https://ziglang.org</link>
-      <description><![CDATA[Zig documentation (language reference)<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>ziglang</author>
-      <category>utilities</category>
-      <pubDate>Thu, 16 Apr 2026 18:15:17 +0000</pubDate>
-      <guid isPermaLink="false">zig-doc-0.16.0-r0</guid>
-    </item>
-    <item>
-      <title>zig 0.16.0-r0</title>
-      <link>https://ziglang.org</link>
-      <description><![CDATA[A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>ziglang</author>
-      <category>utilities</category>
-      <pubDate>Thu, 16 Apr 2026 18:15:17 +0000</pubDate>
-      <guid isPermaLink="false">zig-0.16.0-r0</guid>
-    </item>
-    <item>
       <title>bettertoc 1.2.2-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
       <description><![CDATA[Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.27]]></description>
@@ -1992,7 +2127,7 @@
       <link>https://ziglang.org</link>
       <description><![CDATA[Zig documentation (language reference)<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>ziglang</author>
-      <category>utilities</category>
+      <category>development</category>
       <pubDate>Thu, 09 Apr 2026 19:16:24 +0000</pubDate>
       <guid isPermaLink="false">zig-doc-0.15.2-r1</guid>
     </item>
@@ -2001,7 +2136,7 @@
       <link>https://ziglang.org</link>
       <description><![CDATA[A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>ziglang</author>
-      <category>utilities</category>
+      <category>development</category>
       <pubDate>Thu, 09 Apr 2026 19:16:24 +0000</pubDate>
       <guid isPermaLink="false">zig-0.15.2-r1</guid>
     </item>
@@ -2046,7 +2181,7 @@
       <link>https://github.com/asivery/rm-appload</link>
       <description><![CDATA[XOVI extension for windowed and fullscreen apps<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.27]]></description>
       <author>asivery</author>
-      <category>framework</category>
+      <category>launchers</category>
       <pubDate>Sun, 29 Mar 2026 17:44:06 +0000</pubDate>
       <guid isPermaLink="false">appload-0.5.0-r0</guid>
     </item>
@@ -2100,7 +2235,7 @@
       <link>https://github.com/asivery/rm-appload</link>
       <description><![CDATA[XOVI extension for windowed and fullscreen apps<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.22 - 3.26]]></description>
       <author>asivery</author>
-      <category>framework</category>
+      <category>launchers</category>
       <pubDate>Sat, 21 Mar 2026 03:51:55 +0000</pubDate>
       <guid isPermaLink="false">appload-0.4.2-r0</guid>
     </item>
@@ -2307,7 +2442,7 @@
       <link>https://github.com/asivery/rm-appload</link>
       <description><![CDATA[Xovi extension for windowed and fullscreen apps on reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.22 - 3.26]]></description>
       <author>asivery</author>
-      <category>framework</category>
+      <category>launchers</category>
       <pubDate>Wed, 18 Mar 2026 21:57:33 +0000</pubDate>
       <guid isPermaLink="false">appload-0.4.1-r3</guid>
     </item>
