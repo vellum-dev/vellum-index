@@ -3065,6 +3065,55 @@
         "first_released": "2026-01-14T19:57:39Z"
       }
     },
+    "dictionary-wiki-translator": {
+      "1.0.0-r0": {
+        "pkgdesc": "Adds integrated dictionary, Wikipedia, and translation capabilities for PDFs and EPUBs",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.25",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.25",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "qt-command-executor"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-14T14:58:20Z",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7d2fceff5a2374c5690c386a1cd361c54db5dbf3/README.md#dictionary",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "first_released": "2026-07-14T14:58:20Z"
+      }
+    },
     "disable-infinite-scroll": {
       "1.0.0-r0": {
         "pkgdesc": "Disables infinite scroll by limiting zooming and scrolling to page boundaries.",
@@ -21042,5 +21091,5 @@
       }
     }
   },
-  "generated": "2026-07-14T07:38:00Z"
+  "generated": "2026-07-14T14:59:25Z"
 }
