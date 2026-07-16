@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 05:50:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 23:07:34 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>convert-to-text-remover 1.1.0-r1</title>
+      <link>https://github.com/NohamR/xovi-qmd-extensions</link>
+      <description><![CDATA[Removes the Convert to text option from selection menus and the toolbar.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>NohamR</author>
+      <category>ui</category>
+      <pubDate>Thu, 16 Jul 2026 23:06:34 +0000</pubDate>
+      <guid isPermaLink="false">convert-to-text-remover-1.1.0-r1</guid>
+    </item>
     <item>
       <title>tun 1.0.1-r2</title>
       <link>https://github.com/esclee/tun-package</link>
@@ -654,15 +663,6 @@
       <category>ui</category>
       <pubDate>Wed, 01 Jul 2026 22:40:41 +0000</pubDate>
       <guid isPermaLink="false">sidebar-clock-1.1.0-r0</guid>
-    </item>
-    <item>
-      <title>convert-to-text-remover 1.1.0-r0</title>
-      <link>https://github.com/NohamR/xovi-qmd-extensions</link>
-      <description><![CDATA[Removes the Convert to text option from selection menus and the toolbar.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>NohamR</author>
-      <category>ui</category>
-      <pubDate>Wed, 01 Jul 2026 22:40:23 +0000</pubDate>
-      <guid isPermaLink="false">convert-to-text-remover-1.1.0-r0</guid>
     </item>
     <item>
       <title>battery-percentage 1.0.0-r0</title>
