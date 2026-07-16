@@ -18944,7 +18944,7 @@
       }
     },
     "tun": {
-      "1.0.1-r1": {
+      "1.0.1-r2": {
         "pkgdesc": "TUN module for rMP[Pro, Move, Pure], compiled from kernel code released by rM using rM's SDKs",
         "upstream_author": "esclee",
         "maintainer": "esclee <5288860+esclee@users.noreply.github.com>",
@@ -18973,7 +18973,7 @@
           "rmppure"
         ],
         "depends": [
-          "mount-utils"
+          "mount-utils>=1.2.0"
         ],
         "conflicts": [],
         "provides": [],
@@ -18982,7 +18982,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-07-08T22:38:10Z",
+        "released": "2026-07-16T05:50:01Z",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-07-07T19:50:29Z"
@@ -21188,5 +21188,5 @@
       }
     }
   },
-  "generated": "2026-07-14T19:35:29Z"
+  "generated": "2026-07-16T05:50:43Z"
 }

@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 19:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 05:50:43 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppmove.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>tun 1.0.1-r2</title>
+      <link>https://github.com/esclee/tun-package</link>
+      <description><![CDATA[TUN module for rMP[Pro, Move, Pure], compiled from kernel code released by rM using rM's SDKs<br/>Devices: rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>esclee</author>
+      <category>utilities</category>
+      <pubDate>Thu, 16 Jul 2026 05:50:01 +0000</pubDate>
+      <guid isPermaLink="false">tun-1.0.1-r2</guid>
+    </item>
     <item>
       <title>nav-history 1.1.0-r0</title>
       <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
@@ -501,15 +510,6 @@
       <category>ui</category>
       <pubDate>Wed, 08 Jul 2026 23:53:31 +0000</pubDate>
       <guid isPermaLink="false">random-sleep-screen-1.0.7-r3</guid>
-    </item>
-    <item>
-      <title>tun 1.0.1-r1</title>
-      <link>https://github.com/esclee/tun-package</link>
-      <description><![CDATA[TUN module for rMP[Pro, Move, Pure], compiled from kernel code released by rM using rM's SDKs<br/>Devices: rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>esclee</author>
-      <category>utilities</category>
-      <pubDate>Wed, 08 Jul 2026 22:38:10 +0000</pubDate>
-      <guid isPermaLink="false">tun-1.0.1-r1</guid>
     </item>
     <item>
       <title>tailscale-tun 1.98.8-r0</title>
