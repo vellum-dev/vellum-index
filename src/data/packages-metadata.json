@@ -2120,7 +2120,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:29:32Z",
-        "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/86e43a4d8d26c49abcc81f149245ff1f52961124/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/8ddf166f0151a55329dd0c1bb9804b23a03db95f/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:57Z"
       },
@@ -2170,7 +2170,55 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-16T23:06:34Z",
-        "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/86e43a4d8d26c49abcc81f149245ff1f52961124/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/8ddf166f0151a55329dd0c1bb9804b23a03db95f/README.md",
+        "donateurl": null,
+        "first_released": "2026-04-02T17:44:57Z"
+      },
+      "1.2.0-r0": {
+        "pkgdesc": "Removes the Convert to text option from selection menus and the toolbar.",
+        "upstream_author": "NohamR",
+        "maintainer": "NohamR <noham@noh.am>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/NohamR/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "retaskable-capture"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-17T16:31:19Z",
+        "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/8ddf166f0151a55329dd0c1bb9804b23a03db95f/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:57Z"
       }
@@ -21196,5 +21244,5 @@
       }
     }
   },
-  "generated": "2026-07-16T23:07:34Z"
+  "generated": "2026-07-17T16:32:13Z"
 }

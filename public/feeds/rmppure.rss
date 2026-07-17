@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pure</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 23:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 16:32:13 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppure.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>convert-to-text-remover 1.2.0-r0</title>
+      <link>https://github.com/NohamR/xovi-qmd-extensions</link>
+      <description><![CDATA[Removes the Convert to text option from selection menus and the toolbar.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>NohamR</author>
+      <category>ui</category>
+      <pubDate>Fri, 17 Jul 2026 16:31:19 +0000</pubDate>
+      <guid isPermaLink="false">convert-to-text-remover-1.2.0-r0</guid>
+    </item>
     <item>
       <title>convert-to-text-remover 1.1.0-r1</title>
       <link>https://github.com/NohamR/xovi-qmd-extensions</link>
