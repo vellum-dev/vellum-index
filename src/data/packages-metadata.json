@@ -681,6 +681,46 @@
         "first_released": "2026-01-24T17:26:06Z"
       }
     },
+    "appload-to-oxide": {
+      "0.1.0-r1": {
+        "pkgdesc": "Convert AppLoad apps into Oxide application registrations",
+        "upstream_author": "NoaHimesaka1873",
+        "maintainer": "Noa Himesaka <himesaka@noa.codes>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/NoaHimesaka1873/qtfblight",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "oxide",
+          "qtfblight"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-18T19:06:57Z",
+        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.0/README.md",
+        "donateurl": null,
+        "first_released": "2026-07-18T19:06:57Z"
+      }
+    },
     "bandwhich": {
       "0.23.1-r0": {
         "pkgdesc": "CLI network utilization tool",
@@ -14139,6 +14179,45 @@
         "first_released": "2026-01-10T17:52:54Z"
       }
     },
+    "qtfblight": {
+      "0.1.0-r1": {
+        "pkgdesc": "QTFB compatibility server for reMarkable tablets",
+        "upstream_author": "NoaHimesaka1873",
+        "maintainer": "Noa Himesaka <himesaka@noa.codes>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/NoaHimesaka1873/qtfblight",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "oxide-display"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-18T19:07:16Z",
+        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.0/README.md",
+        "donateurl": null,
+        "first_released": "2026-07-18T19:07:16Z"
+      }
+    },
     "quicksettings-bluetooth": {
       "1.0.0-r0": {
         "pkgdesc": "Adds a Bluetooth toggle to quicksettings",
@@ -21244,5 +21323,5 @@
       }
     }
   },
-  "generated": "2026-07-17T16:32:13Z"
+  "generated": "2026-07-18T19:08:07Z"
 }
