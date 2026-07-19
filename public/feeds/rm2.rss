@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 19:08:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 19:10:53 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>qtfblight 0.1.2-r0</title>
+      <link>https://github.com/NoaHimesaka1873/qtfblight</link>
+      <description><![CDATA[QTFB compatibility server for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>NoaHimesaka1873</author>
+      <category>framework</category>
+      <pubDate>Sun, 19 Jul 2026 19:10:01 +0000</pubDate>
+      <guid isPermaLink="false">qtfblight-0.1.2-r0</guid>
+    </item>
+    <item>
+      <title>appload-to-oxide 0.1.2-r0</title>
+      <link>https://github.com/NoaHimesaka1873/qtfblight</link>
+      <description><![CDATA[Convert AppLoad apps into Oxide application registrations<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>NoaHimesaka1873</author>
+      <category>utilities</category>
+      <pubDate>Sun, 19 Jul 2026 19:09:42 +0000</pubDate>
+      <guid isPermaLink="false">appload-to-oxide-0.1.2-r0</guid>
+    </item>
     <item>
       <title>qtfblight 0.1.0-r1</title>
       <link>https://github.com/NoaHimesaka1873/qtfblight</link>

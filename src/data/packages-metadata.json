@@ -716,7 +716,45 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-18T19:06:57Z",
-        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.2/README.md",
+        "donateurl": null,
+        "first_released": "2026-07-18T19:06:57Z"
+      },
+      "0.1.2-r0": {
+        "pkgdesc": "Convert AppLoad apps into Oxide application registrations",
+        "upstream_author": "NoaHimesaka1873",
+        "maintainer": "Noa Himesaka <himesaka@noa.codes>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/NoaHimesaka1873/qtfblight",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "oxide",
+          "qtfblight"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-19T19:09:42Z",
+        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.2/README.md",
         "donateurl": null,
         "first_released": "2026-07-18T19:06:57Z"
       }
@@ -14213,7 +14251,44 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-18T19:07:16Z",
-        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.2/README.md",
+        "donateurl": null,
+        "first_released": "2026-07-18T19:07:16Z"
+      },
+      "0.1.2-r0": {
+        "pkgdesc": "QTFB compatibility server for reMarkable tablets",
+        "upstream_author": "NoaHimesaka1873",
+        "maintainer": "Noa Himesaka <himesaka@noa.codes>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/NoaHimesaka1873/qtfblight",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "oxide-display"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-19T19:10:01Z",
+        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.2/README.md",
         "donateurl": null,
         "first_released": "2026-07-18T19:07:16Z"
       }
@@ -21323,5 +21398,5 @@
       }
     }
   },
-  "generated": "2026-07-18T19:08:07Z"
+  "generated": "2026-07-19T19:10:53Z"
 }
