@@ -3283,7 +3283,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-07-20T16:40:56Z",
+        "released": "2026-07-20T16:42:06Z",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#dictionary",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-07-14T14:58:20Z"
@@ -7332,7 +7332,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-25T13:59:53Z",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/974c07f11c2c48285a59c9ddf428773c2f962d5d/README.md#gestik",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#gestik",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T13:59:53Z"
       },
@@ -7383,7 +7383,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-08T15:49:36Z",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/974c07f11c2c48285a59c9ddf428773c2f962d5d/README.md#gestik",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#gestik",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T13:59:53Z"
       },
@@ -7434,7 +7434,58 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-14T19:19:28Z",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/974c07f11c2c48285a59c9ddf428773c2f962d5d/README.md#gestik",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#gestik",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "first_released": "2026-06-25T13:59:53Z"
+      },
+      "1.1.2-r0": {
+        "pkgdesc": "Configurable multi-finger gestures for tool switching or action you want",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.25",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.25",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "four-finger-change-filter",
+          "gestures-fouzr",
+          "gestures-ingatellent",
+          "three-finger-swipe-to-reset-view"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-20T16:42:12Z",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#gestik",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T13:59:53Z"
       }
@@ -21494,5 +21545,5 @@
       }
     }
   },
-  "generated": "2026-07-20T16:42:03Z"
+  "generated": "2026-07-20T16:43:18Z"
 }

@@ -5,15 +5,24 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 16:42:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 16:43:18 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>gestik 1.1.2-r0</title>
+      <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
+      <description><![CDATA[Configurable multi-finger gestures for tool switching or action you want<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.28]]></description>
+      <author>alefaraci</author>
+      <category>ui</category>
+      <pubDate>Mon, 20 Jul 2026 16:42:12 +0000</pubDate>
+      <guid isPermaLink="false">gestik-1.1.2-r0</guid>
+    </item>
     <item>
       <title>dictionary-wiki-translator 1.0.1-r0</title>
       <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
       <description><![CDATA[Adds integrated dictionary, Wikipedia, and translation capabilities for PDFs and EPUBs<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.28]]></description>
       <author>alefaraci</author>
       <category>ui</category>
-      <pubDate>Mon, 20 Jul 2026 16:40:56 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 16:42:06 +0000</pubDate>
       <guid isPermaLink="false">dictionary-wiki-translator-1.0.1-r0</guid>
     </item>
     <item>
