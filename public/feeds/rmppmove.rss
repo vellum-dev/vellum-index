@@ -5,8 +5,161 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 16:43:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 22:15:45 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppmove.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>xovi-message-broker 19.0.0-r2</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[IPC messaging between xovi extensions<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Wed, 22 Jul 2026 22:15:05 +0000</pubDate>
+      <guid isPermaLink="false">xovi-message-broker-19.0.0-r2</guid>
+    </item>
+    <item>
+      <title>xovi-extensions 19.0.0-r2</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Extensions for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.20+]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Wed, 22 Jul 2026 22:15:05 +0000</pubDate>
+      <guid isPermaLink="false">xovi-extensions-19.0.0-r2</guid>
+    </item>
+    <item>
+      <title>webserver-remote 19.0.0-r2</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Exposes the USB webserver to all interfaces with connection confirmation dialog<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.28]]></description>
+      <author>asivery</author>
+      <category>utilities</category>
+      <pubDate>Wed, 22 Jul 2026 22:15:05 +0000</pubDate>
+      <guid isPermaLink="false">webserver-remote-19.0.0-r2</guid>
+    </item>
+    <item>
+      <title>tailscale-tun 1.98.8-r1</title>
+      <link>https://tailscale.com</link>
+      <description><![CDATA[Tailscale VPN client<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>tailscale</author>
+      <category>utilities</category>
+      <pubDate>Wed, 22 Jul 2026 22:15:00 +0000</pubDate>
+      <guid isPermaLink="false">tailscale-tun-1.98.8-r1</guid>
+    </item>
+    <item>
+      <title>tailscale 1.98.8-r1</title>
+      <link>https://tailscale.com</link>
+      <description><![CDATA[Tailscale VPN client<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>tailscale</author>
+      <category>utilities</category>
+      <pubDate>Wed, 22 Jul 2026 22:15:00 +0000</pubDate>
+      <guid isPermaLink="false">tailscale-1.98.8-r1</guid>
+    </item>
+    <item>
+      <title>starship 1.24.2-r3</title>
+      <link>https://starship.rs/</link>
+      <description><![CDATA[The minimal, blazing-fast, and infinitely customizable prompt for any shell!<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>starship</author>
+      <category>utilities</category>
+      <pubDate>Wed, 22 Jul 2026 22:14:59 +0000</pubDate>
+      <guid isPermaLink="false">starship-1.24.2-r3</guid>
+    </item>
+    <item>
+      <title>rmstream 0.1.5-r1</title>
+      <link>https://github.com/asivery/appload-rmstream</link>
+      <description><![CDATA[Stream your reMarkable's screen to any device on the local network via HTTP<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>apps</category>
+      <pubDate>Wed, 22 Jul 2026 22:14:58 +0000</pubDate>
+      <guid isPermaLink="false">rmstream-0.1.5-r1</guid>
+    </item>
+    <item>
+      <title>rmfakecloud-proxy 0.0.10-r2</title>
+      <link>https://github.com/ddvk/rmfakecloud-proxy</link>
+      <description><![CDATA[HTTPS proxy for rmfakecloud - redirects reMarkable cloud traffic<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>ddvk</author>
+      <category>utilities</category>
+      <pubDate>Wed, 22 Jul 2026 22:14:57 +0000</pubDate>
+      <guid isPermaLink="false">rmfakecloud-proxy-0.0.10-r2</guid>
+    </item>
+    <item>
+      <title>retaskable-capture 1.0.5-r1</title>
+      <link>https://github.com/jdkruzr/reTaskable</link>
+      <description><![CDATA[reTaskable note capture<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27+]]></description>
+      <author>jdkruzr</author>
+      <category>ui</category>
+      <pubDate>Wed, 22 Jul 2026 22:14:56 +0000</pubDate>
+      <guid isPermaLink="false">retaskable-capture-1.0.5-r1</guid>
+    </item>
+    <item>
+      <title>retaskable 1.0.5-r1</title>
+      <link>https://github.com/jdkruzr/reTaskable</link>
+      <description><![CDATA[CalDAV task client for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>jdkruzr</author>
+      <category>utilities</category>
+      <pubDate>Wed, 22 Jul 2026 22:14:56 +0000</pubDate>
+      <guid isPermaLink="false">retaskable-1.0.5-r1</guid>
+    </item>
+    <item>
+      <title>qt-resource-rebuilder 19.0.0-r2</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Rebuilds QT resource databases on the fly to replace or add QML files<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Wed, 22 Jul 2026 22:14:54 +0000</pubDate>
+      <guid isPermaLink="false">qt-resource-rebuilder-19.0.0-r2</guid>
+    </item>
+    <item>
+      <title>qt-command-executor 19.0.0-r2</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Injects a QT module to execute shell commands from QML<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Wed, 22 Jul 2026 22:14:53 +0000</pubDate>
+      <guid isPermaLink="false">qt-command-executor-19.0.0-r2</guid>
+    </item>
+    <item>
+      <title>koreader 2026.03-r5</title>
+      <link>https://github.com/koreader/koreader</link>
+      <description><![CDATA[An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>koreader</author>
+      <category>apps</category>
+      <pubDate>Wed, 22 Jul 2026 22:14:48 +0000</pubDate>
+      <guid isPermaLink="false">koreader-2026.03-r5</guid>
+    </item>
+    <item>
+      <title>framebuffer-spy 19.0.0-r2</title>
+      <link>https://github.com/asivery/rm-xovi-extensions</link>
+      <description><![CDATA[Module for exposing the address of the system framebuffer<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>asivery</author>
+      <category>framework</category>
+      <pubDate>Wed, 22 Jul 2026 22:14:43 +0000</pubDate>
+      <guid isPermaLink="false">framebuffer-spy-19.0.0-r2</guid>
+    </item>
+    <item>
+      <title>external-keyboard-qpa 0.1.0-r1</title>
+      <link>https://github.com/rmitchellscott/epaper-qpa</link>
+      <description><![CDATA[Qt platform plugin for reMarkable e-paper displays with external keyboard support<br/>Devices: rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rmitchellscott</author>
+      <category>framework</category>
+      <pubDate>Wed, 22 Jul 2026 22:14:39 +0000</pubDate>
+      <guid isPermaLink="false">external-keyboard-qpa-0.1.0-r1</guid>
+    </item>
+    <item>
+      <title>entware 1.0.0-r2</title>
+      <link>https://entware.net/</link>
+      <description><![CDATA[Entware software repository for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Entware</author>
+      <category>utilities</category>
+      <pubDate>Wed, 22 Jul 2026 22:14:39 +0000</pubDate>
+      <guid isPermaLink="false">entware-1.0.0-r2</guid>
+    </item>
+    <item>
+      <title>doomarkable 0.4.2-r1</title>
+      <link>https://github.com/LinusCDE/doomarkable</link>
+      <description><![CDATA[DOOM game<br/>Devices: rm1, rmpp, rmppm, rmppmove]]></description>
+      <author>LinusCDE</author>
+      <category>apps</category>
+      <pubDate>Wed, 22 Jul 2026 22:14:38 +0000</pubDate>
+      <guid isPermaLink="false">doomarkable-0.4.2-r1</guid>
+    </item>
     <item>
       <title>gestik 1.1.2-r0</title>
       <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
@@ -539,24 +692,6 @@
       <guid isPermaLink="false">appload-0.5.3-r1</guid>
     </item>
     <item>
-      <title>retaskable-capture 1.0.5-r0</title>
-      <link>https://github.com/jdkruzr/reTaskable</link>
-      <description><![CDATA[reTaskable note capture<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27+]]></description>
-      <author>jdkruzr</author>
-      <category>ui</category>
-      <pubDate>Sat, 11 Jul 2026 05:25:58 +0000</pubDate>
-      <guid isPermaLink="false">retaskable-capture-1.0.5-r0</guid>
-    </item>
-    <item>
-      <title>retaskable 1.0.5-r0</title>
-      <link>https://github.com/jdkruzr/reTaskable</link>
-      <description><![CDATA[CalDAV task client for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>jdkruzr</author>
-      <category>utilities</category>
-      <pubDate>Sat, 11 Jul 2026 05:25:58 +0000</pubDate>
-      <guid isPermaLink="false">retaskable-1.0.5-r0</guid>
-    </item>
-    <item>
       <title>link-from-selection 1.1.0-r0</title>
       <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
       <description><![CDATA[On-page links from a lasso selection: jump to a page in this or another document<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
@@ -591,24 +726,6 @@
       <category>ui</category>
       <pubDate>Wed, 08 Jul 2026 23:53:31 +0000</pubDate>
       <guid isPermaLink="false">random-sleep-screen-1.0.7-r3</guid>
-    </item>
-    <item>
-      <title>tailscale-tun 1.98.8-r0</title>
-      <link>https://tailscale.com</link>
-      <description><![CDATA[Tailscale VPN client<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>tailscale</author>
-      <category>utilities</category>
-      <pubDate>Wed, 08 Jul 2026 22:38:08 +0000</pubDate>
-      <guid isPermaLink="false">tailscale-tun-1.98.8-r0</guid>
-    </item>
-    <item>
-      <title>tailscale 1.98.8-r0</title>
-      <link>https://tailscale.com</link>
-      <description><![CDATA[Tailscale VPN client<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>tailscale</author>
-      <category>utilities</category>
-      <pubDate>Wed, 08 Jul 2026 22:38:08 +0000</pubDate>
-      <guid isPermaLink="false">tailscale-1.98.8-r0</guid>
     </item>
     <item>
       <title>gestik 1.1.0-r0</title>
@@ -683,15 +800,6 @@
       <guid isPermaLink="false">qt-plugin-path-1.0.0-r0</guid>
     </item>
     <item>
-      <title>external-keyboard-qpa 0.1.0-r0</title>
-      <link>https://github.com/rmitchellscott/epaper-qpa</link>
-      <description><![CDATA[Qt platform plugin for reMarkable e-paper displays with external keyboard support<br/>Devices: rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rmitchellscott</author>
-      <category>framework</category>
-      <pubDate>Mon, 06 Jul 2026 19:16:24 +0000</pubDate>
-      <guid isPermaLink="false">external-keyboard-qpa-0.1.0-r0</guid>
-    </item>
-    <item>
       <title>bettertoc-collapse 1.1.0-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
       <description><![CDATA[Adds chevrons to collapse / expand ToC entries based on indent.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
@@ -699,15 +807,6 @@
       <category>ui</category>
       <pubDate>Mon, 06 Jul 2026 19:04:08 +0000</pubDate>
       <guid isPermaLink="false">bettertoc-collapse-1.1.0-r0</guid>
-    </item>
-    <item>
-      <title>doomarkable 0.4.2-r0</title>
-      <link>https://github.com/LinusCDE/doomarkable</link>
-      <description><![CDATA[DOOM game<br/>Devices: rm1, rmpp, rmppm, rmppmove]]></description>
-      <author>LinusCDE</author>
-      <category>apps</category>
-      <pubDate>Mon, 06 Jul 2026 16:30:04 +0000</pubDate>
-      <guid isPermaLink="false">doomarkable-0.4.2-r0</guid>
     </item>
     <item>
       <title>uncompress-dock 1.1.0-r0</title>
@@ -1007,69 +1106,6 @@
       <guid isPermaLink="false">prevent-notebook-zoomout-1.1.0-r0</guid>
     </item>
     <item>
-      <title>rmstream 0.1.5-r0</title>
-      <link>https://github.com/asivery/appload-rmstream</link>
-      <description><![CDATA[Stream your reMarkable's screen to any device on the local network via HTTP<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>asivery</author>
-      <category>apps</category>
-      <pubDate>Tue, 26 May 2026 21:59:09 +0000</pubDate>
-      <guid isPermaLink="false">rmstream-0.1.5-r0</guid>
-    </item>
-    <item>
-      <title>xovi-message-broker 19.0.0-r1</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[IPC messaging between xovi extensions<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Tue, 26 May 2026 19:37:24 +0000</pubDate>
-      <guid isPermaLink="false">xovi-message-broker-19.0.0-r1</guid>
-    </item>
-    <item>
-      <title>xovi-extensions 19.0.0-r1</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Extensions for xovi framework<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.20+]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Tue, 26 May 2026 19:37:24 +0000</pubDate>
-      <guid isPermaLink="false">xovi-extensions-19.0.0-r1</guid>
-    </item>
-    <item>
-      <title>webserver-remote 19.0.0-r1</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Exposes the USB webserver to all interfaces with connection confirmation dialog<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.23 - 3.28]]></description>
-      <author>asivery</author>
-      <category>utilities</category>
-      <pubDate>Tue, 26 May 2026 19:37:23 +0000</pubDate>
-      <guid isPermaLink="false">webserver-remote-19.0.0-r1</guid>
-    </item>
-    <item>
-      <title>qt-resource-rebuilder 19.0.0-r1</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Rebuilds QT resource databases on the fly to replace or add QML files<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Tue, 26 May 2026 19:37:14 +0000</pubDate>
-      <guid isPermaLink="false">qt-resource-rebuilder-19.0.0-r1</guid>
-    </item>
-    <item>
-      <title>qt-command-executor 19.0.0-r1</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Injects a QT module to execute shell commands from QML<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Tue, 26 May 2026 19:37:14 +0000</pubDate>
-      <guid isPermaLink="false">qt-command-executor-19.0.0-r1</guid>
-    </item>
-    <item>
-      <title>framebuffer-spy 19.0.0-r1</title>
-      <link>https://github.com/asivery/rm-xovi-extensions</link>
-      <description><![CDATA[Module for exposing the address of the system framebuffer<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>asivery</author>
-      <category>framework</category>
-      <pubDate>Tue, 26 May 2026 19:37:07 +0000</pubDate>
-      <guid isPermaLink="false">framebuffer-spy-19.0.0-r1</guid>
-    </item>
-    <item>
       <title>doomarkable 0.4.1-r1</title>
       <link>https://github.com/LinusCDE/doomarkable</link>
       <description><![CDATA[DOOM game<br/>Devices: rmpp, rmppm, rmppmove]]></description>
@@ -1077,15 +1113,6 @@
       <category>apps</category>
       <pubDate>Tue, 26 May 2026 19:37:03 +0000</pubDate>
       <guid isPermaLink="false">doomarkable-0.4.1-r1</guid>
-    </item>
-    <item>
-      <title>koreader 2026.03-r4</title>
-      <link>https://github.com/koreader/koreader</link>
-      <description><![CDATA[An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>koreader</author>
-      <category>apps</category>
-      <pubDate>Tue, 26 May 2026 18:21:18 +0000</pubDate>
-      <guid isPermaLink="false">koreader-2026.03-r4</guid>
     </item>
     <item>
       <title>rmstream 0.1.4-r3</title>
@@ -1185,15 +1212,6 @@
       <category>apps</category>
       <pubDate>Tue, 19 May 2026 19:30:05 +0000</pubDate>
       <guid isPermaLink="false">tilem-0.1.3_git6-r3</guid>
-    </item>
-    <item>
-      <title>starship 1.24.2-r2</title>
-      <link>https://starship.rs/</link>
-      <description><![CDATA[The minimal, blazing-fast, and infinitely customizable prompt for any shell!<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>starship</author>
-      <category>utilities</category>
-      <pubDate>Tue, 19 May 2026 19:30:04 +0000</pubDate>
-      <guid isPermaLink="false">starship-1.24.2-r2</guid>
     </item>
     <item>
       <title>less 692-r1</title>
@@ -2022,15 +2040,6 @@
       <category>ui</category>
       <pubDate>Fri, 08 May 2026 02:18:32 +0000</pubDate>
       <guid isPermaLink="false">rubber-eraser-rm1-1.0.1-r2</guid>
-    </item>
-    <item>
-      <title>rmfakecloud-proxy 0.0.10-r1</title>
-      <link>https://github.com/ddvk/rmfakecloud-proxy</link>
-      <description><![CDATA[HTTPS proxy for rmfakecloud - redirects reMarkable cloud traffic<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>ddvk</author>
-      <category>utilities</category>
-      <pubDate>Fri, 08 May 2026 02:18:31 +0000</pubDate>
-      <guid isPermaLink="false">rmfakecloud-proxy-0.0.10-r1</guid>
     </item>
     <item>
       <title>netevent 2.2.2-r1</title>
@@ -4029,15 +4038,6 @@
       <category>ui</category>
       <pubDate>Tue, 10 Feb 2026 23:43:06 +0000</pubDate>
       <guid isPermaLink="false">fav-tag-button-1.0.0-r0</guid>
-    </item>
-    <item>
-      <title>entware 1.0.0-r1</title>
-      <link>https://entware.net/</link>
-      <description><![CDATA[Entware software repository for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Entware</author>
-      <category>utilities</category>
-      <pubDate>Tue, 10 Feb 2026 23:43:06 +0000</pubDate>
-      <guid isPermaLink="false">entware-1.0.0-r1</guid>
     </item>
     <item>
       <title>enable-shortcuts-scroll-page 1.0.1-r0</title>

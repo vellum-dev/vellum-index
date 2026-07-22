@@ -3521,7 +3521,7 @@
         "donateurl": null,
         "first_released": "2026-05-22T18:03:35Z"
       },
-      "0.4.2-r0": {
+      "0.4.2-r1": {
         "pkgdesc": "DOOM game",
         "upstream_author": "LinusCDE",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -3551,7 +3551,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-07-06T16:30:04Z",
+        "released": "2026-07-22T22:14:38Z",
         "readmeurl": "https://raw.githubusercontent.com/LinusCDE/doomarkable/0.4.2/README.md",
         "donateurl": null,
         "first_released": "2026-05-22T18:03:35Z"
@@ -4309,7 +4309,7 @@
       }
     },
     "entware": {
-      "1.0.0-r1": {
+      "1.0.0-r2": {
         "pkgdesc": "Entware software repository for reMarkable tablets",
         "upstream_author": "Entware",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -4341,7 +4341,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-02-10T23:43:06Z",
+        "released": "2026-07-22T22:14:39Z",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T19:57:34Z"
@@ -4435,7 +4435,7 @@
       }
     },
     "external-keyboard-qpa": {
-      "0.1.0-r0": {
+      "0.1.0-r1": {
         "pkgdesc": "Qt platform plugin for reMarkable e-paper displays with external keyboard support",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -4465,7 +4465,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-07-06T19:16:24Z",
+        "released": "2026-07-22T22:14:39Z",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/epaper-qpa/external-keyboard/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-07-06T19:16:24Z"
@@ -7241,7 +7241,7 @@
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r1": {
+      "19.0.0-r2": {
         "pkgdesc": "Module for exposing the address of the system framebuffer",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -7278,7 +7278,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-26T19:37:07Z",
+        "released": "2026-07-22T22:14:43Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -10835,7 +10835,7 @@
         "donateurl": null,
         "first_released": "2026-01-27T18:17:32Z"
       },
-      "2026.03-r4": {
+      "2026.03-r5": {
         "pkgdesc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.",
         "upstream_author": "koreader",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -10867,7 +10867,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-26T18:21:18Z",
+        "released": "2026-07-22T22:14:48Z",
         "readmeurl": "https://raw.githubusercontent.com/koreader/koreader/v2026.03/README.md",
         "donateurl": null,
         "first_released": "2026-01-27T18:17:32Z"
@@ -14137,7 +14137,7 @@
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r1": {
+      "19.0.0-r2": {
         "pkgdesc": "Injects a QT module to execute shell commands from QML",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -14169,7 +14169,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-26T19:37:14Z",
+        "released": "2026-07-22T22:14:53Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -14326,7 +14326,7 @@
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r1": {
+      "19.0.0-r2": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -14358,7 +14358,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-26T19:37:14Z",
+        "released": "2026-07-22T22:14:54Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -15523,7 +15523,7 @@
       }
     },
     "retaskable": {
-      "1.0.5-r0": {
+      "1.0.5-r1": {
         "pkgdesc": "CalDAV task client for reMarkable tablets",
         "upstream_author": "jdkruzr",
         "maintainer": "Jarett <jarett@reticulum.us>",
@@ -15555,14 +15555,14 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-07-11T05:25:58Z",
+        "released": "2026-07-22T22:14:56Z",
         "readmeurl": "https://raw.githubusercontent.com/jdkruzr/reTaskable/v1.0.5/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T05:25:58Z"
       }
     },
     "retaskable-capture": {
-      "1.0.5-r0": {
+      "1.0.5-r1": {
         "pkgdesc": "reTaskable note capture",
         "upstream_author": "jdkruzr",
         "maintainer": "Jarett <jarett@reticulum.us>",
@@ -15604,7 +15604,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-07-11T05:25:58Z",
+        "released": "2026-07-22T22:14:56Z",
         "readmeurl": "https://raw.githubusercontent.com/jdkruzr/reTaskable/v1.0.5/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T05:25:58Z"
@@ -16210,7 +16210,7 @@
         "donateurl": null,
         "first_released": "2026-01-05T01:09:28Z"
       },
-      "0.0.10-r1": {
+      "0.0.10-r2": {
         "pkgdesc": "HTTPS proxy for rmfakecloud - redirects reMarkable cloud traffic",
         "upstream_author": "ddvk",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -16240,7 +16240,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-05-08T02:18:31Z",
+        "released": "2026-07-22T22:14:57Z",
         "readmeurl": "https://raw.githubusercontent.com/ddvk/rmfakecloud-proxy/v0.0.10/README.md",
         "donateurl": null,
         "first_released": "2026-01-05T01:09:28Z"
@@ -16652,7 +16652,7 @@
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-27T18:18:17Z"
       },
-      "0.1.5-r0": {
+      "0.1.5-r1": {
         "pkgdesc": "Stream your reMarkable's screen to any device on the local network via HTTP",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -16688,7 +16688,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-26T21:59:09Z",
+        "released": "2026-07-22T22:14:58Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.5/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-27T18:18:17Z"
@@ -17663,7 +17663,7 @@
       }
     },
     "starship": {
-      "1.24.2-r2": {
+      "1.24.2-r3": {
         "pkgdesc": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
         "upstream_author": "starship",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -17693,7 +17693,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-19T19:30:04Z",
+        "released": "2026-07-22T22:14:59Z",
         "readmeurl": "https://raw.githubusercontent.com/starship/starship/v1.24.2/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:59Z"
@@ -18169,7 +18169,7 @@
         "donateurl": null,
         "first_released": "2026-02-12T15:07:43Z"
       },
-      "1.98.8-r0": {
+      "1.98.8-r1": {
         "pkgdesc": "Tailscale VPN client",
         "upstream_author": "tailscale",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
@@ -18201,14 +18201,14 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-07-08T22:38:08Z",
+        "released": "2026-07-22T22:15:00Z",
         "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.98.8/README.md",
         "donateurl": null,
         "first_released": "2026-02-12T15:07:43Z"
       }
     },
     "tailscale-tun": {
-      "1.98.8-r0": {
+      "1.98.8-r1": {
         "pkgdesc": "Tailscale VPN client",
         "upstream_author": "tailscale",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
@@ -18241,7 +18241,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-07-08T22:38:08Z",
+        "released": "2026-07-22T22:15:00Z",
         "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.98.8/README.md",
         "donateurl": null,
         "first_released": "2026-07-08T22:38:08Z"
@@ -20288,7 +20288,7 @@
       }
     },
     "vnsee-qtfb": {
-      "1.1.0-r4": {
+      "1.1.0-r5": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen",
         "upstream_author": "khyryra",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
@@ -20318,7 +20318,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-11T14:42:37Z",
+        "released": "2026-07-22T22:15:04Z",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
         "donateurl": null,
         "first_released": "2026-01-28T23:03:00Z"
@@ -20516,7 +20516,7 @@
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r1": {
+      "19.0.0-r2": {
         "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -20560,7 +20560,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-26T19:37:23Z",
+        "released": "2026-07-22T22:15:05Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -20814,7 +20814,7 @@
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r1": {
+      "19.0.0-r2": {
         "pkgdesc": "Extensions for xovi framework",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -20853,7 +20853,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-26T19:37:24Z",
+        "released": "2026-07-22T22:15:05Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -20971,7 +20971,7 @@
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r1": {
+      "19.0.0-r2": {
         "pkgdesc": "IPC messaging between xovi extensions",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -21003,7 +21003,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-26T19:37:24Z",
+        "released": "2026-07-22T22:15:05Z",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -21545,5 +21545,5 @@
       }
     }
   },
-  "generated": "2026-07-20T16:43:18Z"
+  "generated": "2026-07-22T22:15:45Z"
 }
