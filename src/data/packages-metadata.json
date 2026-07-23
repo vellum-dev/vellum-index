@@ -15522,6 +15522,45 @@
         "first_released": "2026-01-09T04:09:45Z"
       }
     },
+    "remarkdown": {
+      "0.1.0-r0": {
+        "pkgdesc": "A lightweight Markdown editor for the reMarkable tablet, to be used via AppLoad",
+        "upstream_author": "esclee",
+        "maintainer": "esclee <5288860+esclee@users.noreply.github.com>",
+        "categories": [
+          "apps"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/esclee/reMarkdown",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "appload>=0.5.1"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-07-23T06:39:33Z",
+        "readmeurl": "https://raw.githubusercontent.com/esclee/reMarkdown/v0.1.0/README.md",
+        "donateurl": null,
+        "first_released": "2026-07-23T06:39:33Z"
+      }
+    },
     "retaskable": {
       "1.0.5-r1": {
         "pkgdesc": "CalDAV task client for reMarkable tablets",
@@ -21545,5 +21584,5 @@
       }
     }
   },
-  "generated": "2026-07-22T22:15:45Z"
+  "generated": "2026-07-23T06:40:26Z"
 }

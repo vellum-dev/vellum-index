@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 22:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 06:40:26 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>remarkdown 0.1.0-r0</title>
+      <link>https://github.com/esclee/reMarkdown</link>
+      <description><![CDATA[A lightweight Markdown editor for the reMarkable tablet, to be used via AppLoad<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>esclee</author>
+      <category>apps</category>
+      <pubDate>Thu, 23 Jul 2026 06:39:33 +0000</pubDate>
+      <guid isPermaLink="false">remarkdown-0.1.0-r0</guid>
+    </item>
     <item>
       <title>xovi-message-broker 19.0.0-r2</title>
       <link>https://github.com/asivery/rm-xovi-extensions</link>
