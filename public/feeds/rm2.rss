@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 00:42:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 22:25:27 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>koreader 2026.07-r0</title>
+      <link>https://github.com/koreader/koreader</link>
+      <description><![CDATA[An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>koreader</author>
+      <category>apps</category>
+      <pubDate>Mon, 27 Jul 2026 22:24:45 +0000</pubDate>
+      <guid isPermaLink="false">koreader-2026.07-r0</guid>
+    </item>
     <item>
       <title>xovi-message-broker 19.0.0-r3</title>
       <link>https://github.com/asivery/rm-xovi-extensions</link>
