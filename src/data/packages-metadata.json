@@ -5112,7 +5112,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:00Z"
       },
-      "3.1-r0": {
+      "3.1-r1": {
         "pkgdesc": "Print out framebuffer info",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -5142,7 +5142,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-07-14T07:37:06Z",
+        "released": "2026-07-28T05:06:43Z",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:00Z"
@@ -10648,7 +10648,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
       },
-      "3.1-r0": {
+      "3.1-r1": {
         "pkgdesc": "Inject input events",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -10670,7 +10670,7 @@
           "rmppure"
         ],
         "depends": [
-          "liboxide=3.1-r0"
+          "liboxide=3.1-r1"
         ],
         "conflicts": [],
         "provides": [],
@@ -10680,7 +10680,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-07-14T07:37:13Z",
+        "released": "2026-07-28T05:06:50Z",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -10991,7 +10991,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
       },
-      "3.1-r0": {
+      "3.1-r1": {
         "pkgdesc": "Manage your installed launcher",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -11013,7 +11013,7 @@
           "rmppure"
         ],
         "depends": [
-          "liboxide=3.1-r0",
+          "liboxide=3.1-r1",
           "lockscreen_hook"
         ],
         "conflicts": [
@@ -11026,7 +11026,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-07-14T07:37:13Z",
+        "released": "2026-07-28T05:06:50Z",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -11151,7 +11151,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
       },
-      "3.1-r0": {
+      "3.1-r1": {
         "pkgdesc": "Launcherctl configuration for oxide",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -11173,8 +11173,8 @@
           "rmppure"
         ],
         "depends": [
-          "oxide=3.1-r0",
-          "oxide-utils=3.1-r0",
+          "oxide=3.1-r1",
+          "oxide-utils=3.1-r1",
           "launcherctl"
         ],
         "conflicts": [],
@@ -11185,7 +11185,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-07-14T07:37:13Z",
+        "released": "2026-07-28T05:06:51Z",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -11302,7 +11302,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
       },
-      "3.1-r0": {
+      "3.1-r1": {
         "pkgdesc": "Shared library for oxide applications",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -11332,7 +11332,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-07-14T07:37:13Z",
+        "released": "2026-07-28T05:06:51Z",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -11413,7 +11413,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:09Z"
       },
-      "3.1-r0": {
+      "3.1-r1": {
         "pkgdesc": "Shared library for oxide applications",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -11435,7 +11435,7 @@
           "rmppure"
         ],
         "depends": [
-          "liboxide=3.1-r0"
+          "liboxide=3.1-r1"
         ],
         "conflicts": [],
         "provides": [],
@@ -11445,7 +11445,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-07-14T07:37:14Z",
+        "released": "2026-07-28T05:06:51Z",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:09Z"
@@ -11812,7 +11812,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:09Z"
       },
-      "3.1-r0": {
+      "3.1-r1": {
         "pkgdesc": "Run scripts after unlock",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -11847,7 +11847,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-07-14T07:37:14Z",
+        "released": "2026-07-28T05:06:51Z",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:09Z"
@@ -12841,7 +12841,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
       },
-      "3.1-r0": {
+      "3.1-r1": {
         "pkgdesc": "Launcher application",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -12863,8 +12863,8 @@
           "rmppure"
         ],
         "depends": [
-          "oxide-display=3.1-r0",
-          "liboxide=3.1-r0"
+          "oxide-display=3.1-r1",
+          "liboxide=3.1-r1"
         ],
         "conflicts": [],
         "provides": [],
@@ -12874,7 +12874,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-07-14T07:37:15Z",
+        "released": "2026-07-28T05:06:53Z",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -12965,7 +12965,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
       },
-      "3.1-r0": {
+      "3.1-r1": {
         "pkgdesc": "Oxide display server",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -12992,7 +12992,7 @@
           "rmppure"
         ],
         "depends": [
-          "liboxide=3.1-r0"
+          "liboxide=3.1-r1"
         ],
         "conflicts": [],
         "provides": [],
@@ -13002,7 +13002,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-07-14T07:37:16Z",
+        "released": "2026-07-28T05:06:53Z",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13083,7 +13083,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
       },
-      "3.1-r0": {
+      "3.1-r1": {
         "pkgdesc": "Oxide display server",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -13105,7 +13105,7 @@
           "rmppure"
         ],
         "depends": [
-          "oxide-display=3.1-r0"
+          "oxide-display=3.1-r1"
         ],
         "conflicts": [],
         "provides": [],
@@ -13115,7 +13115,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-07-14T07:37:16Z",
+        "released": "2026-07-28T05:06:53Z",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13200,7 +13200,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
       },
-      "3.1-r0": {
+      "3.1-r1": {
         "pkgdesc": "Extra applications for oxide",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -13222,9 +13222,9 @@
           "rmppure"
         ],
         "depends": [
-          "oxide=3.1-r0",
-          "oxide-utils=3.1-r0",
-          "liboxide=3.1-r0"
+          "oxide=3.1-r1",
+          "oxide-utils=3.1-r1",
+          "liboxide=3.1-r1"
         ],
         "conflicts": [],
         "provides": [],
@@ -13234,7 +13234,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-07-14T07:37:16Z",
+        "released": "2026-07-28T05:06:53Z",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13317,7 +13317,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
       },
-      "3.1-r0": {
+      "3.1-r1": {
         "pkgdesc": "Automated tests for oxide",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -13339,8 +13339,8 @@
           "rmppure"
         ],
         "depends": [
-          "oxide-display=3.1-r0",
-          "liboxide=3.1-r0"
+          "oxide-display=3.1-r1",
+          "liboxide=3.1-r1"
         ],
         "conflicts": [],
         "provides": [],
@@ -13350,7 +13350,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-07-14T07:37:16Z",
+        "released": "2026-07-28T05:06:54Z",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13435,7 +13435,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
       },
-      "3.1-r0": {
+      "3.1-r1": {
         "pkgdesc": "Command line tools for Oxide",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -13457,8 +13457,8 @@
           "rmppure"
         ],
         "depends": [
-          "oxide=3.1-r0",
-          "liboxide=3.1-r0",
+          "oxide=3.1-r1",
+          "liboxide=3.1-r1",
           "jq"
         ],
         "conflicts": [],
@@ -13469,7 +13469,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-07-14T07:37:16Z",
+        "released": "2026-07-28T05:06:54Z",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13552,7 +13552,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
       },
-      "3.1-r0": {
+      "3.1-r1": {
         "pkgdesc": "Xovi application registration for oxide",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -13574,7 +13574,7 @@
           "rmppure"
         ],
         "depends": [
-          "oxide=3.1-r0",
+          "oxide=3.1-r1",
           "xovi"
         ],
         "conflicts": [],
@@ -13585,7 +13585,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-07-14T07:37:16Z",
+        "released": "2026-07-28T05:06:54Z",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -21621,5 +21621,5 @@
       }
     }
   },
-  "generated": "2026-07-27T22:25:27Z"
+  "generated": "2026-07-28T05:07:40Z"
 }
