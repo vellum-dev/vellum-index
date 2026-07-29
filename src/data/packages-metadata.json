@@ -19379,7 +19379,7 @@
     "tun": {
       "1.0.1-r2": {
         "pkgdesc": "TUN module for rMP[Pro, Move, Pure], compiled from kernel code released by rM using rM's SDKs",
-        "upstream_author": "esclee",
+        "upstream_author": "reMarkable",
         "maintainer": "esclee <5288860+esclee@users.noreply.github.com>",
         "categories": [
           "utilities"
@@ -19416,6 +19416,49 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-16T05:50:01Z",
+        "readmeurl": null,
+        "donateurl": null,
+        "first_released": "2026-07-07T19:50:29Z"
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "TUN module for rMP[Pro, Move, Pure], compiled from kernel code released by rM using rM's SDKs",
+        "upstream_author": "reMarkable",
+        "maintainer": "esclee <5288860+esclee@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "GPL-2.0-or-later",
+        "url": "https://github.com/reMarkable/linux-imx-rm",
+        "status": "maintained",
+        "os_min": "3.27",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.27",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "mount-utils>=1.2.0"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64"
+        ],
+        "modifies_system": true,
+        "auto_install": false,
+        "released": "2026-07-29T23:08:13Z",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-07-07T19:50:29Z"
@@ -21621,5 +21664,5 @@
       }
     }
   },
-  "generated": "2026-07-28T05:07:40Z"
+  "generated": "2026-07-29T23:08:57Z"
 }

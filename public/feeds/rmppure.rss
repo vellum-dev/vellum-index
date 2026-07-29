@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pure</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 05:07:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 23:08:57 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppure.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>tun 1.0.2-r0</title>
+      <link>https://github.com/reMarkable/linux-imx-rm</link>
+      <description><![CDATA[TUN module for rMP[Pro, Move, Pure], compiled from kernel code released by rM using rM's SDKs<br/>Devices: rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>reMarkable</author>
+      <category>utilities</category>
+      <pubDate>Wed, 29 Jul 2026 23:08:13 +0000</pubDate>
+      <guid isPermaLink="false">tun-1.0.2-r0</guid>
+    </item>
     <item>
       <title>oxide-xovi 3.1-r1</title>
       <link>https://oxide.eeems.codes</link>
@@ -380,7 +389,7 @@
       <title>tun 1.0.1-r2</title>
       <link>https://github.com/esclee/tun-package</link>
       <description><![CDATA[TUN module for rMP[Pro, Move, Pure], compiled from kernel code released by rM using rM's SDKs<br/>Devices: rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>esclee</author>
+      <author>reMarkable</author>
       <category>utilities</category>
       <pubDate>Thu, 16 Jul 2026 05:50:01 +0000</pubDate>
       <guid isPermaLink="false">tun-1.0.1-r2</guid>
