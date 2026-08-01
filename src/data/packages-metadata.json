@@ -13591,6 +13591,40 @@
         "first_released": "2026-07-11T19:46:11Z"
       }
     },
+    "pandoc": {
+      "3.10.1-r0": {
+        "pkgdesc": "a Haskell library for converting from one markup format to another, and a command-line tool that uses this library",
+        "upstream_author": "jgm",
+        "maintainer": "esclee <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "GPL-2.0-or-later",
+        "url": "https://pandoc.org/",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-08-01T17:23:04Z",
+        "readmeurl": "https://raw.githubusercontent.com/jgm/pandoc/3.10.1/README.md",
+        "donateurl": null,
+        "first_released": "2026-08-01T17:23:04Z"
+      }
+    },
     "pen-layer-memory": {
       "1.0.0-r0": {
         "pkgdesc": "Remembers which layer each pen tool was last used on, and switches to that layer when the pen is selected.",
@@ -21664,5 +21698,5 @@
       }
     }
   },
-  "generated": "2026-07-29T23:08:57Z"
+  "generated": "2026-08-01T17:24:00Z"
 }
