@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pure</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 23:42:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:51:59 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppure.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>stylus-remapper 0.2.1-r1</title>
+      <link>https://github.com/rmitchellscott/rm-stylus-remapper</link>
+      <description><![CDATA[Remaps stylus input events with configurable presets, pressure curves, and position offsets.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>rmitchellscott</author>
+      <category>utilities</category>
+      <pubDate>Thu, 06 Aug 2026 23:51:13 +0000</pubDate>
+      <guid isPermaLink="false">stylus-remapper-0.2.1-r1</guid>
+    </item>
     <item>
       <title>xovi-message-broker 17.0.0-r6</title>
       <link>https://github.com/asivery/rm-xovi-extensions</link>
@@ -1185,15 +1194,6 @@
       <category>utilities</category>
       <pubDate>Sat, 30 May 2026 17:02:48 +0000</pubDate>
       <guid isPermaLink="false">zerotier-one-1.16.2-r0</guid>
-    </item>
-    <item>
-      <title>stylus-remapper 0.2.1-r0</title>
-      <link>https://github.com/rmitchellscott/rm-stylus-remapper</link>
-      <description><![CDATA[Remaps stylus input events with configurable presets, pressure curves, and position offsets.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rmitchellscott</author>
-      <category>utilities</category>
-      <pubDate>Wed, 27 May 2026 21:43:18 +0000</pubDate>
-      <guid isPermaLink="false">stylus-remapper-0.2.1-r0</guid>
     </item>
     <item>
       <title>prevent-notebook-zoomout 1.1.0-r0</title>
