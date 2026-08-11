@@ -5,160 +5,205 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 22:32:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 04:44:00 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
     <item>
-      <title>oxide-xovi 3.1.1-r2</title>
+      <title>yaft 0.1.4-r5</title>
+      <link>https://github.com/timower/rM2-stuff</link>
+      <description><![CDATA[Yet another framebuffer terminal<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>timower</author>
+      <category>apps</category>
+      <pubDate>Tue, 11 Aug 2026 04:43:19 +0000</pubDate>
+      <guid isPermaLink="false">yaft-0.1.4-r5</guid>
+    </item>
+    <item>
+      <title>vnsee-qtfb 1.1.0-r6</title>
+      <link>https://github.com/khyryra/vnsee-qtfb</link>
+      <description><![CDATA[VNC client for the reMarkable tablet allowing you to use the device as a second screen<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
+      <author>khyryra</author>
+      <category>apps</category>
+      <pubDate>Tue, 11 Aug 2026 04:43:18 +0000</pubDate>
+      <guid isPermaLink="false">vnsee-qtfb-1.1.0-r6</guid>
+    </item>
+    <item>
+      <title>tilem 0.1.4-r3</title>
+      <link>https://github.com/timower/rM2-stuff</link>
+      <description><![CDATA[A TI-84+ calculator emulator for the remarkable.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>timower</author>
+      <category>apps</category>
+      <pubDate>Tue, 11 Aug 2026 04:43:14 +0000</pubDate>
+      <guid isPermaLink="false">tilem-0.1.4-r3</guid>
+    </item>
+    <item>
+      <title>puzzles 0.2.4-r4</title>
+      <link>https://github.com/rmkit-dev/remarkable_puzzles</link>
+      <description><![CDATA[Simon Tatham's Puzzle Package<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rmkit-dev</author>
+      <category>apps</category>
+      <pubDate>Tue, 11 Aug 2026 04:43:07 +0000</pubDate>
+      <guid isPermaLink="false">puzzles-0.2.4-r4</guid>
+    </item>
+    <item>
+      <title>oxide-xovi 3.1.1-r3</title>
       <link>https://oxide.eeems.codes</link>
       <description><![CDATA[Xovi application registration for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>Eeems-Org</author>
       <category>framework</category>
-      <pubDate>Mon, 10 Aug 2026 22:31:17 +0000</pubDate>
-      <guid isPermaLink="false">oxide-xovi-3.1.1-r2</guid>
+      <pubDate>Tue, 11 Aug 2026 04:43:06 +0000</pubDate>
+      <guid isPermaLink="false">oxide-xovi-3.1.1-r3</guid>
     </item>
     <item>
-      <title>oxide-utils 3.1.1-r2</title>
+      <title>oxide-utils 3.1.1-r3</title>
       <link>https://oxide.eeems.codes</link>
       <description><![CDATA[Command line tools for Oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>Eeems-Org</author>
       <category>utilities</category>
-      <pubDate>Mon, 10 Aug 2026 22:31:17 +0000</pubDate>
-      <guid isPermaLink="false">oxide-utils-3.1.1-r2</guid>
+      <pubDate>Tue, 11 Aug 2026 04:43:06 +0000</pubDate>
+      <guid isPermaLink="false">oxide-utils-3.1.1-r3</guid>
     </item>
     <item>
-      <title>oxide-tests 3.1.1-r2</title>
+      <title>oxide-tests 3.1.1-r3</title>
       <link>https://oxide.eeems.codes</link>
       <description><![CDATA[Automated tests for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>Eeems-Org</author>
       <category>framework</category>
-      <pubDate>Mon, 10 Aug 2026 22:31:16 +0000</pubDate>
-      <guid isPermaLink="false">oxide-tests-3.1.1-r2</guid>
+      <pubDate>Tue, 11 Aug 2026 04:43:05 +0000</pubDate>
+      <guid isPermaLink="false">oxide-tests-3.1.1-r3</guid>
     </item>
     <item>
-      <title>oxide-extra 3.1.1-r2</title>
+      <title>oxide-extra 3.1.1-r3</title>
       <link>https://oxide.eeems.codes</link>
       <description><![CDATA[Extra applications for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>Eeems-Org</author>
       <category>apps</category>
-      <pubDate>Mon, 10 Aug 2026 22:31:16 +0000</pubDate>
-      <guid isPermaLink="false">oxide-extra-3.1.1-r2</guid>
+      <pubDate>Tue, 11 Aug 2026 04:43:05 +0000</pubDate>
+      <guid isPermaLink="false">oxide-extra-3.1.1-r3</guid>
     </item>
     <item>
-      <title>oxide-display-dev 3.1.1-r2</title>
+      <title>oxide-display-dev 3.1.1-r3</title>
       <link>https://oxide.eeems.codes</link>
       <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>Eeems-Org</author>
       <category>development</category>
-      <pubDate>Mon, 10 Aug 2026 22:31:16 +0000</pubDate>
-      <guid isPermaLink="false">oxide-display-dev-3.1.1-r2</guid>
+      <pubDate>Tue, 11 Aug 2026 04:43:05 +0000</pubDate>
+      <guid isPermaLink="false">oxide-display-dev-3.1.1-r3</guid>
     </item>
     <item>
-      <title>oxide-display 3.1.1-r2</title>
+      <title>oxide-display 3.1.1-r3</title>
       <link>https://oxide.eeems.codes</link>
       <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
       <author>Eeems-Org</author>
       <category>framework</category>
-      <pubDate>Mon, 10 Aug 2026 22:31:15 +0000</pubDate>
-      <guid isPermaLink="false">oxide-display-3.1.1-r2</guid>
+      <pubDate>Tue, 11 Aug 2026 04:43:05 +0000</pubDate>
+      <guid isPermaLink="false">oxide-display-3.1.1-r3</guid>
     </item>
     <item>
-      <title>oxide 3.1.1-r2</title>
+      <title>oxide 3.1.1-r3</title>
       <link>https://oxide.eeems.codes</link>
       <description><![CDATA[Launcher application<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>Eeems-Org</author>
       <category>launchers</category>
-      <pubDate>Mon, 10 Aug 2026 22:31:15 +0000</pubDate>
-      <guid isPermaLink="false">oxide-3.1.1-r2</guid>
+      <pubDate>Tue, 11 Aug 2026 04:43:04 +0000</pubDate>
+      <guid isPermaLink="false">oxide-3.1.1-r3</guid>
     </item>
     <item>
-      <title>lockscreen_hook 3.1.1-r2</title>
+      <title>netsurf 0.5.0-r1</title>
+      <link>https://github.com/MaicroNotHard/netsurf-reMarkable</link>
+      <description><![CDATA[Lightweight web browser<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>MaicroNotHard</author>
+      <category>apps</category>
+      <pubDate>Tue, 11 Aug 2026 04:43:04 +0000</pubDate>
+      <guid isPermaLink="false">netsurf-0.5.0-r1</guid>
+    </item>
+    <item>
+      <title>lockscreen_hook 3.1.1-r3</title>
       <link>https://oxide.eeems.codes</link>
       <description><![CDATA[Run scripts after unlock<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
       <author>Eeems-Org</author>
       <category>framework</category>
-      <pubDate>Mon, 10 Aug 2026 22:31:13 +0000</pubDate>
-      <guid isPermaLink="false">lockscreen_hook-3.1.1-r2</guid>
+      <pubDate>Tue, 11 Aug 2026 04:43:03 +0000</pubDate>
+      <guid isPermaLink="false">lockscreen_hook-3.1.1-r3</guid>
     </item>
     <item>
-      <title>liboxide-dev 3.1.1-r2</title>
+      <title>liboxide-dev 3.1.1-r3</title>
       <link>https://oxide.eeems.codes</link>
       <description><![CDATA[Shared library for oxide applications<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>Eeems-Org</author>
       <category>development</category>
-      <pubDate>Mon, 10 Aug 2026 22:31:13 +0000</pubDate>
-      <guid isPermaLink="false">liboxide-dev-3.1.1-r2</guid>
+      <pubDate>Tue, 11 Aug 2026 04:43:02 +0000</pubDate>
+      <guid isPermaLink="false">liboxide-dev-3.1.1-r3</guid>
     </item>
     <item>
-      <title>liboxide 3.1.1-r2</title>
+      <title>liboxide 3.1.1-r3</title>
       <link>https://oxide.eeems.codes</link>
       <description><![CDATA[Shared library for oxide applications<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>Eeems-Org</author>
       <category>framework</category>
-      <pubDate>Mon, 10 Aug 2026 22:31:12 +0000</pubDate>
-      <guid isPermaLink="false">liboxide-3.1.1-r2</guid>
+      <pubDate>Tue, 11 Aug 2026 04:43:02 +0000</pubDate>
+      <guid isPermaLink="false">liboxide-3.1.1-r3</guid>
     </item>
     <item>
-      <title>launcherctl-oxide 3.1.1-r2</title>
+      <title>launcherctl-oxide 3.1.1-r3</title>
       <link>https://oxide.eeems.codes</link>
       <description><![CDATA[Launcherctl configuration for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>Eeems-Org</author>
       <category>utilities</category>
-      <pubDate>Mon, 10 Aug 2026 22:31:12 +0000</pubDate>
-      <guid isPermaLink="false">launcherctl-oxide-3.1.1-r2</guid>
+      <pubDate>Tue, 11 Aug 2026 04:43:01 +0000</pubDate>
+      <guid isPermaLink="false">launcherctl-oxide-3.1.1-r3</guid>
     </item>
     <item>
-      <title>launcherctl-appload 0.5.3-r2</title>
+      <title>launcherctl-appload 0.5.3-r3</title>
       <link>https://github.com/asivery/rm-appload</link>
       <description><![CDATA[Launcherctl configuration for appload<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>asivery</author>
       <category>utilities</category>
-      <pubDate>Mon, 10 Aug 2026 22:31:12 +0000</pubDate>
-      <guid isPermaLink="false">launcherctl-appload-0.5.3-r2</guid>
+      <pubDate>Tue, 11 Aug 2026 04:43:01 +0000</pubDate>
+      <guid isPermaLink="false">launcherctl-appload-0.5.3-r3</guid>
     </item>
     <item>
-      <title>launcherctl 3.1.1-r2</title>
+      <title>launcherctl 3.1.1-r3</title>
       <link>https://oxide.eeems.codes</link>
       <description><![CDATA[Manage your installed launcher<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>Eeems-Org</author>
       <category>utilities</category>
-      <pubDate>Mon, 10 Aug 2026 22:31:12 +0000</pubDate>
-      <guid isPermaLink="false">launcherctl-3.1.1-r2</guid>
+      <pubDate>Tue, 11 Aug 2026 04:43:01 +0000</pubDate>
+      <guid isPermaLink="false">launcherctl-3.1.1-r3</guid>
     </item>
     <item>
-      <title>inject_evdev 3.1.1-r2</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Inject input events<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>utilities</category>
-      <pubDate>Mon, 10 Aug 2026 22:31:11 +0000</pubDate>
-      <guid isPermaLink="false">inject_evdev-3.1.1-r2</guid>
-    </item>
-    <item>
-      <title>fbinfo 3.1.1-r2</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Print out framebuffer info<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>utilities</category>
-      <pubDate>Mon, 10 Aug 2026 22:31:03 +0000</pubDate>
-      <guid isPermaLink="false">fbinfo-3.1.1-r2</guid>
-    </item>
-    <item>
-      <title>appload 0.5.3-r2</title>
-      <link>https://github.com/asivery/rm-appload</link>
-      <description><![CDATA[XOVI extension for windowed and fullscreen apps<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
-      <author>asivery</author>
-      <category>launchers</category>
-      <pubDate>Mon, 10 Aug 2026 22:30:57 +0000</pubDate>
-      <guid isPermaLink="false">appload-0.5.3-r2</guid>
-    </item>
-    <item>
-      <title>koreader 2026.07.1-r0</title>
+      <title>koreader 2026.07.1-r1</title>
       <link>https://github.com/koreader/koreader</link>
       <description><![CDATA[An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>koreader</author>
       <category>apps</category>
-      <pubDate>Fri, 07 Aug 2026 05:15:03 +0000</pubDate>
-      <guid isPermaLink="false">koreader-2026.07.1-r0</guid>
+      <pubDate>Tue, 11 Aug 2026 04:43:01 +0000</pubDate>
+      <guid isPermaLink="false">koreader-2026.07.1-r1</guid>
+    </item>
+    <item>
+      <title>inject_evdev 3.1.1-r3</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Inject input events<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Tue, 11 Aug 2026 04:43:00 +0000</pubDate>
+      <guid isPermaLink="false">inject_evdev-3.1.1-r3</guid>
+    </item>
+    <item>
+      <title>fbinfo 3.1.1-r3</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Print out framebuffer info<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Tue, 11 Aug 2026 04:42:53 +0000</pubDate>
+      <guid isPermaLink="false">fbinfo-3.1.1-r3</guid>
+    </item>
+    <item>
+      <title>appload 0.5.3-r3</title>
+      <link>https://github.com/asivery/rm-appload</link>
+      <description><![CDATA[XOVI extension for windowed and fullscreen apps<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
+      <author>asivery</author>
+      <category>launchers</category>
+      <pubDate>Tue, 11 Aug 2026 04:42:47 +0000</pubDate>
+      <guid isPermaLink="false">appload-0.5.3-r3</guid>
     </item>
     <item>
       <title>stylus-remapper 0.2.1-r1</title>
@@ -465,15 +510,6 @@
       <category>apps</category>
       <pubDate>Thu, 23 Jul 2026 06:39:33 +0000</pubDate>
       <guid isPermaLink="false">remarkdown-0.1.0-r0</guid>
-    </item>
-    <item>
-      <title>vnsee-qtfb 1.1.0-r5</title>
-      <link>https://github.com/khyryra/vnsee-qtfb</link>
-      <description><![CDATA[VNC client for the reMarkable tablet allowing you to use the device as a second screen<br/>Devices: rm1, rm2, rmpp, rmppm]]></description>
-      <author>khyryra</author>
-      <category>apps</category>
-      <pubDate>Wed, 22 Jul 2026 22:15:04 +0000</pubDate>
-      <guid isPermaLink="false">vnsee-qtfb-1.1.0-r5</guid>
     </item>
     <item>
       <title>tailscale-tun 1.98.8-r1</title>
@@ -1079,24 +1115,6 @@
       <guid isPermaLink="false">battery-percentage-1.0.0-r0</guid>
     </item>
     <item>
-      <title>netsurf 0.5.0-r0</title>
-      <link>https://github.com/MaicroNotHard/netsurf-reMarkable</link>
-      <description><![CDATA[Lightweight web browser<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>MaicroNotHard</author>
-      <category>apps</category>
-      <pubDate>Sat, 27 Jun 2026 22:51:06 +0000</pubDate>
-      <guid isPermaLink="false">netsurf-0.5.0-r0</guid>
-    </item>
-    <item>
-      <title>yaft 0.1.4-r4</title>
-      <link>https://github.com/timower/rM2-stuff</link>
-      <description><![CDATA[Yet another framebuffer terminal<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>timower</author>
-      <category>apps</category>
-      <pubDate>Fri, 26 Jun 2026 04:18:04 +0000</pubDate>
-      <guid isPermaLink="false">yaft-0.1.4-r4</guid>
-    </item>
-    <item>
       <title>hide-back-to-page-bar 1.0.0-r0</title>
       <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
       <description><![CDATA[Hides the native Back-to-page-N bar shown after following a PDF hyperlink<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
@@ -1266,24 +1284,6 @@
       <category>ui</category>
       <pubDate>Thu, 11 Jun 2026 19:23:10 +0000</pubDate>
       <guid isPermaLink="false">quicksettings-screenshot-2.0.0-r5</guid>
-    </item>
-    <item>
-      <title>puzzles 0.2.4-r3</title>
-      <link>https://github.com/rmkit-dev/remarkable_puzzles</link>
-      <description><![CDATA[Simon Tatham's Puzzle Package<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rmkit-dev</author>
-      <category>apps</category>
-      <pubDate>Tue, 02 Jun 2026 02:04:09 +0000</pubDate>
-      <guid isPermaLink="false">puzzles-0.2.4-r3</guid>
-    </item>
-    <item>
-      <title>tilem 0.1.4-r2</title>
-      <link>https://github.com/timower/rM2-stuff</link>
-      <description><![CDATA[A TI-84+ calculator emulator for the remarkable.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>timower</author>
-      <category>apps</category>
-      <pubDate>Tue, 02 Jun 2026 01:55:21 +0000</pubDate>
-      <guid isPermaLink="false">tilem-0.1.4-r2</guid>
     </item>
     <item>
       <title>zerotier-selftest 1.16.2-r0</title>
