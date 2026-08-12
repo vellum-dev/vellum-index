@@ -20454,6 +20454,55 @@
         "first_released": "2026-01-14T14:46:17Z"
       }
     },
+    "trmnl-remarkable": {
+      "2.3.0-r0": {
+        "pkgdesc": "TRMNL dashboard client for AppLoad: renders your TRMNL playlist on the tablet",
+        "upstream_author": "usetrmnl",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "apps"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/usetrmnl/trmnl-remarkable",
+        "status": "maintained",
+        "os_min": "3.26",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.26",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "appload"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-08-12T20:20:27Z",
+        "origin": "trmnl-remarkable",
+        "readmeurl": "https://raw.githubusercontent.com/usetrmnl/trmnl-remarkable/v2.3.0/README.md",
+        "donateurl": null,
+        "first_released": "2026-08-12T20:20:27Z"
+      }
+    },
     "tun": {
       "1.0.1-r2": {
         "pkgdesc": "TUN module for rMP[Pro, Move, Pure], compiled from kernel code released by rM using rM's SDKs",
@@ -22838,5 +22887,5 @@
       }
     }
   },
-  "generated": "2026-08-12T15:05:36Z"
+  "generated": "2026-08-12T20:21:16Z"
 }
