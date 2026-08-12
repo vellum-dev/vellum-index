@@ -2118,7 +2118,7 @@
       }
     },
     "chessmarkable": {
-      "0.8.1-r4": {
+      "0.8.1-r5": {
         "pkgdesc": "Chess game",
         "upstream_author": "LinusCDE",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -2132,6 +2132,8 @@
         "os_max": null,
         "os_constraints": null,
         "devices": [
+          "rm1",
+          "rm2",
           "rmpp",
           "rmppm",
           "rmppmove"
@@ -2142,11 +2144,12 @@
         "conflicts": [],
         "provides": [],
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armv7"
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-08-11T04:42:49Z",
+        "released": "2026-08-12T15:04:30Z",
         "origin": "chessmarkable",
         "readmeurl": "https://raw.githubusercontent.com/LinusCDE/chessmarkable/0.8.1-1/README.md",
         "donateurl": null,
@@ -22835,5 +22838,5 @@
       }
     }
   },
-  "generated": "2026-08-12T13:36:40Z"
+  "generated": "2026-08-12T15:05:36Z"
 }
