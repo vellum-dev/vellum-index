@@ -99,7 +99,7 @@ function PackageActions({ name, currentPkg }: { name: string; currentPkg: FlatPa
       <h3 className="text-sm font-medium text-muted-foreground mb-2">Package Actions</h3>
       <div className="flex flex-wrap gap-x-4 gap-y-2 items-center">
         <a
-          href={`https://github.com/vellum-dev/vellum/tree/main/packages/${name}`}
+          href={`https://github.com/vellum-dev/vellum/tree/main/packages/${currentPkg.origin || name}`}
           target="_blank"
           rel="noopener noreferrer"
           className="text-sm text-primary hover:underline"

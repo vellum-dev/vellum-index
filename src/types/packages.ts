@@ -40,6 +40,7 @@ export interface PackageVersion {
   modifies_system: boolean;
   auto_install: boolean;
   status: string;
+  origin?: string | null;
   readmeurl: string | null;
   donateurl: string | null;
 }
