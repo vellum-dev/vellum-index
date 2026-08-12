@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 13:22:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:36:40 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>yaft 0.1.4-r5</title>
@@ -1329,15 +1329,6 @@
       <category>ui</category>
       <pubDate>Tue, 16 Jun 2026 14:20:32 +0000</pubDate>
       <guid isPermaLink="false">disable-infinite-scroll-1.1.0-r6</guid>
-    </item>
-    <item>
-      <title>rmpp-fixes 0.1-r0</title>
-      <link>https://vellum.delivery/</link>
-      <description><![CDATA[Fix systemd service startup issues on the rMPP<br/>Devices: rmpp<br/>OS: 3.27.1.0+]]></description>
-      <author>unknown</author>
-      <category>other</category>
-      <pubDate>Fri, 12 Jun 2026 23:26:09 +0000</pubDate>
-      <guid isPermaLink="false">rmpp-fixes-0.1-r0</guid>
     </item>
     <item>
       <title>rm-shot 1.2.0-r0</title>
