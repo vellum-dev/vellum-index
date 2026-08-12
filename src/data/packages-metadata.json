@@ -43,6 +43,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "add-finished-button",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-01-27T18:18:23Z"
@@ -89,6 +90,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "add-finished-button",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-01-27T18:18:23Z"
@@ -135,6 +137,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-20T01:45:18Z",
+        "origin": "add-finished-button",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-01-27T18:18:23Z"
@@ -181,6 +184,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:17Z",
+        "origin": "add-finished-button",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-01-27T18:18:23Z"
@@ -229,6 +233,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-25T16:06:41Z",
+        "origin": "add-tags-to-context-menu",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-02-25T16:06:07Z"
@@ -275,6 +280,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-20T01:45:18Z",
+        "origin": "add-tags-to-context-menu",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-02-25T16:06:07Z"
@@ -321,6 +327,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:17Z",
+        "origin": "add-tags-to-context-menu",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-02-25T16:06:07Z"
@@ -361,6 +368,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-19T00:17:43Z",
+        "origin": "alpine-chroot",
         "readmeurl": "https://raw.githubusercontent.com/Eeems/remarkable-alpine-chroot/1a545809c859d2159bcd6fc917d76eac83735c42/README.md",
         "donateurl": null,
         "first_released": "2026-05-19T00:17:43Z"
@@ -398,6 +406,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-19T00:17:43Z",
+        "origin": "alpine-chroot-install",
         "readmeurl": "https://raw.githubusercontent.com/alpinelinux/alpine-chroot-install/v0.14.0/README.adoc",
         "donateurl": null,
         "first_released": "2026-05-19T00:17:43Z"
@@ -446,6 +455,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-18T21:57:33Z",
+        "origin": "appload",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.3/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-24T17:26:06Z"
@@ -492,6 +502,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-21T03:51:55Z",
+        "origin": "appload",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.3/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-24T17:26:06Z"
@@ -538,6 +549,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-29T17:44:06Z",
+        "origin": "appload",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.3/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-24T17:26:06Z"
@@ -584,6 +596,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:17Z",
+        "origin": "appload",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.3/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-24T17:26:06Z"
@@ -630,6 +643,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T06:15:03Z",
+        "origin": "appload",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.3/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-24T17:26:06Z"
@@ -678,6 +692,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-11T04:42:47Z",
+        "origin": "appload",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.3/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-24T17:26:06Z"
@@ -718,6 +733,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-18T19:06:57Z",
+        "origin": "qtfblight",
         "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.2/README.md",
         "donateurl": null,
         "first_released": "2026-07-18T19:06:57Z"
@@ -756,6 +772,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-19T19:09:42Z",
+        "origin": "qtfblight",
         "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.2/README.md",
         "donateurl": null,
         "first_released": "2026-07-18T19:06:57Z"
@@ -793,6 +810,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-16T22:30:08Z",
+        "origin": "bandwhich",
         "readmeurl": "https://raw.githubusercontent.com/imsnif/bandwhich/v0.23.1/README.md",
         "donateurl": null,
         "first_released": "2026-05-16T22:30:08Z"
@@ -832,6 +850,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-19T19:29:46Z",
+        "origin": "bat",
         "readmeurl": "https://raw.githubusercontent.com/sharkdp/bat/v0.26.1/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:56Z"
@@ -880,6 +899,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-01T22:40:22Z",
+        "origin": "battery-percentage",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/86e43a4d8d26c49abcc81f149245ff1f52961124/README.md",
         "donateurl": null,
         "first_released": "2026-07-01T22:40:22Z"
@@ -930,6 +950,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "bettertoc",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:55Z"
@@ -978,6 +999,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "bettertoc",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:55Z"
@@ -1026,6 +1048,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "bettertoc",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:55Z"
@@ -1074,6 +1097,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-20T02:32:26Z",
+        "origin": "bettertoc",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:55Z"
@@ -1122,6 +1146,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-11T17:44:04Z",
+        "origin": "bettertoc",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:55Z"
@@ -1170,6 +1195,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-16T17:52:18Z",
+        "origin": "bettertoc",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:55Z"
@@ -1218,6 +1244,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-19T17:43:41Z",
+        "origin": "bettertoc",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:55Z"
@@ -1266,6 +1293,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-20T17:55:28Z",
+        "origin": "bettertoc",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:55Z"
@@ -1314,6 +1342,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-21T02:43:00Z",
+        "origin": "bettertoc",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:55Z"
@@ -1362,6 +1391,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:18Z",
+        "origin": "bettertoc",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:55Z"
@@ -1410,6 +1440,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:49Z",
+        "origin": "bettertoc",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/3d8b320fe288f1887b60f1c5996764dff0892e8e/README.md#bettertoc",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:55Z"
@@ -1462,6 +1493,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:49Z",
+        "origin": "bettertoc-collapse",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/dc095f5ead38b66a77e24419ebab1535da31409c/README.md#bettertoccollapse",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-05-01T16:14:16Z"
@@ -1512,6 +1544,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-06T19:04:08Z",
+        "origin": "bettertoc-collapse",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/dc095f5ead38b66a77e24419ebab1535da31409c/README.md#bettertoccollapse",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-05-01T16:14:16Z"
@@ -1559,6 +1592,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-20T21:58:21Z",
+        "origin": "bluetooth-settings",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-bluetoothsettings/main/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-05-20T21:46:27Z"
@@ -1604,6 +1638,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-11T14:09:16Z",
+        "origin": "bluetooth-settings",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-bluetoothsettings/main/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-05-20T21:46:27Z"
@@ -1649,6 +1684,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-24T21:51:31Z",
+        "origin": "bluetooth-settings",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-bluetoothsettings/main/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-05-20T21:46:27Z"
@@ -1694,6 +1730,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-06T22:24:07Z",
+        "origin": "bluetooth-settings",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-bluetoothsettings/main/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-05-20T21:46:27Z"
@@ -1731,6 +1768,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-19T19:29:47Z",
+        "origin": "btop",
         "readmeurl": "https://raw.githubusercontent.com/aristocratos/btop/v1.4.6/README.md",
         "donateurl": null,
         "first_released": "2026-01-27T22:19:45Z"
@@ -1783,6 +1821,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "button-press-for-pen-change",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:53:07Z"
@@ -1833,6 +1872,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:18Z",
+        "origin": "button-press-for-pen-change",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:53:07Z"
@@ -1881,6 +1921,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-23T18:48:32Z",
+        "origin": "change-green-color",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T18:48:03Z"
@@ -1927,6 +1968,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-08T13:45:15Z",
+        "origin": "change-green-color",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T18:48:03Z"
@@ -1973,6 +2015,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:18Z",
+        "origin": "change-green-color",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T18:48:03Z"
@@ -2021,6 +2064,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "change-vertical-jump",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-14T19:58:03Z"
@@ -2067,6 +2111,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:18Z",
+        "origin": "change-vertical-jump",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-14T19:58:03Z"
@@ -2102,6 +2147,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-11T04:42:49Z",
+        "origin": "chessmarkable",
         "readmeurl": "https://raw.githubusercontent.com/LinusCDE/chessmarkable/0.8.1-1/README.md",
         "donateurl": null,
         "first_released": "2026-05-22T19:47:20Z"
@@ -2150,6 +2196,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-25T14:07:16Z",
+        "origin": "collapse-toolbar-on-open",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#collapsetoolbaronopen",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T14:07:16Z"
@@ -2200,6 +2247,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:29:32Z",
+        "origin": "convert-to-text-remover",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/8ddf166f0151a55329dd0c1bb9804b23a03db95f/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:57Z"
@@ -2250,6 +2298,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-16T23:06:34Z",
+        "origin": "convert-to-text-remover",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/8ddf166f0151a55329dd0c1bb9804b23a03db95f/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:57Z"
@@ -2298,6 +2347,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-17T16:31:19Z",
+        "origin": "convert-to-text-remover",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/8ddf166f0151a55329dd0c1bb9804b23a03db95f/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:57Z"
@@ -2348,6 +2398,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-21T03:17:55Z",
+        "origin": "create-document-from-pages",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#createdocumentfrompages",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-21T03:17:24Z"
@@ -2397,6 +2448,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-07T01:17:24Z",
+        "origin": "create-document-from-pages",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#createdocumentfrompages",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-21T03:17:24Z"
@@ -2446,6 +2498,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-23T20:26:32Z",
+        "origin": "create-document-from-pages",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#createdocumentfrompages",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-21T03:17:24Z"
@@ -2496,6 +2549,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "createpages-paperpro",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagespaperprosize",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:56Z"
@@ -2544,6 +2598,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "createpages-paperpro",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagespaperprosize",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:56Z"
@@ -2592,6 +2647,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "createpages-paperpro",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagespaperprosize",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:56Z"
@@ -2640,6 +2696,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "createpages-paperpro",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagespaperprosize",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:56Z"
@@ -2688,6 +2745,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:50Z",
+        "origin": "createpages-paperpro",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagespaperprosize",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:56Z"
@@ -2738,6 +2796,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "createpages-rm2",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagesrm2size",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:55Z"
@@ -2786,6 +2845,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "createpages-rm2",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagesrm2size",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:55Z"
@@ -2834,6 +2894,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "createpages-rm2",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagesrm2size",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:55Z"
@@ -2882,6 +2943,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "createpages-rm2",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagesrm2size",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:55Z"
@@ -2930,6 +2992,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:50Z",
+        "origin": "createpages-rm2",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#createpagesrm2size",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:57:55Z"
@@ -2967,6 +3030,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-19T19:29:48Z",
+        "origin": "curl",
         "readmeurl": "https://raw.githubusercontent.com/curl/curl/curl-8_11_0/README.md",
         "donateurl": null,
         "first_released": "2026-01-27T22:19:48Z"
@@ -3007,6 +3071,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-18T23:14:19Z",
+        "origin": "debian-chroot",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-org/remarkable-debian-chroot/8e14f6f0b75102053acf6b61b60827b61812edf0/README.md",
         "donateurl": null,
         "first_released": "2026-05-16T22:28:58Z"
@@ -3046,6 +3111,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-16T22:28:58Z",
+        "origin": "debootstrap",
         "readmeurl": "https://salsa.debian.org/installer-team/debootstrap/-/raw/1.0.133/README?ref_type=tags",
         "donateurl": null,
         "first_released": "2026-05-16T22:28:58Z"
@@ -3096,6 +3162,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-07T20:06:15Z",
+        "origin": "default-template",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/9db5b1efd5cbf76311d25b23a2cfc8e4437f3ed8/README.md#defaulttemplate",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-07-07T20:06:15Z"
@@ -3144,6 +3211,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "delay-stroke-screen-refresh",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-14T19:57:39Z"
@@ -3190,6 +3258,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:19Z",
+        "origin": "delay-stroke-screen-refresh",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-14T19:57:39Z"
@@ -3239,6 +3308,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-14T14:58:20Z",
+        "origin": "dictionary-wiki-translator",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#dictionary",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-07-14T14:58:20Z"
@@ -3286,6 +3356,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-20T16:42:06Z",
+        "origin": "dictionary-wiki-translator",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#dictionary",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-07-14T14:58:20Z"
@@ -3334,6 +3405,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-09T12:55:17Z",
+        "origin": "disable-infinite-scroll",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/4f0391346e6eb1ff1e23f393c267a6923dd6481e/README.md#disableinfinitescroll",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-09T12:54:33Z"
@@ -3384,6 +3456,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-16T14:20:32Z",
+        "origin": "disable-infinite-scroll",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/4f0391346e6eb1ff1e23f393c267a6923dd6481e/README.md#disableinfinitescroll",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-09T12:54:33Z"
@@ -3434,6 +3507,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:51Z",
+        "origin": "disable-selection-autoscroll",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#disableselectionautoscroll",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T19:57:21Z"
@@ -3484,6 +3558,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-25T14:10:33Z",
+        "origin": "dock-buttons",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#dockbuttons",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T14:10:33Z"
@@ -3519,6 +3594,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-26T19:37:03Z",
+        "origin": "doomarkable",
         "readmeurl": "https://raw.githubusercontent.com/LinusCDE/doomarkable/0.4.2/README.md",
         "donateurl": null,
         "first_released": "2026-05-22T18:03:35Z"
@@ -3554,6 +3630,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-11T04:42:51Z",
+        "origin": "doomarkable",
         "readmeurl": "https://raw.githubusercontent.com/LinusCDE/doomarkable/0.4.2/README.md",
         "donateurl": null,
         "first_released": "2026-05-22T18:03:35Z"
@@ -3604,6 +3681,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-12T18:23:53Z",
+        "origin": "duplicate-annotated-pages",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/4a31c5f21cf6cc3364f21d2a15098e3ab72fe8ca/README.md#duplicateannotatedpages",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-11T21:42:11Z"
@@ -3653,6 +3731,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-07T01:17:24Z",
+        "origin": "duplicate-annotated-pages",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/4a31c5f21cf6cc3364f21d2a15098e3ab72fe8ca/README.md#duplicateannotatedpages",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-11T21:42:11Z"
@@ -3702,6 +3781,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-23T20:26:33Z",
+        "origin": "duplicate-annotated-pages",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/4a31c5f21cf6cc3364f21d2a15098e3ab72fe8ca/README.md#duplicateannotatedpages",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-11T21:42:11Z"
@@ -3752,6 +3832,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-22T19:53:26Z",
+        "origin": "duplicate-annotated-pages",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/4a31c5f21cf6cc3364f21d2a15098e3ab72fe8ca/README.md#duplicateannotatedpages",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-11T21:42:11Z"
@@ -3797,6 +3878,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "enable-all-colors",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:43Z"
@@ -3840,6 +3922,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "enable-all-colors",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:43Z"
@@ -3883,6 +3966,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "enable-all-colors",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:43Z"
@@ -3926,6 +4010,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:20Z",
+        "origin": "enable-all-colors",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:43Z"
@@ -3971,6 +4056,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "enable-extra-pen-on-move",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-14T19:57:51Z"
@@ -4013,6 +4099,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:12:50Z",
+        "origin": "enable-extra-pen-on-move",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-14T19:57:51Z"
@@ -4063,6 +4150,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
+        "origin": "enable-shortcuts",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:43Z"
@@ -4111,6 +4199,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:20Z",
+        "origin": "enable-shortcuts",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:43Z"
@@ -4161,6 +4250,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
+        "origin": "enable-shortcuts-scroll-page",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:44Z"
@@ -4209,6 +4299,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
+        "origin": "enable-shortcuts-scroll-page",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:44Z"
@@ -4257,6 +4348,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:20Z",
+        "origin": "enable-shortcuts-scroll-page",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:44Z"
@@ -4305,6 +4397,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:52Z",
+        "origin": "enable-typing-on-documents",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/c41737290b02a7f9dbd2d2d1e343facd61945282/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-30T21:23:16Z"
@@ -4344,6 +4437,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-22T22:14:39Z",
+        "origin": "entware",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T19:57:34Z"
@@ -4383,6 +4477,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-19T17:42:42Z",
+        "origin": "entware-rc",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-04-02T17:44:57Z"
@@ -4431,6 +4526,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:52Z",
+        "origin": "extend-list-title-width",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#extendlisttitlewidth",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T19:57:36Z"
@@ -4468,6 +4564,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-22T22:14:39Z",
+        "origin": "external-keyboard-qpa",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/epaper-qpa/external-keyboard/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-07-06T19:16:24Z"
@@ -4516,6 +4613,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-25T14:07:19Z",
+        "origin": "faster-page-labels",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#fasterpagelabels",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T14:07:19Z"
@@ -4564,6 +4662,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-25T12:44:50Z",
+        "origin": "faster-scroll-bar",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#fasterscrollbar",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T12:44:50Z"
@@ -4601,6 +4700,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-19T19:29:50Z",
+        "origin": "fastfetch",
         "readmeurl": "https://raw.githubusercontent.com/fastfetch-cli/fastfetch/2.25.0/README.md",
         "donateurl": null,
         "first_released": "2026-01-27T22:19:50Z"
@@ -4651,6 +4751,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
+        "origin": "fav-tag-button",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:48Z"
@@ -4699,6 +4800,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
+        "origin": "fav-tag-button",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:48Z"
@@ -4747,6 +4849,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
+        "origin": "fav-tag-button",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:48Z"
@@ -4795,6 +4898,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
+        "origin": "fav-tag-button",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:48Z"
@@ -4843,6 +4947,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
+        "origin": "fav-tag-button",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:48Z"
@@ -4891,6 +4996,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
+        "origin": "fav-tag-button",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:48Z"
@@ -4939,6 +5045,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-18T23:43:10Z",
+        "origin": "fav-tag-button",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:48Z"
@@ -4987,6 +5094,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T06:07:36Z",
+        "origin": "fav-tag-button",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:48Z"
@@ -5035,6 +5143,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:29:35Z",
+        "origin": "favorite-button",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:57Z"
@@ -5075,6 +5184,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-11T19:46:00Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:00Z"
@@ -5110,6 +5220,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-12T20:14:40Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:00Z"
@@ -5145,6 +5256,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-28T05:06:43Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:00Z"
@@ -5180,6 +5292,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-08-11T04:42:53Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:00Z"
@@ -5228,6 +5341,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
+        "origin": "fewer-light-steps",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:44Z"
@@ -5274,6 +5388,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
+        "origin": "fewer-light-steps",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:44Z"
@@ -5320,6 +5435,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:21Z",
+        "origin": "fewer-light-steps",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:44Z"
@@ -5368,6 +5484,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-20T17:55:30Z",
+        "origin": "filter-annotated-pages",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/57f3fa7231ab734df9fc6e6e62adced6488bfc9b/README.md#filterannotatedpages",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-06T18:12:54Z"
@@ -5414,6 +5531,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:53Z",
+        "origin": "filter-annotated-pages",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/57f3fa7231ab734df9fc6e6e62adced6488bfc9b/README.md#filterannotatedpages",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-06T18:12:54Z"
@@ -5463,6 +5581,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-22T19:53:28Z",
+        "origin": "filter-annotated-pages",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/57f3fa7231ab734df9fc6e6e62adced6488bfc9b/README.md#filterannotatedpages",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-06T18:12:54Z"
@@ -5511,6 +5630,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
+        "origin": "fix-appload-rotation",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:55:35Z"
@@ -5557,6 +5677,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:21Z",
+        "origin": "fix-appload-rotation",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:55:35Z"
@@ -5606,6 +5727,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-20T02:32:28Z",
+        "origin": "fix-battery-indicator",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#fixbatteryindicator",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T19:57:51Z"
@@ -5653,6 +5775,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:53Z",
+        "origin": "fix-battery-indicator",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/59bb593608babe147312fbb424d8472858ac8ab7/README.md#fixbatteryindicator",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T19:57:51Z"
@@ -5705,6 +5828,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
+        "origin": "fix-custom-fit",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-19T15:15:13Z"
@@ -5755,6 +5879,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:22Z",
+        "origin": "fix-custom-fit",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-19T15:15:13Z"
@@ -5801,6 +5926,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:12:51Z",
+        "origin": "fix-light-indicator-gap",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#fixlightindicatorgap",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T19:57:54Z"
@@ -5850,6 +5976,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
+        "origin": "fix-page-number-on-slider",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#fixpagenumberonslider",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:21Z"
@@ -5897,6 +6024,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:53Z",
+        "origin": "fix-page-number-on-slider",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#fixpagenumberonslider",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:21Z"
@@ -5946,6 +6074,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
+        "origin": "fix-quick-settings-temp-separator",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:21Z"
@@ -5993,6 +6122,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:53Z",
+        "origin": "fix-quick-settings-temp-separator",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:21Z"
@@ -6042,6 +6172,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-11T23:10:09Z",
+        "origin": "fix-sidebar-filters",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:54:56Z"
@@ -6089,6 +6220,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:22Z",
+        "origin": "fix-sidebar-filters",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:54:56Z"
@@ -6139,6 +6271,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
+        "origin": "floating-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/0e05187f0707e28f6079171ebb442f705893a369/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T06:00:23Z"
@@ -6187,6 +6320,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
+        "origin": "floating-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/0e05187f0707e28f6079171ebb442f705893a369/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T06:00:23Z"
@@ -6235,6 +6369,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "floating-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/0e05187f0707e28f6079171ebb442f705893a369/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T06:00:23Z"
@@ -6283,6 +6418,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "floating-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/0e05187f0707e28f6079171ebb442f705893a369/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T06:00:23Z"
@@ -6331,6 +6467,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "floating-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/0e05187f0707e28f6079171ebb442f705893a369/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T06:00:23Z"
@@ -6379,6 +6516,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "floating-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/0e05187f0707e28f6079171ebb442f705893a369/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T06:00:23Z"
@@ -6427,6 +6565,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "floating-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/0e05187f0707e28f6079171ebb442f705893a369/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T06:00:23Z"
@@ -6475,6 +6614,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "floating-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/0e05187f0707e28f6079171ebb442f705893a369/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T06:00:23Z"
@@ -6523,6 +6663,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "floating-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/0e05187f0707e28f6079171ebb442f705893a369/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T06:00:23Z"
@@ -6571,6 +6712,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "floating-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/0e05187f0707e28f6079171ebb442f705893a369/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T06:00:23Z"
@@ -6619,6 +6761,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-16T19:52:45Z",
+        "origin": "floating-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/0e05187f0707e28f6079171ebb442f705893a369/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T06:00:23Z"
@@ -6667,6 +6810,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-18T23:43:11Z",
+        "origin": "floating-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/0e05187f0707e28f6079171ebb442f705893a369/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T06:00:23Z"
@@ -6715,6 +6859,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-23T16:57:13Z",
+        "origin": "floating-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/0e05187f0707e28f6079171ebb442f705893a369/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T06:00:23Z"
@@ -6763,6 +6908,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-30T18:45:28Z",
+        "origin": "floating-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/0e05187f0707e28f6079171ebb442f705893a369/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T06:00:23Z"
@@ -6811,6 +6957,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T06:07:38Z",
+        "origin": "floating-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/0e05187f0707e28f6079171ebb442f705893a369/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T06:00:23Z"
@@ -6859,6 +7006,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-09T13:08:09Z",
+        "origin": "floating-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/0e05187f0707e28f6079171ebb442f705893a369/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T06:00:23Z"
@@ -6907,6 +7055,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "force-koreader-landscape",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/927231f34c624263b78bb6b4690fd1b0b150321c/README.md",
         "donateurl": null,
         "first_released": "2026-01-28T13:42:37Z"
@@ -6953,6 +7102,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:23Z",
+        "origin": "force-koreader-landscape",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/927231f34c624263b78bb6b4690fd1b0b150321c/README.md",
         "donateurl": null,
         "first_released": "2026-01-28T13:42:37Z"
@@ -6999,6 +7149,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-18T18:28:16Z",
+        "origin": "force-koreader-landscape",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/927231f34c624263b78bb6b4690fd1b0b150321c/README.md",
         "donateurl": null,
         "first_released": "2026-01-28T13:42:37Z"
@@ -7047,6 +7198,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:29:37Z",
+        "origin": "force-sync",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:57Z"
@@ -7095,6 +7247,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-25T14:04:34Z",
+        "origin": "force-wide-column",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#forcewidecolumn",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T14:04:34Z"
@@ -7146,6 +7299,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "four-finger-change-filter",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:55:19Z"
@@ -7195,6 +7349,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:23Z",
+        "origin": "four-finger-change-filter",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:55:19Z"
@@ -7242,6 +7397,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-06T23:41:53Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -7283,6 +7439,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T14:42:25Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -7325,6 +7482,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-24T00:41:28Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -7378,6 +7536,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-25T13:59:53Z",
+        "origin": "gestik",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#gestik",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T13:59:53Z"
@@ -7429,6 +7588,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-08T15:49:36Z",
+        "origin": "gestik",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#gestik",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T13:59:53Z"
@@ -7480,6 +7640,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-14T19:19:28Z",
+        "origin": "gestik",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#gestik",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T13:59:53Z"
@@ -7531,6 +7692,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-20T16:42:12Z",
+        "origin": "gestik",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#gestik",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T13:59:53Z"
@@ -7579,6 +7741,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "gesture-colour-settings",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:50Z"
@@ -7625,6 +7788,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "gesture-colour-settings",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:50Z"
@@ -7671,6 +7835,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "gesture-colour-settings",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:50Z"
@@ -7717,6 +7882,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "gesture-colour-settings",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:50Z"
@@ -7763,6 +7929,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "gesture-colour-settings",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:50Z"
@@ -7809,6 +7976,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "gesture-colour-settings",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:50Z"
@@ -7855,6 +8023,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "gesture-colour-settings",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:50Z"
@@ -7901,6 +8070,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "gesture-colour-settings",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:50Z"
@@ -7948,6 +8118,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "gesture-colour-settings",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:50Z"
@@ -7995,6 +8166,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-18T23:43:12Z",
+        "origin": "gesture-colour-settings",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:50Z"
@@ -8042,6 +8214,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T06:07:39Z",
+        "origin": "gesture-colour-settings",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:50Z"
@@ -8090,6 +8263,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:56Z",
+        "origin": "gesture-contrast-toggle",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T19:57:55Z"
@@ -8138,6 +8312,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:56Z",
+        "origin": "gesture-reset-view",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T19:58:09Z"
@@ -8186,6 +8361,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:56Z",
+        "origin": "gesture-tap-to-page",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T19:57:30Z"
@@ -8234,6 +8410,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:56Z",
+        "origin": "gesture-toolbar-hide",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T19:58:01Z"
@@ -8282,6 +8459,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:56Z",
+        "origin": "gesture-toolbar-show",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T19:57:22Z"
@@ -8333,6 +8511,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "gestures-fouzr",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:44Z"
@@ -8382,6 +8561,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
+        "origin": "gestures-fouzr",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:44Z"
@@ -8431,6 +8611,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "gestures-fouzr",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:44Z"
@@ -8480,6 +8661,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "gestures-fouzr",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:44Z"
@@ -8529,6 +8711,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "gestures-fouzr",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:44Z"
@@ -8578,6 +8761,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "gestures-fouzr",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:44Z"
@@ -8627,6 +8811,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "gestures-fouzr",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:44Z"
@@ -8677,6 +8862,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "gestures-fouzr",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:44Z"
@@ -8727,6 +8913,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-18T23:43:13Z",
+        "origin": "gestures-fouzr",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:44Z"
@@ -8777,6 +8964,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-30T18:45:29Z",
+        "origin": "gestures-fouzr",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:44Z"
@@ -8827,6 +9015,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T06:07:40Z",
+        "origin": "gestures-fouzr",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:44Z"
@@ -8878,6 +9067,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "gestures-ingatellent",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:44Z"
@@ -8927,6 +9117,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "gestures-ingatellent",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:44Z"
@@ -8976,6 +9167,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "gestures-ingatellent",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:44Z"
@@ -9025,6 +9217,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:25Z",
+        "origin": "gestures-ingatellent",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/82f0526a81a46751dd4c16d7c27f754a6afa23ec/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:44Z"
@@ -9073,6 +9266,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:57Z",
+        "origin": "ghostbuster",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/44244e6fb6797a807357d651192040b46b141b3b/README.md#ghostbuster",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-02T17:44:58Z"
@@ -9107,6 +9301,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "gomarkablestream",
         "readmeurl": "https://raw.githubusercontent.com/owulveryck/goMarkableStream/v1.3.1/README.md",
         "donateurl": null,
         "first_released": "2026-01-27T18:17:30Z"
@@ -9144,6 +9339,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:25Z",
+        "origin": "gomarkablestream",
         "readmeurl": "https://raw.githubusercontent.com/owulveryck/goMarkableStream/v1.3.1/README.md",
         "donateurl": null,
         "first_released": "2026-01-27T18:17:30Z"
@@ -9179,6 +9375,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-26T20:15:02Z",
+        "origin": "gomarkablestream",
         "readmeurl": "https://raw.githubusercontent.com/owulveryck/goMarkableStream/v1.3.1/README.md",
         "donateurl": null,
         "first_released": "2026-01-27T18:17:30Z"
@@ -9229,6 +9426,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-25T15:02:03Z",
+        "origin": "hide-back-to-page-bar",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#hidebacktopagebar",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T15:02:03Z"
@@ -9277,6 +9475,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "hide-dev-mode-icon",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#hidedevmodeicon",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:21Z"
@@ -9323,6 +9522,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "hide-dev-mode-icon",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#hidedevmodeicon",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:21Z"
@@ -9367,6 +9567,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:57Z",
+        "origin": "hide-dev-mode-icon",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#hidedevmodeicon",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:21Z"
@@ -9415,6 +9616,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "hide-document-close",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:45Z"
@@ -9461,6 +9663,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "hide-document-close",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:45Z"
@@ -9507,6 +9710,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "hide-document-close",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:45Z"
@@ -9553,6 +9757,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "hide-document-close",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:45Z"
@@ -9599,6 +9804,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "hide-document-close",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:45Z"
@@ -9645,6 +9851,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "hide-document-close",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:45Z"
@@ -9691,6 +9898,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:26Z",
+        "origin": "hide-document-close",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:45Z"
@@ -9741,6 +9949,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:58Z",
+        "origin": "hide-hyperlink-back-button",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/95223b96928596eaacb8416f6b72c083baf582db/README.md#hidehyperlinkbackbutton",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-17T18:46:34Z"
@@ -9789,6 +9998,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "hide-page-labels-fullscreen",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:41Z"
@@ -9835,6 +10045,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "hide-page-labels-fullscreen",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:41Z"
@@ -9881,6 +10092,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "hide-page-labels-fullscreen",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:41Z"
@@ -9927,6 +10139,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:08Z",
+        "origin": "hide-page-labels-fullscreen",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:41Z"
@@ -9973,6 +10186,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "hide-page-labels-fullscreen",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:41Z"
@@ -10019,6 +10233,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:26Z",
+        "origin": "hide-page-labels-fullscreen",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:41Z"
@@ -10067,6 +10282,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "hide-show-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:41Z"
@@ -10113,6 +10329,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "hide-show-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:41Z"
@@ -10159,6 +10376,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "hide-show-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:41Z"
@@ -10205,6 +10423,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "hide-show-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:41Z"
@@ -10251,6 +10470,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "hide-show-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:41Z"
@@ -10297,6 +10517,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "hide-show-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:41Z"
@@ -10343,6 +10564,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:27Z",
+        "origin": "hide-show-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:41Z"
@@ -10391,6 +10613,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-25T14:05:36Z",
+        "origin": "hide-title-quick-browse",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#hidetitlequickbrowse",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T14:05:36Z"
@@ -10439,6 +10662,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "hide-zoom-indicator",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#hidezoomindicator",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:22Z"
@@ -10485,6 +10709,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "hide-zoom-indicator",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#hidezoomindicator",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:22Z"
@@ -10531,6 +10756,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "hide-zoom-indicator",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#hidezoomindicator",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:22Z"
@@ -10577,6 +10803,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:24:59Z",
+        "origin": "hide-zoom-indicator",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#hidezoomindicator",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:22Z"
@@ -10614,6 +10841,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-19T19:29:57Z",
+        "origin": "hyfetch",
         "readmeurl": "https://raw.githubusercontent.com/hykilpikonna/hyfetch/2.0.5/README.md",
         "donateurl": null,
         "first_released": "2026-02-03T20:22:08Z"
@@ -10653,6 +10881,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-11T19:46:08Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -10690,6 +10919,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-12T20:14:48Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -10727,6 +10957,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-28T05:06:50Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -10764,6 +10995,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-08-11T04:43:00Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -10801,6 +11033,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-19T19:29:57Z",
+        "origin": "jq",
         "readmeurl": "https://raw.githubusercontent.com/jqlang/jq/jq-1.8.1/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:58Z"
@@ -10838,6 +11071,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-16T22:30:19Z",
+        "origin": "keyd",
         "readmeurl": "https://raw.githubusercontent.com/rvaiya/keyd/v2.6.0/README.md",
         "donateurl": null,
         "first_released": "2026-05-16T22:30:19Z"
@@ -10875,6 +11109,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-16T22:30:19Z",
+        "origin": "keyd",
         "readmeurl": "https://raw.githubusercontent.com/rvaiya/keyd/v2.6.0/README.md",
         "donateurl": null,
         "first_released": "2026-05-16T22:30:19Z"
@@ -10914,6 +11149,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "koreader",
         "readmeurl": "https://raw.githubusercontent.com/koreader/koreader/v2026.07.1/README.md",
         "donateurl": null,
         "first_released": "2026-01-27T18:17:32Z"
@@ -10951,6 +11187,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-22T22:14:48Z",
+        "origin": "koreader",
         "readmeurl": "https://raw.githubusercontent.com/koreader/koreader/v2026.07.1/README.md",
         "donateurl": null,
         "first_released": "2026-01-27T18:17:32Z"
@@ -10988,6 +11225,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-27T22:24:45Z",
+        "origin": "koreader",
         "readmeurl": "https://raw.githubusercontent.com/koreader/koreader/v2026.07.1/README.md",
         "donateurl": null,
         "first_released": "2026-01-27T18:17:32Z"
@@ -11025,6 +11263,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-11T04:43:01Z",
+        "origin": "koreader",
         "readmeurl": "https://raw.githubusercontent.com/koreader/koreader/v2026.07.1/README.md",
         "donateurl": null,
         "first_released": "2026-01-27T18:17:32Z"
@@ -11067,6 +11306,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-11T19:46:08Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -11107,6 +11347,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-12T20:14:48Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -11147,6 +11388,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-28T05:06:50Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -11187,6 +11429,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-08-11T04:43:01Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -11227,6 +11470,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-11T04:43:01Z",
+        "origin": "appload",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.3/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-07-11T19:46:08Z"
@@ -11268,6 +11512,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-11T19:46:08Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -11307,6 +11552,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-12T20:14:48Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -11346,6 +11592,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-28T05:06:51Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -11385,6 +11632,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-08-11T04:43:01Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -11422,6 +11670,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-19T19:29:57Z",
+        "origin": "less",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-02-11T18:30:44Z"
@@ -11462,6 +11711,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-11T19:46:08Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -11497,6 +11747,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-12T20:14:49Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -11532,6 +11783,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-28T05:06:51Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -11567,6 +11819,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-08-11T04:43:02Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
@@ -11606,6 +11859,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-11T19:46:09Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:09Z"
@@ -11643,6 +11897,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-12T20:14:49Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:09Z"
@@ -11680,6 +11935,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-28T05:06:51Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:09Z"
@@ -11717,6 +11973,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-08-11T04:43:02Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:09Z"
@@ -11762,6 +12019,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-19T18:30:54Z",
+        "origin": "librarian",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-librarian/v0.4.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-06T16:27:26Z"
@@ -11805,6 +12063,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-22T19:53:35Z",
+        "origin": "librarian",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-librarian/v0.4.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-06T16:27:26Z"
@@ -11855,6 +12114,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-25T14:14:05Z",
+        "origin": "link-from-selection",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/0054787b771b292359867c88b0a2df1b6e996a97/README.md#linkfromselection",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T14:14:05Z"
@@ -11903,6 +12163,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-09T18:14:04Z",
+        "origin": "link-from-selection",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/0054787b771b292359867c88b0a2df1b6e996a97/README.md#linkfromselection",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T14:14:05Z"
@@ -11951,6 +12212,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "literm",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-literm/v0.1.6/README.md",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-14T19:57:06Z"
@@ -11997,6 +12259,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T06:15:14Z",
+        "origin": "literm",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-literm/v0.1.6/README.md",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-14T19:57:06Z"
@@ -12039,6 +12302,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-11T19:46:09Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:09Z"
@@ -12079,6 +12343,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-12T20:14:49Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:09Z"
@@ -12119,6 +12384,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-28T05:06:51Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:09Z"
@@ -12159,6 +12425,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-08-11T04:43:03Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:09Z"
@@ -12196,6 +12463,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:27Z",
+        "origin": "micro",
         "readmeurl": "https://raw.githubusercontent.com/zyedidia/micro/v2.0.14/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:58Z"
@@ -12244,6 +12512,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "mini-light-sleep",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#minilightsleep",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:23Z"
@@ -12290,6 +12559,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "mini-light-sleep",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#minilightsleep",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:23Z"
@@ -12336,6 +12606,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "mini-light-sleep",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#minilightsleep",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:23Z"
@@ -12382,6 +12653,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "mini-light-sleep",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#minilightsleep",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:23Z"
@@ -12428,6 +12700,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "mini-light-sleep",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#minilightsleep",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:23Z"
@@ -12474,6 +12747,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:00Z",
+        "origin": "mini-light-sleep",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#minilightsleep",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:23Z"
@@ -12520,6 +12794,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "more-light-settings",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:54:32Z"
@@ -12564,6 +12839,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-20T01:45:25Z",
+        "origin": "more-light-settings",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:54:32Z"
@@ -12607,6 +12883,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:12:58Z",
+        "origin": "more-light-settings",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:54:32Z"
@@ -12644,6 +12921,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "mount-utils",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-02-12T15:07:14Z"
@@ -12679,6 +12957,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-16T21:38:53Z",
+        "origin": "mount-utils",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-02-12T15:07:14Z"
@@ -12714,6 +12993,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-07T19:50:19Z",
+        "origin": "mount-utils",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-02-12T15:07:14Z"
@@ -12762,6 +13042,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-25T14:11:59Z",
+        "origin": "nav-history",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/1e7392ad13a563b5149eb03cc1ef24c4fca2e498/README.md#navhistory",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T14:11:59Z"
@@ -12808,6 +13089,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-14T19:34:47Z",
+        "origin": "nav-history",
         "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/1e7392ad13a563b5149eb03cc1ef24c4fca2e498/README.md#navhistory",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "first_released": "2026-06-25T14:11:59Z"
@@ -12857,6 +13139,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
+        "origin": "navigate-using-arrow-keys",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:55:21Z"
@@ -12904,6 +13187,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-20T01:45:25Z",
+        "origin": "navigate-using-arrow-keys",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:55:21Z"
@@ -12951,6 +13235,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:28Z",
+        "origin": "navigate-using-arrow-keys",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:55:21Z"
@@ -12988,6 +13273,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:28Z",
+        "origin": "netevent",
         "readmeurl": "https://raw.githubusercontent.com/Blub/netevent/2.2.2/README.md",
         "donateurl": null,
         "first_released": "2026-05-06T17:54:25Z"
@@ -13027,6 +13313,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-11T04:43:04Z",
+        "origin": "netsurf",
         "readmeurl": "https://raw.githubusercontent.com/MaicroNotHard/netsurf-reMarkable/125e7e10d044e6eef1fa391a979067fb1c18cb3c/README.md",
         "donateurl": null,
         "first_released": "2026-06-27T22:51:06Z"
@@ -13070,6 +13357,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-06-18T20:14:23Z",
+        "origin": "os-fixes",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-06-16T16:31:25Z"
@@ -13110,6 +13398,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-11T19:46:11Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13148,6 +13437,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-12T20:14:51Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13186,6 +13476,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-28T05:06:53Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13226,6 +13517,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-08-11T04:43:04Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13270,6 +13562,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-11T19:46:11Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13312,6 +13605,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-12T20:14:51Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13354,6 +13648,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-28T05:06:53Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13396,6 +13691,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-08-11T04:43:05Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13435,6 +13731,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-11T19:46:11Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13472,6 +13769,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-12T20:14:51Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13509,6 +13807,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-28T05:06:53Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13546,6 +13845,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-08-11T04:43:05Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13587,6 +13887,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-11T19:46:11Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13626,6 +13927,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-12T20:14:51Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13665,6 +13967,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-28T05:06:53Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13704,6 +14007,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-08-11T04:43:05Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13744,6 +14048,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-11T19:46:11Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13782,6 +14087,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-12T20:14:52Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13820,6 +14126,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-28T05:06:54Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13858,6 +14165,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-08-11T04:43:05Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13899,6 +14207,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-11T19:46:11Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13938,6 +14247,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-12T20:14:52Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -13977,6 +14287,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-28T05:06:54Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -14016,6 +14327,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-08-11T04:43:06Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -14056,6 +14368,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-11T19:46:11Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -14094,6 +14407,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-12T20:14:52Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -14132,6 +14446,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-28T05:06:54Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -14170,6 +14485,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-08-11T04:43:06Z",
+        "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.1/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
@@ -14204,6 +14520,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-01T17:23:04Z",
+        "origin": "pandoc",
         "readmeurl": "https://raw.githubusercontent.com/jgm/pandoc/3.10.1/README.md",
         "donateurl": null,
         "first_released": "2026-08-01T17:23:04Z"
@@ -14252,6 +14569,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-16T22:51:44Z",
+        "origin": "pen-layer-memory",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ac1c883a3fa60855708285b0037cfd3db3d73570/README.md#penlayermemory",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-16T22:50:56Z"
@@ -14298,6 +14616,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-18T19:26:40Z",
+        "origin": "pen-layer-memory",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ac1c883a3fa60855708285b0037cfd3db3d73570/README.md#penlayermemory",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-16T22:50:56Z"
@@ -14344,6 +14663,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:01Z",
+        "origin": "pen-layer-memory",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ac1c883a3fa60855708285b0037cfd3db3d73570/README.md#penlayermemory",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-04-16T22:50:56Z"
@@ -14394,6 +14714,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
+        "origin": "prevent-notebook-zoomout",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/627273158b090d233a50dd40b2bf5b2d7692cb58/README.md#preventnotebookzoomout",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
@@ -14442,6 +14763,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
+        "origin": "prevent-notebook-zoomout",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/627273158b090d233a50dd40b2bf5b2d7692cb58/README.md#preventnotebookzoomout",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
@@ -14490,6 +14812,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-20T02:32:33Z",
+        "origin": "prevent-notebook-zoomout",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/627273158b090d233a50dd40b2bf5b2d7692cb58/README.md#preventnotebookzoomout",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
@@ -14538,6 +14861,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:01Z",
+        "origin": "prevent-notebook-zoomout",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/627273158b090d233a50dd40b2bf5b2d7692cb58/README.md#preventnotebookzoomout",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
@@ -14587,6 +14911,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-27T21:40:54Z",
+        "origin": "prevent-notebook-zoomout",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/627273158b090d233a50dd40b2bf5b2d7692cb58/README.md#preventnotebookzoomout",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
@@ -14636,6 +14961,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-20T04:08:30Z",
+        "origin": "prevent-notebook-zoomout",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/627273158b090d233a50dd40b2bf5b2d7692cb58/README.md#preventnotebookzoomout",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
@@ -14675,6 +15001,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-11T04:43:07Z",
+        "origin": "puzzles",
         "readmeurl": "https://raw.githubusercontent.com/rmkit-dev/remarkable_puzzles/v0.2.4/README.md",
         "donateurl": null,
         "first_released": "2026-05-17T03:37:42Z"
@@ -14723,6 +15050,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-06T23:42:04Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -14769,6 +15097,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-06T23:42:04Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -14806,6 +15135,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T14:42:30Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -14843,6 +15173,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-24T00:41:39Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -14882,6 +15213,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-06T19:16:34Z",
+        "origin": "qt-plugin-path",
         "readmeurl": null,
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-07-06T19:16:34Z"
@@ -14930,6 +15262,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-06T23:42:04Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -14976,6 +15309,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-06T23:42:04Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -15013,6 +15347,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T14:42:30Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -15050,6 +15385,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-24T00:41:39Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -15089,6 +15425,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-18T19:07:16Z",
+        "origin": "qtfblight",
         "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.2/README.md",
         "donateurl": null,
         "first_released": "2026-07-18T19:07:16Z"
@@ -15126,6 +15463,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-19T19:10:01Z",
+        "origin": "qtfblight",
         "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.2/README.md",
         "donateurl": null,
         "first_released": "2026-07-18T19:07:16Z"
@@ -15175,6 +15513,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-06T22:24:19Z",
+        "origin": "quicksettings-bluetooth",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/d2459f7159d79e17a7c38cb2cc73de1f6e52db5d/README.md#quicksettingsbluetooth",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-07-06T22:24:19Z"
@@ -15223,6 +15562,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
+        "origin": "quicksettings-clock-serif",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/f5485763b05a1e223b989b151f0d46dd5bae834c/README.md#quicksettingsclockserif",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
@@ -15269,6 +15609,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
+        "origin": "quicksettings-clock-serif",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/f5485763b05a1e223b989b151f0d46dd5bae834c/README.md#quicksettingsclockserif",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
@@ -15315,6 +15656,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:02Z",
+        "origin": "quicksettings-clock-serif",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/f5485763b05a1e223b989b151f0d46dd5bae834c/README.md#quicksettingsclockserif",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
@@ -15361,6 +15703,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-22T15:43:31Z",
+        "origin": "quicksettings-clock-serif",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/f5485763b05a1e223b989b151f0d46dd5bae834c/README.md#quicksettingsclockserif",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:18Z"
@@ -15409,6 +15752,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-15T16:27:13Z",
+        "origin": "quicksettings-screenshot",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/aa94b9572cc8e71c2b05a56f1a11b2c9fe3b9c00/README.md#quicksettingsscreenshot",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T05:33:39Z"
@@ -15455,6 +15799,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-15T16:27:14Z",
+        "origin": "quicksettings-screenshot",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/aa94b9572cc8e71c2b05a56f1a11b2c9fe3b9c00/README.md#quicksettingsscreenshot",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T05:33:39Z"
@@ -15503,6 +15848,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-24T12:47:05Z",
+        "origin": "quicksettings-screenshot",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/aa94b9572cc8e71c2b05a56f1a11b2c9fe3b9c00/README.md#quicksettingsscreenshot",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T05:33:39Z"
@@ -15553,6 +15899,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-11T19:23:10Z",
+        "origin": "quicksettings-screenshot",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/aa94b9572cc8e71c2b05a56f1a11b2c9fe3b9c00/README.md#quicksettingsscreenshot",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T05:33:39Z"
@@ -15601,6 +15948,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-06T22:17:15Z",
+        "origin": "quicksettings-timer",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/404c970f3602a970e899fe150245826552d5614d/README.md",
         "donateurl": null,
         "first_released": "2026-07-06T22:17:15Z"
@@ -15651,6 +15999,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-03T01:24:04Z",
+        "origin": "quicksheet-use-template",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#quicksheetusetemplate",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-03-03T01:23:22Z"
@@ -15699,6 +16048,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:02Z",
+        "origin": "quicksheet-use-template",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/edc9cefdb2ee2dde0fb495f76ac845a7e26e049e/README.md#quicksheetusetemplate",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-03-03T01:23:22Z"
@@ -15747,6 +16097,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
+        "origin": "random-sleep-screen",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -15793,6 +16144,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
+        "origin": "random-sleep-screen",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -15839,6 +16191,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
+        "origin": "random-sleep-screen",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -15885,6 +16238,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
+        "origin": "random-sleep-screen",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -15931,6 +16285,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-12T15:09:12Z",
+        "origin": "random-sleep-screen",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -15977,6 +16332,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-20T01:45:26Z",
+        "origin": "random-sleep-screen",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -16023,6 +16379,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-24T14:11:44Z",
+        "origin": "random-sleep-screen",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -16068,6 +16425,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-08T23:53:31Z",
+        "origin": "random-sleep-screen",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/9e15cbb9308186c70d49f8608d24cb56e6ca6c1f/README.md",
         "donateurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -16116,6 +16474,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
+        "origin": "recents-tagged",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:45Z"
@@ -16162,6 +16521,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
+        "origin": "recents-tagged",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:45Z"
@@ -16208,6 +16568,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T06:07:46Z",
+        "origin": "recents-tagged",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:45Z"
@@ -16247,6 +16608,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-23T06:39:33Z",
+        "origin": "remarkdown",
         "readmeurl": "https://raw.githubusercontent.com/esclee/reMarkdown/v0.1.0/README.md",
         "donateurl": null,
         "first_released": "2026-07-23T06:39:33Z"
@@ -16286,6 +16648,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-22T22:14:56Z",
+        "origin": "retaskable",
         "readmeurl": "https://raw.githubusercontent.com/jdkruzr/reTaskable/v1.0.5/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T05:25:58Z"
@@ -16335,6 +16698,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-22T22:14:56Z",
+        "origin": "retaskable",
         "readmeurl": "https://raw.githubusercontent.com/jdkruzr/reTaskable/v1.0.5/README.md",
         "donateurl": null,
         "first_released": "2026-07-11T05:25:58Z"
@@ -16384,6 +16748,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-23T20:26:46Z",
+        "origin": "rm-pdfium",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-pdfium/v0.1.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-05-07T00:09:15Z"
@@ -16421,6 +16786,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
+        "origin": "rm-pokemon",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-pokemon/v0.2.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-02-04T18:16:59Z"
@@ -16456,6 +16822,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:03Z",
+        "origin": "rm-pokemon",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-pokemon/v0.2.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-02-04T18:16:59Z"
@@ -16496,6 +16863,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
+        "origin": "rm-shot",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-shot/v1.2.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T19:57:03Z"
@@ -16534,6 +16902,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-24T12:47:05Z",
+        "origin": "rm-shot",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-shot/v1.2.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T19:57:03Z"
@@ -16574,6 +16943,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-24T15:06:21Z",
+        "origin": "rm-shot",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-shot/v1.2.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T19:57:03Z"
@@ -16614,6 +16984,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-23T20:26:47Z",
+        "origin": "rm-shot",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-shot/v1.2.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T19:57:03Z"
@@ -16654,6 +17025,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-11T19:23:11Z",
+        "origin": "rm-shot",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-shot/v1.2.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T19:57:03Z"
@@ -16693,6 +17065,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:04Z",
+        "origin": "rm-stylus",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-stylus/v0.3.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-02-09T18:26:52Z"
@@ -16725,6 +17098,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:20Z",
+        "origin": "rm-stylus",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-stylus/v0.3.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-02-09T18:26:52Z"
@@ -16757,6 +17131,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:20Z",
+        "origin": "rm-stylus",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-stylus/v0.3.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-02-09T18:26:52Z"
@@ -16794,6 +17169,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
+        "origin": "rm-version-switcher",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-version-switcher/v1.1.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-05T01:09:28Z"
@@ -16829,6 +17205,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:04Z",
+        "origin": "rm-version-switcher",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-version-switcher/v1.1.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-05T01:09:28Z"
@@ -16864,6 +17241,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-12T16:45:58Z",
+        "origin": "rm-version-switcher",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-version-switcher/v1.1.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-05T01:09:28Z"
@@ -16901,6 +17279,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
+        "origin": "rmfakecloud-proxy",
         "readmeurl": "https://raw.githubusercontent.com/ddvk/rmfakecloud-proxy/v0.0.10/README.md",
         "donateurl": null,
         "first_released": "2026-01-05T01:09:28Z"
@@ -16936,6 +17315,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
+        "origin": "rmfakecloud-proxy",
         "readmeurl": "https://raw.githubusercontent.com/ddvk/rmfakecloud-proxy/v0.0.10/README.md",
         "donateurl": null,
         "first_released": "2026-01-05T01:09:28Z"
@@ -16971,6 +17351,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-22T22:14:57Z",
+        "origin": "rmfakecloud-proxy",
         "readmeurl": "https://raw.githubusercontent.com/ddvk/rmfakecloud-proxy/v0.0.10/README.md",
         "donateurl": null,
         "first_released": "2026-01-05T01:09:28Z"
@@ -17023,6 +17404,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T06:15:18Z",
+        "origin": "rmhacks",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-hacks-qmd/a5a921cda5b0db3fa9a93fd016187a8928abfe9b/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-02-23T13:55:08Z"
@@ -17073,6 +17455,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T06:15:18Z",
+        "origin": "rmhacks",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-hacks-qmd/a5a921cda5b0db3fa9a93fd016187a8928abfe9b/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-02-23T13:55:08Z"
@@ -17123,6 +17506,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T06:15:18Z",
+        "origin": "rmhacks",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-hacks-qmd/a5a921cda5b0db3fa9a93fd016187a8928abfe9b/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-02-23T13:55:08Z"
@@ -17173,6 +17557,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
+        "origin": "rmhacks",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-hacks-qmd/a5a921cda5b0db3fa9a93fd016187a8928abfe9b/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-02-23T13:55:08Z"
@@ -17223,6 +17608,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T06:15:18Z",
+        "origin": "rmhacks",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-hacks-qmd/a5a921cda5b0db3fa9a93fd016187a8928abfe9b/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-02-23T13:55:08Z"
@@ -17259,6 +17645,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-06-12T23:26:09Z",
+        "origin": "rmpp-fixes",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-06-12T23:26:09Z"
@@ -17299,6 +17686,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
+        "origin": "rmstream",
         "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.5/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-27T18:18:17Z"
@@ -17337,6 +17725,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-08T16:53:28Z",
+        "origin": "rmstream",
         "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.5/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-27T18:18:17Z"
@@ -17378,6 +17767,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-23T20:26:48Z",
+        "origin": "rmstream",
         "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.5/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-27T18:18:17Z"
@@ -17419,6 +17809,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-22T22:14:58Z",
+        "origin": "rmstream",
         "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.5/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-27T18:18:17Z"
@@ -17452,6 +17843,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-01T23:02:05Z",
+        "origin": "rmstream",
         "readmeurl": "https://raw.githubusercontent.com/asivery/appload-rmstream/v0.1.5/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-27T18:18:17Z"
@@ -17489,6 +17881,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
+        "origin": "rmtree",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rmtree/v1.0.1/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-06T19:39:37Z"
@@ -17524,6 +17917,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:05Z",
+        "origin": "rmtree",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rmtree/v1.0.1/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-06T19:39:37Z"
@@ -17575,6 +17969,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
+        "origin": "rubber-eraser-rm1",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:54:36Z"
@@ -17624,6 +18019,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:32Z",
+        "origin": "rubber-eraser-rm1",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:54:36Z"
@@ -17672,6 +18068,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
+        "origin": "scroll-screen-up-or-down",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:54:39Z"
@@ -17718,6 +18115,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:32Z",
+        "origin": "scroll-screen-up-or-down",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:54:39Z"
@@ -17766,6 +18164,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
+        "origin": "selection-erase",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:45Z"
@@ -17812,6 +18211,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
+        "origin": "selection-erase",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:45Z"
@@ -17858,6 +18258,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
+        "origin": "selection-erase",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:45Z"
@@ -17904,6 +18305,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T06:07:48Z",
+        "origin": "selection-erase",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/af84fe8f21038c45738a3e321cd9a1e594c985f0/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:45Z"
@@ -17952,6 +18354,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
+        "origin": "selection-stuff",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:46Z"
@@ -17998,6 +18401,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
+        "origin": "selection-stuff",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:46Z"
@@ -18044,6 +18448,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-18T23:43:17Z",
+        "origin": "selection-stuff",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:46Z"
@@ -18090,6 +18495,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T06:07:49Z",
+        "origin": "selection-stuff",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f67f853dbfee9dc6c99c82e8e1343a985474d72b/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:46Z"
@@ -18139,6 +18545,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:06Z",
+        "origin": "settings-rmsync-restart",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#settingsrmsyncrestart",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-02-22T22:17:26Z"
@@ -18193,6 +18600,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
+        "origin": "shortcuts-to-choose-eraser",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-05T04:10:43Z"
@@ -18245,6 +18653,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:33Z",
+        "origin": "shortcuts-to-choose-eraser",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-05T04:10:43Z"
@@ -18293,6 +18702,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:29:47Z",
+        "origin": "sidebar-clock",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/28fe82a3bca3f13b3834d73755f85b12448190ea/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:59Z"
@@ -18339,6 +18749,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-01T22:40:41Z",
+        "origin": "sidebar-clock",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/28fe82a3bca3f13b3834d73755f85b12448190ea/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:59Z"
@@ -18387,6 +18798,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-07T20:06:33Z",
+        "origin": "sort-templates-recent",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/9db5b1efd5cbf76311d25b23a2cfc8e4437f3ed8/README.md#sorttemplatesrecent",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-07-07T20:06:33Z"
@@ -18424,6 +18836,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-22T22:14:59Z",
+        "origin": "starship",
         "readmeurl": "https://raw.githubusercontent.com/starship/starship/v1.24.2/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:59Z"
@@ -18475,6 +18888,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:06Z",
+        "origin": "stylus-button-eraser",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#stylusbuttoneraser",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-02-22T22:17:31Z"
@@ -18527,6 +18941,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:06Z",
+        "origin": "stylus-button-undo-redo",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-02-22T22:17:15Z"
@@ -18566,6 +18981,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-20T21:58:38Z",
+        "origin": "stylus-remapper",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-stylus-remapper/v0.2.1/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-05-20T20:06:24Z"
@@ -18603,6 +19019,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-22T04:11:57Z",
+        "origin": "stylus-remapper",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-stylus-remapper/v0.2.1/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-05-20T20:06:24Z"
@@ -18649,6 +19066,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-06T23:51:13Z",
+        "origin": "stylus-remapper",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-stylus-remapper/v0.2.1/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-05-20T20:06:24Z"
@@ -18697,6 +19115,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "swipe-to-hide-or-show-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:54:46Z"
@@ -18743,6 +19162,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:33Z",
+        "origin": "swipe-to-hide-or-show-toolbar",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:54:46Z"
@@ -18791,6 +19211,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:29:47Z",
+        "origin": "tag-button",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/17898d11afc96767842507cc2a9606a974ae5ec5/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:44:59Z"
@@ -18830,6 +19251,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "tailscale",
         "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.98.8/README.md",
         "donateurl": null,
         "first_released": "2026-02-12T15:07:43Z"
@@ -18867,6 +19289,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-10T19:44:49Z",
+        "origin": "tailscale",
         "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.98.8/README.md",
         "donateurl": null,
         "first_released": "2026-02-12T15:07:43Z"
@@ -18904,6 +19327,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:34Z",
+        "origin": "tailscale",
         "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.98.8/README.md",
         "donateurl": null,
         "first_released": "2026-02-12T15:07:43Z"
@@ -18941,6 +19365,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-22T22:15:00Z",
+        "origin": "tailscale",
         "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.98.8/README.md",
         "donateurl": null,
         "first_released": "2026-02-12T15:07:43Z"
@@ -18981,6 +19406,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-22T22:15:00Z",
+        "origin": "tailscale",
         "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.98.8/README.md",
         "donateurl": null,
         "first_released": "2026-07-08T22:38:08Z"
@@ -19030,6 +19456,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "tap-to-change-view-or-page",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:54:58Z"
@@ -19077,6 +19504,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:34Z",
+        "origin": "tap-to-change-view-or-page",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:54:58Z"
@@ -19127,6 +19555,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "three-finger-swipe-to-reset-view",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:55:23Z"
@@ -19175,6 +19604,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:34Z",
+        "origin": "three-finger-swipe-to-reset-view",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:55:23Z"
@@ -19215,6 +19645,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-19T19:30:05Z",
+        "origin": "tilem",
         "readmeurl": "https://raw.githubusercontent.com/timower/rM2-stuff/v0.1.4/README.md",
         "donateurl": null,
         "first_released": "2026-02-03T20:19:10Z"
@@ -19253,6 +19684,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-11T04:43:14Z",
+        "origin": "tilem",
         "readmeurl": "https://raw.githubusercontent.com/timower/rM2-stuff/v0.1.4/README.md",
         "donateurl": null,
         "first_released": "2026-02-03T20:19:10Z"
@@ -19304,6 +19736,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:07Z",
+        "origin": "toc-from-selection",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/37379cb23d51f580f0355c5560abdac26d1fe550/README.md#tocfromselection",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-02-25T00:39:33Z"
@@ -19352,6 +19785,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "toolbar-icon",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/c49e4654d33e5d8b65ce1a8c5eef45454a19a999/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:47Z"
@@ -19398,6 +19832,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "toolbar-icon",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/c49e4654d33e5d8b65ce1a8c5eef45454a19a999/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:47Z"
@@ -19444,6 +19879,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "toolbar-icon",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/c49e4654d33e5d8b65ce1a8c5eef45454a19a999/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:47Z"
@@ -19490,6 +19926,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "toolbar-icon",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/c49e4654d33e5d8b65ce1a8c5eef45454a19a999/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:47Z"
@@ -19536,6 +19973,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "toolbar-icon",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/c49e4654d33e5d8b65ce1a8c5eef45454a19a999/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:47Z"
@@ -19582,6 +20020,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "toolbar-icon",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/c49e4654d33e5d8b65ce1a8c5eef45454a19a999/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:47Z"
@@ -19628,6 +20067,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "toolbar-icon",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/c49e4654d33e5d8b65ce1a8c5eef45454a19a999/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:47Z"
@@ -19674,6 +20114,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "toolbar-icon",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/c49e4654d33e5d8b65ce1a8c5eef45454a19a999/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:47Z"
@@ -19720,6 +20161,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-18T23:43:18Z",
+        "origin": "toolbar-icon",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/c49e4654d33e5d8b65ce1a8c5eef45454a19a999/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:47Z"
@@ -19766,6 +20208,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T06:07:51Z",
+        "origin": "toolbar-icon",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/c49e4654d33e5d8b65ce1a8c5eef45454a19a999/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:47Z"
@@ -19812,6 +20255,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-09T13:08:25Z",
+        "origin": "toolbar-icon",
         "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/c49e4654d33e5d8b65ce1a8c5eef45454a19a999/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "first_released": "2026-01-09T04:09:47Z"
@@ -19860,6 +20304,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-12T13:41:42Z",
+        "origin": "touch-lock",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ac1c883a3fa60855708285b0037cfd3db3d73570/README.md#touchlock",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-03-12T13:41:06Z"
@@ -19906,6 +20351,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-20T02:32:37Z",
+        "origin": "touch-lock",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ac1c883a3fa60855708285b0037cfd3db3d73570/README.md#touchlock",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-03-12T13:41:06Z"
@@ -19952,6 +20398,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:08Z",
+        "origin": "touch-lock",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ac1c883a3fa60855708285b0037cfd3db3d73570/README.md#touchlock",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-03-12T13:41:06Z"
@@ -19994,6 +20441,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:08Z",
+        "origin": "tripletap",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-tripletap/v1.1.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T14:46:17Z"
@@ -20034,6 +20482,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-12T16:46:02Z",
+        "origin": "tripletap",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-tripletap/v1.1.0/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-14T14:46:17Z"
@@ -20079,6 +20528,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-16T05:50:01Z",
+        "origin": "tun",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-07-07T19:50:29Z"
@@ -20122,6 +20572,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-07-29T23:08:13Z",
+        "origin": "tun",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-07-07T19:50:29Z"
@@ -20170,6 +20621,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:29:49Z",
+        "origin": "uncompress-dock",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/86e43a4d8d26c49abcc81f149245ff1f52961124/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:45:00Z"
@@ -20216,6 +20668,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-01T22:40:44Z",
+        "origin": "uncompress-dock",
         "readmeurl": "https://raw.githubusercontent.com/NohamR/xovi-qmd-extensions/86e43a4d8d26c49abcc81f149245ff1f52961124/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:45:00Z"
@@ -20264,6 +20717,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "unlock-methods-content",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:19Z"
@@ -20310,6 +20764,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "unlock-methods-content",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:19Z"
@@ -20356,6 +20811,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T05:25:08Z",
+        "origin": "unlock-methods-content",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/ead06ef6874d24c571dbbf5a01b79940784cac7c/README.md#unlockmethodscontent",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "first_released": "2026-01-09T04:32:19Z"
@@ -20393,6 +20849,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20428,6 +20885,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20463,6 +20921,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20498,6 +20957,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20533,6 +20993,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20568,6 +21029,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20603,6 +21065,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20638,6 +21101,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-12T15:09:15Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20673,6 +21137,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-16T21:46:45Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20708,6 +21173,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-17T00:54:31Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20743,6 +21209,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-19T22:56:21Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20778,6 +21245,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-19T23:43:33Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20813,6 +21281,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-30T18:45:37Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20848,6 +21317,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-11T17:03:16Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20883,6 +21353,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-20T23:01:21Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20918,6 +21389,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-04T22:04:01Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20953,6 +21425,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-20T22:41:48Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -20988,6 +21461,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-21T22:22:10Z",
+        "origin": "vellum",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-14T22:09:23Z"
@@ -21025,6 +21499,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-11T16:21:02Z",
+        "origin": "vellum-bash-completion",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-01-09T03:03:33Z"
@@ -21064,6 +21539,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z",
+        "origin": "vellum-hosts",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-03-18T17:31:05Z"
@@ -21101,6 +21577,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-11T04:43:18Z",
+        "origin": "vnsee-qtfb",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
         "donateurl": null,
         "first_released": "2026-01-28T23:03:00Z"
@@ -21134,6 +21611,7 @@
         "modifies_system": false,
         "auto_install": true,
         "released": "2026-02-10T23:43:13Z",
+        "origin": "vnsee-qtfb",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
         "donateurl": null,
         "first_released": "2026-01-28T23:03:00Z"
@@ -21167,6 +21645,7 @@
         "modifies_system": false,
         "auto_install": true,
         "released": "2026-02-10T23:43:13Z",
+        "origin": "vnsee-qtfb",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
         "donateurl": null,
         "first_released": "2026-01-28T23:03:00Z"
@@ -21216,6 +21695,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-06T23:42:15Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -21263,6 +21743,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-06T23:42:15Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -21312,6 +21793,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T14:42:37Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -21361,6 +21843,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-24T00:41:50Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -21398,6 +21881,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-02-10T23:43:13Z",
+        "origin": "xovi",
         "readmeurl": "https://raw.githubusercontent.com/asivery/xovi/v0.3.3/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-14T14:46:17Z"
@@ -21435,6 +21919,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-03-24T15:02:46Z",
+        "origin": "xovi",
         "readmeurl": "https://raw.githubusercontent.com/asivery/xovi/v0.3.3/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-14T14:46:17Z"
@@ -21472,6 +21957,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T06:15:24Z",
+        "origin": "xovi",
         "readmeurl": "https://raw.githubusercontent.com/asivery/xovi/v0.3.3/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-14T14:46:17Z"
@@ -21520,6 +22006,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-06T23:42:16Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -21566,6 +22053,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-06T23:42:16Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -21610,6 +22098,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T14:42:37Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -21654,6 +22143,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-24T00:41:50Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -21702,6 +22192,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-06T23:42:16Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -21748,6 +22239,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-08-06T23:42:16Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -21785,6 +22277,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-11T14:42:37Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -21822,6 +22315,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-24T00:41:51Z",
+        "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-10T17:52:54Z"
@@ -21870,6 +22364,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-08T02:18:37Z",
+        "origin": "xovi-settings-main",
         "readmeurl": "https://raw.githubusercontent.com/PepikVaio/reMarkable_Xovi_Extensions/4d24da8dbf92cec060e29f64568dc6963cf6d6fe/README.md",
         "donateurl": null,
         "first_released": "2026-04-02T17:45:00Z"
@@ -21909,6 +22404,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-08-11T04:43:19Z",
+        "origin": "yaft",
         "readmeurl": "https://raw.githubusercontent.com/timower/rM2-stuff/v0.1.4/README.md",
         "donateurl": null,
         "first_released": "2026-05-19T05:35:13Z"
@@ -21941,6 +22437,7 @@
         "modifies_system": true,
         "auto_install": false,
         "released": "2026-05-19T05:35:13Z",
+        "origin": "yaft",
         "readmeurl": "https://raw.githubusercontent.com/timower/rM2-stuff/v0.1.4/README.md",
         "donateurl": null,
         "first_released": "2026-05-19T05:35:13Z"
@@ -21978,6 +22475,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-17T03:42:24Z",
+        "origin": "zerotier-one",
         "readmeurl": "https://raw.githubusercontent.com/zerotier/ZeroTierOne/1.16.2/README.md",
         "donateurl": null,
         "first_released": "2026-05-17T03:42:24Z"
@@ -22013,6 +22511,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-30T17:02:48Z",
+        "origin": "zerotier-one",
         "readmeurl": "https://raw.githubusercontent.com/zerotier/ZeroTierOne/1.16.2/README.md",
         "donateurl": null,
         "first_released": "2026-05-17T03:42:24Z"
@@ -22050,6 +22549,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-17T03:42:24Z",
+        "origin": "zerotier-one",
         "readmeurl": "https://raw.githubusercontent.com/zerotier/ZeroTierOne/1.16.2/README.md",
         "donateurl": null,
         "first_released": "2026-05-17T03:42:24Z"
@@ -22085,6 +22585,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-30T17:02:48Z",
+        "origin": "zerotier-one",
         "readmeurl": "https://raw.githubusercontent.com/zerotier/ZeroTierOne/1.16.2/README.md",
         "donateurl": null,
         "first_released": "2026-05-17T03:42:24Z"
@@ -22122,6 +22623,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-09T19:16:24Z",
+        "origin": "zig",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-04-02T17:45:00Z"
@@ -22157,6 +22659,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-11T19:46:24Z",
+        "origin": "zig",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-04-02T17:45:00Z"
@@ -22194,6 +22697,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-04-09T19:16:24Z",
+        "origin": "zig",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-04-02T17:45:01Z"
@@ -22229,6 +22733,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-11T19:46:24Z",
+        "origin": "zig",
         "readmeurl": null,
         "donateurl": null,
         "first_released": "2026-04-02T17:45:01Z"
@@ -22261,6 +22766,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-05-17T03:40:11Z",
+        "origin": "restream",
         "readmeurl": "https://raw.githubusercontent.com/rien/reStream/v1.5.0/README.md",
         "donateurl": null,
         "first_released": "2026-05-17T03:40:11Z"
@@ -22291,6 +22797,7 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-04T03:50:32Z",
+        "origin": "restream",
         "readmeurl": "https://raw.githubusercontent.com/rien/reStream/v1.5.0/README.md",
         "donateurl": null,
         "first_released": "2026-05-17T03:40:11Z"
@@ -22324,6 +22831,7 @@
         "modifies_system": false,
         "auto_install": true,
         "released": "2026-02-10T23:43:22Z",
+        "origin": "vnsee-qtfb",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
         "donateurl": null,
         "first_released": "2026-02-10T23:43:22Z"
@@ -22357,11 +22865,12 @@
         "modifies_system": false,
         "auto_install": true,
         "released": "2026-02-10T23:43:22Z",
+        "origin": "vnsee-qtfb",
         "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
         "donateurl": null,
         "first_released": "2026-02-10T23:43:22Z"
       }
     }
   },
-  "generated": "2026-08-11T04:44:00Z"
+  "generated": "2026-08-12T13:22:24Z"
 }
