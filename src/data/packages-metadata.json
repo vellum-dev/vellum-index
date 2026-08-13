@@ -14524,7 +14524,40 @@
         "auto_install": false,
         "released": "2026-08-01T17:23:04Z",
         "origin": "pandoc",
-        "readmeurl": "https://raw.githubusercontent.com/jgm/pandoc/3.10.1/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/jgm/pandoc/3.10.2/README.md",
+        "donateurl": null,
+        "first_released": "2026-08-01T17:23:04Z"
+      },
+      "3.10.2-r0": {
+        "pkgdesc": "a Haskell library for converting from one markup format to another, and a command-line tool that uses this library",
+        "upstream_author": "jgm",
+        "maintainer": "esclee <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "GPL-2.0-or-later",
+        "url": "https://pandoc.org/",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-08-13T23:37:24Z",
+        "origin": "pandoc",
+        "readmeurl": "https://raw.githubusercontent.com/jgm/pandoc/3.10.2/README.md",
         "donateurl": null,
         "first_released": "2026-08-01T17:23:04Z"
       }
@@ -22887,5 +22920,5 @@
       }
     }
   },
-  "generated": "2026-08-12T20:21:16Z"
+  "generated": "2026-08-13T23:38:19Z"
 }
