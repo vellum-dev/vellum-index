@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 01:44:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 02:51:11 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>pitwall-oxide 1.0.0-r0</title>
+      <link>https://github.com/sijokun/PitWall</link>
+      <description><![CDATA[Oxide application registration for PitWall<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>sijokun</author>
+      <category>apps</category>
+      <pubDate>Fri, 14 Aug 2026 02:50:14 +0000</pubDate>
+      <guid isPermaLink="false">pitwall-oxide-1.0.0-r0</guid>
+    </item>
+    <item>
+      <title>pitwall 1.0.0-r0</title>
+      <link>https://github.com/sijokun/PitWall</link>
+      <description><![CDATA[Live Formula 1 timing for AppLoad: positions, intervals, tyres, flags, and race control<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>sijokun</author>
+      <category>apps</category>
+      <pubDate>Fri, 14 Aug 2026 02:50:14 +0000</pubDate>
+      <guid isPermaLink="false">pitwall-1.0.0-r0</guid>
+    </item>
     <item>
       <title>oxide-xovi 3.1.2-r0</title>
       <link>https://oxide.eeems.codes</link>

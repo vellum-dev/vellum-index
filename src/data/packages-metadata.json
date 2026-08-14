@@ -15255,6 +15255,86 @@
         "first_released": "2026-04-16T22:50:56Z"
       }
     },
+    "pitwall": {
+      "1.0.0-r0": {
+        "pkgdesc": "Live Formula 1 timing for AppLoad: positions, intervals, tyres, flags, and race control",
+        "upstream_author": "sijokun",
+        "maintainer": "Yan Khachko <46069139+sijokun@users.noreply.github.com>",
+        "categories": [
+          "apps"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/sijokun/PitWall",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "launcher"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-08-14T02:50:14Z",
+        "origin": "pitwall",
+        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/5711ccbe83e06691e93277cc47c3ee13f993de48/README.md",
+        "donateurl": null,
+        "first_released": "2026-08-14T02:50:14Z"
+      }
+    },
+    "pitwall-oxide": {
+      "1.0.0-r0": {
+        "pkgdesc": "Oxide application registration for PitWall",
+        "upstream_author": "sijokun",
+        "maintainer": "Yan Khachko <46069139+sijokun@users.noreply.github.com>",
+        "categories": [
+          "apps"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/sijokun/PitWall",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qtfblight"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": true,
+        "released": "2026-08-14T02:50:14Z",
+        "origin": "pitwall",
+        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/5711ccbe83e06691e93277cc47c3ee13f993de48/README.md",
+        "donateurl": null,
+        "first_released": "2026-08-14T02:50:14Z"
+      }
+    },
     "prevent-notebook-zoomout": {
       "1.0.0-r0": {
         "pkgdesc": "Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode",
@@ -23470,5 +23550,5 @@
       }
     }
   },
-  "generated": "2026-08-14T01:44:40Z"
+  "generated": "2026-08-14T02:51:11Z"
 }
