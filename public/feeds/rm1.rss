@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 02:51:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:10:45 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>trmnl-remarkable 2.4.0-r0</title>
+      <link>https://github.com/usetrmnl/trmnl-remarkable</link>
+      <description><![CDATA[TRMNL dashboard client for AppLoad: renders your TRMNL playlist on the tablet<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
+      <author>usetrmnl</author>
+      <category>apps</category>
+      <pubDate>Fri, 14 Aug 2026 15:09:56 +0000</pubDate>
+      <guid isPermaLink="false">trmnl-remarkable-2.4.0-r0</guid>
+    </item>
     <item>
       <title>pitwall-oxide 1.0.0-r0</title>
       <link>https://github.com/sijokun/PitWall</link>
