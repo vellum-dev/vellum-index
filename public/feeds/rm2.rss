@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 01:49:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 02:36:46 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>remarkdown 0.3.0-r0</title>
+      <link>https://github.com/esclee/reMarkdown</link>
+      <description><![CDATA[A lightweight Markdown editor for the reMarkable tablet, to be used via AppLoad<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>esclee</author>
+      <category>apps</category>
+      <pubDate>Mon, 17 Aug 2026 02:35:48 +0000</pubDate>
+      <guid isPermaLink="false">remarkdown-0.3.0-r0</guid>
+    </item>
     <item>
       <title>tailscale-tun 1.102.2-r0</title>
       <link>https://tailscale.com</link>

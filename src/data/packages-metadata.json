@@ -17275,7 +17275,45 @@
         "auto_install": false,
         "released": "2026-07-23T06:39:33Z",
         "origin": "remarkdown",
-        "readmeurl": "https://raw.githubusercontent.com/esclee/reMarkdown/v0.1.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/esclee/reMarkdown/v0.3.0/README.md",
+        "donateurl": null,
+        "first_released": "2026-07-23T06:39:33Z"
+      },
+      "0.3.0-r0": {
+        "pkgdesc": "A lightweight Markdown editor for the reMarkable tablet, to be used via AppLoad",
+        "upstream_author": "esclee",
+        "maintainer": "esclee <5288860+esclee@users.noreply.github.com>",
+        "categories": [
+          "apps"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/esclee/reMarkdown",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "appload>=0.5.1"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-08-17T02:35:48Z",
+        "origin": "remarkdown",
+        "readmeurl": "https://raw.githubusercontent.com/esclee/reMarkdown/v0.3.0/README.md",
         "donateurl": null,
         "first_released": "2026-07-23T06:39:33Z"
       }
@@ -23674,5 +23712,5 @@
       }
     }
   },
-  "generated": "2026-08-15T01:49:44Z"
+  "generated": "2026-08-17T02:36:46Z"
 }
