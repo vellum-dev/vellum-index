@@ -5,16 +5,241 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 02:36:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 22:22:51 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
     <item>
-      <title>remarkdown 0.3.0-r0</title>
+      <title>restream 1.5.0-r1</title>
+      <link>https://github.com/rien/reStream</link>
+      <description><![CDATA[Binary framebuffer capture tool for the reStream script<br/>Devices: rm1, rm2]]></description>
+      <author>rien</author>
+      <category>utilities</category>
+      <pubDate>Thu, 20 Aug 2026 22:22:41 +0000</pubDate>
+      <guid isPermaLink="false">restream-1.5.0-r1</guid>
+    </item>
+    <item>
+      <title>zerotier-selftest 1.16.2-r1</title>
+      <link>https://github.com/zerotier/ZeroTierOne</link>
+      <description><![CDATA[Unit test zerotier to ensure that it works as expected on the system<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>zerotier</author>
+      <category>utilities</category>
+      <pubDate>Thu, 20 Aug 2026 22:22:12 +0000</pubDate>
+      <guid isPermaLink="false">zerotier-selftest-1.16.2-r1</guid>
+    </item>
+    <item>
+      <title>zerotier-one 1.16.2-r1</title>
+      <link>https://github.com/zerotier/ZeroTierOne</link>
+      <description><![CDATA[A Smart Ethernet Switch for Earth<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>zerotier</author>
+      <category>utilities</category>
+      <pubDate>Thu, 20 Aug 2026 22:22:12 +0000</pubDate>
+      <guid isPermaLink="false">zerotier-one-1.16.2-r1</guid>
+    </item>
+    <item>
+      <title>remarkdown 0.3.0-r1</title>
       <link>https://github.com/esclee/reMarkdown</link>
       <description><![CDATA[A lightweight Markdown editor for the reMarkable tablet, to be used via AppLoad<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
       <author>esclee</author>
       <category>apps</category>
-      <pubDate>Mon, 17 Aug 2026 02:35:48 +0000</pubDate>
-      <guid isPermaLink="false">remarkdown-0.3.0-r0</guid>
+      <pubDate>Thu, 20 Aug 2026 22:22:03 +0000</pubDate>
+      <guid isPermaLink="false">remarkdown-0.3.0-r1</guid>
+    </item>
+    <item>
+      <title>qtfblight 0.1.2-r1</title>
+      <link>https://github.com/NoaHimesaka1873/qtfblight</link>
+      <description><![CDATA[QTFB compatibility server for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>NoaHimesaka1873</author>
+      <category>framework</category>
+      <pubDate>Thu, 20 Aug 2026 22:22:01 +0000</pubDate>
+      <guid isPermaLink="false">qtfblight-0.1.2-r1</guid>
+    </item>
+    <item>
+      <title>oxide-xovi 3.1.2-r1</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Xovi application registration for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>framework</category>
+      <pubDate>Thu, 20 Aug 2026 22:22:00 +0000</pubDate>
+      <guid isPermaLink="false">oxide-xovi-3.1.2-r1</guid>
+    </item>
+    <item>
+      <title>oxide-utils 3.1.2-r1</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Command line tools for Oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:59 +0000</pubDate>
+      <guid isPermaLink="false">oxide-utils-3.1.2-r1</guid>
+    </item>
+    <item>
+      <title>oxide-tests 3.1.2-r1</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Automated tests for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>framework</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:59 +0000</pubDate>
+      <guid isPermaLink="false">oxide-tests-3.1.2-r1</guid>
+    </item>
+    <item>
+      <title>oxide-extra 3.1.2-r1</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Extra applications for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>apps</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:59 +0000</pubDate>
+      <guid isPermaLink="false">oxide-extra-3.1.2-r1</guid>
+    </item>
+    <item>
+      <title>oxide-display-dev 3.1.2-r1</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>development</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:58 +0000</pubDate>
+      <guid isPermaLink="false">oxide-display-dev-3.1.2-r1</guid>
+    </item>
+    <item>
+      <title>oxide-display 3.1.2-r1</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
+      <author>Eeems-Org</author>
+      <category>framework</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:58 +0000</pubDate>
+      <guid isPermaLink="false">oxide-display-3.1.2-r1</guid>
+    </item>
+    <item>
+      <title>oxide 3.1.2-r1</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Launcher application<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>launchers</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:58 +0000</pubDate>
+      <guid isPermaLink="false">oxide-3.1.2-r1</guid>
+    </item>
+    <item>
+      <title>netsurf 0.5.0-r2</title>
+      <link>https://github.com/MaicroNotHard/netsurf-reMarkable</link>
+      <description><![CDATA[Lightweight web browser<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>MaicroNotHard</author>
+      <category>apps</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:57 +0000</pubDate>
+      <guid isPermaLink="false">netsurf-0.5.0-r2</guid>
+    </item>
+    <item>
+      <title>netevent 2.2.2-r2</title>
+      <link>https://github.com/Blub/netevent</link>
+      <description><![CDATA[Input-Event device cloning utility<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Blub</author>
+      <category>utilities</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:57 +0000</pubDate>
+      <guid isPermaLink="false">netevent-2.2.2-r2</guid>
+    </item>
+    <item>
+      <title>lockscreen_hook 3.1.2-r1</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Run scripts after unlock<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
+      <author>Eeems-Org</author>
+      <category>framework</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:56 +0000</pubDate>
+      <guid isPermaLink="false">lockscreen_hook-3.1.2-r1</guid>
+    </item>
+    <item>
+      <title>liboxide-dev 3.1.2-r1</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Shared library for oxide applications<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>development</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:55 +0000</pubDate>
+      <guid isPermaLink="false">liboxide-dev-3.1.2-r1</guid>
+    </item>
+    <item>
+      <title>liboxide 3.1.2-r1</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Shared library for oxide applications<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>framework</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:55 +0000</pubDate>
+      <guid isPermaLink="false">liboxide-3.1.2-r1</guid>
+    </item>
+    <item>
+      <title>launcherctl-oxide 3.1.2-r1</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Launcherctl configuration for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:55 +0000</pubDate>
+      <guid isPermaLink="false">launcherctl-oxide-3.1.2-r1</guid>
+    </item>
+    <item>
+      <title>launcherctl 3.1.2-r1</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Manage your installed launcher<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:55 +0000</pubDate>
+      <guid isPermaLink="false">launcherctl-3.1.2-r1</guid>
+    </item>
+    <item>
+      <title>keyd-doc 2.6.0-r1</title>
+      <link>https://github.com/rvaiya/keyd</link>
+      <description><![CDATA[A key remapping daemon for linux<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rvaiya</author>
+      <category>utilities</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:54 +0000</pubDate>
+      <guid isPermaLink="false">keyd-doc-2.6.0-r1</guid>
+    </item>
+    <item>
+      <title>keyd 2.6.0-r1</title>
+      <link>https://github.com/rvaiya/keyd</link>
+      <description><![CDATA[A key remapping daemon for linux<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rvaiya</author>
+      <category>utilities</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:54 +0000</pubDate>
+      <guid isPermaLink="false">keyd-2.6.0-r1</guid>
+    </item>
+    <item>
+      <title>inject_evdev 3.1.2-r1</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Inject input events<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:54 +0000</pubDate>
+      <guid isPermaLink="false">inject_evdev-3.1.2-r1</guid>
+    </item>
+    <item>
+      <title>fbinfo 3.1.2-r1</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Print out framebuffer info<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:47 +0000</pubDate>
+      <guid isPermaLink="false">fbinfo-3.1.2-r1</guid>
+    </item>
+    <item>
+      <title>chessmarkable 0.8.1-r6</title>
+      <link>https://github.com/LinusCDE/chessmarkable</link>
+      <description><![CDATA[Chess game<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove]]></description>
+      <author>LinusCDE</author>
+      <category>apps</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:44 +0000</pubDate>
+      <guid isPermaLink="false">chessmarkable-0.8.1-r6</guid>
+    </item>
+    <item>
+      <title>bandwhich 0.23.1-r1</title>
+      <link>https://github.com/imsnif/bandwhich</link>
+      <description><![CDATA[CLI network utilization tool<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>imsnif</author>
+      <category>utilities</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:42 +0000</pubDate>
+      <guid isPermaLink="false">bandwhich-0.23.1-r1</guid>
+    </item>
+    <item>
+      <title>appload-to-oxide 0.1.2-r1</title>
+      <link>https://github.com/NoaHimesaka1873/qtfblight</link>
+      <description><![CDATA[Convert AppLoad apps into Oxide application registrations<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>NoaHimesaka1873</author>
+      <category>utilities</category>
+      <pubDate>Thu, 20 Aug 2026 22:21:42 +0000</pubDate>
+      <guid isPermaLink="false">appload-to-oxide-0.1.2-r1</guid>
     </item>
     <item>
       <title>tailscale-tun 1.102.2-r0</title>
@@ -62,132 +287,6 @@
       <guid isPermaLink="false">pitwall-1.0.0-r0</guid>
     </item>
     <item>
-      <title>oxide-xovi 3.1.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Xovi application registration for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Fri, 14 Aug 2026 01:43:43 +0000</pubDate>
-      <guid isPermaLink="false">oxide-xovi-3.1.2-r0</guid>
-    </item>
-    <item>
-      <title>oxide-utils 3.1.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Command line tools for Oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>utilities</category>
-      <pubDate>Fri, 14 Aug 2026 01:43:43 +0000</pubDate>
-      <guid isPermaLink="false">oxide-utils-3.1.2-r0</guid>
-    </item>
-    <item>
-      <title>oxide-tests 3.1.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Automated tests for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Fri, 14 Aug 2026 01:43:43 +0000</pubDate>
-      <guid isPermaLink="false">oxide-tests-3.1.2-r0</guid>
-    </item>
-    <item>
-      <title>oxide-extra 3.1.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Extra applications for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>apps</category>
-      <pubDate>Fri, 14 Aug 2026 01:43:42 +0000</pubDate>
-      <guid isPermaLink="false">oxide-extra-3.1.2-r0</guid>
-    </item>
-    <item>
-      <title>oxide-display-dev 3.1.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>development</category>
-      <pubDate>Fri, 14 Aug 2026 01:43:42 +0000</pubDate>
-      <guid isPermaLink="false">oxide-display-dev-3.1.2-r0</guid>
-    </item>
-    <item>
-      <title>oxide-display 3.1.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Fri, 14 Aug 2026 01:43:42 +0000</pubDate>
-      <guid isPermaLink="false">oxide-display-3.1.2-r0</guid>
-    </item>
-    <item>
-      <title>oxide 3.1.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Launcher application<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>launchers</category>
-      <pubDate>Fri, 14 Aug 2026 01:43:41 +0000</pubDate>
-      <guid isPermaLink="false">oxide-3.1.2-r0</guid>
-    </item>
-    <item>
-      <title>lockscreen_hook 3.1.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Run scripts after unlock<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Fri, 14 Aug 2026 01:43:39 +0000</pubDate>
-      <guid isPermaLink="false">lockscreen_hook-3.1.2-r0</guid>
-    </item>
-    <item>
-      <title>liboxide-dev 3.1.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Shared library for oxide applications<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>development</category>
-      <pubDate>Fri, 14 Aug 2026 01:43:39 +0000</pubDate>
-      <guid isPermaLink="false">liboxide-dev-3.1.2-r0</guid>
-    </item>
-    <item>
-      <title>liboxide 3.1.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Shared library for oxide applications<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Fri, 14 Aug 2026 01:43:38 +0000</pubDate>
-      <guid isPermaLink="false">liboxide-3.1.2-r0</guid>
-    </item>
-    <item>
-      <title>launcherctl-oxide 3.1.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Launcherctl configuration for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>utilities</category>
-      <pubDate>Fri, 14 Aug 2026 01:43:38 +0000</pubDate>
-      <guid isPermaLink="false">launcherctl-oxide-3.1.2-r0</guid>
-    </item>
-    <item>
-      <title>launcherctl 3.1.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Manage your installed launcher<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>utilities</category>
-      <pubDate>Fri, 14 Aug 2026 01:43:38 +0000</pubDate>
-      <guid isPermaLink="false">launcherctl-3.1.2-r0</guid>
-    </item>
-    <item>
-      <title>inject_evdev 3.1.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Inject input events<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>utilities</category>
-      <pubDate>Fri, 14 Aug 2026 01:43:37 +0000</pubDate>
-      <guid isPermaLink="false">inject_evdev-3.1.2-r0</guid>
-    </item>
-    <item>
-      <title>fbinfo 3.1.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Print out framebuffer info<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>utilities</category>
-      <pubDate>Fri, 14 Aug 2026 01:43:29 +0000</pubDate>
-      <guid isPermaLink="false">fbinfo-3.1.2-r0</guid>
-    </item>
-    <item>
       <title>trmnl-remarkable 2.3.0-r0</title>
       <link>https://github.com/usetrmnl/trmnl-remarkable</link>
       <description><![CDATA[TRMNL dashboard client for AppLoad: renders your TRMNL playlist on the tablet<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
@@ -195,15 +294,6 @@
       <category>apps</category>
       <pubDate>Wed, 12 Aug 2026 20:20:27 +0000</pubDate>
       <guid isPermaLink="false">trmnl-remarkable-2.3.0-r0</guid>
-    </item>
-    <item>
-      <title>chessmarkable 0.8.1-r5</title>
-      <link>https://github.com/LinusCDE/chessmarkable</link>
-      <description><![CDATA[Chess game<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove]]></description>
-      <author>LinusCDE</author>
-      <category>apps</category>
-      <pubDate>Wed, 12 Aug 2026 15:04:30 +0000</pubDate>
-      <guid isPermaLink="false">chessmarkable-0.8.1-r5</guid>
     </item>
     <item>
       <title>yaft 0.1.4-r5</title>
@@ -303,15 +393,6 @@
       <category>launchers</category>
       <pubDate>Tue, 11 Aug 2026 04:43:04 +0000</pubDate>
       <guid isPermaLink="false">oxide-3.1.1-r3</guid>
-    </item>
-    <item>
-      <title>netsurf 0.5.0-r1</title>
-      <link>https://github.com/MaicroNotHard/netsurf-reMarkable</link>
-      <description><![CDATA[Lightweight web browser<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>MaicroNotHard</author>
-      <category>apps</category>
-      <pubDate>Tue, 11 Aug 2026 04:43:04 +0000</pubDate>
-      <guid isPermaLink="false">netsurf-0.5.0-r1</guid>
     </item>
     <item>
       <title>lockscreen_hook 3.1.1-r3</title>
@@ -818,24 +899,6 @@
       <guid isPermaLink="false">prevent-notebook-zoomout-1.1.1-r0</guid>
     </item>
     <item>
-      <title>qtfblight 0.1.2-r0</title>
-      <link>https://github.com/NoaHimesaka1873/qtfblight</link>
-      <description><![CDATA[QTFB compatibility server for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>NoaHimesaka1873</author>
-      <category>framework</category>
-      <pubDate>Sun, 19 Jul 2026 19:10:01 +0000</pubDate>
-      <guid isPermaLink="false">qtfblight-0.1.2-r0</guid>
-    </item>
-    <item>
-      <title>appload-to-oxide 0.1.2-r0</title>
-      <link>https://github.com/NoaHimesaka1873/qtfblight</link>
-      <description><![CDATA[Convert AppLoad apps into Oxide application registrations<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>NoaHimesaka1873</author>
-      <category>utilities</category>
-      <pubDate>Sun, 19 Jul 2026 19:09:42 +0000</pubDate>
-      <guid isPermaLink="false">appload-to-oxide-0.1.2-r0</guid>
-    </item>
-    <item>
       <title>qtfblight 0.1.0-r1</title>
       <link>https://github.com/NoaHimesaka1873/qtfblight</link>
       <description><![CDATA[QTFB compatibility server for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -1277,15 +1340,6 @@
       <guid isPermaLink="false">bettertoc-collapse-1.1.0-r0</guid>
     </item>
     <item>
-      <title>restream 1.5.0-r0</title>
-      <link>https://github.com/rien/reStream</link>
-      <description><![CDATA[Binary framebuffer capture tool for the reStream script<br/>Devices: rm1, rm2]]></description>
-      <author>rien</author>
-      <category>utilities</category>
-      <pubDate>Sat, 04 Jul 2026 03:50:32 +0000</pubDate>
-      <guid isPermaLink="false">restream-1.5.0-r0</guid>
-    </item>
-    <item>
       <title>uncompress-dock 1.1.0-r0</title>
       <link>https://github.com/NohamR/xovi-qmd-extensions</link>
       <description><![CDATA[Replaces the More menu in the document dock with dedicated notebook, folder, and quick sheet buttons.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
@@ -1482,24 +1536,6 @@
       <category>ui</category>
       <pubDate>Thu, 11 Jun 2026 19:23:10 +0000</pubDate>
       <guid isPermaLink="false">quicksettings-screenshot-2.0.0-r5</guid>
-    </item>
-    <item>
-      <title>zerotier-selftest 1.16.2-r0</title>
-      <link>https://github.com/zerotier/ZeroTierOne</link>
-      <description><![CDATA[Unit test zerotier to ensure that it works as expected on the system<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>zerotier</author>
-      <category>utilities</category>
-      <pubDate>Sat, 30 May 2026 17:02:48 +0000</pubDate>
-      <guid isPermaLink="false">zerotier-selftest-1.16.2-r0</guid>
-    </item>
-    <item>
-      <title>zerotier-one 1.16.2-r0</title>
-      <link>https://github.com/zerotier/ZeroTierOne</link>
-      <description><![CDATA[A Smart Ethernet Switch for Earth<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>zerotier</author>
-      <category>utilities</category>
-      <pubDate>Sat, 30 May 2026 17:02:48 +0000</pubDate>
-      <guid isPermaLink="false">zerotier-one-1.16.2-r0</guid>
     </item>
     <item>
       <title>prevent-notebook-zoomout 1.1.0-r0</title>
@@ -1734,33 +1770,6 @@
       <category>utilities</category>
       <pubDate>Sun, 17 May 2026 03:40:11 +0000</pubDate>
       <guid isPermaLink="false">restream-1.4.0-r0</guid>
-    </item>
-    <item>
-      <title>keyd-doc 2.6.0-r0</title>
-      <link>https://github.com/rvaiya/keyd</link>
-      <description><![CDATA[A key remapping daemon for linux<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rvaiya</author>
-      <category>utilities</category>
-      <pubDate>Sat, 16 May 2026 22:30:19 +0000</pubDate>
-      <guid isPermaLink="false">keyd-doc-2.6.0-r0</guid>
-    </item>
-    <item>
-      <title>keyd 2.6.0-r0</title>
-      <link>https://github.com/rvaiya/keyd</link>
-      <description><![CDATA[A key remapping daemon for linux<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rvaiya</author>
-      <category>utilities</category>
-      <pubDate>Sat, 16 May 2026 22:30:19 +0000</pubDate>
-      <guid isPermaLink="false">keyd-2.6.0-r0</guid>
-    </item>
-    <item>
-      <title>bandwhich 0.23.1-r0</title>
-      <link>https://github.com/imsnif/bandwhich</link>
-      <description><![CDATA[CLI network utilization tool<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>imsnif</author>
-      <category>utilities</category>
-      <pubDate>Sat, 16 May 2026 22:30:08 +0000</pubDate>
-      <guid isPermaLink="false">bandwhich-0.23.1-r0</guid>
     </item>
     <item>
       <title>debootstrap 1.0.133-r0</title>
@@ -2418,15 +2427,6 @@
       <category>ui</category>
       <pubDate>Fri, 08 May 2026 02:18:32 +0000</pubDate>
       <guid isPermaLink="false">rubber-eraser-rm1-1.0.1-r2</guid>
-    </item>
-    <item>
-      <title>netevent 2.2.2-r1</title>
-      <link>https://github.com/Blub/netevent</link>
-      <description><![CDATA[Input-Event device cloning utility<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Blub</author>
-      <category>utilities</category>
-      <pubDate>Fri, 08 May 2026 02:18:28 +0000</pubDate>
-      <guid isPermaLink="false">netevent-2.2.2-r1</guid>
     </item>
     <item>
       <title>navigate-using-arrow-keys 1.0.2-r1</title>

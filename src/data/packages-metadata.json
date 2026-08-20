@@ -738,7 +738,7 @@
         "donateurl": null,
         "first_released": "2026-07-18T19:06:57Z"
       },
-      "0.1.2-r0": {
+      "0.1.2-r1": {
         "pkgdesc": "Convert AppLoad apps into Oxide application registrations",
         "upstream_author": "NoaHimesaka1873",
         "maintainer": "Noa Himesaka <himesaka@noa.codes>",
@@ -771,7 +771,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-07-19T19:09:42Z",
+        "released": "2026-08-20T22:21:42Z",
         "origin": "qtfblight",
         "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.2/README.md",
         "donateurl": null,
@@ -779,7 +779,7 @@
       }
     },
     "bandwhich": {
-      "0.23.1-r0": {
+      "0.23.1-r1": {
         "pkgdesc": "CLI network utilization tool",
         "upstream_author": "imsnif",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -809,7 +809,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-16T22:30:08Z",
+        "released": "2026-08-20T22:21:42Z",
         "origin": "bandwhich",
         "readmeurl": "https://raw.githubusercontent.com/imsnif/bandwhich/v0.23.1/README.md",
         "donateurl": null,
@@ -2118,7 +2118,7 @@
       }
     },
     "chessmarkable": {
-      "0.8.1-r5": {
+      "0.8.1-r6": {
         "pkgdesc": "Chess game",
         "upstream_author": "LinusCDE",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -2149,7 +2149,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-08-12T15:04:30Z",
+        "released": "2026-08-20T22:21:44Z",
         "origin": "chessmarkable",
         "readmeurl": "https://raw.githubusercontent.com/LinusCDE/chessmarkable/0.8.1-1/README.md",
         "donateurl": null,
@@ -3602,7 +3602,7 @@
         "donateurl": null,
         "first_released": "2026-05-22T18:03:35Z"
       },
-      "0.4.2-r2": {
+      "0.4.2-r3": {
         "pkgdesc": "DOOM game",
         "upstream_author": "LinusCDE",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -3632,7 +3632,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-08-11T04:42:51Z",
+        "released": "2026-08-20T22:21:45Z",
         "origin": "doomarkable",
         "readmeurl": "https://raw.githubusercontent.com/LinusCDE/doomarkable/0.4.2/README.md",
         "donateurl": null,
@@ -5300,7 +5300,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:00Z"
       },
-      "3.1.2-r0": {
+      "3.1.2-r1": {
         "pkgdesc": "Print out framebuffer info",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -5330,7 +5330,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-08-14T01:43:29Z",
+        "released": "2026-08-20T22:21:47Z",
         "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
         "donateurl": null,
@@ -11039,7 +11039,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
       },
-      "3.1.2-r0": {
+      "3.1.2-r1": {
         "pkgdesc": "Inject input events",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -11061,7 +11061,7 @@
           "rmppure"
         ],
         "depends": [
-          "liboxide=3.1.2-r0"
+          "liboxide=3.1.2-r1"
         ],
         "conflicts": [],
         "provides": [],
@@ -11071,7 +11071,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-08-14T01:43:37Z",
+        "released": "2026-08-20T22:21:54Z",
         "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
         "donateurl": null,
@@ -11117,7 +11117,7 @@
       }
     },
     "keyd": {
-      "2.6.0-r0": {
+      "2.6.0-r1": {
         "pkgdesc": "A key remapping daemon for linux",
         "upstream_author": "rvaiya",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -11147,7 +11147,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-16T22:30:19Z",
+        "released": "2026-08-20T22:21:54Z",
         "origin": "keyd",
         "readmeurl": "https://raw.githubusercontent.com/rvaiya/keyd/v2.6.0/README.md",
         "donateurl": null,
@@ -11155,7 +11155,7 @@
       }
     },
     "keyd-doc": {
-      "2.6.0-r0": {
+      "2.6.0-r1": {
         "pkgdesc": "A key remapping daemon for linux",
         "upstream_author": "rvaiya",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -11185,7 +11185,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-16T22:30:19Z",
+        "released": "2026-08-20T22:21:54Z",
         "origin": "keyd",
         "readmeurl": "https://raw.githubusercontent.com/rvaiya/keyd/v2.6.0/README.md",
         "donateurl": null,
@@ -11511,7 +11511,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
       },
-      "3.1.2-r0": {
+      "3.1.2-r1": {
         "pkgdesc": "Manage your installed launcher",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -11533,7 +11533,7 @@
           "rmppure"
         ],
         "depends": [
-          "liboxide=3.1.2-r0",
+          "liboxide=3.1.2-r1",
           "lockscreen_hook"
         ],
         "conflicts": [
@@ -11546,7 +11546,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-08-14T01:43:38Z",
+        "released": "2026-08-20T22:21:55Z",
         "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
         "donateurl": null,
@@ -11755,7 +11755,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
       },
-      "3.1.2-r0": {
+      "3.1.2-r1": {
         "pkgdesc": "Launcherctl configuration for oxide",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -11777,8 +11777,8 @@
           "rmppure"
         ],
         "depends": [
-          "oxide=3.1.2-r0",
-          "oxide-utils=3.1.2-r0",
+          "oxide=3.1.2-r1",
+          "oxide-utils=3.1.2-r1",
           "launcherctl"
         ],
         "conflicts": [],
@@ -11789,7 +11789,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-08-14T01:43:38Z",
+        "released": "2026-08-20T22:21:55Z",
         "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
         "donateurl": null,
@@ -11982,7 +11982,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:08Z"
       },
-      "3.1.2-r0": {
+      "3.1.2-r1": {
         "pkgdesc": "Shared library for oxide applications",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -12012,7 +12012,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-08-14T01:43:38Z",
+        "released": "2026-08-20T22:21:55Z",
         "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
         "donateurl": null,
@@ -12172,7 +12172,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:09Z"
       },
-      "3.1.2-r0": {
+      "3.1.2-r1": {
         "pkgdesc": "Shared library for oxide applications",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -12194,7 +12194,7 @@
           "rmppure"
         ],
         "depends": [
-          "liboxide=3.1.2-r0"
+          "liboxide=3.1.2-r1"
         ],
         "conflicts": [],
         "provides": [],
@@ -12204,7 +12204,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-08-14T01:43:39Z",
+        "released": "2026-08-20T22:21:55Z",
         "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
         "donateurl": null,
@@ -12662,7 +12662,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:09Z"
       },
-      "3.1.2-r0": {
+      "3.1.2-r1": {
         "pkgdesc": "Run scripts after unlock",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -12697,7 +12697,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-08-14T01:43:39Z",
+        "released": "2026-08-20T22:21:56Z",
         "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
         "donateurl": null,
@@ -13515,7 +13515,7 @@
       }
     },
     "netevent": {
-      "2.2.2-r1": {
+      "2.2.2-r2": {
         "pkgdesc": "Input-Event device cloning utility",
         "upstream_author": "Blub",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -13545,7 +13545,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:28Z",
+        "released": "2026-08-20T22:21:57Z",
         "origin": "netevent",
         "readmeurl": "https://raw.githubusercontent.com/Blub/netevent/2.2.2/README.md",
         "donateurl": null,
@@ -13553,7 +13553,7 @@
       }
     },
     "netsurf": {
-      "0.5.0-r1": {
+      "0.5.0-r2": {
         "pkgdesc": "Lightweight web browser",
         "upstream_author": "MaicroNotHard",
         "maintainer": "maicrohard <maicrohard@proton.me>",
@@ -13585,7 +13585,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-08-11T04:43:04Z",
+        "released": "2026-08-20T22:21:57Z",
         "origin": "netsurf",
         "readmeurl": "https://raw.githubusercontent.com/MaicroNotHard/netsurf-reMarkable/125e7e10d044e6eef1fa391a979067fb1c18cb3c/README.md",
         "donateurl": null,
@@ -13795,7 +13795,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
       },
-      "3.1.2-r0": {
+      "3.1.2-r1": {
         "pkgdesc": "Launcher application",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -13817,8 +13817,8 @@
           "rmppure"
         ],
         "depends": [
-          "oxide-display=3.1.2-r0",
-          "liboxide=3.1.2-r0"
+          "oxide-display=3.1.2-r1",
+          "liboxide=3.1.2-r1"
         ],
         "conflicts": [],
         "provides": [
@@ -13830,7 +13830,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-08-14T01:43:41Z",
+        "released": "2026-08-20T22:21:58Z",
         "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
         "donateurl": null,
@@ -14010,7 +14010,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
       },
-      "3.1.2-r0": {
+      "3.1.2-r1": {
         "pkgdesc": "Oxide display server",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -14037,7 +14037,7 @@
           "rmppure"
         ],
         "depends": [
-          "liboxide=3.1.2-r0"
+          "liboxide=3.1.2-r1"
         ],
         "conflicts": [],
         "provides": [],
@@ -14047,7 +14047,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-08-14T01:43:42Z",
+        "released": "2026-08-20T22:21:58Z",
         "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
         "donateurl": null,
@@ -14207,7 +14207,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
       },
-      "3.1.2-r0": {
+      "3.1.2-r1": {
         "pkgdesc": "Oxide display server",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -14229,7 +14229,7 @@
           "rmppure"
         ],
         "depends": [
-          "oxide-display=3.1.2-r0"
+          "oxide-display=3.1.2-r1"
         ],
         "conflicts": [],
         "provides": [],
@@ -14239,7 +14239,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-08-14T01:43:42Z",
+        "released": "2026-08-20T22:21:58Z",
         "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
         "donateurl": null,
@@ -14407,7 +14407,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
       },
-      "3.1.2-r0": {
+      "3.1.2-r1": {
         "pkgdesc": "Extra applications for oxide",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -14429,9 +14429,9 @@
           "rmppure"
         ],
         "depends": [
-          "oxide=3.1.2-r0",
-          "oxide-utils=3.1.2-r0",
-          "liboxide=3.1.2-r0"
+          "oxide=3.1.2-r1",
+          "oxide-utils=3.1.2-r1",
+          "liboxide=3.1.2-r1"
         ],
         "conflicts": [],
         "provides": [],
@@ -14441,7 +14441,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-08-14T01:43:42Z",
+        "released": "2026-08-20T22:21:59Z",
         "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
         "donateurl": null,
@@ -14605,7 +14605,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
       },
-      "3.1.2-r0": {
+      "3.1.2-r1": {
         "pkgdesc": "Automated tests for oxide",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -14627,8 +14627,8 @@
           "rmppure"
         ],
         "depends": [
-          "oxide-display=3.1.2-r0",
-          "liboxide=3.1.2-r0"
+          "oxide-display=3.1.2-r1",
+          "liboxide=3.1.2-r1"
         ],
         "conflicts": [],
         "provides": [],
@@ -14638,7 +14638,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-08-14T01:43:43Z",
+        "released": "2026-08-20T22:21:59Z",
         "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
         "donateurl": null,
@@ -14806,7 +14806,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
       },
-      "3.1.2-r0": {
+      "3.1.2-r1": {
         "pkgdesc": "Command line tools for Oxide",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -14828,8 +14828,8 @@
           "rmppure"
         ],
         "depends": [
-          "oxide=3.1.2-r0",
-          "liboxide=3.1.2-r0",
+          "oxide=3.1.2-r1",
+          "liboxide=3.1.2-r1",
           "jq"
         ],
         "conflicts": [],
@@ -14840,7 +14840,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-08-14T01:43:43Z",
+        "released": "2026-08-20T22:21:59Z",
         "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
         "donateurl": null,
@@ -15004,7 +15004,7 @@
         "donateurl": null,
         "first_released": "2026-07-11T19:46:11Z"
       },
-      "3.1.2-r0": {
+      "3.1.2-r1": {
         "pkgdesc": "Xovi application registration for oxide",
         "upstream_author": "Eeems-Org",
         "maintainer": "Eeems <eeems@eeems.email>",
@@ -15026,7 +15026,7 @@
           "rmppure"
         ],
         "depends": [
-          "oxide=3.1.2-r0",
+          "oxide=3.1.2-r1",
           "xovi"
         ],
         "conflicts": [],
@@ -15037,7 +15037,7 @@
         ],
         "modifies_system": true,
         "auto_install": false,
-        "released": "2026-08-14T01:43:43Z",
+        "released": "2026-08-20T22:22:00Z",
         "origin": "oxide",
         "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
         "donateurl": null,
@@ -16096,7 +16096,7 @@
         "donateurl": null,
         "first_released": "2026-07-18T19:07:16Z"
       },
-      "0.1.2-r0": {
+      "0.1.2-r1": {
         "pkgdesc": "QTFB compatibility server for reMarkable tablets",
         "upstream_author": "NoaHimesaka1873",
         "maintainer": "Noa Himesaka <himesaka@noa.codes>",
@@ -16128,7 +16128,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-07-19T19:10:01Z",
+        "released": "2026-08-20T22:22:01Z",
         "origin": "qtfblight",
         "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.2/README.md",
         "donateurl": null,
@@ -17279,7 +17279,7 @@
         "donateurl": null,
         "first_released": "2026-07-23T06:39:33Z"
       },
-      "0.3.0-r0": {
+      "0.3.0-r1": {
         "pkgdesc": "A lightweight Markdown editor for the reMarkable tablet, to be used via AppLoad",
         "upstream_author": "esclee",
         "maintainer": "esclee <5288860+esclee@users.noreply.github.com>",
@@ -17311,7 +17311,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-08-17T02:35:48Z",
+        "released": "2026-08-20T22:22:03Z",
         "origin": "remarkdown",
         "readmeurl": "https://raw.githubusercontent.com/esclee/reMarkdown/v0.3.0/README.md",
         "donateurl": null,
@@ -23320,7 +23320,7 @@
         "donateurl": null,
         "first_released": "2026-05-17T03:42:24Z"
       },
-      "1.16.2-r0": {
+      "1.16.2-r1": {
         "pkgdesc": "A Smart Ethernet Switch for Earth",
         "upstream_author": "zerotier",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -23350,7 +23350,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-30T17:02:48Z",
+        "released": "2026-08-20T22:22:12Z",
         "origin": "zerotier-one",
         "readmeurl": "https://raw.githubusercontent.com/zerotier/ZeroTierOne/1.16.2/README.md",
         "donateurl": null,
@@ -23394,7 +23394,7 @@
         "donateurl": null,
         "first_released": "2026-05-17T03:42:24Z"
       },
-      "1.16.2-r0": {
+      "1.16.2-r1": {
         "pkgdesc": "Unit test zerotier to ensure that it works as expected on the system",
         "upstream_author": "zerotier",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -23424,7 +23424,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-30T17:02:48Z",
+        "released": "2026-08-20T22:22:12Z",
         "origin": "zerotier-one",
         "readmeurl": "https://raw.githubusercontent.com/zerotier/ZeroTierOne/1.16.2/README.md",
         "donateurl": null,
@@ -23611,7 +23611,7 @@
         "donateurl": null,
         "first_released": "2026-05-17T03:40:11Z"
       },
-      "1.5.0-r0": {
+      "1.5.0-r1": {
         "pkgdesc": "Binary framebuffer capture tool for the reStream script",
         "upstream_author": "rien",
         "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
@@ -23636,7 +23636,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-07-04T03:50:32Z",
+        "released": "2026-08-20T22:22:41Z",
         "origin": "restream",
         "readmeurl": "https://raw.githubusercontent.com/rien/reStream/v1.5.0/README.md",
         "donateurl": null,
@@ -23712,5 +23712,5 @@
       }
     }
   },
-  "generated": "2026-08-17T02:36:46Z"
+  "generated": "2026-08-20T22:22:51Z"
 }
