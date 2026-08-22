@@ -15259,7 +15259,7 @@
       "1.0.0-r0": {
         "pkgdesc": "Live Formula 1 timing for AppLoad: positions, intervals, tyres, flags, and race control",
         "upstream_author": "sijokun",
-        "maintainer": "Yan Khachko <46069139+sijokun@users.noreply.github.com>",
+        "maintainer": "Yan Khachko <a@slnk.icu>",
         "categories": [
           "apps"
         ],
@@ -15290,7 +15290,45 @@
         "auto_install": false,
         "released": "2026-08-14T02:50:14Z",
         "origin": "pitwall",
-        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/5711ccbe83e06691e93277cc47c3ee13f993de48/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/aefee2e93c4b7f9e0f865adfc5f78e06f392b959/README.md",
+        "donateurl": null,
+        "first_released": "2026-08-14T02:50:14Z"
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Live Formula 1 timing for AppLoad: positions, intervals, tyres, flags, and race control",
+        "upstream_author": "sijokun",
+        "maintainer": "Yan Khachko <a@slnk.icu>",
+        "categories": [
+          "apps"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/sijokun/PitWall",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "launcher"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-08-22T23:10:15Z",
+        "origin": "pitwall",
+        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/aefee2e93c4b7f9e0f865adfc5f78e06f392b959/README.md",
         "donateurl": null,
         "first_released": "2026-08-14T02:50:14Z"
       }
@@ -15299,7 +15337,7 @@
       "1.0.0-r0": {
         "pkgdesc": "Oxide application registration for PitWall",
         "upstream_author": "sijokun",
-        "maintainer": "Yan Khachko <46069139+sijokun@users.noreply.github.com>",
+        "maintainer": "Yan Khachko <a@slnk.icu>",
         "categories": [
           "apps"
         ],
@@ -15330,7 +15368,45 @@
         "auto_install": true,
         "released": "2026-08-14T02:50:14Z",
         "origin": "pitwall",
-        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/5711ccbe83e06691e93277cc47c3ee13f993de48/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/aefee2e93c4b7f9e0f865adfc5f78e06f392b959/README.md",
+        "donateurl": null,
+        "first_released": "2026-08-14T02:50:14Z"
+      },
+      "1.0.1-r0": {
+        "pkgdesc": "Oxide application registration for PitWall",
+        "upstream_author": "sijokun",
+        "maintainer": "Yan Khachko <a@slnk.icu>",
+        "categories": [
+          "apps"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/sijokun/PitWall",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qtfblight"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": true,
+        "released": "2026-08-22T23:10:15Z",
+        "origin": "pitwall",
+        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/aefee2e93c4b7f9e0f865adfc5f78e06f392b959/README.md",
         "donateurl": null,
         "first_released": "2026-08-14T02:50:14Z"
       }
@@ -23712,5 +23788,5 @@
       }
     }
   },
-  "generated": "2026-08-20T22:22:51Z"
+  "generated": "2026-08-22T23:11:16Z"
 }

@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pure</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 22:22:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 23:11:16 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppure.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>pitwall-oxide 1.0.1-r0</title>
+      <link>https://github.com/sijokun/PitWall</link>
+      <description><![CDATA[Oxide application registration for PitWall<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>sijokun</author>
+      <category>apps</category>
+      <pubDate>Sat, 22 Aug 2026 23:10:15 +0000</pubDate>
+      <guid isPermaLink="false">pitwall-oxide-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>pitwall 1.0.1-r0</title>
+      <link>https://github.com/sijokun/PitWall</link>
+      <description><![CDATA[Live Formula 1 timing for AppLoad: positions, intervals, tyres, flags, and race control<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>sijokun</author>
+      <category>apps</category>
+      <pubDate>Sat, 22 Aug 2026 23:10:15 +0000</pubDate>
+      <guid isPermaLink="false">pitwall-1.0.1-r0</guid>
+    </item>
     <item>
       <title>zerotier-selftest 1.16.2-r1</title>
       <link>https://github.com/zerotier/ZeroTierOne</link>
