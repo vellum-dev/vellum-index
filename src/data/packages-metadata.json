@@ -23657,6 +23657,41 @@
         "first_released": "2026-04-02T17:45:01Z"
       }
     },
+    "plato": {
+      "0.9.44-r0": {
+        "pkgdesc": "Document reader",
+        "upstream_author": "LinusCDE",
+        "maintainer": "Eeems <eeems@eeems.email>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "AGPL-3.0-or-later",
+        "url": "https://github.com/LinusCDE/plato",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2"
+        ],
+        "depends": [
+          "launcher"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-08-24T18:09:14Z",
+        "origin": "plato",
+        "readmeurl": null,
+        "donateurl": null,
+        "first_released": "2026-08-24T18:09:14Z"
+      }
+    },
     "restream": {
       "1.4.0-r0": {
         "pkgdesc": "Binary framebuffer capture tool for the reStream script",
@@ -23790,5 +23825,5 @@
       }
     }
   },
-  "generated": "2026-08-24T14:43:06Z"
+  "generated": "2026-08-24T18:09:30Z"
 }

@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 14:43:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 18:09:30 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>plato 0.9.44-r0</title>
+      <link>https://github.com/LinusCDE/plato</link>
+      <description><![CDATA[Document reader<br/>Devices: rm1, rm2]]></description>
+      <author>LinusCDE</author>
+      <category>utilities</category>
+      <pubDate>Mon, 24 Aug 2026 18:09:14 +0000</pubDate>
+      <guid isPermaLink="false">plato-0.9.44-r0</guid>
+    </item>
     <item>
       <title>appload 0.4.2-r1</title>
       <link>https://github.com/asivery/rm-appload</link>
