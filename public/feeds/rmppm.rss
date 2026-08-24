@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 23:11:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 14:43:06 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>appload 0.4.2-r1</title>
+      <link>https://github.com/asivery/rm-appload</link>
+      <description><![CDATA[XOVI extension for windowed and fullscreen apps<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.22 - 3.26]]></description>
+      <author>asivery</author>
+      <category>launchers</category>
+      <pubDate>Mon, 24 Aug 2026 14:41:45 +0000</pubDate>
+      <guid isPermaLink="false">appload-0.4.2-r1</guid>
+    </item>
     <item>
       <title>pitwall-oxide 1.0.1-r0</title>
       <link>https://github.com/sijokun/PitWall</link>
@@ -3003,15 +3012,6 @@
       <category>ui</category>
       <pubDate>Mon, 23 Mar 2026 16:57:13 +0000</pubDate>
       <guid isPermaLink="false">floating-toolbar-2.0.2-r0</guid>
-    </item>
-    <item>
-      <title>appload 0.4.2-r0</title>
-      <link>https://github.com/asivery/rm-appload</link>
-      <description><![CDATA[XOVI extension for windowed and fullscreen apps<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.22 - 3.26]]></description>
-      <author>asivery</author>
-      <category>launchers</category>
-      <pubDate>Sat, 21 Mar 2026 03:51:55 +0000</pubDate>
-      <guid isPermaLink="false">appload-0.4.2-r0</guid>
     </item>
     <item>
       <title>touch-lock 1.0.1-r1</title>

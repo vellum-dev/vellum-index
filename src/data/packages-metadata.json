@@ -460,7 +460,7 @@
         "donateurl": "https://ko-fi.com/asivery",
         "first_released": "2026-01-24T17:26:06Z"
       },
-      "0.4.2-r0": {
+      "0.4.2-r1": {
         "pkgdesc": "XOVI extension for windowed and fullscreen apps",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -494,14 +494,16 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [],
-        "provides": [],
+        "provides": [
+          "launcher"
+        ],
         "arch": [
           "aarch64",
           "armv7"
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-03-21T03:51:55Z",
+        "released": "2026-08-24T14:41:45Z",
         "origin": "appload",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.5.3/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
@@ -23788,5 +23790,5 @@
       }
     }
   },
-  "generated": "2026-08-22T23:11:16Z"
+  "generated": "2026-08-24T14:43:06Z"
 }
