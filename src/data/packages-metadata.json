@@ -2242,7 +2242,8 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [
-          "retaskable-capture"
+          "retaskable-capture",
+          "saver-remarkable-capture"
         ],
         "provides": [],
         "arch": [
@@ -2293,6 +2294,7 @@
         "conflicts": [
           "link-from-selection",
           "retaskable-capture",
+          "saver-remarkable-capture",
           "toc-from-selection"
         ],
         "provides": [],
@@ -2342,7 +2344,8 @@
           "qt-resource-rebuilder"
         ],
         "conflicts": [
-          "retaskable-capture"
+          "retaskable-capture",
+          "saver-remarkable-capture"
         ],
         "provides": [],
         "arch": [
@@ -17470,7 +17473,8 @@
           "xovi-message-broker"
         ],
         "conflicts": [
-          "convert-to-text-remover"
+          "convert-to-text-remover",
+          "saver-remarkable-capture"
         ],
         "provides": [],
         "arch": [
@@ -18768,6 +18772,100 @@
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
         "donateurl": null,
         "first_released": "2026-02-23T13:54:36Z"
+      }
+    },
+    "saver-remarkable": {
+      "0.1.1-r0": {
+        "pkgdesc": "Saver client for todos, bookmarks, and habits on reMarkable tablets",
+        "upstream_author": "Saver-app",
+        "maintainer": "Paul <70213368+LostPaul@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/Saver-app/saver-remarkable",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "appload>=0.5.3"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-08-25T13:28:46Z",
+        "origin": "saver-remarkable",
+        "readmeurl": "https://raw.githubusercontent.com/Saver-app/saver-remarkable/v0.1.1/README.md",
+        "donateurl": null,
+        "first_released": "2026-08-25T13:28:46Z"
+      }
+    },
+    "saver-remarkable-capture": {
+      "0.1.1-r0": {
+        "pkgdesc": "Saver sidebar entry and handwriting-to-todo capture",
+        "upstream_author": "Saver-app",
+        "maintainer": "Paul <70213368+LostPaul@users.noreply.github.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/Saver-app/saver-remarkable",
+        "status": "maintained",
+        "os_min": "3.26",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.26",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "saver-remarkable",
+          "qt-resource-rebuilder",
+          "qt-command-executor"
+        ],
+        "conflicts": [
+          "convert-to-text-remover",
+          "retaskable-capture"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-08-25T13:28:46Z",
+        "origin": "saver-remarkable",
+        "readmeurl": "https://raw.githubusercontent.com/Saver-app/saver-remarkable/v0.1.1/README.md",
+        "donateurl": null,
+        "first_released": "2026-08-25T13:28:46Z"
       }
     },
     "scroll-screen-up-or-down": {
@@ -23825,5 +23923,5 @@
       }
     }
   },
-  "generated": "2026-08-24T18:09:30Z"
+  "generated": "2026-08-25T13:29:40Z"
 }
