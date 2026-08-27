@@ -18789,12 +18789,8 @@
         "os_max": null,
         "os_constraints": null,
         "devices": [
-          "rm1",
           "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
+          "rmpp"
         ],
         "depends": [
           "appload>=0.5.3"
@@ -18838,12 +18834,8 @@
           }
         ],
         "devices": [
-          "rm1",
           "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
+          "rmpp"
         ],
         "depends": [
           "saver-remarkable",
@@ -22579,7 +22571,8 @@
           "rm1",
           "rm2",
           "rmpp",
-          "rmppm"
+          "rmppm",
+          "rmppmove"
         ],
         "depends": [
           "launcher"
@@ -23923,5 +23916,5 @@
       }
     }
   },
-  "generated": "2026-08-25T13:29:40Z"
+  "generated": "2026-08-27T18:24:19Z"
 }
