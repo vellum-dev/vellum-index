@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 18:24:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 05:48:09 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>saver-remarkable-capture 0.1.1-r0</title>
