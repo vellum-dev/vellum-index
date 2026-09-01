@@ -18805,7 +18805,43 @@
         "auto_install": false,
         "released": "2026-08-25T13:28:46Z",
         "origin": "saver-remarkable",
-        "readmeurl": "https://raw.githubusercontent.com/Saver-app/saver-remarkable/v0.1.1/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/Saver-app/saver-remarkable/v0.2.0/README.md",
+        "donateurl": null,
+        "first_released": "2026-08-25T13:28:46Z"
+      },
+      "0.2.0-r0": {
+        "pkgdesc": "Saver client for todos, bookmarks, and habits on reMarkable tablets",
+        "upstream_author": "Saver-app",
+        "maintainer": "Paul <70213368+LostPaul@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/Saver-app/saver-remarkable",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppure"
+        ],
+        "depends": [
+          "appload>=0.5.3"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-01T17:23:32Z",
+        "origin": "saver-remarkable",
+        "readmeurl": "https://raw.githubusercontent.com/Saver-app/saver-remarkable/v0.2.0/README.md",
         "donateurl": null,
         "first_released": "2026-08-25T13:28:46Z"
       }
@@ -18855,7 +18891,57 @@
         "auto_install": false,
         "released": "2026-08-25T13:28:46Z",
         "origin": "saver-remarkable",
-        "readmeurl": "https://raw.githubusercontent.com/Saver-app/saver-remarkable/v0.1.1/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/Saver-app/saver-remarkable/v0.2.0/README.md",
+        "donateurl": null,
+        "first_released": "2026-08-25T13:28:46Z"
+      },
+      "0.2.0-r0": {
+        "pkgdesc": "Saver sidebar entry and handwriting-to-todo capture",
+        "upstream_author": "Saver-app",
+        "maintainer": "Paul <70213368+LostPaul@users.noreply.github.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/Saver-app/saver-remarkable",
+        "status": "maintained",
+        "os_min": "3.26",
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.26",
+            "operator": ">="
+          },
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppure"
+        ],
+        "depends": [
+          "saver-remarkable=0.2.0-r0",
+          "qt-resource-rebuilder",
+          "qt-command-executor"
+        ],
+        "conflicts": [
+          "convert-to-text-remover",
+          "retaskable-capture"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-01T17:23:32Z",
+        "origin": "saver-remarkable",
+        "readmeurl": "https://raw.githubusercontent.com/Saver-app/saver-remarkable/v0.2.0/README.md",
         "donateurl": null,
         "first_released": "2026-08-25T13:28:46Z"
       }
@@ -23916,5 +24002,5 @@
       }
     }
   },
-  "generated": "2026-08-30T05:48:09Z"
+  "generated": "2026-09-01T17:24:14Z"
 }
