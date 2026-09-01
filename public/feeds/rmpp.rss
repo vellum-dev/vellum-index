@@ -5,8 +5,134 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 17:24:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:45:51 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>oxide-xovi 3.1.2-r2</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Xovi application registration for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>framework</category>
+      <pubDate>Tue, 01 Sep 2026 18:44:49 +0000</pubDate>
+      <guid isPermaLink="false">oxide-xovi-3.1.2-r2</guid>
+    </item>
+    <item>
+      <title>oxide-utils 3.1.2-r2</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Command line tools for Oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Tue, 01 Sep 2026 18:44:49 +0000</pubDate>
+      <guid isPermaLink="false">oxide-utils-3.1.2-r2</guid>
+    </item>
+    <item>
+      <title>oxide-tests 3.1.2-r2</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Automated tests for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>framework</category>
+      <pubDate>Tue, 01 Sep 2026 18:44:49 +0000</pubDate>
+      <guid isPermaLink="false">oxide-tests-3.1.2-r2</guid>
+    </item>
+    <item>
+      <title>oxide-extra 3.1.2-r2</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Extra applications for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>apps</category>
+      <pubDate>Tue, 01 Sep 2026 18:44:48 +0000</pubDate>
+      <guid isPermaLink="false">oxide-extra-3.1.2-r2</guid>
+    </item>
+    <item>
+      <title>oxide-display-dev 3.1.2-r2</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>development</category>
+      <pubDate>Tue, 01 Sep 2026 18:44:48 +0000</pubDate>
+      <guid isPermaLink="false">oxide-display-dev-3.1.2-r2</guid>
+    </item>
+    <item>
+      <title>oxide-display 3.1.2-r2</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0 - 3.28]]></description>
+      <author>Eeems-Org</author>
+      <category>framework</category>
+      <pubDate>Tue, 01 Sep 2026 18:44:48 +0000</pubDate>
+      <guid isPermaLink="false">oxide-display-3.1.2-r2</guid>
+    </item>
+    <item>
+      <title>oxide 3.1.2-r2</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Launcher application<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>launchers</category>
+      <pubDate>Tue, 01 Sep 2026 18:44:47 +0000</pubDate>
+      <guid isPermaLink="false">oxide-3.1.2-r2</guid>
+    </item>
+    <item>
+      <title>lockscreen_hook 3.1.2-r2</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Run scripts after unlock<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0 - 3.28]]></description>
+      <author>Eeems-Org</author>
+      <category>framework</category>
+      <pubDate>Tue, 01 Sep 2026 18:44:45 +0000</pubDate>
+      <guid isPermaLink="false">lockscreen_hook-3.1.2-r2</guid>
+    </item>
+    <item>
+      <title>liboxide-dev 3.1.2-r2</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Shared library for oxide applications<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>development</category>
+      <pubDate>Tue, 01 Sep 2026 18:44:45 +0000</pubDate>
+      <guid isPermaLink="false">liboxide-dev-3.1.2-r2</guid>
+    </item>
+    <item>
+      <title>liboxide 3.1.2-r2</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Shared library for oxide applications<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>framework</category>
+      <pubDate>Tue, 01 Sep 2026 18:44:44 +0000</pubDate>
+      <guid isPermaLink="false">liboxide-3.1.2-r2</guid>
+    </item>
+    <item>
+      <title>launcherctl-oxide 3.1.2-r2</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Launcherctl configuration for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Tue, 01 Sep 2026 18:44:44 +0000</pubDate>
+      <guid isPermaLink="false">launcherctl-oxide-3.1.2-r2</guid>
+    </item>
+    <item>
+      <title>launcherctl 3.1.2-r2</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Manage your installed launcher<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Tue, 01 Sep 2026 18:44:44 +0000</pubDate>
+      <guid isPermaLink="false">launcherctl-3.1.2-r2</guid>
+    </item>
+    <item>
+      <title>inject_evdev 3.1.2-r2</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Inject input events<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Tue, 01 Sep 2026 18:44:43 +0000</pubDate>
+      <guid isPermaLink="false">inject_evdev-3.1.2-r2</guid>
+    </item>
+    <item>
+      <title>fbinfo 3.1.2-r2</title>
+      <link>https://oxide.eeems.codes</link>
+      <description><![CDATA[Print out framebuffer info<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>Eeems-Org</author>
+      <category>utilities</category>
+      <pubDate>Tue, 01 Sep 2026 18:44:35 +0000</pubDate>
+      <guid isPermaLink="false">fbinfo-3.1.2-r2</guid>
+    </item>
     <item>
       <title>saver-remarkable-capture 0.2.0-r0</title>
       <link>https://github.com/Saver-app/saver-remarkable</link>
@@ -107,69 +233,6 @@
       <guid isPermaLink="false">qtfblight-0.1.2-r1</guid>
     </item>
     <item>
-      <title>oxide-xovi 3.1.2-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Xovi application registration for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Thu, 20 Aug 2026 22:22:00 +0000</pubDate>
-      <guid isPermaLink="false">oxide-xovi-3.1.2-r1</guid>
-    </item>
-    <item>
-      <title>oxide-utils 3.1.2-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Command line tools for Oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>utilities</category>
-      <pubDate>Thu, 20 Aug 2026 22:21:59 +0000</pubDate>
-      <guid isPermaLink="false">oxide-utils-3.1.2-r1</guid>
-    </item>
-    <item>
-      <title>oxide-tests 3.1.2-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Automated tests for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Thu, 20 Aug 2026 22:21:59 +0000</pubDate>
-      <guid isPermaLink="false">oxide-tests-3.1.2-r1</guid>
-    </item>
-    <item>
-      <title>oxide-extra 3.1.2-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Extra applications for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>apps</category>
-      <pubDate>Thu, 20 Aug 2026 22:21:59 +0000</pubDate>
-      <guid isPermaLink="false">oxide-extra-3.1.2-r1</guid>
-    </item>
-    <item>
-      <title>oxide-display-dev 3.1.2-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>development</category>
-      <pubDate>Thu, 20 Aug 2026 22:21:58 +0000</pubDate>
-      <guid isPermaLink="false">oxide-display-dev-3.1.2-r1</guid>
-    </item>
-    <item>
-      <title>oxide-display 3.1.2-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Thu, 20 Aug 2026 22:21:58 +0000</pubDate>
-      <guid isPermaLink="false">oxide-display-3.1.2-r1</guid>
-    </item>
-    <item>
-      <title>oxide 3.1.2-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Launcher application<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>launchers</category>
-      <pubDate>Thu, 20 Aug 2026 22:21:58 +0000</pubDate>
-      <guid isPermaLink="false">oxide-3.1.2-r1</guid>
-    </item>
-    <item>
       <title>netsurf 0.5.0-r2</title>
       <link>https://github.com/MaicroNotHard/netsurf-reMarkable</link>
       <description><![CDATA[Lightweight web browser<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -188,51 +251,6 @@
       <guid isPermaLink="false">netevent-2.2.2-r2</guid>
     </item>
     <item>
-      <title>lockscreen_hook 3.1.2-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Run scripts after unlock<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Thu, 20 Aug 2026 22:21:56 +0000</pubDate>
-      <guid isPermaLink="false">lockscreen_hook-3.1.2-r1</guid>
-    </item>
-    <item>
-      <title>liboxide-dev 3.1.2-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Shared library for oxide applications<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>development</category>
-      <pubDate>Thu, 20 Aug 2026 22:21:55 +0000</pubDate>
-      <guid isPermaLink="false">liboxide-dev-3.1.2-r1</guid>
-    </item>
-    <item>
-      <title>liboxide 3.1.2-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Shared library for oxide applications<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Thu, 20 Aug 2026 22:21:55 +0000</pubDate>
-      <guid isPermaLink="false">liboxide-3.1.2-r1</guid>
-    </item>
-    <item>
-      <title>launcherctl-oxide 3.1.2-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Launcherctl configuration for oxide<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>utilities</category>
-      <pubDate>Thu, 20 Aug 2026 22:21:55 +0000</pubDate>
-      <guid isPermaLink="false">launcherctl-oxide-3.1.2-r1</guid>
-    </item>
-    <item>
-      <title>launcherctl 3.1.2-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Manage your installed launcher<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>utilities</category>
-      <pubDate>Thu, 20 Aug 2026 22:21:55 +0000</pubDate>
-      <guid isPermaLink="false">launcherctl-3.1.2-r1</guid>
-    </item>
-    <item>
       <title>keyd-doc 2.6.0-r1</title>
       <link>https://github.com/rvaiya/keyd</link>
       <description><![CDATA[A key remapping daemon for linux<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -249,24 +267,6 @@
       <category>utilities</category>
       <pubDate>Thu, 20 Aug 2026 22:21:54 +0000</pubDate>
       <guid isPermaLink="false">keyd-2.6.0-r1</guid>
-    </item>
-    <item>
-      <title>inject_evdev 3.1.2-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Inject input events<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>utilities</category>
-      <pubDate>Thu, 20 Aug 2026 22:21:54 +0000</pubDate>
-      <guid isPermaLink="false">inject_evdev-3.1.2-r1</guid>
-    </item>
-    <item>
-      <title>fbinfo 3.1.2-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Print out framebuffer info<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>utilities</category>
-      <pubDate>Thu, 20 Aug 2026 22:21:47 +0000</pubDate>
-      <guid isPermaLink="false">fbinfo-3.1.2-r1</guid>
     </item>
     <item>
       <title>doomarkable 0.4.2-r3</title>
