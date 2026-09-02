@@ -41,8 +41,11 @@ export interface PackageVersion {
   auto_install: boolean;
   status: string;
   origin?: string | null;
+  released?: string;
+  first_released?: string;
   readmeurl: string | null;
   donateurl: string | null;
+  changelogurl?: string | null;
 }
 
 export interface PackagesMetadata {

@@ -25,6 +25,7 @@ import {
 import { DeviceBadge } from '@/components/packages/DeviceBadge';
 import { StatusBadge } from '@/components/packages/StatusBadge';
 import { ReadmeSection } from '@/components/packages/ReadmeSection';
+import { ChangelogSection } from '@/components/packages/ChangelogSection';
 import type { FlatPackage } from '@/types/packages';
 
 function parseDepName(dep: string): string {
@@ -425,6 +426,8 @@ export function PackageDetailPage() {
           <PackageActions name={name!} currentPkg={currentPkg} />
 
           <ReadmeSection url={currentPkg.readmeurl} />
+
+          <ChangelogSection versions={packageVersions} />
 
           <div>
             <h3 className="text-sm font-medium text-muted-foreground mb-2">Installation</h3>
