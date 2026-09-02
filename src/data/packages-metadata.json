@@ -15303,7 +15303,7 @@
         "auto_install": false,
         "released": "2026-08-14T02:50:14Z",
         "origin": "pitwall",
-        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/aefee2e93c4b7f9e0f865adfc5f78e06f392b959/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/f8c1b42dbf42f9e59dbc41fd914d35ce84bd2392/README.md",
         "donateurl": null,
         "first_released": "2026-08-14T02:50:14Z"
       },
@@ -15341,7 +15341,45 @@
         "auto_install": false,
         "released": "2026-08-22T23:10:15Z",
         "origin": "pitwall",
-        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/aefee2e93c4b7f9e0f865adfc5f78e06f392b959/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/f8c1b42dbf42f9e59dbc41fd914d35ce84bd2392/README.md",
+        "donateurl": null,
+        "first_released": "2026-08-14T02:50:14Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Live Formula 1 timing for AppLoad: positions, intervals, tyres, flags, and race control",
+        "upstream_author": "sijokun",
+        "maintainer": "Yan Khachko <a@slnk.icu>",
+        "categories": [
+          "apps"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/sijokun/PitWall",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "launcher"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-02T16:31:34Z",
+        "origin": "pitwall",
+        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/f8c1b42dbf42f9e59dbc41fd914d35ce84bd2392/README.md",
         "donateurl": null,
         "first_released": "2026-08-14T02:50:14Z"
       }
@@ -15381,7 +15419,7 @@
         "auto_install": true,
         "released": "2026-08-14T02:50:14Z",
         "origin": "pitwall",
-        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/aefee2e93c4b7f9e0f865adfc5f78e06f392b959/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/f8c1b42dbf42f9e59dbc41fd914d35ce84bd2392/README.md",
         "donateurl": null,
         "first_released": "2026-08-14T02:50:14Z"
       },
@@ -15419,7 +15457,45 @@
         "auto_install": true,
         "released": "2026-08-22T23:10:15Z",
         "origin": "pitwall",
-        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/aefee2e93c4b7f9e0f865adfc5f78e06f392b959/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/f8c1b42dbf42f9e59dbc41fd914d35ce84bd2392/README.md",
+        "donateurl": null,
+        "first_released": "2026-08-14T02:50:14Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Oxide application registration for PitWall",
+        "upstream_author": "sijokun",
+        "maintainer": "Yan Khachko <a@slnk.icu>",
+        "categories": [
+          "apps"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/sijokun/PitWall",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qtfblight"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": true,
+        "released": "2026-09-02T16:31:34Z",
+        "origin": "pitwall",
+        "readmeurl": "https://raw.githubusercontent.com/sijokun/PitWall/f8c1b42dbf42f9e59dbc41fd914d35ce84bd2392/README.md",
         "donateurl": null,
         "first_released": "2026-08-14T02:50:14Z"
       }
@@ -24010,5 +24086,5 @@
       }
     }
   },
-  "generated": "2026-09-01T18:45:51Z"
+  "generated": "2026-09-02T16:32:34Z"
 }
