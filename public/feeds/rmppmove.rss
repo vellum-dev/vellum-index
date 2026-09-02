@@ -5,8 +5,341 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 16:32:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 21:13:26 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppmove.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>unlock-methods-content 1.0.2-r6</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Bypasses subscription check for using on-device Methods templates and documents.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:32 +0000</pubDate>
+      <guid isPermaLink="false">unlock-methods-content-1.0.2-r6</guid>
+    </item>
+    <item>
+      <title>touch-lock 1.0.3-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a button to the toolbar to lock out touch input in documents. Toolbar remains touch-aware and pen input is unaffected.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:31 +0000</pubDate>
+      <guid isPermaLink="false">touch-lock-1.0.3-r0</guid>
+    </item>
+    <item>
+      <title>toc-from-selection 1.0.0-r5</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a button to the selection context menu to add the selected text as a ToC entry. Handwriting requires Connect/rmfakecloud.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:29 +0000</pubDate>
+      <guid isPermaLink="false">toc-from-selection-1.0.0-r5</guid>
+    </item>
+    <item>
+      <title>stylus-remapper 0.2.2-r0</title>
+      <link>https://github.com/rmitchellscott/rm-stylus-remapper</link>
+      <description><![CDATA[Remaps stylus input events with configurable presets, pressure curves, and position offsets.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>utilities</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:28 +0000</pubDate>
+      <guid isPermaLink="false">stylus-remapper-0.2.2-r0</guid>
+    </item>
+    <item>
+      <title>stylus-button-undo-redo 1.0.0-r5</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Double-click stylus button to undo, triple-click to redo.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:28 +0000</pubDate>
+      <guid isPermaLink="false">stylus-button-undo-redo-1.0.0-r5</guid>
+    </item>
+    <item>
+      <title>stylus-button-eraser 2.0.0-r6</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Erases when stylus side button is held.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:28 +0000</pubDate>
+      <guid isPermaLink="false">stylus-button-eraser-2.0.0-r6</guid>
+    </item>
+    <item>
+      <title>sort-templates-recent 1.0.0-r1</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Sort the template selector by most recently used<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:27 +0000</pubDate>
+      <guid isPermaLink="false">sort-templates-recent-1.0.0-r1</guid>
+    </item>
+    <item>
+      <title>settings-rmsync-restart 1.0.0-r5</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a button to the cloud settings page to restart sync service.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.22.4.2 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:27 +0000</pubDate>
+      <guid isPermaLink="false">settings-rmsync-restart-1.0.0-r5</guid>
+    </item>
+    <item>
+      <title>rm-stylus 0.3.0-r5</title>
+      <link>https://github.com/rmitchellscott/rm-stylus</link>
+      <description><![CDATA[Xovi extension that exposes stylus button events as a QML type.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rmitchellscott</author>
+      <category>framework</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:24 +0000</pubDate>
+      <guid isPermaLink="false">rm-stylus-0.3.0-r5</guid>
+    </item>
+    <item>
+      <title>rm-pdfium 0.2.0-r0</title>
+      <link>https://github.com/rmitchellscott/rm-pdfium</link>
+      <description><![CDATA[xovi extension to expose xochitl's libpdfium.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>framework</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:23 +0000</pubDate>
+      <guid isPermaLink="false">rm-pdfium-0.2.0-r0</guid>
+    </item>
+    <item>
+      <title>quicksheet-use-template 1.0.1-r4</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Use the last page's template when adding a quicksheet page<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:22 +0000</pubDate>
+      <guid isPermaLink="false">quicksheet-use-template-1.0.1-r4</guid>
+    </item>
+    <item>
+      <title>quicksettings-screenshot 2.0.0-r6</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a screenshot button to the quick settings menu.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:22 +0000</pubDate>
+      <guid isPermaLink="false">quicksettings-screenshot-2.0.0-r6</guid>
+    </item>
+    <item>
+      <title>quicksettings-clock-serif 1.1.0-r1</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a clock to the quick settings menu<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:21 +0000</pubDate>
+      <guid isPermaLink="false">quicksettings-clock-serif-1.1.0-r1</guid>
+    </item>
+    <item>
+      <title>quicksettings-bluetooth 1.0.1-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a Bluetooth toggle to quicksettings<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:21 +0000</pubDate>
+      <guid isPermaLink="false">quicksettings-bluetooth-1.0.1-r0</guid>
+    </item>
+    <item>
+      <title>prevent-notebook-zoomout 1.1.2-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:20 +0000</pubDate>
+      <guid isPermaLink="false">prevent-notebook-zoomout-1.1.2-r0</guid>
+    </item>
+    <item>
+      <title>pen-layer-memory 1.0.3-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Remembers which layer each pen tool was last used on, and switches to that layer when the pen is selected.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:19 +0000</pubDate>
+      <guid isPermaLink="false">pen-layer-memory-1.0.3-r0</guid>
+    </item>
+    <item>
+      <title>mini-light-sleep 1.0.5-r4</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Replaces the light sleep banner with text saying Sleeping at the top right of the screen<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:15 +0000</pubDate>
+      <guid isPermaLink="false">mini-light-sleep-1.0.5-r4</guid>
+    </item>
+    <item>
+      <title>librarian 0.4.1-r0</title>
+      <link>https://github.com/rmitchellscott/rm-librarian</link>
+      <description><![CDATA[Document library management extension<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>framework</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:13 +0000</pubDate>
+      <guid isPermaLink="false">librarian-0.4.1-r0</guid>
+    </item>
+    <item>
+      <title>hide-zoom-indicator 1.0.3-r6</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Auto-hides zoom indicator after 4 seconds<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:11 +0000</pubDate>
+      <guid isPermaLink="false">hide-zoom-indicator-1.0.3-r6</guid>
+    </item>
+    <item>
+      <title>hide-hyperlink-back-button 1.0.0-r4</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Hides the Back button when clicking PDF hyperlinks.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:09 +0000</pubDate>
+      <guid isPermaLink="false">hide-hyperlink-back-button-1.0.0-r4</guid>
+    </item>
+    <item>
+      <title>hide-dev-mode-icon 1.0.2-r7</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Hides the developer mode icon next to the battery icon.<br/>Devices: rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:09 +0000</pubDate>
+      <guid isPermaLink="false">hide-dev-mode-icon-1.0.2-r7</guid>
+    </item>
+    <item>
+      <title>ghostbuster 1.0.0-r4</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[5-finger tap to perform a full screen refresh.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.22 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:08 +0000</pubDate>
+      <guid isPermaLink="false">ghostbuster-1.0.0-r4</guid>
+    </item>
+    <item>
+      <title>fix-page-number-on-slider 1.0.1-r6</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Restores the z-index for the pageLabel element so it appears on top of the page slider like in previous versions.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.28]]></description>
+      <author>rmitchellscott</author>
+      <category>fixes, ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:04 +0000</pubDate>
+      <guid isPermaLink="false">fix-page-number-on-slider-1.0.1-r6</guid>
+    </item>
+    <item>
+      <title>fix-light-indicator-gap 1.0.0-r6</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Removes the gap reserved for the frontlight icon when the light is off on Paper Pro and Paper Pro Move.<br/>Devices: rmpp, rmppm, rmppmove<br/>OS: 3.24 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>fixes, ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:03 +0000</pubDate>
+      <guid isPermaLink="false">fix-light-indicator-gap-1.0.0-r6</guid>
+    </item>
+    <item>
+      <title>fix-battery-indicator 1.0.2-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Fixes battery icon not updating after charging while device is asleep<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>fixes, ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:03 +0000</pubDate>
+      <guid isPermaLink="false">fix-battery-indicator-1.0.2-r0</guid>
+    </item>
+    <item>
+      <title>filter-annotated-pages 1.1.0-r1</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a button to the Page Overview to show only pages with annotations<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:03 +0000</pubDate>
+      <guid isPermaLink="false">filter-annotated-pages-1.1.0-r1</guid>
+    </item>
+    <item>
+      <title>extend-list-title-width 1.0.0-r6</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Removes extra right margin for titles in list view to fill more of the available space.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.28]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:01 +0000</pubDate>
+      <guid isPermaLink="false">extend-list-title-width-1.0.0-r6</guid>
+    </item>
+    <item>
+      <title>duplicate-annotated-pages 2.1.1-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds an option to the Duplicate menu to duplicate only pages that have been annotated.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:00 +0000</pubDate>
+      <guid isPermaLink="false">duplicate-annotated-pages-2.1.1-r0</guid>
+    </item>
+    <item>
+      <title>disable-selection-autoscroll 1.0.0-r6</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Disables the auto scrolling when moving a selection added in 3.24.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:00 +0000</pubDate>
+      <guid isPermaLink="false">disable-selection-autoscroll-1.0.0-r6</guid>
+    </item>
+    <item>
+      <title>disable-infinite-scroll 1.1.1-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Disables infinite scroll by limiting zooming and scrolling to page boundaries.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:12:00 +0000</pubDate>
+      <guid isPermaLink="false">disable-infinite-scroll-1.1.1-r0</guid>
+    </item>
+    <item>
+      <title>default-template 1.0.0-r1</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Set a default template used for new notebooks, pages, and quicksheets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:11:59 +0000</pubDate>
+      <guid isPermaLink="false">default-template-1.0.0-r1</guid>
+    </item>
+    <item>
+      <title>createpages-rm2 1.0.4-r4</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Overrides new page creation to use reMarkable 2 dimensions.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:11:59 +0000</pubDate>
+      <guid isPermaLink="false">createpages-rm2-1.0.4-r4</guid>
+    </item>
+    <item>
+      <title>createpages-paperpro 1.0.4-r4</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Overrides new page creation to use Paper Pro dimensions.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:11:59 +0000</pubDate>
+      <guid isPermaLink="false">createpages-paperpro-1.0.4-r4</guid>
+    </item>
+    <item>
+      <title>create-document-from-pages 2.0.1-r4</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds an option to the Page Overview More menu to create a new document from selected pages.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:11:58 +0000</pubDate>
+      <guid isPermaLink="false">create-document-from-pages-2.0.1-r4</guid>
+    </item>
+    <item>
+      <title>bluetooth-settings 0.2.1-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-bluetoothsettings</link>
+      <description><![CDATA[Adds a Bluetooth settings page for pairing and managing Bluetooth keyboards.<br/>Devices: rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:11:57 +0000</pubDate>
+      <guid isPermaLink="false">bluetooth-settings-0.2.1-r0</guid>
+    </item>
+    <item>
+      <title>bettertoc-collapse 1.1.1-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds chevrons to collapse / expand ToC entries based on indent.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:11:57 +0000</pubDate>
+      <guid isPermaLink="false">bettertoc-collapse-1.1.1-r0</guid>
+    </item>
+    <item>
+      <title>bettertoc 1.5.0-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Wed, 02 Sep 2026 21:11:57 +0000</pubDate>
+      <guid isPermaLink="false">bettertoc-1.5.0-r0</guid>
+    </item>
     <item>
       <title>pitwall-oxide 1.1.0-r0</title>
       <link>https://github.com/sijokun/PitWall</link>
@@ -1367,24 +1700,6 @@
       <guid isPermaLink="false">gestik-1.1.0-r0</guid>
     </item>
     <item>
-      <title>sort-templates-recent 1.0.0-r0</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Sort the template selector by most recently used<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Tue, 07 Jul 2026 20:06:33 +0000</pubDate>
-      <guid isPermaLink="false">sort-templates-recent-1.0.0-r0</guid>
-    </item>
-    <item>
-      <title>default-template 1.0.0-r0</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Set a default template used for new notebooks, pages, and quicksheets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Tue, 07 Jul 2026 20:06:15 +0000</pubDate>
-      <guid isPermaLink="false">default-template-1.0.0-r0</guid>
-    </item>
-    <item>
       <title>mount-utils 1.2.0-r0</title>
       <link>https://github.com/vellum-dev/vellum</link>
       <description><![CDATA[Commands to toggle reMarkable filesystem between read-write and read-only<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -1574,15 +1889,6 @@
       <guid isPermaLink="false">librarian-0.4.0-r0</guid>
     </item>
     <item>
-      <title>filter-annotated-pages 1.1.0-r0</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Adds a button to the Page Overview to show only pages with annotations<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 22 Jun 2026 19:53:28 +0000</pubDate>
-      <guid isPermaLink="false">filter-annotated-pages-1.1.0-r0</guid>
-    </item>
-    <item>
       <title>duplicate-annotated-pages 2.1.0-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
       <description><![CDATA[Adds an option to the Duplicate menu to duplicate only pages that have been annotated.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
@@ -1590,15 +1896,6 @@
       <category>ui</category>
       <pubDate>Mon, 22 Jun 2026 19:53:26 +0000</pubDate>
       <guid isPermaLink="false">duplicate-annotated-pages-2.1.0-r0</guid>
-    </item>
-    <item>
-      <title>quicksettings-clock-serif 1.1.0-r0</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Adds a clock to the quick settings menu<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 22 Jun 2026 15:43:31 +0000</pubDate>
-      <guid isPermaLink="false">quicksettings-clock-serif-1.1.0-r0</guid>
     </item>
     <item>
       <title>librarian 0.3.1-r4</title>
@@ -1635,15 +1932,6 @@
       <category>framework</category>
       <pubDate>Thu, 11 Jun 2026 19:23:11 +0000</pubDate>
       <guid isPermaLink="false">rm-shot-1.2.0-r0</guid>
-    </item>
-    <item>
-      <title>quicksettings-screenshot 2.0.0-r5</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Adds a screenshot button to the quick settings menu.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Thu, 11 Jun 2026 19:23:10 +0000</pubDate>
-      <guid isPermaLink="false">quicksettings-screenshot-2.0.0-r5</guid>
     </item>
     <item>
       <title>bluetooth-settings 0.1.1-r0</title>
@@ -1707,15 +1995,6 @@
       <category>ui</category>
       <pubDate>Sat, 23 May 2026 20:26:33 +0000</pubDate>
       <guid isPermaLink="false">duplicate-annotated-pages-2.0.1-r3</guid>
-    </item>
-    <item>
-      <title>create-document-from-pages 2.0.1-r3</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Adds an option to the Page Overview More menu to create a new document from selected pages.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Sat, 23 May 2026 20:26:32 +0000</pubDate>
-      <guid isPermaLink="false">create-document-from-pages-2.0.1-r3</guid>
     </item>
     <item>
       <title>stylus-remapper 0.2.0-r0</title>
@@ -2159,15 +2438,6 @@
       <guid isPermaLink="false">convert-to-text-remover-1.0.0-r2</guid>
     </item>
     <item>
-      <title>unlock-methods-content 1.0.2-r5</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Bypasses subscription check for using on-device Methods templates and documents.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:25:08 +0000</pubDate>
-      <guid isPermaLink="false">unlock-methods-content-1.0.2-r5</guid>
-    </item>
-    <item>
       <title>tripletap 1.0.0-r4</title>
       <link>https://github.com/rmitchellscott/xovi-tripletap</link>
       <description><![CDATA[Start xovi by triple-pressing the power button<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -2184,42 +2454,6 @@
       <category>ui</category>
       <pubDate>Mon, 11 May 2026 05:25:08 +0000</pubDate>
       <guid isPermaLink="false">touch-lock-1.0.2-r3</guid>
-    </item>
-    <item>
-      <title>toc-from-selection 1.0.0-r4</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Adds a button to the selection context menu to add the selected text as a ToC entry. Handwriting requires Connect/rmfakecloud.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:25:07 +0000</pubDate>
-      <guid isPermaLink="false">toc-from-selection-1.0.0-r4</guid>
-    </item>
-    <item>
-      <title>stylus-button-undo-redo 1.0.0-r4</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Double-click stylus button to undo, triple-click to redo.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:25:06 +0000</pubDate>
-      <guid isPermaLink="false">stylus-button-undo-redo-1.0.0-r4</guid>
-    </item>
-    <item>
-      <title>stylus-button-eraser 2.0.0-r5</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Erases when stylus side button is held.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.25 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:25:06 +0000</pubDate>
-      <guid isPermaLink="false">stylus-button-eraser-2.0.0-r5</guid>
-    </item>
-    <item>
-      <title>settings-rmsync-restart 1.0.0-r4</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Adds a button to the cloud settings page to restart sync service.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.22.4.2 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:25:06 +0000</pubDate>
-      <guid isPermaLink="false">settings-rmsync-restart-1.0.0-r4</guid>
     </item>
     <item>
       <title>rmtree 1.0.1-r3</title>
@@ -2240,15 +2474,6 @@
       <guid isPermaLink="false">rm-version-switcher-1.0.0-r3</guid>
     </item>
     <item>
-      <title>rm-stylus 0.3.0-r4</title>
-      <link>https://github.com/rmitchellscott/rm-stylus</link>
-      <description><![CDATA[Xovi extension that exposes stylus button events as a QML type.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rmitchellscott</author>
-      <category>framework</category>
-      <pubDate>Mon, 11 May 2026 05:25:04 +0000</pubDate>
-      <guid isPermaLink="false">rm-stylus-0.3.0-r4</guid>
-    </item>
-    <item>
       <title>rm-pokemon 0.2.0-r2</title>
       <link>https://github.com/rmitchellscott/rm-pokemon</link>
       <description><![CDATA[Display the Pokemon sprite matching your reMarkable firmware codename<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -2256,15 +2481,6 @@
       <category>utilities</category>
       <pubDate>Mon, 11 May 2026 05:25:03 +0000</pubDate>
       <guid isPermaLink="false">rm-pokemon-0.2.0-r2</guid>
-    </item>
-    <item>
-      <title>quicksheet-use-template 1.0.1-r3</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Use the last page's template when adding a quicksheet page<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:25:02 +0000</pubDate>
-      <guid isPermaLink="false">quicksheet-use-template-1.0.1-r3</guid>
     </item>
     <item>
       <title>quicksettings-clock-serif 1.0.2-r4</title>
@@ -2292,51 +2508,6 @@
       <category>ui</category>
       <pubDate>Mon, 11 May 2026 05:25:01 +0000</pubDate>
       <guid isPermaLink="false">pen-layer-memory-1.0.2-r3</guid>
-    </item>
-    <item>
-      <title>mini-light-sleep 1.0.5-r3</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Replaces the light sleep banner with text saying Sleeping at the top right of the screen<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:25:00 +0000</pubDate>
-      <guid isPermaLink="false">mini-light-sleep-1.0.5-r3</guid>
-    </item>
-    <item>
-      <title>hide-zoom-indicator 1.0.3-r5</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Auto-hides zoom indicator after 4 seconds<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:24:59 +0000</pubDate>
-      <guid isPermaLink="false">hide-zoom-indicator-1.0.3-r5</guid>
-    </item>
-    <item>
-      <title>hide-hyperlink-back-button 1.0.0-r3</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Hides the Back button when clicking PDF hyperlinks.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:24:58 +0000</pubDate>
-      <guid isPermaLink="false">hide-hyperlink-back-button-1.0.0-r3</guid>
-    </item>
-    <item>
-      <title>hide-dev-mode-icon 1.0.2-r6</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Hides the developer mode icon next to the battery icon.<br/>Devices: rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:24:57 +0000</pubDate>
-      <guid isPermaLink="false">hide-dev-mode-icon-1.0.2-r6</guid>
-    </item>
-    <item>
-      <title>ghostbuster 1.0.0-r3</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[5-finger tap to perform a full screen refresh.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.22 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:24:57 +0000</pubDate>
-      <guid isPermaLink="false">ghostbuster-1.0.0-r3</guid>
     </item>
     <item>
       <title>gesture-toolbar-show 1.0.0-r3</title>
@@ -2393,15 +2564,6 @@
       <guid isPermaLink="false">fix-quick-settings-temp-separator-1.0.1-r2</guid>
     </item>
     <item>
-      <title>fix-page-number-on-slider 1.0.1-r5</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Restores the z-index for the pageLabel element so it appears on top of the page slider like in previous versions.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>fixes, ui</category>
-      <pubDate>Mon, 11 May 2026 05:24:53 +0000</pubDate>
-      <guid isPermaLink="false">fix-page-number-on-slider-1.0.1-r5</guid>
-    </item>
-    <item>
       <title>fix-battery-indicator 1.0.1-r2</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
       <description><![CDATA[Fixes battery icon not updating after charging while device is asleep<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
@@ -2420,15 +2582,6 @@
       <guid isPermaLink="false">filter-annotated-pages-1.0.1-r2</guid>
     </item>
     <item>
-      <title>extend-list-title-width 1.0.0-r5</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Removes extra right margin for titles in list view to fill more of the available space.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:24:52 +0000</pubDate>
-      <guid isPermaLink="false">extend-list-title-width-1.0.0-r5</guid>
-    </item>
-    <item>
       <title>enable-typing-on-documents 1.0.0-r2</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
       <description><![CDATA[Enables the text typing feature on PDF and ePUB pages.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.27]]></description>
@@ -2436,33 +2589,6 @@
       <category>ui</category>
       <pubDate>Mon, 11 May 2026 05:24:52 +0000</pubDate>
       <guid isPermaLink="false">enable-typing-on-documents-1.0.0-r2</guid>
-    </item>
-    <item>
-      <title>disable-selection-autoscroll 1.0.0-r5</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Disables the auto scrolling when moving a selection added in 3.24.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.24 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:24:51 +0000</pubDate>
-      <guid isPermaLink="false">disable-selection-autoscroll-1.0.0-r5</guid>
-    </item>
-    <item>
-      <title>createpages-rm2 1.0.4-r3</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Overrides new page creation to use reMarkable 2 dimensions.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:24:50 +0000</pubDate>
-      <guid isPermaLink="false">createpages-rm2-1.0.4-r3</guid>
-    </item>
-    <item>
-      <title>createpages-paperpro 1.0.4-r3</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Overrides new page creation to use Paper Pro dimensions.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 05:24:50 +0000</pubDate>
-      <guid isPermaLink="false">createpages-paperpro-1.0.4-r3</guid>
     </item>
     <item>
       <title>bettertoc-collapse 1.0.0-r4</title>
@@ -2481,15 +2607,6 @@
       <category>ui</category>
       <pubDate>Mon, 11 May 2026 05:24:49 +0000</pubDate>
       <guid isPermaLink="false">bettertoc-1.4.2-r1</guid>
-    </item>
-    <item>
-      <title>fix-light-indicator-gap 1.0.0-r5</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Removes the gap reserved for the frontlight icon when the light is off on Paper Pro and Paper Pro Move.<br/>Devices: rmpp, rmppm, rmppmove<br/>OS: 3.24 - 3.28]]></description>
-      <author>rmitchellscott</author>
-      <category>fixes, ui</category>
-      <pubDate>Mon, 11 May 2026 05:12:51 +0000</pubDate>
-      <guid isPermaLink="false">fix-light-indicator-gap-1.0.0-r5</guid>
     </item>
     <item>
       <title>enable-extra-pen-on-move 1.0.1-r3</title>
