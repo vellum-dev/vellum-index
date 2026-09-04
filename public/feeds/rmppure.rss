@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pure</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 21:31:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 18:55:07 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppure.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>external-keyboard-qpa 0.1.0-r2</title>
+      <link>https://github.com/rmitchellscott/epaper-qpa</link>
+      <description><![CDATA[Qt platform plugin for reMarkable e-paper displays with external keyboard support<br/>Devices: rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rmitchellscott</author>
+      <category>framework</category>
+      <pubDate>Fri, 04 Sep 2026 18:53:44 +0000</pubDate>
+      <guid isPermaLink="false">external-keyboard-qpa-0.1.0-r2</guid>
+    </item>
     <item>
       <title>xovi-message-broker 19.0.0-r4</title>
       <link>https://github.com/asivery/rm-xovi-extensions</link>
@@ -944,24 +953,6 @@
       <guid isPermaLink="false">oxide-extra-3.1.1-r3</guid>
     </item>
     <item>
-      <title>oxide-display-dev 3.1.1-r3</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>development</category>
-      <pubDate>Tue, 11 Aug 2026 04:43:05 +0000</pubDate>
-      <guid isPermaLink="false">oxide-display-dev-3.1.1-r3</guid>
-    </item>
-    <item>
-      <title>oxide-display 3.1.1-r3</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Tue, 11 Aug 2026 04:43:05 +0000</pubDate>
-      <guid isPermaLink="false">oxide-display-3.1.1-r3</guid>
-    </item>
-    <item>
       <title>oxide 3.1.1-r3</title>
       <link>https://oxide.eeems.codes</link>
       <description><![CDATA[Launcher application<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -969,15 +960,6 @@
       <category>launchers</category>
       <pubDate>Tue, 11 Aug 2026 04:43:04 +0000</pubDate>
       <guid isPermaLink="false">oxide-3.1.1-r3</guid>
-    </item>
-    <item>
-      <title>lockscreen_hook 3.1.1-r3</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Run scripts after unlock<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Tue, 11 Aug 2026 04:43:03 +0000</pubDate>
-      <guid isPermaLink="false">lockscreen_hook-3.1.1-r3</guid>
     </item>
     <item>
       <title>liboxide-dev 3.1.1-r3</title>
@@ -1223,24 +1205,6 @@
       <guid isPermaLink="false">oxide-extra-3.1-r1</guid>
     </item>
     <item>
-      <title>oxide-display-dev 3.1-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>development</category>
-      <pubDate>Tue, 28 Jul 2026 05:06:53 +0000</pubDate>
-      <guid isPermaLink="false">oxide-display-dev-3.1-r1</guid>
-    </item>
-    <item>
-      <title>oxide-display 3.1-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Tue, 28 Jul 2026 05:06:53 +0000</pubDate>
-      <guid isPermaLink="false">oxide-display-3.1-r1</guid>
-    </item>
-    <item>
       <title>oxide 3.1-r1</title>
       <link>https://oxide.eeems.codes</link>
       <description><![CDATA[Launcher application<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -1248,15 +1212,6 @@
       <category>launchers</category>
       <pubDate>Tue, 28 Jul 2026 05:06:53 +0000</pubDate>
       <guid isPermaLink="false">oxide-3.1-r1</guid>
-    </item>
-    <item>
-      <title>lockscreen_hook 3.1-r1</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Run scripts after unlock<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Tue, 28 Jul 2026 05:06:51 +0000</pubDate>
-      <guid isPermaLink="false">lockscreen_hook-3.1-r1</guid>
     </item>
     <item>
       <title>liboxide-dev 3.1-r1</title>
@@ -1403,15 +1358,6 @@
       <guid isPermaLink="false">koreader-2026.03-r5</guid>
     </item>
     <item>
-      <title>external-keyboard-qpa 0.1.0-r1</title>
-      <link>https://github.com/rmitchellscott/epaper-qpa</link>
-      <description><![CDATA[Qt platform plugin for reMarkable e-paper displays with external keyboard support<br/>Devices: rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rmitchellscott</author>
-      <category>framework</category>
-      <pubDate>Wed, 22 Jul 2026 22:14:39 +0000</pubDate>
-      <guid isPermaLink="false">external-keyboard-qpa-0.1.0-r1</guid>
-    </item>
-    <item>
       <title>entware 1.0.0-r2</title>
       <link>https://entware.net/</link>
       <description><![CDATA[Entware software repository for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -1556,24 +1502,6 @@
       <guid isPermaLink="false">oxide-extra-3.0.3-r0</guid>
     </item>
     <item>
-      <title>oxide-display-dev 3.0.3-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>development</category>
-      <pubDate>Sun, 12 Jul 2026 20:14:51 +0000</pubDate>
-      <guid isPermaLink="false">oxide-display-dev-3.0.3-r0</guid>
-    </item>
-    <item>
-      <title>oxide-display 3.0.3-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Sun, 12 Jul 2026 20:14:51 +0000</pubDate>
-      <guid isPermaLink="false">oxide-display-3.0.3-r0</guid>
-    </item>
-    <item>
       <title>oxide 3.0.3-r0</title>
       <link>https://oxide.eeems.codes</link>
       <description><![CDATA[Launcher application<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -1581,15 +1509,6 @@
       <category>launchers</category>
       <pubDate>Sun, 12 Jul 2026 20:14:51 +0000</pubDate>
       <guid isPermaLink="false">oxide-3.0.3-r0</guid>
-    </item>
-    <item>
-      <title>lockscreen_hook 3.0.3-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Run scripts after unlock<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Sun, 12 Jul 2026 20:14:49 +0000</pubDate>
-      <guid isPermaLink="false">lockscreen_hook-3.0.3-r0</guid>
     </item>
     <item>
       <title>liboxide-dev 3.0.3-r0</title>
@@ -1700,24 +1619,6 @@
       <guid isPermaLink="false">oxide-extra-3.0.2-r0</guid>
     </item>
     <item>
-      <title>oxide-display-dev 3.0.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>Eeems-Org</author>
-      <category>development</category>
-      <pubDate>Sat, 11 Jul 2026 19:46:11 +0000</pubDate>
-      <guid isPermaLink="false">oxide-display-dev-3.0.2-r0</guid>
-    </item>
-    <item>
-      <title>oxide-display 3.0.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Oxide display server<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Sat, 11 Jul 2026 19:46:11 +0000</pubDate>
-      <guid isPermaLink="false">oxide-display-3.0.2-r0</guid>
-    </item>
-    <item>
       <title>oxide 3.0.2-r0</title>
       <link>https://oxide.eeems.codes</link>
       <description><![CDATA[Launcher application<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
@@ -1725,15 +1626,6 @@
       <category>launchers</category>
       <pubDate>Sat, 11 Jul 2026 19:46:11 +0000</pubDate>
       <guid isPermaLink="false">oxide-3.0.2-r0</guid>
-    </item>
-    <item>
-      <title>lockscreen_hook 3.0.2-r0</title>
-      <link>https://oxide.eeems.codes</link>
-      <description><![CDATA[Run scripts after unlock<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27.1.0+]]></description>
-      <author>Eeems-Org</author>
-      <category>framework</category>
-      <pubDate>Sat, 11 Jul 2026 19:46:09 +0000</pubDate>
-      <guid isPermaLink="false">lockscreen_hook-3.0.2-r0</guid>
     </item>
     <item>
       <title>liboxide-dev 3.0.2-r0</title>

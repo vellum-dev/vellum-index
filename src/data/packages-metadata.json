@@ -5034,7 +5034,7 @@
       }
     },
     "external-keyboard-qpa": {
-      "0.1.0-r1": {
+      "0.1.0-r2": {
         "pkgdesc": "Qt platform plugin for reMarkable e-paper displays with external keyboard support",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -5045,8 +5045,13 @@
         "url": "https://github.com/rmitchellscott/epaper-qpa",
         "status": "maintained",
         "os_min": null,
-        "os_max": null,
-        "os_constraints": null,
+        "os_max": "3.28",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": "<"
+          }
+        ],
         "devices": [
           "rmpp",
           "rmppm",
@@ -5064,7 +5069,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-07-22T22:14:39Z",
+        "released": "2026-09-04T18:53:44Z",
         "origin": "external-keyboard-qpa",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/epaper-qpa/external-keyboard/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -13363,174 +13368,6 @@
       }
     },
     "lockscreen_hook": {
-      "3.0.2-r0": {
-        "pkgdesc": "Run scripts after unlock",
-        "upstream_author": "Eeems-Org",
-        "maintainer": "Eeems <eeems@eeems.email>",
-        "categories": [
-          "framework"
-        ],
-        "license": "MIT",
-        "url": "https://oxide.eeems.codes",
-        "status": "maintained",
-        "os_min": "3.27.1.0",
-        "os_max": null,
-        "os_constraints": [
-          {
-            "version": "3.27.1.0",
-            "operator": ">="
-          }
-        ],
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
-        ],
-        "depends": [],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "aarch64",
-          "armv7"
-        ],
-        "modifies_system": true,
-        "auto_install": false,
-        "released": "2026-07-11T19:46:09Z",
-        "origin": "oxide",
-        "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
-        "donateurl": null,
-        "changelogurl": null,
-        "first_released": "2026-07-11T19:46:09Z"
-      },
-      "3.0.3-r0": {
-        "pkgdesc": "Run scripts after unlock",
-        "upstream_author": "Eeems-Org",
-        "maintainer": "Eeems <eeems@eeems.email>",
-        "categories": [
-          "framework"
-        ],
-        "license": "MIT",
-        "url": "https://oxide.eeems.codes",
-        "status": "maintained",
-        "os_min": "3.27.1.0",
-        "os_max": null,
-        "os_constraints": [
-          {
-            "version": "3.27.1.0",
-            "operator": ">="
-          }
-        ],
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
-        ],
-        "depends": [],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "aarch64",
-          "armv7"
-        ],
-        "modifies_system": true,
-        "auto_install": false,
-        "released": "2026-07-12T20:14:49Z",
-        "origin": "oxide",
-        "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
-        "donateurl": null,
-        "changelogurl": null,
-        "first_released": "2026-07-11T19:46:09Z"
-      },
-      "3.1-r1": {
-        "pkgdesc": "Run scripts after unlock",
-        "upstream_author": "Eeems-Org",
-        "maintainer": "Eeems <eeems@eeems.email>",
-        "categories": [
-          "framework"
-        ],
-        "license": "MIT",
-        "url": "https://oxide.eeems.codes",
-        "status": "maintained",
-        "os_min": "3.27.1.0",
-        "os_max": null,
-        "os_constraints": [
-          {
-            "version": "3.27.1.0",
-            "operator": ">="
-          }
-        ],
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
-        ],
-        "depends": [],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "aarch64",
-          "armv7"
-        ],
-        "modifies_system": true,
-        "auto_install": false,
-        "released": "2026-07-28T05:06:51Z",
-        "origin": "oxide",
-        "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
-        "donateurl": null,
-        "changelogurl": null,
-        "first_released": "2026-07-11T19:46:09Z"
-      },
-      "3.1.1-r3": {
-        "pkgdesc": "Run scripts after unlock",
-        "upstream_author": "Eeems-Org",
-        "maintainer": "Eeems <eeems@eeems.email>",
-        "categories": [
-          "framework"
-        ],
-        "license": "MIT",
-        "url": "https://oxide.eeems.codes",
-        "status": "maintained",
-        "os_min": "3.27.1.0",
-        "os_max": null,
-        "os_constraints": [
-          {
-            "version": "3.27.1.0",
-            "operator": ">="
-          }
-        ],
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
-        ],
-        "depends": [],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "aarch64",
-          "armv7"
-        ],
-        "modifies_system": true,
-        "auto_install": false,
-        "released": "2026-08-11T04:43:03Z",
-        "origin": "oxide",
-        "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
-        "donateurl": null,
-        "changelogurl": null,
-        "first_released": "2026-07-11T19:46:09Z"
-      },
       "3.1.2-r2": {
         "pkgdesc": "Run scripts after unlock",
         "upstream_author": "Eeems-Org",
@@ -14832,182 +14669,6 @@
       }
     },
     "oxide-display": {
-      "3.0.2-r0": {
-        "pkgdesc": "Oxide display server",
-        "upstream_author": "Eeems-Org",
-        "maintainer": "Eeems <eeems@eeems.email>",
-        "categories": [
-          "framework"
-        ],
-        "license": "MIT",
-        "url": "https://oxide.eeems.codes",
-        "status": "maintained",
-        "os_min": "3.27.1.0",
-        "os_max": null,
-        "os_constraints": [
-          {
-            "version": "3.27.1.0",
-            "operator": ">="
-          }
-        ],
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
-        ],
-        "depends": [
-          "liboxide=3.0.2-r0"
-        ],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "aarch64",
-          "armv7"
-        ],
-        "modifies_system": true,
-        "auto_install": false,
-        "released": "2026-07-11T19:46:11Z",
-        "origin": "oxide",
-        "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
-        "donateurl": null,
-        "changelogurl": null,
-        "first_released": "2026-07-11T19:46:11Z"
-      },
-      "3.0.3-r0": {
-        "pkgdesc": "Oxide display server",
-        "upstream_author": "Eeems-Org",
-        "maintainer": "Eeems <eeems@eeems.email>",
-        "categories": [
-          "framework"
-        ],
-        "license": "MIT",
-        "url": "https://oxide.eeems.codes",
-        "status": "maintained",
-        "os_min": "3.27.1.0",
-        "os_max": null,
-        "os_constraints": [
-          {
-            "version": "3.27.1.0",
-            "operator": ">="
-          }
-        ],
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
-        ],
-        "depends": [
-          "liboxide=3.0.3-r0"
-        ],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "aarch64",
-          "armv7"
-        ],
-        "modifies_system": true,
-        "auto_install": false,
-        "released": "2026-07-12T20:14:51Z",
-        "origin": "oxide",
-        "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
-        "donateurl": null,
-        "changelogurl": null,
-        "first_released": "2026-07-11T19:46:11Z"
-      },
-      "3.1-r1": {
-        "pkgdesc": "Oxide display server",
-        "upstream_author": "Eeems-Org",
-        "maintainer": "Eeems <eeems@eeems.email>",
-        "categories": [
-          "framework"
-        ],
-        "license": "MIT",
-        "url": "https://oxide.eeems.codes",
-        "status": "maintained",
-        "os_min": "3.27.1.0",
-        "os_max": null,
-        "os_constraints": [
-          {
-            "version": "3.27.1.0",
-            "operator": ">="
-          }
-        ],
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
-        ],
-        "depends": [
-          "liboxide=3.1-r1"
-        ],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "aarch64",
-          "armv7"
-        ],
-        "modifies_system": true,
-        "auto_install": false,
-        "released": "2026-07-28T05:06:53Z",
-        "origin": "oxide",
-        "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
-        "donateurl": null,
-        "changelogurl": null,
-        "first_released": "2026-07-11T19:46:11Z"
-      },
-      "3.1.1-r3": {
-        "pkgdesc": "Oxide display server",
-        "upstream_author": "Eeems-Org",
-        "maintainer": "Eeems <eeems@eeems.email>",
-        "categories": [
-          "framework"
-        ],
-        "license": "MIT",
-        "url": "https://oxide.eeems.codes",
-        "status": "maintained",
-        "os_min": "3.27.1.0",
-        "os_max": null,
-        "os_constraints": [
-          {
-            "version": "3.27.1.0",
-            "operator": ">="
-          }
-        ],
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
-        ],
-        "depends": [
-          "liboxide=3.1.1-r3"
-        ],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "aarch64",
-          "armv7"
-        ],
-        "modifies_system": true,
-        "auto_install": false,
-        "released": "2026-08-11T04:43:05Z",
-        "origin": "oxide",
-        "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
-        "donateurl": null,
-        "changelogurl": null,
-        "first_released": "2026-07-11T19:46:11Z"
-      },
       "3.1.2-r2": {
         "pkgdesc": "Oxide display server",
         "upstream_author": "Eeems-Org",
@@ -15058,162 +14719,6 @@
       }
     },
     "oxide-display-dev": {
-      "3.0.2-r0": {
-        "pkgdesc": "Oxide display server",
-        "upstream_author": "Eeems-Org",
-        "maintainer": "Eeems <eeems@eeems.email>",
-        "categories": [
-          "development"
-        ],
-        "license": "MIT",
-        "url": "https://oxide.eeems.codes",
-        "status": "maintained",
-        "os_min": null,
-        "os_max": null,
-        "os_constraints": null,
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
-        ],
-        "depends": [
-          "oxide-display=3.0.2-r0"
-        ],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "aarch64",
-          "armv7"
-        ],
-        "modifies_system": true,
-        "auto_install": false,
-        "released": "2026-07-11T19:46:11Z",
-        "origin": "oxide",
-        "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
-        "donateurl": null,
-        "changelogurl": null,
-        "first_released": "2026-07-11T19:46:11Z"
-      },
-      "3.0.3-r0": {
-        "pkgdesc": "Oxide display server",
-        "upstream_author": "Eeems-Org",
-        "maintainer": "Eeems <eeems@eeems.email>",
-        "categories": [
-          "development"
-        ],
-        "license": "MIT",
-        "url": "https://oxide.eeems.codes",
-        "status": "maintained",
-        "os_min": null,
-        "os_max": null,
-        "os_constraints": null,
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
-        ],
-        "depends": [
-          "oxide-display=3.0.3-r0"
-        ],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "aarch64",
-          "armv7"
-        ],
-        "modifies_system": true,
-        "auto_install": false,
-        "released": "2026-07-12T20:14:51Z",
-        "origin": "oxide",
-        "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
-        "donateurl": null,
-        "changelogurl": null,
-        "first_released": "2026-07-11T19:46:11Z"
-      },
-      "3.1-r1": {
-        "pkgdesc": "Oxide display server",
-        "upstream_author": "Eeems-Org",
-        "maintainer": "Eeems <eeems@eeems.email>",
-        "categories": [
-          "development"
-        ],
-        "license": "MIT",
-        "url": "https://oxide.eeems.codes",
-        "status": "maintained",
-        "os_min": null,
-        "os_max": null,
-        "os_constraints": null,
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
-        ],
-        "depends": [
-          "oxide-display=3.1-r1"
-        ],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "aarch64",
-          "armv7"
-        ],
-        "modifies_system": true,
-        "auto_install": false,
-        "released": "2026-07-28T05:06:53Z",
-        "origin": "oxide",
-        "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
-        "donateurl": null,
-        "changelogurl": null,
-        "first_released": "2026-07-11T19:46:11Z"
-      },
-      "3.1.1-r3": {
-        "pkgdesc": "Oxide display server",
-        "upstream_author": "Eeems-Org",
-        "maintainer": "Eeems <eeems@eeems.email>",
-        "categories": [
-          "development"
-        ],
-        "license": "MIT",
-        "url": "https://oxide.eeems.codes",
-        "status": "maintained",
-        "os_min": null,
-        "os_max": null,
-        "os_constraints": null,
-        "devices": [
-          "rm1",
-          "rm2",
-          "rmpp",
-          "rmppm",
-          "rmppmove",
-          "rmppure"
-        ],
-        "depends": [
-          "oxide-display=3.1.1-r3"
-        ],
-        "conflicts": [],
-        "provides": [],
-        "arch": [
-          "aarch64",
-          "armv7"
-        ],
-        "modifies_system": true,
-        "auto_install": false,
-        "released": "2026-08-11T04:43:05Z",
-        "origin": "oxide",
-        "readmeurl": "https://raw.githubusercontent.com/Eeems-Org/oxide/refs/tags/3.1.2/README.md",
-        "donateurl": null,
-        "changelogurl": null,
-        "first_released": "2026-07-11T19:46:11Z"
-      },
       "3.1.2-r2": {
         "pkgdesc": "Oxide display server",
         "upstream_author": "Eeems-Org",
@@ -25650,5 +25155,5 @@
       }
     }
   },
-  "generated": "2026-09-03T21:31:07Z"
+  "generated": "2026-09-04T18:55:07Z"
 }
