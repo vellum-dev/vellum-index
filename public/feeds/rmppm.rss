@@ -5,8 +5,44 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 18:55:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 19:19:03 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>rubber-eraser-rm1 1.0.1-r3</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Make the rubber eraser on a pen work as eraser on rM1.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.29]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Sat, 05 Sep 2026 19:18:21 +0000</pubDate>
+      <guid isPermaLink="false">rubber-eraser-rm1-1.0.1-r3</guid>
+    </item>
+    <item>
+      <title>fewer-light-steps 1.0.3-r1</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Changes 5-level light slider to 4-level.<br/>Devices: rmpp, rmppm, rmppmove<br/>OS: 3.28 - 3.29]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Sat, 05 Sep 2026 19:18:06 +0000</pubDate>
+      <guid isPermaLink="false">fewer-light-steps-1.0.3-r1</guid>
+    </item>
+    <item>
+      <title>enable-extra-pen-on-move 1.0.2-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Adjusts priority of second pen slot so that it shows on the short screen edge as well.<br/>Devices: rmppm, rmppmove<br/>OS: 3.28 - 3.29]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Sat, 05 Sep 2026 19:18:05 +0000</pubDate>
+      <guid isPermaLink="false">enable-extra-pen-on-move-1.0.2-r0</guid>
+    </item>
+    <item>
+      <title>button-press-for-pen-change 1.0.2-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Hold stylus button to select-erase, click once to change to selection, click twice to change pen.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Sat, 05 Sep 2026 19:18:03 +0000</pubDate>
+      <guid isPermaLink="false">button-press-for-pen-change-1.0.2-r0</guid>
+    </item>
     <item>
       <title>external-keyboard-qpa 0.1.0-r2</title>
       <link>https://github.com/rmitchellscott/epaper-qpa</link>
@@ -177,15 +213,6 @@
       <category>fixes</category>
       <pubDate>Thu, 03 Sep 2026 20:47:02 +0000</pubDate>
       <guid isPermaLink="false">fix-appload-rotation-1.0.2-r0</guid>
-    </item>
-    <item>
-      <title>fewer-light-steps 1.0.3-r0</title>
-      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
-      <description><![CDATA[Changes 5-level light slider to 4-level.<br/>Devices: rmpp, rmppm, rmppmove<br/>OS: 3.28 - 3.29]]></description>
-      <author>ingatellent</author>
-      <category>ui</category>
-      <pubDate>Thu, 03 Sep 2026 20:47:02 +0000</pubDate>
-      <guid isPermaLink="false">fewer-light-steps-1.0.3-r0</guid>
     </item>
     <item>
       <title>delay-stroke-screen-refresh 1.0.1-r3</title>
@@ -2697,15 +2724,6 @@
       <category>ui</category>
       <pubDate>Fri, 08 May 2026 02:18:33 +0000</pubDate>
       <guid isPermaLink="false">shortcuts-to-choose-eraser-1.0.1-r2</guid>
-    </item>
-    <item>
-      <title>rubber-eraser-rm1 1.0.1-r2</title>
-      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
-      <description><![CDATA[Make the rubber eraser on a pen work as eraser on rM1.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
-      <author>ingatellent</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:32 +0000</pubDate>
-      <guid isPermaLink="false">rubber-eraser-rm1-1.0.1-r2</guid>
     </item>
     <item>
       <title>navigate-using-arrow-keys 1.0.2-r1</title>

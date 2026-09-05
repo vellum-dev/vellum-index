@@ -2107,7 +2107,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "origin": "button-press-for-pen-change",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/957b8eebdd0bd7ce64070eab4e3e9bd6bb41b658/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-02-23T13:53:07Z"
@@ -2159,7 +2159,59 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:18Z",
         "origin": "button-press-for-pen-change",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/957b8eebdd0bd7ce64070eab4e3e9bd6bb41b658/README.md",
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-02-23T13:53:07Z"
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Hold stylus button to select-erase, click once to change to selection, click twice to change pen.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "rm-stylus>=0.3.0"
+        ],
+        "conflicts": [
+          "shortcuts-to-choose-eraser",
+          "stylus-button-undo-redo"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-05T19:18:03Z",
+        "origin": "button-press-for-pen-change",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/957b8eebdd0bd7ce64070eab4e3e9bd6bb41b658/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-02-23T13:53:07Z"
@@ -4547,7 +4599,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:05Z",
         "origin": "enable-extra-pen-on-move",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/957b8eebdd0bd7ce64070eab4e3e9bd6bb41b658/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-01-14T19:57:51Z"
@@ -4591,7 +4643,51 @@
         "auto_install": false,
         "released": "2026-05-11T05:12:50Z",
         "origin": "enable-extra-pen-on-move",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/957b8eebdd0bd7ce64070eab4e3e9bd6bb41b658/README.md",
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-01-14T19:57:51Z"
+      },
+      "1.0.2-r0": {
+        "pkgdesc": "Adjusts priority of second pen slot so that it shows on the short screen edge as well.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rmppm",
+          "rmppmove"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-05T19:18:05Z",
+        "origin": "enable-extra-pen-on-move",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/957b8eebdd0bd7ce64070eab4e3e9bd6bb41b658/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-01-14T19:57:51Z"
@@ -5868,7 +5964,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.18",
         "os_max": "3.23",
         "os_constraints": [
@@ -5916,7 +6012,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.23",
         "os_max": "3.26",
         "os_constraints": [
@@ -5964,7 +6060,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.26",
         "os_max": "3.28",
         "os_constraints": [
@@ -6003,7 +6099,7 @@
         "changelogurl": null,
         "first_released": "2026-01-12T21:36:44Z"
       },
-      "1.0.3-r0": {
+      "1.0.3-r1": {
         "pkgdesc": "Changes 5-level light slider to 4-level.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -6012,7 +6108,7 @@
         ],
         "license": "GPL-2.0",
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
-        "status": "maintained",
+        "status": "unmaintained",
         "os_min": "3.28",
         "os_max": "3.29",
         "os_constraints": [
@@ -6043,7 +6139,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-03T20:47:02Z",
+        "released": "2026-09-05T19:18:06Z",
         "origin": "fewer-light-steps",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/071e6c6873f064f560ff1a364381c7c6deb173d8/README.md",
         "donateurl": null,
@@ -19652,12 +19748,12 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "origin": "rubber-eraser-rm1",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/957b8eebdd0bd7ce64070eab4e3e9bd6bb41b658/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-02-23T13:54:36Z"
       },
-      "1.0.1-r2": {
+      "1.0.1-r3": {
         "pkgdesc": "Make the rubber eraser on a pen work as eraser on rM1.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -19668,14 +19764,14 @@
         "url": "https://github.com/ingatellent/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.26",
-        "os_max": "3.28",
+        "os_max": "3.29",
         "os_constraints": [
           {
             "version": "3.26",
             "operator": ">="
           },
           {
-            "version": "3.28",
+            "version": "3.29",
             "operator": "<"
           }
         ],
@@ -19701,9 +19797,9 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-05-08T02:18:32Z",
+        "released": "2026-09-05T19:18:21Z",
         "origin": "rubber-eraser-rm1",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d52184111dbe0520f3f0442a630389c5dca6ad4d/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/957b8eebdd0bd7ce64070eab4e3e9bd6bb41b658/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-02-23T13:54:36Z"
@@ -25155,5 +25251,5 @@
       }
     }
   },
-  "generated": "2026-09-04T18:55:07Z"
+  "generated": "2026-09-05T19:19:03Z"
 }

@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 18:55:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 19:19:03 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>rubber-eraser-rm1 1.0.1-r3</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Make the rubber eraser on a pen work as eraser on rM1.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.29]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Sat, 05 Sep 2026 19:18:21 +0000</pubDate>
+      <guid isPermaLink="false">rubber-eraser-rm1-1.0.1-r3</guid>
+    </item>
+    <item>
+      <title>button-press-for-pen-change 1.0.2-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Hold stylus button to select-erase, click once to change to selection, click twice to change pen.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>Sat, 05 Sep 2026 19:18:03 +0000</pubDate>
+      <guid isPermaLink="false">button-press-for-pen-change-1.0.2-r0</guid>
+    </item>
     <item>
       <title>xovi-message-broker 19.0.0-r4</title>
       <link>https://github.com/asivery/rm-xovi-extensions</link>
@@ -2616,15 +2634,6 @@
       <category>ui</category>
       <pubDate>Fri, 08 May 2026 02:18:33 +0000</pubDate>
       <guid isPermaLink="false">shortcuts-to-choose-eraser-1.0.1-r2</guid>
-    </item>
-    <item>
-      <title>rubber-eraser-rm1 1.0.1-r2</title>
-      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
-      <description><![CDATA[Make the rubber eraser on a pen work as eraser on rM1.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.26 - 3.28]]></description>
-      <author>ingatellent</author>
-      <category>ui</category>
-      <pubDate>Fri, 08 May 2026 02:18:32 +0000</pubDate>
-      <guid isPermaLink="false">rubber-eraser-rm1-1.0.1-r2</guid>
     </item>
     <item>
       <title>navigate-using-arrow-keys 1.0.2-r1</title>
