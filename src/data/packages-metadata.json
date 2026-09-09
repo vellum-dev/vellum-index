@@ -11960,6 +11960,47 @@
         "first_released": "2026-07-11T19:46:08Z"
       }
     },
+    "irilon": {
+      "1.0.1-r0": {
+        "pkgdesc": "Gemini protocol browser for reMarkable tablets",
+        "upstream_author": "fairlygood",
+        "maintainer": "fairlygood <irilonbrowser@fairlygood.net>",
+        "categories": [
+          "apps"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/fairlygood/rm-irilon-browser",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "appload"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-09T01:34:30Z",
+        "origin": "irilon",
+        "readmeurl": "https://raw.githubusercontent.com/fairlygood/rm-irilon-browser/v1.0.1/README.md",
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-09-09T01:34:30Z"
+      }
+    },
     "jq": {
       "1.8.1-r2": {
         "pkgdesc": "Command-line JSON processor",
@@ -25251,5 +25292,5 @@
       }
     }
   },
-  "generated": "2026-09-05T19:19:03Z"
+  "generated": "2026-09-09T01:35:41Z"
 }
