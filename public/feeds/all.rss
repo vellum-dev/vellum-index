@@ -5,8 +5,35 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 06:58:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 22:45:38 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>toolbar-icon 1.1.1-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 09 Sep 2026 22:44:42 +0000</pubDate>
+      <guid isPermaLink="false">toolbar-icon-1.1.1-r0</guid>
+    </item>
+    <item>
+      <title>floating-toolbar 2.0.6-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Floating toolbar for quick access to your favourite tools, presets, and layers.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 09 Sep 2026 22:44:17 +0000</pubDate>
+      <guid isPermaLink="false">floating-toolbar-2.0.6-r0</guid>
+    </item>
+    <item>
+      <title>fav-tag-button 1.0.8-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 09 Sep 2026 22:44:14 +0000</pubDate>
+      <guid isPermaLink="false">fav-tag-button-1.0.8-r0</guid>
+    </item>
     <item>
       <title>pandoc 3.11-r0</title>
       <link>https://pandoc.org/</link>
