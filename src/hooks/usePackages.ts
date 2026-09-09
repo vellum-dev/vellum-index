@@ -1,51 +1,9 @@
 import { useMemo } from 'react';
 import packagesData from '@/data/packages-metadata.json';
-import type { PackagesMetadata, FlatPackage, PackageVersion } from '@/types/packages';
+import type { PackagesMetadata, FlatPackage } from '@/types/packages';
 import { normalizeDevice } from '@/types/packages';
-
-const SUFFIX_WEIGHTS: Record<string, number> = {
-  alpha: -4,
-  beta: -3,
-  pre: -2,
-  rc: -1,
-  cvs: 1,
-  svn: 2,
-  git: 3,
-  hg: 4,
-  p: 5,
-};
-
-interface ParsedVersion {
-  base: number[];
-  suffix: string | null;
-  suffixNum: number;
-  revision: number;
-}
-
-function parseVersion(version: string): ParsedVersion {
-  let remaining = version;
-  let revision = 0;
-
-  const revMatch = remaining.match(/-r(\d+)$/);
-  if (revMatch) {
-    revision = parseInt(revMatch[1]);
-    remaining = remaining.slice(0, -revMatch[0].length);
-  }
-
-  let suffix: string | null = null;
-  let suffixNum = 0;
-
-  const suffixMatch = remaining.match(/_([a-z]+)(\d*)$/);
-  if (suffixMatch) {
-    suffix = suffixMatch[1];
-    suffixNum = suffixMatch[2] ? parseInt(suffixMatch[2]) : 0;
-    remaining = remaining.slice(0, -suffixMatch[0].length);
-  }
-
-  const base = remaining.split('.').map((p) => parseInt(p) || 0);
-
-  return { base, suffix, suffixNum, revision };
-}
+import { compareVersions } from '@/lib/version';
+import { buildProviderIndex } from '@/lib/resolution';
 
 function normalizeMajorMinor(version: string): number {
   const parts = version.split('.');
@@ -58,83 +16,6 @@ function generateOsVersionRange(minVersion: number, maxVersion: number): string[
     versions.push(v.toFixed(2));
   }
   return versions;
-}
-
-function isVersionCompatible(pkg: PackageVersion, osVersion: number): boolean {
-  if (pkg.os_constraints && pkg.os_constraints.length > 0) {
-    for (const constraint of pkg.os_constraints) {
-      const constraintVersion = parseFloat(constraint.version);
-      switch (constraint.operator) {
-        case '>=':
-          if (osVersion < constraintVersion) return false;
-          break;
-        case '>':
-          if (osVersion <= constraintVersion) return false;
-          break;
-        case '<=':
-          if (osVersion > constraintVersion) return false;
-          break;
-        case '<':
-          if (osVersion >= constraintVersion) return false;
-          break;
-        case '=':
-          if (osVersion !== constraintVersion) return false;
-          break;
-      }
-    }
-    return true;
-  }
-  if (pkg.os_min && parseFloat(pkg.os_min) > osVersion) return false;
-  if (pkg.os_max && parseFloat(pkg.os_max) <= osVersion) return false;
-  return true;
-}
-
-export function isInstallableOnOs(
-  packageName: string,
-  osVersion: number,
-  registry: PackagesMetadata['packages'],
-  visited: Set<string> = new Set()
-): boolean {
-  if (visited.has(packageName)) return true;
-  visited.add(packageName);
-
-  const versions = registry[packageName];
-  if (!versions) return true;
-
-  const compatibleVersions = Object.values(versions).filter((v) =>
-    isVersionCompatible(v, osVersion)
-  );
-
-  if (compatibleVersions.length === 0) return false;
-
-  for (const version of compatibleVersions) {
-    const allDepsInstallable = version.depends.every((dep) =>
-      isInstallableOnOs(dep, osVersion, registry, new Set(visited))
-    );
-    if (allDepsInstallable) return true;
-  }
-  return false;
-}
-
-export function compareVersions(a: string, b: string): number {
-  const parsedA = parseVersion(a);
-  const parsedB = parseVersion(b);
-
-  const maxBase = Math.max(parsedA.base.length, parsedB.base.length);
-  for (let i = 0; i < maxBase; i++) {
-    const diff = (parsedA.base[i] || 0) - (parsedB.base[i] || 0);
-    if (diff !== 0) return diff;
-  }
-
-  const weightA = parsedA.suffix ? (SUFFIX_WEIGHTS[parsedA.suffix] ?? 0) : 0;
-  const weightB = parsedB.suffix ? (SUFFIX_WEIGHTS[parsedB.suffix] ?? 0) : 0;
-  if (weightA !== weightB) return weightA - weightB;
-
-  if (parsedA.suffixNum !== parsedB.suffixNum) {
-    return parsedA.suffixNum - parsedB.suffixNum;
-  }
-
-  return parsedA.revision - parsedB.revision;
 }
 
 export function usePackages() {
@@ -189,5 +70,15 @@ export function usePackages() {
     };
   }, [data]);
 
-  return { packages, categories, devices, osVersions, generated: data.generated, registry: data.packages };
+  const providers = useMemo(() => buildProviderIndex(data.packages), [data]);
+
+  return {
+    packages,
+    categories,
+    devices,
+    osVersions,
+    generated: data.generated,
+    registry: data.packages,
+    providers,
+  };
 }

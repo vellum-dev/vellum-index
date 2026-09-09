@@ -2,15 +2,16 @@ import { useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import { BarChart3 } from 'lucide-react';
 import { Tooltip, TooltipTrigger, TooltipContent, TooltipProvider } from '@/components/ui/tooltip';
-import { usePackages, compareVersions } from '@/hooks/usePackages';
+import { usePackages } from '@/hooks/usePackages';
+import { compareVersions } from '@/lib/version';
 import { useFilters } from '@/hooks/useFilters';
 import { PackageFilters } from '@/components/packages/PackageFilters';
 import { PackageTable } from '@/components/packages/PackageTable';
 import type { FlatPackage } from '@/types/packages';
 
 export function PackageListPage() {
-  const { packages, categories, devices, osVersions, registry } = usePackages();
-  const { filters, setFilter, filteredPackages } = useFilters(packages, registry);
+  const { packages, categories, devices, osVersions, registry, providers } = usePackages();
+  const { filters, setFilter, filteredPackages } = useFilters(packages, registry, providers);
 
   const latestPackages = useMemo(() => {
     const byName = new Map<string, FlatPackage>();

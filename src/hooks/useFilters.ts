@@ -1,7 +1,7 @@
 import { useSearchParams } from 'react-router-dom';
 import { useMemo, useCallback } from 'react';
 import type { FlatPackage, Device, PackagesMetadata } from '@/types/packages';
-import { isInstallableOnOs } from './usePackages';
+import { isVersionInstallable, type ProviderIndex, type ResolutionTarget } from '@/lib/resolution';
 
 interface FilterState {
   search: string;
@@ -10,7 +10,11 @@ interface FilterState {
   osVersion: string;
 }
 
-export function useFilters(packages: FlatPackage[], registry: PackagesMetadata['packages']) {
+export function useFilters(
+  packages: FlatPackage[],
+  registry: PackagesMetadata['packages'],
+  providers: ProviderIndex
+) {
   const [searchParams, setSearchParams] = useSearchParams();
 
   const filters: FilterState = {
@@ -48,18 +52,18 @@ export function useFilters(packages: FlatPackage[], registry: PackagesMetadata['
         return false;
       }
 
-      if (filters.device !== 'all' && !pkg.devices.includes(filters.device as Device)) {
-        return false;
-      }
+      const target: ResolutionTarget = {
+        osSeries: filters.osVersion === 'all' ? null : filters.osVersion,
+        device: filters.device === 'all' ? null : (filters.device as Device),
+      };
 
-      if (filters.osVersion !== 'all') {
-        const version = parseFloat(filters.osVersion);
-        if (!isInstallableOnOs(pkg.name, version, registry)) return false;
+      if (target.osSeries !== null || target.device !== null) {
+        if (!isVersionInstallable(pkg.name, pkg.version, target, registry, providers)) return false;
       }
 
       return true;
     });
-  }, [packages, filters, registry]);
+  }, [packages, filters, registry, providers]);
 
   return { filters, setFilter, filteredPackages };
 }
