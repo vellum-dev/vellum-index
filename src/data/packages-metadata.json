@@ -23623,6 +23623,51 @@
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-07-07T19:50:29Z"
+      },
+      "1.0.3-r0": {
+        "pkgdesc": "TUN module for rMP[Pro, Move, Pure], compiled from kernel code released by rM using rM's SDKs",
+        "upstream_author": "reMarkable",
+        "maintainer": "esclee <5288860+esclee@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "GPL-2.0-or-later",
+        "url": "https://github.com/reMarkable/linux-imx-rm",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "mount-utils>=1.2.0"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64"
+        ],
+        "modifies_system": true,
+        "auto_install": false,
+        "released": "2026-09-11T18:32:32Z",
+        "origin": "tun",
+        "readmeurl": null,
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-07-07T19:50:29Z"
       }
     },
     "uncompress-dock": {
@@ -26014,5 +26059,5 @@
       }
     }
   },
-  "generated": "2026-09-11T13:29:10Z"
+  "generated": "2026-09-11T18:33:29Z"
 }
