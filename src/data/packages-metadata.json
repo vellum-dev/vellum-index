@@ -2593,7 +2593,55 @@
         "auto_install": false,
         "released": "2026-06-25T14:07:16Z",
         "origin": "collapse-toolbar-on-open",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#collapsetoolbaronopen",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#collapsetoolbaronopen",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "changelogurl": null,
+        "first_released": "2026-06-25T14:07:16Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Opens every document with the toolbar collapsed",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-11T13:27:53Z",
+        "origin": "collapse-toolbar-on-open",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#collapsetoolbaronopen",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T14:07:16Z"
@@ -3731,7 +3779,7 @@
         "auto_install": false,
         "released": "2026-07-14T14:58:20Z",
         "origin": "dictionary-wiki-translator",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#dictionary",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#dictionary",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-07-14T14:58:20Z"
@@ -3780,7 +3828,56 @@
         "auto_install": false,
         "released": "2026-07-20T16:42:06Z",
         "origin": "dictionary-wiki-translator",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#dictionary",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#dictionary",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "changelogurl": null,
+        "first_released": "2026-07-14T14:58:20Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Adds integrated dictionary, Wikipedia, and translation capabilities for PDFs and EPUBs",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "qt-command-executor"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-11T13:27:55Z",
+        "origin": "dictionary-wiki-translator",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#dictionary",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-07-14T14:58:20Z"
@@ -4038,7 +4135,57 @@
         "auto_install": false,
         "released": "2026-06-25T14:10:33Z",
         "origin": "dock-buttons",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#dockbuttons",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#dockbuttons",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "changelogurl": null,
+        "first_released": "2026-06-25T14:10:33Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Adds My Files / Favorites / Tags / Trash shortcut buttons to the homepage dock",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "fav-tag-button"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-11T13:27:55Z",
+        "origin": "dock-buttons",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#dockbuttons",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T14:10:33Z"
@@ -5217,7 +5364,55 @@
         "auto_install": false,
         "released": "2026-06-25T14:07:19Z",
         "origin": "faster-page-labels",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#fasterpagelabels",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#fasterpagelabels",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "changelogurl": null,
+        "first_released": "2026-06-25T14:07:19Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Auto-hides the page-number label ~1.25s after a page turn",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-11T13:27:56Z",
+        "origin": "faster-page-labels",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#fasterpagelabels",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T14:07:19Z"
@@ -5267,7 +5462,55 @@
         "auto_install": false,
         "released": "2026-06-25T12:44:50Z",
         "origin": "faster-scroll-bar",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#fasterscrollbar",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#fasterscrollbar",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "changelogurl": null,
+        "first_released": "2026-06-25T12:44:50Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Auto-hides the document scrollbar ~0.35s after you stop scrolling",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-11T13:27:56Z",
+        "origin": "faster-scroll-bar",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#fasterscrollbar",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T12:44:50Z"
@@ -8188,7 +8431,55 @@
         "auto_install": false,
         "released": "2026-06-25T14:04:34Z",
         "origin": "force-wide-column",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#forcewidecolumn",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#forcewidecolumn",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "changelogurl": null,
+        "first_released": "2026-06-25T14:04:34Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Forces a note's typed text to the Wide column on open, including existing notes",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-11T13:28:00Z",
+        "origin": "force-wide-column",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#forcewidecolumn",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T14:04:34Z"
@@ -8483,7 +8774,7 @@
         "auto_install": false,
         "released": "2026-06-25T13:59:53Z",
         "origin": "gestik",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#gestik",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#gestik",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T13:59:53Z"
@@ -8536,7 +8827,7 @@
         "auto_install": false,
         "released": "2026-07-08T15:49:36Z",
         "origin": "gestik",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#gestik",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#gestik",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T13:59:53Z"
@@ -8589,7 +8880,7 @@
         "auto_install": false,
         "released": "2026-07-14T19:19:28Z",
         "origin": "gestik",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#gestik",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#gestik",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T13:59:53Z"
@@ -8642,7 +8933,60 @@
         "auto_install": false,
         "released": "2026-07-20T16:42:12Z",
         "origin": "gestik",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/ac44f719293a904c50904515597c8da8b5779cd2/README.md#gestik",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#gestik",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "changelogurl": null,
+        "first_released": "2026-06-25T13:59:53Z"
+      },
+      "1.2.0-r0": {
+        "pkgdesc": "Configurable multi-finger gestures for tool switching or action you want",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "four-finger-change-filter",
+          "gestures-fouzr",
+          "gestures-ingatellent",
+          "three-finger-swipe-to-reset-view"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-11T13:28:01Z",
+        "origin": "gestik",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#gestik",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T13:59:53Z"
@@ -10412,7 +10756,57 @@
         "auto_install": false,
         "released": "2026-06-25T15:02:03Z",
         "origin": "hide-back-to-page-bar",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#hidebacktopagebar",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#hidebacktopagebar",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "changelogurl": null,
+        "first_released": "2026-06-25T15:02:03Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Hides the native Back-to-page-N bar shown after following a PDF hyperlink",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "hide-hyperlink-back-button"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-11T13:28:03Z",
+        "origin": "hide-back-to-page-bar",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#hidebacktopagebar",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T15:02:03Z"
@@ -11624,7 +12018,55 @@
         "auto_install": false,
         "released": "2026-06-25T14:05:36Z",
         "origin": "hide-title-quick-browse",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/7c035706ac184ebaf6faaca01d40cf1d2391210f/README.md#hidetitlequickbrowse",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#hidetitlequickbrowse",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "changelogurl": null,
+        "first_released": "2026-06-25T14:05:36Z"
+      },
+      "1.1.0-r0": {
+        "pkgdesc": "Hides the document-title bar shown while the quick-browse page-slider is up",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-11T13:28:05Z",
+        "origin": "hide-title-quick-browse",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#hidetitlequickbrowse",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T14:05:36Z"
@@ -13450,7 +13892,7 @@
         "auto_install": false,
         "released": "2026-06-25T14:14:05Z",
         "origin": "link-from-selection",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/0054787b771b292359867c88b0a2df1b6e996a97/README.md#linkfromselection",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#linkfromselection",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T14:14:05Z"
@@ -13500,7 +13942,57 @@
         "auto_install": false,
         "released": "2026-07-09T18:14:04Z",
         "origin": "link-from-selection",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/0054787b771b292359867c88b0a2df1b6e996a97/README.md#linkfromselection",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#linkfromselection",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "changelogurl": null,
+        "first_released": "2026-06-25T14:14:05Z"
+      },
+      "1.2.0-r0": {
+        "pkgdesc": "On-page links from a lasso selection: jump to a page in this or another document",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "convert-to-text-remover"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-11T13:28:07Z",
+        "origin": "link-from-selection",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#linkfromselection",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T14:14:05Z"
@@ -14322,7 +14814,7 @@
         "auto_install": false,
         "released": "2026-06-25T14:11:59Z",
         "origin": "nav-history",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/1e7392ad13a563b5149eb03cc1ef24c4fca2e498/README.md#navhistory",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#navhistory",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T14:11:59Z"
@@ -14370,7 +14862,55 @@
         "auto_install": false,
         "released": "2026-07-14T19:34:47Z",
         "origin": "nav-history",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/1e7392ad13a563b5149eb03cc1ef24c4fca2e498/README.md#navhistory",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#navhistory",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "changelogurl": null,
+        "first_released": "2026-06-25T14:11:59Z"
+      },
+      "1.2.0-r0": {
+        "pkgdesc": "Back & Forward navigation through your visited-page history",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-11T13:28:09Z",
+        "origin": "nav-history",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#navhistory",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T14:11:59Z"
@@ -25474,5 +26014,5 @@
       }
     }
   },
-  "generated": "2026-09-10T12:42:52Z"
+  "generated": "2026-09-11T13:29:10Z"
 }

@@ -5,8 +5,107 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:42:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:29:10 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppm.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>nav-history 1.2.0-r0</title>
+      <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
+      <description><![CDATA[Back & Forward navigation through your visited-page history<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>alefaraci</author>
+      <category>ui</category>
+      <pubDate>Fri, 11 Sep 2026 13:28:09 +0000</pubDate>
+      <guid isPermaLink="false">nav-history-1.2.0-r0</guid>
+    </item>
+    <item>
+      <title>link-from-selection 1.2.0-r0</title>
+      <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
+      <description><![CDATA[On-page links from a lasso selection: jump to a page in this or another document<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>alefaraci</author>
+      <category>ui</category>
+      <pubDate>Fri, 11 Sep 2026 13:28:07 +0000</pubDate>
+      <guid isPermaLink="false">link-from-selection-1.2.0-r0</guid>
+    </item>
+    <item>
+      <title>hide-title-quick-browse 1.1.0-r0</title>
+      <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
+      <description><![CDATA[Hides the document-title bar shown while the quick-browse page-slider is up<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>alefaraci</author>
+      <category>ui</category>
+      <pubDate>Fri, 11 Sep 2026 13:28:05 +0000</pubDate>
+      <guid isPermaLink="false">hide-title-quick-browse-1.1.0-r0</guid>
+    </item>
+    <item>
+      <title>hide-back-to-page-bar 1.1.0-r0</title>
+      <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
+      <description><![CDATA[Hides the native Back-to-page-N bar shown after following a PDF hyperlink<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>alefaraci</author>
+      <category>ui</category>
+      <pubDate>Fri, 11 Sep 2026 13:28:03 +0000</pubDate>
+      <guid isPermaLink="false">hide-back-to-page-bar-1.1.0-r0</guid>
+    </item>
+    <item>
+      <title>gestik 1.2.0-r0</title>
+      <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
+      <description><![CDATA[Configurable multi-finger gestures for tool switching or action you want<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>alefaraci</author>
+      <category>ui</category>
+      <pubDate>Fri, 11 Sep 2026 13:28:01 +0000</pubDate>
+      <guid isPermaLink="false">gestik-1.2.0-r0</guid>
+    </item>
+    <item>
+      <title>force-wide-column 1.1.0-r0</title>
+      <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
+      <description><![CDATA[Forces a note's typed text to the Wide column on open, including existing notes<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>alefaraci</author>
+      <category>ui</category>
+      <pubDate>Fri, 11 Sep 2026 13:28:00 +0000</pubDate>
+      <guid isPermaLink="false">force-wide-column-1.1.0-r0</guid>
+    </item>
+    <item>
+      <title>faster-scroll-bar 1.1.0-r0</title>
+      <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
+      <description><![CDATA[Auto-hides the document scrollbar ~0.35s after you stop scrolling<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>alefaraci</author>
+      <category>ui</category>
+      <pubDate>Fri, 11 Sep 2026 13:27:56 +0000</pubDate>
+      <guid isPermaLink="false">faster-scroll-bar-1.1.0-r0</guid>
+    </item>
+    <item>
+      <title>faster-page-labels 1.1.0-r0</title>
+      <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
+      <description><![CDATA[Auto-hides the page-number label ~1.25s after a page turn<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>alefaraci</author>
+      <category>ui</category>
+      <pubDate>Fri, 11 Sep 2026 13:27:56 +0000</pubDate>
+      <guid isPermaLink="false">faster-page-labels-1.1.0-r0</guid>
+    </item>
+    <item>
+      <title>dock-buttons 1.1.0-r0</title>
+      <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds My Files / Favorites / Tags / Trash shortcut buttons to the homepage dock<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>alefaraci</author>
+      <category>ui</category>
+      <pubDate>Fri, 11 Sep 2026 13:27:55 +0000</pubDate>
+      <guid isPermaLink="false">dock-buttons-1.1.0-r0</guid>
+    </item>
+    <item>
+      <title>dictionary-wiki-translator 1.1.0-r0</title>
+      <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds integrated dictionary, Wikipedia, and translation capabilities for PDFs and EPUBs<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>alefaraci</author>
+      <category>ui</category>
+      <pubDate>Fri, 11 Sep 2026 13:27:55 +0000</pubDate>
+      <guid isPermaLink="false">dictionary-wiki-translator-1.1.0-r0</guid>
+    </item>
+    <item>
+      <title>collapse-toolbar-on-open 1.1.0-r0</title>
+      <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
+      <description><![CDATA[Opens every document with the toolbar collapsed<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>alefaraci</author>
+      <category>ui</category>
+      <pubDate>Fri, 11 Sep 2026 13:27:53 +0000</pubDate>
+      <guid isPermaLink="false">collapse-toolbar-on-open-1.1.0-r0</guid>
+    </item>
     <item>
       <title>toolbar-icon 1.1.1-r1</title>
       <link>https://github.com/FouzR/xovi-extensions</link>
