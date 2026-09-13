@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 19:38:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:00:18 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>vnsee-qtfb 1.1.1-r0</title>
+      <link>https://github.com/asivery/vnsee</link>
+      <description><![CDATA[VNC client for the reMarkable tablet allowing you to use the device as a second screen<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove]]></description>
+      <author>asivery</author>
+      <category>apps</category>
+      <pubDate>Sun, 13 Sep 2026 20:59:25 +0000</pubDate>
+      <guid isPermaLink="false">vnsee-qtfb-1.1.1-r0</guid>
+    </item>
     <item>
       <title>tun 1.0.3-r0</title>
       <link>https://github.com/reMarkable/linux-imx-rm</link>
@@ -1172,7 +1181,7 @@
       <title>vnsee-qtfb 1.1.0-r6</title>
       <link>https://github.com/khyryra/vnsee-qtfb</link>
       <description><![CDATA[VNC client for the reMarkable tablet allowing you to use the device as a second screen<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove]]></description>
-      <author>khyryra</author>
+      <author>asivery</author>
       <category>apps</category>
       <pubDate>Tue, 11 Aug 2026 04:43:18 +0000</pubDate>
       <guid isPermaLink="false">vnsee-qtfb-1.1.0-r6</guid>
@@ -3719,7 +3728,7 @@
       <title>vnsee-qtfb-rm2 1.1.0-r1</title>
       <link>https://github.com/khyryra/vnsee-qtfb</link>
       <description><![CDATA[VNC client for the reMarkable tablet allowing you to use the device as a second screen (rm2)<br/>Devices: rm2]]></description>
-      <author>khyryra</author>
+      <author>asivery</author>
       <category>apps</category>
       <pubDate>Tue, 10 Feb 2026 23:43:22 +0000</pubDate>
       <guid isPermaLink="false">vnsee-qtfb-rm2-1.1.0-r1</guid>
@@ -3728,7 +3737,7 @@
       <title>vnsee-qtfb-rm1 1.1.0-r1</title>
       <link>https://github.com/khyryra/vnsee-qtfb</link>
       <description><![CDATA[VNC client for the reMarkable tablet allowing you to use the device as a second screen (rm1)<br/>Devices: rm1]]></description>
-      <author>khyryra</author>
+      <author>asivery</author>
       <category>apps</category>
       <pubDate>Tue, 10 Feb 2026 23:43:22 +0000</pubDate>
       <guid isPermaLink="false">vnsee-qtfb-rm1-1.1.0-r1</guid>
@@ -3764,7 +3773,7 @@
       <title>vnsee-qtfb-rmppm 1.1.0-r1</title>
       <link>https://github.com/khyryra/vnsee-qtfb</link>
       <description><![CDATA[VNC client for the reMarkable tablet allowing you to use the device as a second screen (rmppm)<br/>Devices: rmppm]]></description>
-      <author>khyryra</author>
+      <author>asivery</author>
       <category>apps</category>
       <pubDate>Tue, 10 Feb 2026 23:43:13 +0000</pubDate>
       <guid isPermaLink="false">vnsee-qtfb-rmppm-1.1.0-r1</guid>
@@ -3773,7 +3782,7 @@
       <title>vnsee-qtfb-rmpp 1.1.0-r1</title>
       <link>https://github.com/khyryra/vnsee-qtfb</link>
       <description><![CDATA[VNC client for the reMarkable tablet allowing you to use the device as a second screen (rmpp)<br/>Devices: rmpp]]></description>
-      <author>khyryra</author>
+      <author>asivery</author>
       <category>apps</category>
       <pubDate>Tue, 10 Feb 2026 23:43:13 +0000</pubDate>
       <guid isPermaLink="false">vnsee-qtfb-rmpp-1.1.0-r1</guid>

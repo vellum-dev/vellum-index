@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 19:38:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:00:18 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>vnsee-qtfb 1.1.1-r0</title>
+      <link>https://github.com/asivery/vnsee</link>
+      <description><![CDATA[VNC client for the reMarkable tablet allowing you to use the device as a second screen<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove]]></description>
+      <author>asivery</author>
+      <category>apps</category>
+      <pubDate>Sun, 13 Sep 2026 20:59:25 +0000</pubDate>
+      <guid isPermaLink="false">vnsee-qtfb-1.1.1-r0</guid>
+    </item>
     <item>
       <title>nav-history 1.2.0-r0</title>
       <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
@@ -1073,7 +1082,7 @@
       <title>vnsee-qtfb 1.1.0-r6</title>
       <link>https://github.com/khyryra/vnsee-qtfb</link>
       <description><![CDATA[VNC client for the reMarkable tablet allowing you to use the device as a second screen<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove]]></description>
-      <author>khyryra</author>
+      <author>asivery</author>
       <category>apps</category>
       <pubDate>Tue, 11 Aug 2026 04:43:18 +0000</pubDate>
       <guid isPermaLink="false">vnsee-qtfb-1.1.0-r6</guid>
@@ -3503,7 +3512,7 @@
       <title>vnsee-qtfb-rm2 1.1.0-r1</title>
       <link>https://github.com/khyryra/vnsee-qtfb</link>
       <description><![CDATA[VNC client for the reMarkable tablet allowing you to use the device as a second screen (rm2)<br/>Devices: rm2]]></description>
-      <author>khyryra</author>
+      <author>asivery</author>
       <category>apps</category>
       <pubDate>Tue, 10 Feb 2026 23:43:22 +0000</pubDate>
       <guid isPermaLink="false">vnsee-qtfb-rm2-1.1.0-r1</guid>

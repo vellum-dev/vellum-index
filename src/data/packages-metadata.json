@@ -24665,7 +24665,7 @@
     "vnsee-qtfb": {
       "1.1.0-r6": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen",
-        "upstream_author": "khyryra",
+        "upstream_author": "asivery",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
         "categories": [
           "apps"
@@ -24696,7 +24696,45 @@
         "auto_install": false,
         "released": "2026-08-11T04:43:18Z",
         "origin": "vnsee-qtfb",
-        "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/vnsee/704af75bb5f053f052683d2db8d5ddfe4f50a7d2/README.md",
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-01-28T23:03:00Z"
+      },
+      "1.1.1-r0": {
+        "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen",
+        "upstream_author": "asivery",
+        "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "apps"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/asivery/vnsee",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove"
+        ],
+        "depends": [
+          "launcher"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-13T20:59:25Z",
+        "origin": "vnsee-qtfb",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/vnsee/704af75bb5f053f052683d2db8d5ddfe4f50a7d2/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-01-28T23:03:00Z"
@@ -24705,7 +24743,7 @@
     "vnsee-qtfb-rmpp": {
       "1.1.0-r1": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen (rmpp)",
-        "upstream_author": "khyryra",
+        "upstream_author": "asivery",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
         "categories": [
           "apps"
@@ -24731,7 +24769,7 @@
         "auto_install": true,
         "released": "2026-02-10T23:43:13Z",
         "origin": "vnsee-qtfb",
-        "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/vnsee/704af75bb5f053f052683d2db8d5ddfe4f50a7d2/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-01-28T23:03:00Z"
@@ -24740,7 +24778,7 @@
     "vnsee-qtfb-rmppm": {
       "1.1.0-r1": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen (rmppm)",
-        "upstream_author": "khyryra",
+        "upstream_author": "asivery",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
         "categories": [
           "apps"
@@ -24766,7 +24804,7 @@
         "auto_install": true,
         "released": "2026-02-10T23:43:13Z",
         "origin": "vnsee-qtfb",
-        "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/vnsee/704af75bb5f053f052683d2db8d5ddfe4f50a7d2/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-01-28T23:03:00Z"
@@ -25991,7 +26029,7 @@
     "vnsee-qtfb-rm1": {
       "1.1.0-r1": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen (rm1)",
-        "upstream_author": "khyryra",
+        "upstream_author": "asivery",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
         "categories": [
           "apps"
@@ -26017,7 +26055,7 @@
         "auto_install": true,
         "released": "2026-02-10T23:43:22Z",
         "origin": "vnsee-qtfb",
-        "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/vnsee/704af75bb5f053f052683d2db8d5ddfe4f50a7d2/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-02-10T23:43:22Z"
@@ -26026,7 +26064,7 @@
     "vnsee-qtfb-rm2": {
       "1.1.0-r1": {
         "pkgdesc": "VNC client for the reMarkable tablet allowing you to use the device as a second screen (rm2)",
-        "upstream_author": "khyryra",
+        "upstream_author": "asivery",
         "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
         "categories": [
           "apps"
@@ -26052,12 +26090,12 @@
         "auto_install": true,
         "released": "2026-02-10T23:43:22Z",
         "origin": "vnsee-qtfb",
-        "readmeurl": "https://raw.githubusercontent.com/khyryra/vnsee-qtfb/v1.1.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/vnsee/704af75bb5f053f052683d2db8d5ddfe4f50a7d2/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-02-10T23:43:22Z"
       }
     }
   },
-  "generated": "2026-09-11T19:38:03Z"
+  "generated": "2026-09-13T21:00:18Z"
 }
