@@ -25012,6 +25012,56 @@
         "first_released": "2026-01-10T17:52:54Z"
       }
     },
+    "white-ebook-margins": {
+      "1.0.0-r0": {
+        "pkgdesc": "Plain white margins instead of dithered overlays when reading ebooks",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-14T14:41:33Z",
+        "origin": "white-ebook-margins",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/9343bc8ebbdb54ed31cff9cf836da8f983aa640f/README.md#white-ebook-margins",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/9343bc8ebbdb54ed31cff9cf836da8f983aa640f/changelogs/white-ebook-margins.md",
+        "first_released": "2026-09-14T14:41:33Z"
+      }
+    },
     "xovi": {
       "0.3.1-r1": {
         "pkgdesc": "Core xovi framework for reMarkable tablets",
@@ -26097,5 +26147,5 @@
       }
     }
   },
-  "generated": "2026-09-13T21:00:18Z"
+  "generated": "2026-09-14T14:42:25Z"
 }
