@@ -13892,7 +13892,7 @@
         "auto_install": false,
         "released": "2026-06-25T14:14:05Z",
         "origin": "link-from-selection",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#linkfromselection",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/0817207c6345f198d5cafeca5cd278deba2cae0b/README.md#linkfromselection",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T14:14:05Z"
@@ -13942,7 +13942,7 @@
         "auto_install": false,
         "released": "2026-07-09T18:14:04Z",
         "origin": "link-from-selection",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#linkfromselection",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/0817207c6345f198d5cafeca5cd278deba2cae0b/README.md#linkfromselection",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T14:14:05Z"
@@ -13992,7 +13992,57 @@
         "auto_install": false,
         "released": "2026-09-11T13:28:07Z",
         "origin": "link-from-selection",
-        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/3bae56d51fd4f14b4bde87f2cfbc292af25ae9f6/README.md#linkfromselection",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/0817207c6345f198d5cafeca5cd278deba2cae0b/README.md#linkfromselection",
+        "donateurl": "https://buymeacoffee.com/afaraci",
+        "changelogurl": null,
+        "first_released": "2026-06-25T14:14:05Z"
+      },
+      "1.2.1-r0": {
+        "pkgdesc": "On-page links from a lasso selection: jump to a page in this or another document",
+        "upstream_author": "alefaraci",
+        "maintainer": "Alessio Faraci <contact@afaraci.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/alefaraci/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "convert-to-text-remover"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-15T12:38:51Z",
+        "origin": "link-from-selection",
+        "readmeurl": "https://raw.githubusercontent.com/alefaraci/xovi-qmd-extensions/0817207c6345f198d5cafeca5cd278deba2cae0b/README.md#linkfromselection",
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T14:14:05Z"
@@ -26147,5 +26197,5 @@
       }
     }
   },
-  "generated": "2026-09-14T14:42:25Z"
+  "generated": "2026-09-15T12:40:06Z"
 }
