@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 18:22:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:52:05 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>qtfblight 0.1.3-r1</title>
+      <link>https://github.com/NoaHimesaka1873/qtfblight</link>
+      <description><![CDATA[QTFB compatibility server for reMarkable tablets<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>NoaHimesaka1873</author>
+      <category>framework</category>
+      <pubDate>Wed, 16 Sep 2026 08:51:12 +0000</pubDate>
+      <guid isPermaLink="false">qtfblight-0.1.3-r1</guid>
+    </item>
+    <item>
+      <title>appload-to-oxide 0.1.3-r1</title>
+      <link>https://github.com/NoaHimesaka1873/qtfblight</link>
+      <description><![CDATA[Convert AppLoad apps into Oxide application registrations<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>NoaHimesaka1873</author>
+      <category>utilities</category>
+      <pubDate>Wed, 16 Sep 2026 08:50:52 +0000</pubDate>
+      <guid isPermaLink="false">appload-to-oxide-0.1.3-r1</guid>
+    </item>
     <item>
       <title>selection-stuff 1.0.4-r0</title>
       <link>https://github.com/FouzR/xovi-extensions</link>

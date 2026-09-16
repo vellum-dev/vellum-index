@@ -847,7 +847,7 @@
         "auto_install": false,
         "released": "2026-07-18T19:06:57Z",
         "origin": "qtfblight",
-        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.2/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.3/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-07-18T19:06:57Z"
@@ -887,7 +887,47 @@
         "auto_install": false,
         "released": "2026-08-20T22:21:42Z",
         "origin": "qtfblight",
-        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.2/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.3/README.md",
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-07-18T19:06:57Z"
+      },
+      "0.1.3-r1": {
+        "pkgdesc": "Convert AppLoad apps into Oxide application registrations",
+        "upstream_author": "NoaHimesaka1873",
+        "maintainer": "Noa Himesaka <himesaka@noa.codes>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/NoaHimesaka1873/qtfblight",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "oxide",
+          "qtfblight"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-16T08:50:52Z",
+        "origin": "qtfblight",
+        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.3/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-07-18T19:06:57Z"
@@ -17764,7 +17804,7 @@
         "auto_install": false,
         "released": "2026-07-18T19:07:16Z",
         "origin": "qtfblight",
-        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.2/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.3/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-07-18T19:07:16Z"
@@ -17803,7 +17843,46 @@
         "auto_install": false,
         "released": "2026-08-20T22:22:01Z",
         "origin": "qtfblight",
-        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.2/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.3/README.md",
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-07-18T19:07:16Z"
+      },
+      "0.1.3-r1": {
+        "pkgdesc": "QTFB compatibility server for reMarkable tablets",
+        "upstream_author": "NoaHimesaka1873",
+        "maintainer": "Noa Himesaka <himesaka@noa.codes>",
+        "categories": [
+          "framework"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/NoaHimesaka1873/qtfblight",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "oxide-display"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-16T08:51:12Z",
+        "origin": "qtfblight",
+        "readmeurl": "https://raw.githubusercontent.com/NoaHimesaka1873/qtfblight/0.1.3/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-07-18T19:07:16Z"
@@ -26245,5 +26324,5 @@
       }
     }
   },
-  "generated": "2026-09-15T18:22:40Z"
+  "generated": "2026-09-16T08:52:05Z"
 }
