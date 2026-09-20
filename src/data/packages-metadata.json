@@ -4613,6 +4613,52 @@
         "first_released": "2026-04-11T21:42:11Z"
       }
     },
+    "ebook-fit-to-height": {
+      "0.1.0-r0": {
+        "pkgdesc": "Show ebooks fit-to-height on the Paper Pro Move, matching 3.27 behavior on later versions.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "fixes",
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/rm-ebook-fit-to-height",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rmppm",
+          "rmppmove"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-20T13:24:04Z",
+        "origin": "ebook-fit-to-height",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-ebook-fit-to-height/cc3c6543926f6e34925ce69c390bc1cb6c8fcb85/README.md",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/rm-ebook-fit-to-height/cc3c6543926f6e34925ce69c390bc1cb6c8fcb85/CHANGELOG.md",
+        "first_released": "2026-09-20T13:24:04Z"
+      }
+    },
     "enable-all-colors": {
       "1.0.0-r0": {
         "pkgdesc": "Enables full color selection on rM1 and rM2.",
@@ -26414,5 +26460,5 @@
       }
     }
   },
-  "generated": "2026-09-19T23:47:47Z"
+  "generated": "2026-09-20T13:25:01Z"
 }
