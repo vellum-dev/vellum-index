@@ -14268,7 +14268,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:09Z",
         "origin": "literm",
-        "readmeurl": "https://raw.githubusercontent.com/asivery/rm-literm/v0.1.6/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/rm-literm/v0.1.7/README.md",
         "donateurl": "https://ko-fi.com/asivery",
         "changelogurl": null,
         "first_released": "2026-01-14T19:57:06Z"
@@ -14316,7 +14316,55 @@
         "auto_install": false,
         "released": "2026-05-11T06:15:14Z",
         "origin": "literm",
-        "readmeurl": "https://raw.githubusercontent.com/asivery/rm-literm/v0.1.6/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/rm-literm/v0.1.7/README.md",
+        "donateurl": "https://ko-fi.com/asivery",
+        "changelogurl": null,
+        "first_released": "2026-01-14T19:57:06Z"
+      },
+      "0.1.7-r0": {
+        "pkgdesc": "A terminal emulator using QtQuick.",
+        "upstream_author": "asivery",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "apps"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/asivery/rm-literm",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-20T13:36:47Z",
+        "origin": "literm",
+        "readmeurl": "https://raw.githubusercontent.com/asivery/rm-literm/v0.1.7/README.md",
         "donateurl": "https://ko-fi.com/asivery",
         "changelogurl": null,
         "first_released": "2026-01-14T19:57:06Z"
@@ -26460,5 +26508,5 @@
       }
     }
   },
-  "generated": "2026-09-20T13:25:01Z"
+  "generated": "2026-09-20T13:37:39Z"
 }
