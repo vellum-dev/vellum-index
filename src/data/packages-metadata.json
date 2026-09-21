@@ -21640,6 +21640,56 @@
         "first_released": "2026-02-22T22:17:26Z"
       }
     },
+    "share-button-to-menu": {
+      "1.0.0-r0": {
+        "pkgdesc": "Moves the Share button from the document toolbar into the more menu",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-21T22:09:29Z",
+        "origin": "share-button-to-menu",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/d1689b48dd0eea49dc25f0cbd763733ef924ee2d/README.md#share-button-to-menu",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/d1689b48dd0eea49dc25f0cbd763733ef924ee2d/changelogs/share-button-to-menu.md",
+        "first_released": "2026-09-21T22:09:29Z"
+      }
+    },
     "shortcuts-to-choose-eraser": {
       "1.0.0-r1": {
         "pkgdesc": "Use stylus side button for erase selection and rubber eraser as regular eraser.",
@@ -22366,6 +22416,56 @@
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-04-02T17:44:59Z"
+      }
+    },
+    "tags-button-to-menu": {
+      "1.0.0-r0": {
+        "pkgdesc": "Moves the Tags button from the document toolbar into the more menu",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-21T22:09:30Z",
+        "origin": "tags-button-to-menu",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/d1689b48dd0eea49dc25f0cbd763733ef924ee2d/README.md#tags-button-to-menu",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/d1689b48dd0eea49dc25f0cbd763733ef924ee2d/changelogs/tags-button-to-menu.md",
+        "first_released": "2026-09-21T22:09:30Z"
       }
     },
     "tailscale": {
@@ -26554,5 +26654,5 @@
       }
     }
   },
-  "generated": "2026-09-21T21:29:56Z"
+  "generated": "2026-09-21T22:10:31Z"
 }

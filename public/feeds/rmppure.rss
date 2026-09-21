@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pure</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 21:29:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 22:10:31 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppure.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>tags-button-to-menu 1.0.0-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Moves the Tags button from the document toolbar into the more menu<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Mon, 21 Sep 2026 22:09:30 +0000</pubDate>
+      <guid isPermaLink="false">tags-button-to-menu-1.0.0-r0</guid>
+    </item>
+    <item>
+      <title>share-button-to-menu 1.0.0-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Moves the Share button from the document toolbar into the more menu<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Mon, 21 Sep 2026 22:09:29 +0000</pubDate>
+      <guid isPermaLink="false">share-button-to-menu-1.0.0-r0</guid>
+    </item>
     <item>
       <title>external-keyboard-qpa 0.1.1-r0</title>
       <link>https://github.com/rmitchellscott/epaper-qpa</link>
