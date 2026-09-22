@@ -23894,7 +23894,7 @@
         "auto_install": false,
         "released": "2026-05-11T05:25:08Z",
         "origin": "tripletap",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-tripletap/v1.1.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-tripletap/v1.1.1/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "changelogurl": null,
         "first_released": "2026-01-14T14:46:17Z"
@@ -23936,7 +23936,49 @@
         "auto_install": false,
         "released": "2026-05-12T16:46:02Z",
         "origin": "tripletap",
-        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-tripletap/v1.1.0/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-tripletap/v1.1.1/README.md",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "changelogurl": null,
+        "first_released": "2026-01-14T14:46:17Z"
+      },
+      "1.1.1-r0": {
+        "pkgdesc": "Start xovi by triple-pressing the power button",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-tripletap",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "xovi",
+          "mount-utils"
+        ],
+        "conflicts": [
+          "launcherctl"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-22T15:27:58Z",
+        "origin": "tripletap",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-tripletap/v1.1.1/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
         "changelogurl": null,
         "first_released": "2026-01-14T14:46:17Z"
@@ -26654,5 +26696,5 @@
       }
     }
   },
-  "generated": "2026-09-21T22:10:31Z"
+  "generated": "2026-09-22T15:28:45Z"
 }
