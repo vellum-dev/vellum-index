@@ -7223,6 +7223,106 @@
         "first_released": "2026-01-19T15:15:13Z"
       }
     },
+    "fix-ebook-links": {
+      "0.1.0-r0": {
+        "pkgdesc": "Make links inside ebooks work: printed tables of contents, footnotes and cross-references.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "fixes"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/rm-fix-ebook-links",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-24T22:15:42Z",
+        "origin": "fix-ebook-links",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-fix-ebook-links/5f27979377bdd953806038283075de870a7f3ea2/README.md",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/rm-fix-ebook-links/5f27979377bdd953806038283075de870a7f3ea2/CHANGELOG.md",
+        "first_released": "2026-09-24T22:15:42Z"
+      }
+    },
+    "fix-ligature-text": {
+      "0.1.0-r0": {
+        "pkgdesc": "Fix the text behind ligatures in generated PDFs so selecting, searching and exporting keeps every letter.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "fixes"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/rm-fix-ligature-text",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "xovi"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-24T22:15:42Z",
+        "origin": "fix-ligature-text",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-fix-ligature-text/d2a7a9cda340ee79c599b331cdeb194cfd10304d/README.md",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/rm-fix-ligature-text/d2a7a9cda340ee79c599b331cdeb194cfd10304d/CHANGELOG.md",
+        "first_released": "2026-09-24T22:15:42Z"
+      }
+    },
     "fix-light-indicator-gap": {
       "1.0.0-r6": {
         "pkgdesc": "Removes the gap reserved for the frontlight icon when the light is off on Paper Pro and Paper Pro Move.",
@@ -12498,6 +12598,58 @@
         "first_released": "2026-01-09T04:32:22Z"
       }
     },
+    "highlight-reflow": {
+      "0.1.1-r0": {
+        "pkgdesc": "Keep EPUB highlights on their text when the book reflows after a layout change.",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui",
+          "fixes"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/rm-highlight-reflow",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "xovi",
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-24T22:15:50Z",
+        "origin": "highlight-reflow",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-highlight-reflow/575f6b6256358c8e9f53ebaf155c0e6637afe3e6/README.md",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/rm-highlight-reflow/575f6b6256358c8e9f53ebaf155c0e6637afe3e6/CHANGELOG.md",
+        "first_released": "2026-09-24T22:15:50Z"
+      }
+    },
     "hyfetch": {
       "2.0.5_git6-r5": {
         "pkgdesc": "Neofetch with LGBTQ+ pride flags!",
@@ -14318,6 +14470,56 @@
         "donateurl": "https://buymeacoffee.com/afaraci",
         "changelogurl": null,
         "first_released": "2026-06-25T14:14:05Z"
+      }
+    },
+    "link-touch-targets": {
+      "1.0.0-r0": {
+        "pkgdesc": "Makes PDF and ebook hyperlinks easier to tap",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-09-24T22:15:54Z",
+        "origin": "link-touch-targets",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/67d39e943d8fda30936ad7f51a30f59f0292a9f8/README.md#link-touch-targets",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/67d39e943d8fda30936ad7f51a30f59f0292a9f8/changelogs/link-touch-targets.md",
+        "first_released": "2026-09-24T22:15:54Z"
       }
     },
     "literm": {
@@ -26783,5 +26985,5 @@
       }
     }
   },
-  "generated": "2026-09-24T16:29:15Z"
+  "generated": "2026-09-24T22:17:12Z"
 }

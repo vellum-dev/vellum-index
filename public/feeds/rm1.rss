@@ -5,8 +5,44 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 16:29:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 22:17:12 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>link-touch-targets 1.0.0-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Makes PDF and ebook hyperlinks easier to tap<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Thu, 24 Sep 2026 22:15:54 +0000</pubDate>
+      <guid isPermaLink="false">link-touch-targets-1.0.0-r0</guid>
+    </item>
+    <item>
+      <title>highlight-reflow 0.1.1-r0</title>
+      <link>https://github.com/rmitchellscott/rm-highlight-reflow</link>
+      <description><![CDATA[Keep EPUB highlights on their text when the book reflows after a layout change.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui, fixes</category>
+      <pubDate>Thu, 24 Sep 2026 22:15:50 +0000</pubDate>
+      <guid isPermaLink="false">highlight-reflow-0.1.1-r0</guid>
+    </item>
+    <item>
+      <title>fix-ligature-text 0.1.0-r0</title>
+      <link>https://github.com/rmitchellscott/rm-fix-ligature-text</link>
+      <description><![CDATA[Fix the text behind ligatures in generated PDFs so selecting, searching and exporting keeps every letter.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>fixes</category>
+      <pubDate>Thu, 24 Sep 2026 22:15:42 +0000</pubDate>
+      <guid isPermaLink="false">fix-ligature-text-0.1.0-r0</guid>
+    </item>
+    <item>
+      <title>fix-ebook-links 0.1.0-r0</title>
+      <link>https://github.com/rmitchellscott/rm-fix-ebook-links</link>
+      <description><![CDATA[Make links inside ebooks work: printed tables of contents, footnotes and cross-references.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>fixes</category>
+      <pubDate>Thu, 24 Sep 2026 22:15:42 +0000</pubDate>
+      <guid isPermaLink="false">fix-ebook-links-0.1.0-r0</guid>
+    </item>
     <item>
       <title>bettertoc 1.5.1-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
