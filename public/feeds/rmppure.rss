@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pure</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 21:42:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 16:29:15 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppure.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>bettertoc 1.5.1-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Thu, 24 Sep 2026 16:27:44 +0000</pubDate>
+      <guid isPermaLink="false">bettertoc-1.5.1-r0</guid>
+    </item>
     <item>
       <title>rmfakecloud-proxy 0.0.11-r0</title>
       <link>https://github.com/ddvk/rmfakecloud-proxy</link>
