@@ -26734,6 +26734,43 @@
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-04-02T17:45:00Z"
+      },
+      "0.17.0-r0": {
+        "pkgdesc": "A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software",
+        "upstream_author": "ziglang",
+        "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "development"
+        ],
+        "license": "MIT",
+        "url": "https://ziglang.org",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-10-03T22:01:46Z",
+        "origin": "zig",
+        "readmeurl": null,
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-04-02T17:45:00Z"
       }
     },
     "zig-doc": {
@@ -26805,6 +26842,43 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-07-11T19:46:24Z",
+        "origin": "zig",
+        "readmeurl": null,
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-04-02T17:45:01Z"
+      },
+      "0.17.0-r0": {
+        "pkgdesc": "Zig documentation (language reference)",
+        "upstream_author": "ziglang",
+        "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "development"
+        ],
+        "license": "MIT",
+        "url": "https://ziglang.org",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-10-03T22:01:46Z",
         "origin": "zig",
         "readmeurl": null,
         "donateurl": null,
@@ -26985,5 +27059,5 @@
       }
     }
   },
-  "generated": "2026-09-24T22:17:12Z"
+  "generated": "2026-10-03T22:02:32Z"
 }

@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 22:17:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 22:02:32 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>zig-doc 0.17.0-r0</title>
+      <link>https://ziglang.org</link>
+      <description><![CDATA[Zig documentation (language reference)<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>ziglang</author>
+      <category>development</category>
+      <pubDate>Sat, 03 Oct 2026 22:01:46 +0000</pubDate>
+      <guid isPermaLink="false">zig-doc-0.17.0-r0</guid>
+    </item>
+    <item>
+      <title>zig 0.17.0-r0</title>
+      <link>https://ziglang.org</link>
+      <description><![CDATA[A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>ziglang</author>
+      <category>development</category>
+      <pubDate>Sat, 03 Oct 2026 22:01:46 +0000</pubDate>
+      <guid isPermaLink="false">zig-0.17.0-r0</guid>
+    </item>
     <item>
       <title>link-touch-targets 1.0.0-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
