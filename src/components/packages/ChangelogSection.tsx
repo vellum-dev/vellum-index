@@ -4,6 +4,7 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { Badge } from '@/components/ui/badge';
 import { compareVersions } from '@/lib/version';
+import { resolveMarkdownUrl } from '@/lib/markdown';
 import type { FlatPackage } from '@/types/packages';
 
 interface ChangelogSectionProps {
@@ -158,6 +159,7 @@ export function ChangelogSection({ versions }: ChangelogSectionProps) {
 
   const rows = useMemo(() => releaseRows(versions), [versions]);
   const changelogUrl = rows.find((row) => row.release?.changelogurl)?.release?.changelogurl ?? null;
+  const resolveChangelogUrl = (src: string) => resolveMarkdownUrl(src, changelogUrl ?? '');
 
   useEffect(() => {
     setNotes(null);
@@ -226,7 +228,7 @@ export function ChangelogSection({ versions }: ChangelogSectionProps) {
             <>
               {notes && !alignsToReleases && (
                 <>
-                  <ReactMarkdown remarkPlugins={[remarkGfm]} components={markdownComponents}>
+                  <ReactMarkdown remarkPlugins={[remarkGfm]} components={markdownComponents} urlTransform={resolveChangelogUrl}>
                     {notes}
                   </ReactMarkdown>
                   <div className="text-xs font-medium uppercase tracking-wide text-muted-foreground mt-6 mb-3">
@@ -260,7 +262,7 @@ export function ChangelogSection({ versions }: ChangelogSectionProps) {
                       {date && <p className="text-xs text-muted-foreground mb-1.5">{date}</p>}
                       {alignsToReleases ? (
                         sections.has(row.pkgver) ? (
-                          <ReactMarkdown remarkPlugins={[remarkGfm]} components={markdownComponents}>
+                          <ReactMarkdown remarkPlugins={[remarkGfm]} components={markdownComponents} urlTransform={resolveChangelogUrl}>
                             {sections.get(row.pkgver)!}
                           </ReactMarkdown>
                         ) : (

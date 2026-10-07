@@ -4,17 +4,11 @@ import { ChevronDown, Loader2, X } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
+import rehypeSanitize from 'rehype-sanitize';
+import { resolveMarkdownUrl } from '@/lib/markdown';
 
 interface ReadmeSectionProps {
   url: string | null;
-}
-
-function resolveUrl(src: string, baseUrl: string): string {
-  if (src.startsWith('http://') || src.startsWith('https://') || src.startsWith('data:')) {
-    return src;
-  }
-  const base = baseUrl.substring(0, baseUrl.lastIndexOf('/') + 1);
-  return base + src;
 }
 
 function stripHtmlComments(text: string): string {
@@ -141,11 +135,11 @@ export function ReadmeSection({ url }: ReadmeSectionProps) {
           )}
           {error && <p className="text-destructive text-sm">{error}</p>}
           {content && (
-            <div className="readme-content text-sm border rounded-md p-4 bg-card">
+            <div className="readme-content text-sm break-words border rounded-md p-4 bg-card">
               <ReactMarkdown
                 remarkPlugins={[remarkGfm]}
-                rehypePlugins={[rehypeRaw]}
-                urlTransform={(src) => resolveUrl(src, baseUrl)}
+                rehypePlugins={[rehypeRaw, rehypeSanitize]}
+                urlTransform={(src) => resolveMarkdownUrl(src, baseUrl)}
                 components={{
                   h1: ({ children }) => <h1 id={getSlug(children)} className="text-2xl font-bold mt-6 mb-3 pb-2 border-b first:mt-0">{children}</h1>,
                   h2: ({ children }) => <h2 id={getSlug(children)} className="text-xl font-semibold mt-5 mb-2 pb-1 border-b">{children}</h2>,
