@@ -3,10 +3,12 @@ import { useParams, useSearchParams, Link } from 'react-router-dom';
 import { ChevronDown } from 'lucide-react';
 import { usePackages } from '@/hooks/usePackages';
 import { usePackageStats } from '@/hooks/useStats';
+import { useDelayedLoading } from '@/hooks/useDelayedLoading';
 import { Card, CardAction, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Tooltip, TooltipTrigger, TooltipContent, TooltipProvider } from '@/components/ui/tooltip';
 import { BarChart3 } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
+import { Skeleton } from '@/components/ui/skeleton';
 import {
   Select,
   SelectContent,
@@ -143,7 +145,8 @@ export function PackageDetailPage() {
   const { name } = useParams<{ name: string }>();
   const [searchParams] = useSearchParams();
   const { packages } = usePackages();
-  const { data: statsData } = usePackageStats(name!);
+  const { data: statsData, loading: statsLoading } = usePackageStats(name!);
+  const showStatsSkeleton = useDelayedLoading(statsLoading);
   const [selectedVersion, setSelectedVersion] = useState<string | null>(null);
 
   const packageVersions = packages.filter((p) => p.name === name);
@@ -168,6 +171,16 @@ export function PackageDetailPage() {
     : latest;
 
   const filteredDepends = currentPkg.depends.filter((dep) => dep !== '/bin/sh');
+
+  const satisfiedNames = new Set([name, ...(currentPkg.provides ?? []).map(parseDepName)]);
+  const requiredBy = packages
+    .filter((p) => p.name !== name && p.version === p.latestVersion)
+    .flatMap((p) => {
+      const required = p.depends.map(parseDepName).filter((dep) => satisfiedNames.has(dep));
+      if (required.length === 0) return [];
+      return [{ name: p.name, via: required.includes(name!) ? null : required[0] }];
+    })
+    .sort((a, b) => a.name.localeCompare(b.name));
 
   return (
     <div>
@@ -330,12 +343,16 @@ export function PackageDetailPage() {
                 })()}
               </dd>
             </div>
-            {statsData && (
-              <div className="order-9">
-                <dt className="text-sm font-medium text-muted-foreground">Downloads</dt>
-                <dd>{statsData.windows["all"]?.total_downloads.toLocaleString() ?? "—"}</dd>
-              </div>
-            )}
+            <div className="order-9">
+              <dt className="text-sm font-medium text-muted-foreground">Downloads</dt>
+              <dd>
+                {statsLoading ? (
+                  showStatsSkeleton ? <Skeleton className="h-6 w-16" /> : <div className="h-6" />
+                ) : (
+                  statsData?.windows["all"]?.total_downloads.toLocaleString() ?? "—"
+                )}
+              </dd>
+            </div>
             <div className="order-10 sm:col-span-2">
               <dt className="text-sm font-medium text-muted-foreground">Project</dt>
               <dd>
@@ -417,6 +434,25 @@ export function PackageDetailPage() {
                         </li>
                       );
                     })}
+                  </ul>
+                </dd>
+              </div>
+            )}
+            {requiredBy.length > 0 && (
+              <div className="order-14">
+                <dt className="text-sm font-medium text-muted-foreground">Required By</dt>
+                <dd>
+                  <ul className="list-disc list-inside">
+                    {requiredBy.map((dependent) => (
+                      <li key={dependent.name}>
+                        <Link to={`/package/${dependent.name}`} className="text-primary hover:underline">
+                          {dependent.name}
+                        </Link>
+                        {dependent.via && (
+                          <span className="text-muted-foreground"> (requires {dependent.via})</span>
+                        )}
+                      </li>
+                    ))}
                   </ul>
                 </dd>
               </div>
