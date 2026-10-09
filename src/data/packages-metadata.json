@@ -3299,14 +3299,14 @@
         "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/changelogs/createpages-paperpro.md",
         "first_released": "2026-01-09T04:57:56Z"
       },
-      "1.0.4-r4": {
+      "1.0.4-r5": {
         "pkgdesc": "Overrides new page creation to use Paper Pro dimensions.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.26",
@@ -3342,7 +3342,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:11:59Z",
+        "released": "2026-10-09T18:41:42Z",
         "origin": "createpages-paperpro",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#createpagespaperprosize",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -3551,14 +3551,14 @@
         "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/changelogs/createpages-rm2.md",
         "first_released": "2026-01-09T04:57:55Z"
       },
-      "1.0.4-r4": {
+      "1.0.4-r5": {
         "pkgdesc": "Overrides new page creation to use reMarkable 2 dimensions.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.26",
@@ -3594,7 +3594,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:11:59Z",
+        "released": "2026-10-09T18:41:42Z",
         "origin": "createpages-rm2",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#createpagesrm2size",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -4178,14 +4178,14 @@
       }
     },
     "disable-selection-autoscroll": {
-      "1.0.0-r6": {
+      "1.0.0-r7": {
         "pkgdesc": "Disables the auto scrolling when moving a selection added in 3.24.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.24",
@@ -4221,7 +4221,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:00Z",
+        "released": "2026-10-09T18:41:43Z",
         "origin": "disable-selection-autoscroll",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#disableselectionautoscroll",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -7324,7 +7324,7 @@
       }
     },
     "fix-light-indicator-gap": {
-      "1.0.0-r6": {
+      "1.0.0-r7": {
         "pkgdesc": "Removes the gap reserved for the frontlight icon when the light is off on Paper Pro and Paper Pro Move.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -7332,7 +7332,7 @@
           "fixes",
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.24",
@@ -7363,7 +7363,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:03Z",
+        "released": "2026-10-09T18:41:46Z",
         "origin": "fix-light-indicator-gap",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#fixlightindicatorgap",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -10881,14 +10881,14 @@
       }
     },
     "ghostbuster": {
-      "1.0.0-r4": {
+      "1.0.0-r5": {
         "pkgdesc": "5-finger tap to perform a full screen refresh.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.22",
@@ -10922,7 +10922,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:08Z",
+        "released": "2026-10-09T18:41:49Z",
         "origin": "ghostbuster",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#ghostbuster",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -11241,14 +11241,14 @@
         "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/changelogs/hide-dev-mode-icon.md",
         "first_released": "2026-01-09T04:32:21Z"
       },
-      "1.0.2-r7": {
+      "1.0.2-r8": {
         "pkgdesc": "Hides the developer mode icon next to the battery icon.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.24",
@@ -11280,7 +11280,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:09Z",
+        "released": "2026-10-09T18:41:50Z",
         "origin": "hide-dev-mode-icon",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#hidedevmodeicon",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -12549,14 +12549,14 @@
         "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/changelogs/hide-zoom-indicator.md",
         "first_released": "2026-01-09T04:32:22Z"
       },
-      "1.0.3-r6": {
+      "1.0.3-r7": {
         "pkgdesc": "Auto-hides zoom indicator after 4 seconds",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.24",
@@ -12590,7 +12590,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:11Z",
+        "released": "2026-10-09T18:41:51Z",
         "origin": "hide-zoom-indicator",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#hidezoomindicator",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -14996,14 +14996,14 @@
         "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/changelogs/mini-light-sleep.md",
         "first_released": "2026-01-09T04:32:23Z"
       },
-      "1.0.5-r4": {
+      "1.0.5-r5": {
         "pkgdesc": "Replaces the light sleep banner with text saying Sleeping at the top right of the screen",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.26",
@@ -15037,7 +15037,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:15Z",
+        "released": "2026-10-09T18:41:54Z",
         "origin": "mini-light-sleep",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#minilightsleep",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -17799,14 +17799,14 @@
         "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/changelogs/prevent-notebook-zoomout.md",
         "first_released": "2026-01-09T04:32:18Z"
       },
-      "1.1.2-r0": {
+      "1.1.2-r1": {
         "pkgdesc": "Forces notebook pages to start at 1x zoom with optional horizontal offset in portrait mode",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.28",
@@ -17843,7 +17843,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:20Z",
+        "released": "2026-10-09T18:41:58Z",
         "origin": "prevent-notebook-zoomout",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#preventnotebookzoomout",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -18454,14 +18454,14 @@
         "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/changelogs/quicksettings-bluetooth.md",
         "first_released": "2026-07-06T22:24:19Z"
       },
-      "1.0.1-r0": {
+      "1.0.1-r1": {
         "pkgdesc": "Adds a Bluetooth toggle to quicksettings",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.28",
@@ -18496,7 +18496,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:21Z",
+        "released": "2026-10-09T18:41:58Z",
         "origin": "quicksettings-bluetooth",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#quicksettingsbluetooth",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -18649,14 +18649,14 @@
         "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/changelogs/quicksettings-clock-serif.md",
         "first_released": "2026-01-09T04:32:18Z"
       },
-      "1.1.0-r1": {
+      "1.1.0-r2": {
         "pkgdesc": "Adds a clock to the quick settings menu",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.27",
@@ -18690,7 +18690,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:21Z",
+        "released": "2026-10-09T18:41:59Z",
         "origin": "quicksettings-clock-serif",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#quicksettingsclockserif",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -18845,14 +18845,14 @@
         "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/changelogs/quicksettings-screenshot.md",
         "first_released": "2026-01-09T05:33:39Z"
       },
-      "2.0.0-r6": {
+      "2.0.0-r7": {
         "pkgdesc": "Adds a screenshot button to the quick settings menu.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.25",
@@ -18890,7 +18890,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:22Z",
+        "released": "2026-10-09T18:41:59Z",
         "origin": "quicksettings-screenshot",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#quicksettingsscreenshot",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -18999,14 +18999,14 @@
         "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/changelogs/quicksheet-use-template.md",
         "first_released": "2026-03-03T01:23:22Z"
       },
-      "1.0.1-r4": {
+      "1.0.1-r5": {
         "pkgdesc": "Use the last page's template when adding a quicksheet page",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.26",
@@ -19042,7 +19042,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:22Z",
+        "released": "2026-10-09T18:41:59Z",
         "origin": "quicksheet-use-template",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#quicksheetusetemplate",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -21913,14 +21913,14 @@
       }
     },
     "settings-rmsync-restart": {
-      "1.0.0-r5": {
+      "1.0.0-r6": {
         "pkgdesc": "Adds a button to the cloud settings page to restart sync service.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.22.4.2",
@@ -21955,7 +21955,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:27Z",
+        "released": "2026-10-09T18:42:03Z",
         "origin": "settings-rmsync-restart",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#settingsrmsyncrestart",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -22311,14 +22311,14 @@
       }
     },
     "stylus-button-eraser": {
-      "2.0.0-r6": {
+      "2.0.0-r7": {
         "pkgdesc": "Erases when stylus side button is held.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.25",
@@ -22355,7 +22355,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:28Z",
+        "released": "2026-10-09T18:42:03Z",
         "origin": "stylus-button-eraser",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#stylusbuttoneraser",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -22364,14 +22364,14 @@
       }
     },
     "stylus-button-undo-redo": {
-      "1.0.0-r5": {
+      "1.0.0-r6": {
         "pkgdesc": "Double-click stylus button to undo, triple-click to redo.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.25",
@@ -22409,7 +22409,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:28Z",
+        "released": "2026-10-09T18:42:03Z",
         "origin": "stylus-button-undo-redo",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -23355,14 +23355,14 @@
       }
     },
     "toc-from-selection": {
-      "1.0.0-r5": {
+      "1.0.0-r6": {
         "pkgdesc": "Adds a button to the selection context menu to add the selected text as a ToC entry. Handwriting requires Connect/rmfakecloud.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.25",
@@ -23399,7 +23399,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:29Z",
+        "released": "2026-10-09T18:42:04Z",
         "origin": "toc-from-selection",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#tocfromselection",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -24130,14 +24130,14 @@
         "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/changelogs/touch-lock.md",
         "first_released": "2026-03-12T13:41:06Z"
       },
-      "1.0.3-r0": {
+      "1.0.3-r1": {
         "pkgdesc": "Adds a button to the toolbar to lock out touch input in documents. Toolbar remains touch-aware and pen input is unaffected.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.28",
@@ -24171,7 +24171,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:31Z",
+        "released": "2026-10-09T18:42:05Z",
         "origin": "touch-lock",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#touchlock",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -24737,14 +24737,14 @@
         "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/changelogs/unlock-methods-content.md",
         "first_released": "2026-01-09T04:32:19Z"
       },
-      "1.0.2-r6": {
+      "1.0.2-r7": {
         "pkgdesc": "Bypasses subscription check for using on-device Methods templates and documents.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
         "categories": [
           "ui"
         ],
-        "license": "MIT",
+        "license": "GPL-3.0-only",
         "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
         "status": "maintained",
         "os_min": "3.24",
@@ -24778,7 +24778,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:32Z",
+        "released": "2026-10-09T18:42:06Z",
         "origin": "unlock-methods-content",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/34d505c412a28ae60eb031de5f6bd83e2e3ead2b/README.md#unlockmethodscontent",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -27093,5 +27093,5 @@
       }
     }
   },
-  "generated": "2026-10-09T12:10:35Z"
+  "generated": "2026-10-09T18:42:46Z"
 }
