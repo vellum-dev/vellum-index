@@ -5,7 +5,7 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 22:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:10:35 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
     <item>
       <title>zig-doc 0.17.0-r0</title>
