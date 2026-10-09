@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 18:42:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:51:30 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppmove.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>bettertoc 1.5.1-r1</title>
+      <link>https://github.com/rmitchellscott/xovi-bettertoc</link>
+      <description><![CDATA[Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>Fri, 09 Oct 2026 18:49:57 +0000</pubDate>
+      <guid isPermaLink="false">bettertoc-1.5.1-r1</guid>
+    </item>
     <item>
       <title>unlock-methods-content 1.0.2-r7</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
@@ -240,15 +249,6 @@
       <category>fixes</category>
       <pubDate>Thu, 24 Sep 2026 22:15:42 +0000</pubDate>
       <guid isPermaLink="false">fix-ebook-links-0.1.0-r0</guid>
-    </item>
-    <item>
-      <title>bettertoc 1.5.1-r0</title>
-      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
-      <description><![CDATA[Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
-      <author>rmitchellscott</author>
-      <category>ui</category>
-      <pubDate>Thu, 24 Sep 2026 16:27:44 +0000</pubDate>
-      <guid isPermaLink="false">bettertoc-1.5.1-r0</guid>
     </item>
     <item>
       <title>rmfakecloud-proxy 0.0.11-r0</title>

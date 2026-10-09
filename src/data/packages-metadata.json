@@ -1714,7 +1714,7 @@
         "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-bettertoc/10a60fb6c081e7ae6039529fc1462392af2cef49/CHANGELOG.md",
         "first_released": "2026-01-09T04:57:55Z"
       },
-      "1.5.1-r0": {
+      "1.5.1-r1": {
         "pkgdesc": "Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -1722,7 +1722,7 @@
           "ui"
         ],
         "license": "GPL-3.0-only",
-        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "url": "https://github.com/rmitchellscott/xovi-bettertoc",
         "status": "maintained",
         "os_min": "3.28",
         "os_max": "3.29",
@@ -1757,7 +1757,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-24T16:27:44Z",
+        "released": "2026-10-09T18:49:57Z",
         "origin": "bettertoc",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-bettertoc/v1.5.1/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -27093,5 +27093,5 @@
       }
     }
   },
-  "generated": "2026-10-09T18:42:46Z"
+  "generated": "2026-10-09T18:51:30Z"
 }
