@@ -810,7 +810,7 @@
         "changelogurl": null,
         "first_released": "2026-01-24T17:26:06Z"
       },
-      "0.6.0-r0": {
+      "0.6.0-r1": {
         "pkgdesc": "XOVI extension for windowed and fullscreen apps",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -821,14 +821,14 @@
         "url": "https://github.com/asivery/rm-appload",
         "status": "maintained",
         "os_min": "3.28",
-        "os_max": "3.29",
+        "os_max": "3.30",
         "os_constraints": [
           {
             "version": "3.28",
             "operator": ">="
           },
           {
-            "version": "3.29",
+            "version": "3.30",
             "operator": "<"
           }
         ],
@@ -853,7 +853,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-19T23:46:12Z",
+        "released": "2026-10-22T18:25:59Z",
         "origin": "appload",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.6.0/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
@@ -9012,7 +9012,7 @@
         "changelogurl": null,
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r4": {
+      "19.0.0-r5": {
         "pkgdesc": "Module for exposing the address of the system framebuffer",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -9023,10 +9023,10 @@
         "url": "https://github.com/asivery/rm-xovi-extensions",
         "status": "maintained",
         "os_min": null,
-        "os_max": "3.29",
+        "os_max": "3.30",
         "os_constraints": [
           {
-            "version": "3.29",
+            "version": "3.30",
             "operator": "<"
           }
         ],
@@ -9049,7 +9049,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-03T21:30:00Z",
+        "released": "2026-10-22T18:26:10Z",
         "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
@@ -13455,7 +13455,7 @@
         "changelogurl": null,
         "first_released": "2026-07-11T19:46:08Z"
       },
-      "0.6.0-r0": {
+      "0.6.0-r1": {
         "pkgdesc": "Launcherctl configuration for appload",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -13488,7 +13488,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-19T23:46:30Z",
+        "released": "2026-10-22T18:26:17Z",
         "origin": "appload",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-appload/v0.6.0/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
@@ -18028,7 +18028,7 @@
         "changelogurl": null,
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r4": {
+      "19.0.0-r5": {
         "pkgdesc": "Injects a QT module to execute shell commands from QML",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -18060,7 +18060,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-03T21:30:12Z",
+        "released": "2026-10-22T18:26:25Z",
         "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
@@ -18245,7 +18245,7 @@
         "changelogurl": null,
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r4": {
+      "19.0.0-r5": {
         "pkgdesc": "Rebuilds QT resource databases on the fly to replace or add QML files",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -18277,7 +18277,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-03T21:30:12Z",
+        "released": "2026-10-22T18:26:25Z",
         "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
@@ -25832,7 +25832,7 @@
         "changelogurl": null,
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r4": {
+      "19.0.0-r5": {
         "pkgdesc": "Exposes the USB webserver to all interfaces with connection confirmation dialog",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -25843,14 +25843,14 @@
         "url": "https://github.com/asivery/rm-xovi-extensions",
         "status": "maintained",
         "os_min": "3.23",
-        "os_max": "3.29",
+        "os_max": "3.30",
         "os_constraints": [
           {
             "version": "3.23",
             "operator": ">="
           },
           {
-            "version": "3.29",
+            "version": "3.30",
             "operator": "<"
           }
         ],
@@ -25876,7 +25876,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-03T21:30:24Z",
+        "released": "2026-10-22T18:26:40Z",
         "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
@@ -26194,7 +26194,7 @@
         "changelogurl": null,
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r4": {
+      "19.0.0-r5": {
         "pkgdesc": "Extensions for xovi framework",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -26233,7 +26233,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-03T21:30:24Z",
+        "released": "2026-10-22T18:26:40Z",
         "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
@@ -26377,7 +26377,7 @@
         "changelogurl": null,
         "first_released": "2026-01-10T17:52:54Z"
       },
-      "19.0.0-r4": {
+      "19.0.0-r5": {
         "pkgdesc": "IPC messaging between xovi extensions",
         "upstream_author": "asivery",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -26409,7 +26409,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-03T21:30:25Z",
+        "released": "2026-10-22T18:26:41Z",
         "origin": "xovi-extensions",
         "readmeurl": "https://raw.githubusercontent.com/asivery/rm-xovi-extensions/v19-23052026/README.MD",
         "donateurl": "https://ko-fi.com/asivery",
@@ -27093,5 +27093,5 @@
       }
     }
   },
-  "generated": "2026-10-09T18:51:30Z"
+  "generated": "2026-10-22T18:27:36Z"
 }
