@@ -19819,7 +19819,7 @@
         "changelogurl": null,
         "first_released": "2026-01-12T21:36:42Z"
       },
-      "1.0.9-r1": {
+      "1.0.9-r2": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -19860,7 +19860,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-10-26T13:17:48Z",
+        "released": "2026-10-26T14:58:07Z",
         "origin": "random-sleep-screen",
         "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/17720f5bc49d6b6ddab1897c5672913981fb5fd4/README.md",
         "donateurl": null,
@@ -27479,5 +27479,5 @@
       }
     }
   },
-  "generated": "2026-10-26T13:18:32Z"
+  "generated": "2026-10-26T14:58:54Z"
 }
