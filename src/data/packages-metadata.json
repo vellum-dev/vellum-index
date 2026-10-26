@@ -20094,7 +20094,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "origin": "random-sleep-screen",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/17720f5bc49d6b6ddab1897c5672913981fb5fd4/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d8d50987c5b3263d82f6386ed475d3bfa5a87909/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -20142,7 +20142,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "origin": "random-sleep-screen",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/17720f5bc49d6b6ddab1897c5672913981fb5fd4/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d8d50987c5b3263d82f6386ed475d3bfa5a87909/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -20190,7 +20190,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "origin": "random-sleep-screen",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/17720f5bc49d6b6ddab1897c5672913981fb5fd4/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d8d50987c5b3263d82f6386ed475d3bfa5a87909/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -20238,7 +20238,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:10Z",
         "origin": "random-sleep-screen",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/17720f5bc49d6b6ddab1897c5672913981fb5fd4/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d8d50987c5b3263d82f6386ed475d3bfa5a87909/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -20286,7 +20286,7 @@
         "auto_install": false,
         "released": "2026-02-12T15:09:12Z",
         "origin": "random-sleep-screen",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/17720f5bc49d6b6ddab1897c5672913981fb5fd4/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d8d50987c5b3263d82f6386ed475d3bfa5a87909/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -20334,7 +20334,7 @@
         "auto_install": false,
         "released": "2026-03-20T01:45:26Z",
         "origin": "random-sleep-screen",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/17720f5bc49d6b6ddab1897c5672913981fb5fd4/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d8d50987c5b3263d82f6386ed475d3bfa5a87909/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -20382,7 +20382,7 @@
         "auto_install": false,
         "released": "2026-04-24T14:11:44Z",
         "origin": "random-sleep-screen",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/17720f5bc49d6b6ddab1897c5672913981fb5fd4/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d8d50987c5b3263d82f6386ed475d3bfa5a87909/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -20429,7 +20429,7 @@
         "auto_install": false,
         "released": "2026-07-08T23:53:31Z",
         "origin": "random-sleep-screen",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/17720f5bc49d6b6ddab1897c5672913981fb5fd4/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d8d50987c5b3263d82f6386ed475d3bfa5a87909/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -20476,12 +20476,12 @@
         "auto_install": false,
         "released": "2026-09-03T20:47:15Z",
         "origin": "random-sleep-screen",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/17720f5bc49d6b6ddab1897c5672913981fb5fd4/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d8d50987c5b3263d82f6386ed475d3bfa5a87909/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-01-12T21:36:42Z"
       },
-      "1.0.9-r2": {
+      "1.0.9-r3": {
         "pkgdesc": "Picks random sleep screen from ~/sleepScreens/ folder.",
         "upstream_author": "ingatellent",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -20522,9 +20522,9 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-10-26T14:58:07Z",
+        "released": "2026-10-26T21:27:48Z",
         "origin": "random-sleep-screen",
-        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/17720f5bc49d6b6ddab1897c5672913981fb5fd4/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d8d50987c5b3263d82f6386ed475d3bfa5a87909/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-01-12T21:36:42Z"
@@ -28377,5 +28377,5 @@
       }
     }
   },
-  "generated": "2026-10-26T21:20:04Z"
+  "generated": "2026-10-26T21:28:59Z"
 }
