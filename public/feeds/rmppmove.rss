@@ -5,8 +5,134 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 20:33:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:05:30 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppmove.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>toolbar-icon 1.2.0-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 28 Oct 2026 16:04:34 +0000</pubDate>
+      <guid isPermaLink="false">toolbar-icon-1.2.0-r0</guid>
+    </item>
+    <item>
+      <title>gestures-thickness 1.0.0-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds a gesture to change thickness of the pen with 0.5 increments<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 28 Oct 2026 16:04:13 +0000</pubDate>
+      <guid isPermaLink="false">gestures-thickness-1.0.0-r0</guid>
+    </item>
+    <item>
+      <title>gestures-hide-show-toolbar 1.0.0-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Gestures to show/hide toolbar<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 28 Oct 2026 16:04:13 +0000</pubDate>
+      <guid isPermaLink="false">gestures-hide-show-toolbar-1.0.0-r0</guid>
+    </item>
+    <item>
+      <title>gestures-fouzr-eraser-base 1.0.0-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Function to add eraser swapping. Not standalone<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 28 Oct 2026 16:04:13 +0000</pubDate>
+      <guid isPermaLink="false">gestures-fouzr-eraser-base-1.0.0-r0</guid>
+    </item>
+    <item>
+      <title>gestures-fouzr-base 1.0.0-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Base package for gestures. Does not contain any gestures<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 28 Oct 2026 16:04:13 +0000</pubDate>
+      <guid isPermaLink="false">gestures-fouzr-base-1.0.0-r0</guid>
+    </item>
+    <item>
+      <title>gestures-fouzr 1.0.11-r3</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds four-finger document drawer, and multiple swipe gestures to control pen settings.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 28 Oct 2026 16:04:13 +0000</pubDate>
+      <guid isPermaLink="false">gestures-fouzr-1.0.11-r3</guid>
+    </item>
+    <item>
+      <title>gestures-floating-toolbar 1.0.0-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Gestures to enable/disable floating-toolbar and reset its position<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 28 Oct 2026 16:04:12 +0000</pubDate>
+      <guid isPermaLink="false">gestures-floating-toolbar-1.0.0-r0</guid>
+    </item>
+    <item>
+      <title>gestures-document-drawer 1.0.0-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds four-finger document drawer gesture<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 28 Oct 2026 16:04:12 +0000</pubDate>
+      <guid isPermaLink="false">gestures-document-drawer-1.0.0-r0</guid>
+    </item>
+    <item>
+      <title>gestures-diagonal-selection 1.0.0-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds a diagonal-up gesture on the left/right edge to switch between selection and pen<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 28 Oct 2026 16:04:12 +0000</pubDate>
+      <guid isPermaLink="false">gestures-diagonal-selection-1.0.0-r0</guid>
+    </item>
+    <item>
+      <title>gestures-diagonal-eraser 1.0.0-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds a diagonal-up gesture on the left/right edge to switch between eraser and pen<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 28 Oct 2026 16:04:12 +0000</pubDate>
+      <guid isPermaLink="false">gestures-diagonal-eraser-1.0.0-r0</guid>
+    </item>
+    <item>
+      <title>gestures-2-finger-edge-selection 1.0.0-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds a 2 finger swipe from the right-half of the bottom edge to switch between Selection and Pen<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 28 Oct 2026 16:04:12 +0000</pubDate>
+      <guid isPermaLink="false">gestures-2-finger-edge-selection-1.0.0-r0</guid>
+    </item>
+    <item>
+      <title>gestures-2-finger-edge-eraser 1.0.0-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Adds a 2 finger swipe from the bottom left edge to swap eraser and pen<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 28 Oct 2026 16:04:12 +0000</pubDate>
+      <guid isPermaLink="false">gestures-2-finger-edge-eraser-1.0.0-r0</guid>
+    </item>
+    <item>
+      <title>gesture-colour-settings 1.0.12-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Gesture and Accessibility menu for colour preferences.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 28 Oct 2026 16:04:11 +0000</pubDate>
+      <guid isPermaLink="false">gesture-colour-settings-1.0.12-r0</guid>
+    </item>
+    <item>
+      <title>floating-toolbar 2.1.0-r0</title>
+      <link>https://github.com/FouzR/xovi-extensions</link>
+      <description><![CDATA[Floating toolbar for quick access to your favourite tools, presets, and layers.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>FouzR</author>
+      <category>ui</category>
+      <pubDate>Wed, 28 Oct 2026 16:04:10 +0000</pubDate>
+      <guid isPermaLink="false">floating-toolbar-2.1.0-r0</guid>
+    </item>
     <item>
       <title>disable-infinite-scroll 1.1.3-r0</title>
       <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
@@ -3030,15 +3156,6 @@
       <category>ui</category>
       <pubDate>Mon, 11 May 2026 06:07:46 +0000</pubDate>
       <guid isPermaLink="false">recents-tagged-1.0.2-r2</guid>
-    </item>
-    <item>
-      <title>gestures-fouzr 1.0.11-r2</title>
-      <link>https://github.com/FouzR/xovi-extensions</link>
-      <description><![CDATA[Adds four-finger document drawer, and multiple swipe gestures to control pen settings.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.27 - 3.28]]></description>
-      <author>FouzR</author>
-      <category>ui</category>
-      <pubDate>Mon, 11 May 2026 06:07:40 +0000</pubDate>
-      <guid isPermaLink="false">gestures-fouzr-1.0.11-r2</guid>
     </item>
     <item>
       <title>gesture-colour-settings 1.0.10-r2</title>
