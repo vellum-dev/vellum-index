@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 16:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:02:22 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>puzzles 0.2.4-r5</title>
+      <link>https://github.com/rmkit-dev/remarkable_puzzles</link>
+      <description><![CDATA[Simon Tatham's Puzzle Package<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rmkit-dev</author>
+      <category>apps</category>
+      <pubDate>Sat, 31 Oct 2026 00:01:29 +0000</pubDate>
+      <guid isPermaLink="false">puzzles-0.2.4-r5</guid>
+    </item>
     <item>
       <title>toolbar-icon 1.2.0-r0</title>
       <link>https://github.com/FouzR/xovi-extensions</link>
@@ -1770,15 +1779,6 @@
       <category>apps</category>
       <pubDate>Tue, 11 Aug 2026 04:43:14 +0000</pubDate>
       <guid isPermaLink="false">tilem-0.1.4-r3</guid>
-    </item>
-    <item>
-      <title>puzzles 0.2.4-r4</title>
-      <link>https://github.com/rmkit-dev/remarkable_puzzles</link>
-      <description><![CDATA[Simon Tatham's Puzzle Package<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rmkit-dev</author>
-      <category>apps</category>
-      <pubDate>Tue, 11 Aug 2026 04:43:07 +0000</pubDate>
-      <guid isPermaLink="false">puzzles-0.2.4-r4</guid>
     </item>
     <item>
       <title>oxide-xovi 3.1.1-r3</title>
