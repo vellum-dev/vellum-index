@@ -1,6 +1,6 @@
 import { useState, useMemo, useEffect, useRef } from 'react';
 import { useParams, useSearchParams, Link } from 'react-router-dom';
-import { ChevronDown } from 'lucide-react';
+import { ChevronDown, MonitorSmartphone, Terminal } from 'lucide-react';
 import { usePackages } from '@/hooks/usePackages';
 import { usePackageStats } from '@/hooks/useStats';
 import { useDelayedLoading } from '@/hooks/useDelayedLoading';
@@ -8,6 +8,7 @@ import { Card, CardAction, CardContent, CardHeader, CardTitle } from '@/componen
 import { Tooltip, TooltipTrigger, TooltipContent, TooltipProvider } from '@/components/ui/tooltip';
 import { BarChart3 } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
+import { Button } from '@/components/ui/button';
 import { Skeleton } from '@/components/ui/skeleton';
 import {
   Select,
@@ -467,20 +468,52 @@ export function PackageDetailPage() {
 
           <div>
             <h3 className="text-sm font-medium text-muted-foreground mb-2">Installation</h3>
-            <pre className="bg-muted p-4 rounded-md overflow-x-auto">
-              <code>vellum install {name}</code>
-            </pre>
-            <p className="text-sm text-muted-foreground mt-2">
-              Requires{" "}
-              <a
-                href="https://github.com/vellum-dev/vellum-cli"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-primary hover:underline"
-              >
-                Vellum package manager
-              </a>
-            </p>
+            <div className="grid gap-4 md:grid-cols-2">
+              <div className="flex min-w-0 flex-col gap-3 rounded-lg border p-4">
+                <div className="flex items-center gap-2 text-sm font-medium">
+                  <MonitorSmartphone className="size-4 text-muted-foreground" />
+                  App
+                </div>
+                <p className="text-sm text-muted-foreground">
+                  Install from your computer or phone with{" "}
+                  <a
+                    href="https://remanager.io"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-primary hover:underline"
+                  >
+                    reManager
+                  </a>
+                  .
+                </p>
+                <Button asChild size="sm" className="mt-auto md:self-start">
+                  <a href={`remanager://package/${encodeURIComponent(name!)}`}>
+                    Open in reManager
+                  </a>
+                </Button>
+              </div>
+              <div className="flex min-w-0 flex-col gap-3 rounded-lg border p-4">
+                <div className="flex items-center gap-2 text-sm font-medium">
+                  <Terminal className="size-4 text-muted-foreground" />
+                  Command line
+                </div>
+                <p className="text-sm text-muted-foreground">
+                  Install over SSH on your reMarkable with the{" "}
+                  <a
+                    href="https://github.com/vellum-dev/vellum-cli"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-primary hover:underline"
+                  >
+                    Vellum package manager
+                  </a>
+                  .
+                </p>
+                <pre className="mt-auto bg-muted px-3 py-2 rounded-md overflow-x-auto text-sm">
+                  <code>vellum install {name}</code>
+                </pre>
+              </div>
+            </div>
             {currentPkg.modifies_system && (
               <p className="text-sm text-muted-foreground mt-2">
                 This package modifies system files and requires running <code>vellum reenable</code> after reMarkable updates.
