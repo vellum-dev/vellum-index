@@ -24606,7 +24606,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "origin": "tailscale",
-        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.102.2/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.104.5/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-02-12T15:07:43Z"
@@ -24645,7 +24645,7 @@
         "auto_install": false,
         "released": "2026-03-10T19:44:49Z",
         "origin": "tailscale",
-        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.102.2/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.104.5/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-02-12T15:07:43Z"
@@ -24684,7 +24684,7 @@
         "auto_install": false,
         "released": "2026-05-08T02:18:34Z",
         "origin": "tailscale",
-        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.102.2/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.104.5/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-02-12T15:07:43Z"
@@ -24723,7 +24723,7 @@
         "auto_install": false,
         "released": "2026-07-22T22:15:00Z",
         "origin": "tailscale",
-        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.102.2/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.104.5/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-02-12T15:07:43Z"
@@ -24762,7 +24762,46 @@
         "auto_install": false,
         "released": "2026-08-15T01:48:51Z",
         "origin": "tailscale",
-        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.102.2/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.104.5/README.md",
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-02-12T15:07:43Z"
+      },
+      "1.104.5-r0": {
+        "pkgdesc": "Tailscale VPN client",
+        "upstream_author": "tailscale",
+        "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "BSD-3-Clause",
+        "url": "https://tailscale.com",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "mount-utils"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-04T16:42:49Z",
+        "origin": "tailscale",
+        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.104.5/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-02-12T15:07:43Z"
@@ -24804,7 +24843,7 @@
         "auto_install": false,
         "released": "2026-07-22T22:15:00Z",
         "origin": "tailscale",
-        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.102.2/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.104.5/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-07-08T22:38:08Z"
@@ -24844,7 +24883,47 @@
         "auto_install": false,
         "released": "2026-08-15T01:48:52Z",
         "origin": "tailscale",
-        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.102.2/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.104.5/README.md",
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-07-08T22:38:08Z"
+      },
+      "1.104.5-r0": {
+        "pkgdesc": "Tailscale VPN client",
+        "upstream_author": "tailscale",
+        "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "utilities"
+        ],
+        "license": "BSD-3-Clause",
+        "url": "https://tailscale.com",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "tun",
+          "tailscale"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-04T16:42:49Z",
+        "origin": "tailscale",
+        "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.104.5/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-07-08T22:38:08Z"
@@ -29108,5 +29187,5 @@
       }
     }
   },
-  "generated": "2026-10-31T00:02:22Z"
+  "generated": "2026-11-04T16:43:46Z"
 }
