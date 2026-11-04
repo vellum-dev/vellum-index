@@ -24799,7 +24799,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-11-04T16:42:49Z",
+        "released": "2026-11-04T16:43:48Z",
         "origin": "tailscale",
         "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.104.5/README.md",
         "donateurl": null,
@@ -24921,7 +24921,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-11-04T16:42:49Z",
+        "released": "2026-11-04T16:43:48Z",
         "origin": "tailscale",
         "readmeurl": "https://raw.githubusercontent.com/tailscale/tailscale/v1.104.5/README.md",
         "donateurl": null,
@@ -28899,6 +28899,43 @@
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-04-02T17:45:00Z"
+      },
+      "0.17.1-r0": {
+        "pkgdesc": "A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software",
+        "upstream_author": "ziglang",
+        "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "development"
+        ],
+        "license": "MIT",
+        "url": "https://ziglang.org",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-04T16:43:54Z",
+        "origin": "zig",
+        "readmeurl": null,
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-04-02T17:45:00Z"
       }
     },
     "zig-doc": {
@@ -29007,6 +29044,43 @@
         "modifies_system": false,
         "auto_install": false,
         "released": "2026-10-03T22:01:46Z",
+        "origin": "zig",
+        "readmeurl": null,
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-04-02T17:45:01Z"
+      },
+      "0.17.1-r0": {
+        "pkgdesc": "Zig documentation (language reference)",
+        "upstream_author": "ziglang",
+        "maintainer": "Interloper <45214659+0xdeb7ef@users.noreply.github.com>",
+        "categories": [
+          "development"
+        ],
+        "license": "MIT",
+        "url": "https://ziglang.org",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-04T16:43:54Z",
         "origin": "zig",
         "readmeurl": null,
         "donateurl": null,
@@ -29187,5 +29261,5 @@
       }
     }
   },
-  "generated": "2026-11-04T16:43:46Z"
+  "generated": "2026-11-04T16:44:35Z"
 }
