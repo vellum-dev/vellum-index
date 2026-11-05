@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 2</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 16:44:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:34:18 +0000</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm2.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>link-from-selection 1.2.2-r0</title>
+      <link>https://github.com/alefaraci/xovi-qmd-extensions</link>
+      <description><![CDATA[On-page links from a lasso selection: jump to a page in this or another document<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>alefaraci</author>
+      <category>ui</category>
+      <pubDate>Thu, 05 Nov 2026 13:33:12 +0000</pubDate>
+      <guid isPermaLink="false">link-from-selection-1.2.2-r0</guid>
+    </item>
     <item>
       <title>zig-doc 0.17.1-r0</title>
       <link>https://ziglang.org</link>
