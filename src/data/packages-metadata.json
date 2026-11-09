@@ -9568,6 +9568,57 @@
         "first_released": "2026-02-23T13:55:19Z"
       }
     },
+    "four-finger-swipe-for-last-doc": {
+      "1.0.0-r0": {
+        "pkgdesc": "Swipe right with four fingers to open the previously opened document.",
+        "upstream_author": "unknown",
+        "maintainer": "Zorglub <164264951+Zorglub35@users.noreply.github.com>",
+        "categories": [
+          "other"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "status": "deprecated",
+        "os_min": "3.28",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "ingatellent-settings"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-09T18:58:16Z",
+        "origin": "four-finger-swipe-for-last-doc",
+        "readmeurl": null,
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-11-09T18:58:16Z"
+      }
+    },
     "fourcolour": {
       "1.5.2-r0": {
         "pkgdesc": "Colour comic reader (CBZ/CBR) for the reMarkable Paper Pro",
@@ -14130,6 +14181,56 @@
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-02-03T20:22:08Z"
+      }
+    },
+    "ingatellent-settings": {
+      "1.0.0-r0": {
+        "pkgdesc": "Shared settings storage used by other ingatellent extensions.",
+        "upstream_author": "ingatellent",
+        "maintainer": "Zorglub <164264951+Zorglub35@users.noreply.github.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-2.0",
+        "url": "https://github.com/ingatellent/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-09T18:58:23Z",
+        "origin": "ingatellent-settings",
+        "readmeurl": "https://raw.githubusercontent.com/ingatellent/xovi-qmd-extensions/d8d50987c5b3263d82f6386ed475d3bfa5a87909/README.md",
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-11-09T18:58:23Z"
       }
     },
     "inject_evdev": {
@@ -29349,5 +29450,5 @@
       }
     }
   },
-  "generated": "2026-11-08T19:32:57Z"
+  "generated": "2026-11-09T18:59:46Z"
 }

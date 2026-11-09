@@ -5,8 +5,26 @@
     <link>https://vellum.delivery</link>
     <description>All package updates for reMarkable tablets</description>
     <language>en-us</language>
-    <lastBuildDate>2026-11-08T19:32:57Z</lastBuildDate>
+    <lastBuildDate>2026-11-09T18:59:46Z</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/all.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ingatellent-settings 1.0.0-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Shared settings storage used by other ingatellent extensions.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.30]]></description>
+      <author>ingatellent</author>
+      <category>ui</category>
+      <pubDate>2026-11-09T18:58:23Z</pubDate>
+      <guid isPermaLink="false">ingatellent-settings-1.0.0-r0</guid>
+    </item>
+    <item>
+      <title>four-finger-swipe-for-last-doc 1.0.0-r0</title>
+      <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
+      <description><![CDATA[Swipe right with four fingers to open the previously opened document.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.30]]></description>
+      <author>unknown</author>
+      <category>other</category>
+      <pubDate>2026-11-09T18:58:16Z</pubDate>
+      <guid isPermaLink="false">four-finger-swipe-for-last-doc-1.0.0-r0</guid>
+    </item>
     <item>
       <title>fourcolour 1.5.2-r0</title>
       <link>https://github.com/nickgeenfield/FourColour</link>
