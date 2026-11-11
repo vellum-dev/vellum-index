@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable 1</description>
     <language>en-us</language>
-    <lastBuildDate>2026-11-09T18:59:56Z</lastBuildDate>
+    <lastBuildDate>2026-11-11T00:08:04Z</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rm1.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>nextcloud-calendar 0.1.8-r0</title>
+      <link>https://github.com/Ampleforth/remarkable2-nextcloudCalendar</link>
+      <description><![CDATA[Nextcloud calendar and tasks for reMarkable 2<br/>Devices: rm1, rm2]]></description>
+      <author>Ampleforth</author>
+      <category>apps</category>
+      <pubDate>2026-11-11T00:07:34Z</pubDate>
+      <guid isPermaLink="false">nextcloud-calendar-0.1.8-r0</guid>
+    </item>
     <item>
       <title>ingatellent-settings 1.0.0-r0</title>
       <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
