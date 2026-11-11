@@ -24236,6 +24236,54 @@
         "first_released": "2026-07-07T20:06:33Z"
       }
     },
+    "standalone-rm-sync": {
+      "0.1-r0": {
+        "pkgdesc": "Make the rm-sync service run standalone",
+        "upstream_author": "vellum-dev",
+        "maintainer": "Nathaniel van Diepen <eeems@eeems.email>",
+        "categories": [
+          "fixes"
+        ],
+        "license": "MIT",
+        "url": "https://vellum.delivery/",
+        "status": "maintained",
+        "os_min": "3.28",
+        "os_max": "3.29",
+        "os_constraints": [
+          {
+            "version": "3.28",
+            "operator": ">="
+          },
+          {
+            "version": "3.29",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": true,
+        "auto_install": false,
+        "released": "2026-11-11T17:17:01Z",
+        "origin": "standalone-rm-sync",
+        "readmeurl": null,
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-11-11T17:17:01Z"
+      }
+    },
     "starship": {
       "1.24.2-r3": {
         "pkgdesc": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
@@ -29486,5 +29534,5 @@
       }
     }
   },
-  "generated": "2026-11-11T04:51:28Z"
+  "generated": "2026-11-11T17:18:25Z"
 }

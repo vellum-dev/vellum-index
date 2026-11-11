@@ -5,8 +5,17 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro</description>
     <language>en-us</language>
-    <lastBuildDate>2026-11-11T04:51:28Z</lastBuildDate>
+    <lastBuildDate>2026-11-11T17:18:25Z</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmpp.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>standalone-rm-sync 0.1-r0</title>
+      <link>https://vellum.delivery/</link>
+      <description><![CDATA[Make the rm-sync service run standalone<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
+      <author>vellum-dev</author>
+      <category>fixes</category>
+      <pubDate>2026-11-11T17:17:01Z</pubDate>
+      <guid isPermaLink="false">standalone-rm-sync-0.1-r0</guid>
+    </item>
     <item>
       <title>ingatellent-settings 1.0.0-r0</title>
       <link>https://github.com/ingatellent/xovi-qmd-extensions</link>
