@@ -29355,7 +29355,41 @@
         "auto_install": false,
         "released": "2026-11-11T00:07:34Z",
         "origin": "nextcloud-calendar",
-        "readmeurl": "https://raw.githubusercontent.com/Ampleforth/remarkable2-nextcloudCalendar/v0.1.8/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/Ampleforth/remarkable2-nextcloudCalendar/v0.1.9/README.md",
+        "donateurl": null,
+        "changelogurl": null,
+        "first_released": "2026-11-11T00:07:34Z"
+      },
+      "0.1.9-r0": {
+        "pkgdesc": "Nextcloud calendar and tasks for reMarkable 2",
+        "upstream_author": "Ampleforth",
+        "maintainer": "Ampleforth <213837259+Ampleforth@users.noreply.github.com>",
+        "categories": [
+          "apps"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/Ampleforth/remarkable2-nextcloudCalendar",
+        "status": "maintained",
+        "os_min": null,
+        "os_max": null,
+        "os_constraints": null,
+        "devices": [
+          "rm1",
+          "rm2"
+        ],
+        "depends": [
+          "appload>=0.5.3"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-12T19:09:50Z",
+        "origin": "nextcloud-calendar",
+        "readmeurl": "https://raw.githubusercontent.com/Ampleforth/remarkable2-nextcloudCalendar/v0.1.9/README.md",
         "donateurl": null,
         "changelogurl": null,
         "first_released": "2026-11-11T00:07:34Z"
@@ -29534,5 +29568,5 @@
       }
     }
   },
-  "generated": "2026-11-11T17:18:25Z"
+  "generated": "2026-11-12T19:10:12Z"
 }
