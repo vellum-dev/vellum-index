@@ -5,8 +5,35 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pure</description>
     <language>en-us</language>
-    <lastBuildDate>2026-11-12T19:10:12Z</lastBuildDate>
+    <lastBuildDate>2026-11-12T20:05:42Z</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppure.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>touch-lock 1.0.4-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Adds a button to the toolbar to lock out touch input in documents. Toolbar remains touch-aware and pen input is unaffected.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.30]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>2026-11-12T20:04:50Z</pubDate>
+      <guid isPermaLink="false">touch-lock-1.0.4-r0</guid>
+    </item>
+    <item>
+      <title>pen-layer-memory 1.0.5-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-qmd-extensions</link>
+      <description><![CDATA[Remembers which layer each pen tool was last used on, and switches to that layer when the pen is selected.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.30]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>2026-11-12T20:04:39Z</pubDate>
+      <guid isPermaLink="false">pen-layer-memory-1.0.5-r0</guid>
+    </item>
+    <item>
+      <title>bettertoc 1.5.3-r0</title>
+      <link>https://github.com/rmitchellscott/xovi-bettertoc</link>
+      <description><![CDATA[Adds the ability to add, delete, and edit Table of Contents entries in notebooks, PDFs, and EPUBs.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.29 - 3.30]]></description>
+      <author>rmitchellscott</author>
+      <category>ui</category>
+      <pubDate>2026-11-12T20:04:18Z</pubDate>
+      <guid isPermaLink="false">bettertoc-1.5.3-r0</guid>
+    </item>
     <item>
       <title>standalone-rm-sync 0.1-r0</title>
       <link>https://vellum.delivery/</link>
