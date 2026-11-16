@@ -5,8 +5,35 @@
     <link>https://vellum.delivery</link>
     <description>Package updates for reMarkable Paper Pro Move</description>
     <language>en-us</language>
-    <lastBuildDate>2026-11-15T23:49:21Z</lastBuildDate>
+    <lastBuildDate>2026-11-16T22:56:51Z</lastBuildDate>
     <atom:link href="https://packages.vellum.delivery/feeds/rmppmove.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>stylus-remapper 0.2.2-r1</title>
+      <link>https://github.com/rmitchellscott/rm-stylus-remapper</link>
+      <description><![CDATA[Remaps stylus input events with configurable presets, pressure curves, and position offsets.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.30]]></description>
+      <author>rmitchellscott</author>
+      <category>utilities</category>
+      <pubDate>2026-11-16T22:55:23Z</pubDate>
+      <guid isPermaLink="false">stylus-remapper-0.2.2-r1</guid>
+    </item>
+    <item>
+      <title>qt-plugin-path 1.0.0-r1</title>
+      <link>https://github.com/rmitchellscott/epaper-qpa</link>
+      <description><![CDATA[Sets QT_PLUGIN_PATH for xochitl to find plugins in .vellum/lib/plugins<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
+      <author>rmitchellscott</author>
+      <category>framework</category>
+      <pubDate>2026-11-16T22:55:12Z</pubDate>
+      <guid isPermaLink="false">qt-plugin-path-1.0.0-r1</guid>
+    </item>
+    <item>
+      <title>external-keyboard-qpa 0.1.1-r1</title>
+      <link>https://github.com/rmitchellscott/epaper-qpa</link>
+      <description><![CDATA[Qt platform plugin for reMarkable e-paper displays with external keyboard support<br/>Devices: rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.30]]></description>
+      <author>rmitchellscott</author>
+      <category>framework</category>
+      <pubDate>2026-11-16T22:54:42Z</pubDate>
+      <guid isPermaLink="false">external-keyboard-qpa-0.1.1-r1</guid>
+    </item>
     <item>
       <title>oxide-xovi 3.2.1-r0</title>
       <link>https://oxide.eeems.codes</link>
@@ -1160,15 +1187,6 @@
       <guid isPermaLink="false">tripletap-1.1.1-r0</guid>
     </item>
     <item>
-      <title>external-keyboard-qpa 0.1.1-r0</title>
-      <link>https://github.com/rmitchellscott/epaper-qpa</link>
-      <description><![CDATA[Qt platform plugin for reMarkable e-paper displays with external keyboard support<br/>Devices: rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
-      <author>rmitchellscott</author>
-      <category>framework</category>
-      <pubDate>2026-09-21T21:28:31Z</pubDate>
-      <guid isPermaLink="false">external-keyboard-qpa-0.1.1-r0</guid>
-    </item>
-    <item>
       <title>ebook-fit-to-height 0.1.0-r0</title>
       <link>https://github.com/rmitchellscott/rm-ebook-fit-to-height</link>
       <description><![CDATA[Show ebooks fit-to-height on the Paper Pro Move, matching 3.27 behavior on later versions.<br/>Devices: rmppm, rmppmove<br/>OS: 3.28 - 3.29]]></description>
@@ -1464,15 +1482,6 @@
       <category>ui</category>
       <pubDate>2026-09-03T20:46:57Z</pubDate>
       <guid isPermaLink="false">add-finished-button-1.0.4-r0</guid>
-    </item>
-    <item>
-      <title>stylus-remapper 0.2.2-r0</title>
-      <link>https://github.com/rmitchellscott/rm-stylus-remapper</link>
-      <description><![CDATA[Remaps stylus input events with configurable presets, pressure curves, and position offsets.<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure<br/>OS: 3.28 - 3.29]]></description>
-      <author>rmitchellscott</author>
-      <category>utilities</category>
-      <pubDate>2026-09-02T21:12:28Z</pubDate>
-      <guid isPermaLink="false">stylus-remapper-0.2.2-r0</guid>
     </item>
     <item>
       <title>rm-stylus 0.3.0-r5</title>
@@ -2778,15 +2787,6 @@
       <category>ui</category>
       <pubDate>2026-07-06T22:17:15Z</pubDate>
       <guid isPermaLink="false">quicksettings-timer-1.0.0-r0</guid>
-    </item>
-    <item>
-      <title>qt-plugin-path 1.0.0-r0</title>
-      <link>https://github.com/rmitchellscott/epaper-qpa</link>
-      <description><![CDATA[Sets QT_PLUGIN_PATH for xochitl to find plugins in .vellum/lib/plugins<br/>Devices: rm1, rm2, rmpp, rmppm, rmppmove, rmppure]]></description>
-      <author>rmitchellscott</author>
-      <category>framework</category>
-      <pubDate>2026-07-06T19:16:34Z</pubDate>
-      <guid isPermaLink="false">qt-plugin-path-1.0.0-r0</guid>
     </item>
     <item>
       <title>bettertoc-collapse 1.1.0-r0</title>

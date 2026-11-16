@@ -6047,7 +6047,7 @@
         "changelogurl": null,
         "first_released": "2026-07-06T19:16:24Z"
       },
-      "0.1.1-r0": {
+      "0.1.1-r1": {
         "pkgdesc": "Qt platform plugin for reMarkable e-paper displays with external keyboard support",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -6058,14 +6058,14 @@
         "url": "https://github.com/rmitchellscott/epaper-qpa",
         "status": "maintained",
         "os_min": "3.28",
-        "os_max": "3.29",
+        "os_max": "3.30",
         "os_constraints": [
           {
             "version": "3.28",
             "operator": ">="
           },
           {
-            "version": "3.29",
+            "version": "3.30",
             "operator": "<"
           }
         ],
@@ -6086,7 +6086,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-21T21:28:31Z",
+        "released": "2026-11-16T22:54:42Z",
         "origin": "external-keyboard-qpa",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/epaper-qpa/external-keyboard/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -20569,7 +20569,7 @@
       }
     },
     "qt-plugin-path": {
-      "1.0.0-r0": {
+      "1.0.0-r1": {
         "pkgdesc": "Sets QT_PLUGIN_PATH for xochitl to find plugins in .vellum/lib/plugins",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -20601,7 +20601,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-07-06T19:16:34Z",
+        "released": "2026-11-16T22:55:12Z",
         "origin": "qt-plugin-path",
         "readmeurl": null,
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -25228,7 +25228,7 @@
         "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/rm-stylus-remapper/c047e23e5d166a91982d3bd9a70993a89ee8629c/CHANGELOG.md",
         "first_released": "2026-05-20T20:06:24Z"
       },
-      "0.2.2-r0": {
+      "0.2.2-r1": {
         "pkgdesc": "Remaps stylus input events with configurable presets, pressure curves, and position offsets.",
         "upstream_author": "rmitchellscott",
         "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
@@ -25239,14 +25239,14 @@
         "url": "https://github.com/rmitchellscott/rm-stylus-remapper",
         "status": "maintained",
         "os_min": "3.28",
-        "os_max": "3.29",
+        "os_max": "3.30",
         "os_constraints": [
           {
             "version": "3.28",
             "operator": ">="
           },
           {
-            "version": "3.29",
+            "version": "3.30",
             "operator": "<"
           }
         ],
@@ -25269,7 +25269,7 @@
         ],
         "modifies_system": false,
         "auto_install": false,
-        "released": "2026-09-02T21:12:28Z",
+        "released": "2026-11-16T22:55:23Z",
         "origin": "stylus-remapper",
         "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/rm-stylus-remapper/v0.2.2/README.md",
         "donateurl": "https://buymeacoffee.com/rmitchellscott",
@@ -30287,5 +30287,5 @@
       }
     }
   },
-  "generated": "2026-11-15T23:49:21Z"
+  "generated": "2026-11-16T22:56:51Z"
 }
