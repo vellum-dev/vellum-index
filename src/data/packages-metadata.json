@@ -5207,6 +5207,56 @@
         "first_released": "2026-09-20T13:24:04Z"
       }
     },
+    "ebook-font-size-picker": {
+      "1.0.0-r0": {
+        "pkgdesc": "Replaces the ebook font size buttons with a point size dropdown",
+        "upstream_author": "rmitchellscott",
+        "maintainer": "Mitchell Scott <mitchell@scottlabs.io>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0-only",
+        "url": "https://github.com/rmitchellscott/xovi-qmd-extensions",
+        "status": "maintained",
+        "os_min": "3.29",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.29",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-17T23:44:33Z",
+        "origin": "ebook-font-size-picker",
+        "readmeurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/fdaae87dc30d44a77b600d635c8b0a999b4772b2/README.md#ebook-font-size-picker",
+        "donateurl": "https://buymeacoffee.com/rmitchellscott",
+        "changelogurl": "https://raw.githubusercontent.com/rmitchellscott/xovi-qmd-extensions/fdaae87dc30d44a77b600d635c8b0a999b4772b2/changelogs/ebook-font-size-picker.md",
+        "first_released": "2026-11-17T23:44:33Z"
+      }
+    },
     "enable-all-colors": {
       "1.0.0-r0": {
         "pkgdesc": "Enables full color selection on rM1 and rM2.",
@@ -30287,5 +30337,5 @@
       }
     }
   },
-  "generated": "2026-11-17T23:01:10Z"
+  "generated": "2026-11-17T23:45:57Z"
 }
