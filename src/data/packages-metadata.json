@@ -6425,7 +6425,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "origin": "fav-tag-button",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5db4cb6d1e5d43f8ea8484c77ab08b8a15f2640a/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:48Z"
@@ -6475,7 +6475,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "origin": "fav-tag-button",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5db4cb6d1e5d43f8ea8484c77ab08b8a15f2640a/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:48Z"
@@ -6525,7 +6525,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "origin": "fav-tag-button",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5db4cb6d1e5d43f8ea8484c77ab08b8a15f2640a/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:48Z"
@@ -6575,7 +6575,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "origin": "fav-tag-button",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5db4cb6d1e5d43f8ea8484c77ab08b8a15f2640a/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:48Z"
@@ -6625,7 +6625,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "origin": "fav-tag-button",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5db4cb6d1e5d43f8ea8484c77ab08b8a15f2640a/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:48Z"
@@ -6675,7 +6675,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "origin": "fav-tag-button",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5db4cb6d1e5d43f8ea8484c77ab08b8a15f2640a/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:48Z"
@@ -6725,7 +6725,7 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:10Z",
         "origin": "fav-tag-button",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5db4cb6d1e5d43f8ea8484c77ab08b8a15f2640a/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:48Z"
@@ -6775,7 +6775,7 @@
         "auto_install": false,
         "released": "2026-05-11T06:07:36Z",
         "origin": "fav-tag-button",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5db4cb6d1e5d43f8ea8484c77ab08b8a15f2640a/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:48Z"
@@ -6825,7 +6825,57 @@
         "auto_install": false,
         "released": "2026-11-17T22:59:40Z",
         "origin": "fav-tag-button",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5db4cb6d1e5d43f8ea8484c77ab08b8a15f2640a/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
+        "donateurl": "https://ko-fi.com/fouzr",
+        "changelogurl": null,
+        "first_released": "2026-01-09T04:09:48Z"
+      },
+      "1.1.0-r1": {
+        "pkgdesc": "Adds buttons to the navigator search/new note button that lets you open the favourites and tagged view with a click.",
+        "upstream_author": "FouzR",
+        "maintainer": "Fouz Reda <fouz290903@gmail.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "status": "maintained",
+        "os_min": "3.29",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.29",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "dock-buttons"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-21T17:12:40Z",
+        "origin": "fav-tag-button",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:48Z"
@@ -8449,7 +8499,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -8499,7 +8549,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:06Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -8549,7 +8599,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -8599,7 +8649,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -8649,7 +8699,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -8699,7 +8749,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -8749,7 +8799,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -8799,7 +8849,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -8849,7 +8899,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -8899,7 +8949,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -8949,7 +8999,7 @@
         "auto_install": false,
         "released": "2026-03-16T19:52:45Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -8999,7 +9049,7 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:11Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -9049,7 +9099,7 @@
         "auto_install": false,
         "released": "2026-03-23T16:57:13Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -9099,7 +9149,7 @@
         "auto_install": false,
         "released": "2026-03-30T18:45:28Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -9149,7 +9199,7 @@
         "auto_install": false,
         "released": "2026-05-11T06:07:38Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -9199,7 +9249,7 @@
         "auto_install": false,
         "released": "2026-07-09T13:08:09Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -9249,7 +9299,7 @@
         "auto_install": false,
         "released": "2026-09-09T22:44:17Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -9299,7 +9349,57 @@
         "auto_install": false,
         "released": "2026-11-17T22:59:43Z",
         "origin": "floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
+        "donateurl": "https://ko-fi.com/fouzr",
+        "changelogurl": null,
+        "first_released": "2026-01-09T06:00:23Z"
+      },
+      "2.2.0-r1": {
+        "pkgdesc": "Floating toolbar for quick access to your favourite tools, presets, and layers.",
+        "upstream_author": "FouzR",
+        "maintainer": "Fouz Reda <fouz290903@gmail.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "status": "maintained",
+        "os_min": "3.29",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.29",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [
+          "rmhacks"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-21T17:12:44Z",
+        "origin": "floating-toolbar",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T06:00:23Z"
@@ -10290,7 +10390,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "gesture-colour-settings",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/d898cf9271cc20682d1c08e23c4b513f3c301fec/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:50Z"
@@ -10338,7 +10438,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "gesture-colour-settings",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/d898cf9271cc20682d1c08e23c4b513f3c301fec/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:50Z"
@@ -10386,7 +10486,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "gesture-colour-settings",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/d898cf9271cc20682d1c08e23c4b513f3c301fec/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:50Z"
@@ -10434,7 +10534,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "gesture-colour-settings",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/d898cf9271cc20682d1c08e23c4b513f3c301fec/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:50Z"
@@ -10482,7 +10582,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "gesture-colour-settings",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/d898cf9271cc20682d1c08e23c4b513f3c301fec/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:50Z"
@@ -10530,7 +10630,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "gesture-colour-settings",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/d898cf9271cc20682d1c08e23c4b513f3c301fec/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:50Z"
@@ -10578,7 +10678,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "gesture-colour-settings",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/d898cf9271cc20682d1c08e23c4b513f3c301fec/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:50Z"
@@ -10626,7 +10726,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "gesture-colour-settings",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/d898cf9271cc20682d1c08e23c4b513f3c301fec/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:50Z"
@@ -10675,7 +10775,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:07Z",
         "origin": "gesture-colour-settings",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/d898cf9271cc20682d1c08e23c4b513f3c301fec/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:50Z"
@@ -10724,7 +10824,7 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:12Z",
         "origin": "gesture-colour-settings",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/d898cf9271cc20682d1c08e23c4b513f3c301fec/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:50Z"
@@ -10773,7 +10873,7 @@
         "auto_install": false,
         "released": "2026-05-11T06:07:39Z",
         "origin": "gesture-colour-settings",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/d898cf9271cc20682d1c08e23c4b513f3c301fec/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:50Z"
@@ -10821,7 +10921,55 @@
         "auto_install": false,
         "released": "2026-11-17T22:59:45Z",
         "origin": "gesture-colour-settings",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/d898cf9271cc20682d1c08e23c4b513f3c301fec/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
+        "donateurl": "https://ko-fi.com/fouzr",
+        "changelogurl": null,
+        "first_released": "2026-01-09T04:09:50Z"
+      },
+      "1.1.0-r1": {
+        "pkgdesc": "Gesture and Accessibility menu for colour preferences.",
+        "upstream_author": "FouzR",
+        "maintainer": "Fouz Reda <fouz290903@gmail.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "status": "maintained",
+        "os_min": "3.29",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.29",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-21T17:12:47Z",
+        "origin": "gesture-colour-settings",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:50Z"
@@ -11123,7 +11271,57 @@
         "auto_install": false,
         "released": "2026-11-17T22:59:45Z",
         "origin": "gestures-2-finger-edge-eraser",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f6e17d50441e18519c81769f0a4dae443d87fba7/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
+        "donateurl": "https://ko-fi.com/fouzr",
+        "changelogurl": null,
+        "first_released": "2026-10-28T16:04:12Z"
+      },
+      "1.1.0-r1": {
+        "pkgdesc": "Adds a 2 finger swipe from the bottom left edge to swap eraser and pen",
+        "upstream_author": "FouzR",
+        "maintainer": "Fouz Reda <fouz290903@gmail.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "status": "maintained",
+        "os_min": "3.29",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.29",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "gestures-fouzr-base",
+          "gestures-fouzr-eraser-base"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-21T17:12:48Z",
+        "origin": "gestures-2-finger-edge-eraser",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-10-28T16:04:12Z"
@@ -11174,7 +11372,56 @@
         "auto_install": false,
         "released": "2026-11-17T22:59:45Z",
         "origin": "gestures-2-finger-edge-selection",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f6e17d50441e18519c81769f0a4dae443d87fba7/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
+        "donateurl": "https://ko-fi.com/fouzr",
+        "changelogurl": null,
+        "first_released": "2026-10-28T16:04:12Z"
+      },
+      "1.1.0-r1": {
+        "pkgdesc": "Adds a 2 finger swipe from the right-half of the bottom edge to switch between Selection and Pen",
+        "upstream_author": "FouzR",
+        "maintainer": "Fouz Reda <fouz290903@gmail.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "status": "maintained",
+        "os_min": "3.29",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.29",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "gestures-fouzr-base"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-21T17:12:48Z",
+        "origin": "gestures-2-finger-edge-selection",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-10-28T16:04:12Z"
@@ -11226,7 +11473,57 @@
         "auto_install": false,
         "released": "2026-11-17T22:59:45Z",
         "origin": "gestures-diagonal-eraser",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f6e17d50441e18519c81769f0a4dae443d87fba7/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
+        "donateurl": "https://ko-fi.com/fouzr",
+        "changelogurl": null,
+        "first_released": "2026-10-28T16:04:12Z"
+      },
+      "1.1.0-r1": {
+        "pkgdesc": "Adds a diagonal-up gesture on the left/right edge to switch between eraser and pen",
+        "upstream_author": "FouzR",
+        "maintainer": "Fouz Reda <fouz290903@gmail.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "status": "maintained",
+        "os_min": "3.29",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.29",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "gestures-fouzr-base",
+          "gestures-fouzr-eraser-base"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-21T17:12:48Z",
+        "origin": "gestures-diagonal-eraser",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-10-28T16:04:12Z"
@@ -11277,7 +11574,56 @@
         "auto_install": false,
         "released": "2026-11-17T22:59:46Z",
         "origin": "gestures-diagonal-selection",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f6e17d50441e18519c81769f0a4dae443d87fba7/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
+        "donateurl": "https://ko-fi.com/fouzr",
+        "changelogurl": null,
+        "first_released": "2026-10-28T16:04:12Z"
+      },
+      "1.1.0-r1": {
+        "pkgdesc": "Adds a diagonal-up gesture on the left/right edge to switch between selection and pen",
+        "upstream_author": "FouzR",
+        "maintainer": "Fouz Reda <fouz290903@gmail.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "status": "maintained",
+        "os_min": "3.29",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.29",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "gestures-fouzr-base"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-21T17:12:49Z",
+        "origin": "gestures-diagonal-selection",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-10-28T16:04:12Z"
@@ -11331,7 +11677,59 @@
         "auto_install": false,
         "released": "2026-11-17T22:59:46Z",
         "origin": "gestures-document-drawer",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f6e17d50441e18519c81769f0a4dae443d87fba7/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
+        "donateurl": "https://ko-fi.com/fouzr",
+        "changelogurl": null,
+        "first_released": "2026-10-28T16:04:12Z"
+      },
+      "1.1.0-r1": {
+        "pkgdesc": "Adds four-finger document drawer gesture",
+        "upstream_author": "FouzR",
+        "maintainer": "Fouz Reda <fouz290903@gmail.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "status": "maintained",
+        "os_min": "3.29",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.29",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "gestures-fouzr-base"
+        ],
+        "conflicts": [
+          "four-finger-change-filter",
+          "gestik"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-21T17:12:49Z",
+        "origin": "gestures-document-drawer",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-10-28T16:04:12Z"
@@ -11383,7 +11781,57 @@
         "auto_install": false,
         "released": "2026-11-17T22:59:46Z",
         "origin": "gestures-floating-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f6e17d50441e18519c81769f0a4dae443d87fba7/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
+        "donateurl": "https://ko-fi.com/fouzr",
+        "changelogurl": null,
+        "first_released": "2026-10-28T16:04:12Z"
+      },
+      "1.1.0-r1": {
+        "pkgdesc": "Gestures to enable/disable floating-toolbar and reset its position",
+        "upstream_author": "FouzR",
+        "maintainer": "Fouz Reda <fouz290903@gmail.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "status": "maintained",
+        "os_min": "3.29",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.29",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "floating-toolbar",
+          "gestures-fouzr-base"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-21T17:12:49Z",
+        "origin": "gestures-floating-toolbar",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-10-28T16:04:12Z"
@@ -12000,7 +12448,55 @@
         "auto_install": false,
         "released": "2026-11-17T22:59:46Z",
         "origin": "gestures-fouzr-base",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f6e17d50441e18519c81769f0a4dae443d87fba7/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
+        "donateurl": "https://ko-fi.com/fouzr",
+        "changelogurl": null,
+        "first_released": "2026-10-28T16:04:13Z"
+      },
+      "1.1.0-r1": {
+        "pkgdesc": "Base package for gestures. Does not contain any gestures",
+        "upstream_author": "FouzR",
+        "maintainer": "Fouz Reda <fouz290903@gmail.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "status": "maintained",
+        "os_min": "3.29",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.29",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-21T17:12:50Z",
+        "origin": "gestures-fouzr-base",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-10-28T16:04:13Z"
@@ -12051,7 +12547,56 @@
         "auto_install": false,
         "released": "2026-11-17T22:59:47Z",
         "origin": "gestures-fouzr-eraser-base",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f6e17d50441e18519c81769f0a4dae443d87fba7/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
+        "donateurl": "https://ko-fi.com/fouzr",
+        "changelogurl": null,
+        "first_released": "2026-10-28T16:04:13Z"
+      },
+      "1.1.0-r1": {
+        "pkgdesc": "Function to add eraser swapping. Not standalone",
+        "upstream_author": "FouzR",
+        "maintainer": "Fouz Reda <fouz290903@gmail.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "status": "maintained",
+        "os_min": "3.29",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.29",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "gestures-fouzr-base"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-21T17:12:50Z",
+        "origin": "gestures-fouzr-eraser-base",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-10-28T16:04:13Z"
@@ -12104,7 +12649,58 @@
         "auto_install": false,
         "released": "2026-11-17T22:59:47Z",
         "origin": "gestures-hide-show-toolbar",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f6e17d50441e18519c81769f0a4dae443d87fba7/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
+        "donateurl": "https://ko-fi.com/fouzr",
+        "changelogurl": null,
+        "first_released": "2026-10-28T16:04:13Z"
+      },
+      "1.1.0-r1": {
+        "pkgdesc": "Gestures to show/hide toolbar",
+        "upstream_author": "FouzR",
+        "maintainer": "Fouz Reda <fouz290903@gmail.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "status": "maintained",
+        "os_min": "3.29",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.29",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "gestures-fouzr-base"
+        ],
+        "conflicts": [
+          "swipe-to-hide-or-show-toolbar"
+        ],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-21T17:12:51Z",
+        "origin": "gestures-hide-show-toolbar",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-10-28T16:04:13Z"
@@ -12361,7 +12957,56 @@
         "auto_install": false,
         "released": "2026-11-17T22:59:47Z",
         "origin": "gestures-thickness",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f6e17d50441e18519c81769f0a4dae443d87fba7/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
+        "donateurl": "https://ko-fi.com/fouzr",
+        "changelogurl": null,
+        "first_released": "2026-10-28T16:04:13Z"
+      },
+      "1.1.0-r1": {
+        "pkgdesc": "Adds a gesture to change thickness of the pen with 0.5 increments",
+        "upstream_author": "FouzR",
+        "maintainer": "Fouz Reda <fouz290903@gmail.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "status": "maintained",
+        "os_min": "3.29",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.29",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder",
+          "gestures-fouzr-base"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-21T17:12:51Z",
+        "origin": "gestures-thickness",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-10-28T16:04:13Z"
@@ -24450,7 +25095,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "origin": "selection-stuff",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/a0955263ce152e650af41c902d36c17d872b8a00/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:46Z"
@@ -24498,7 +25143,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:11Z",
         "origin": "selection-stuff",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/a0955263ce152e650af41c902d36c17d872b8a00/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:46Z"
@@ -24546,7 +25191,7 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:17Z",
         "origin": "selection-stuff",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/a0955263ce152e650af41c902d36c17d872b8a00/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:46Z"
@@ -24594,7 +25239,7 @@
         "auto_install": false,
         "released": "2026-05-11T06:07:49Z",
         "origin": "selection-stuff",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/a0955263ce152e650af41c902d36c17d872b8a00/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:46Z"
@@ -24642,7 +25287,55 @@
         "auto_install": false,
         "released": "2026-11-17T23:00:08Z",
         "origin": "selection-stuff",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/a0955263ce152e650af41c902d36c17d872b8a00/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
+        "donateurl": "https://ko-fi.com/fouzr",
+        "changelogurl": null,
+        "first_released": "2026-01-09T04:09:46Z"
+      },
+      "1.1.0-r1": {
+        "pkgdesc": "Adds the ability to select everything above the line.",
+        "upstream_author": "FouzR",
+        "maintainer": "Fouz Reda <fouz290903@gmail.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "status": "maintained",
+        "os_min": "3.29",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.29",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-21T17:13:20Z",
+        "origin": "selection-stuff",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:46Z"
@@ -26419,7 +27112,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "origin": "toolbar-icon",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:47Z"
@@ -26467,7 +27160,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "origin": "toolbar-icon",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:47Z"
@@ -26515,7 +27208,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "origin": "toolbar-icon",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:47Z"
@@ -26563,7 +27256,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "origin": "toolbar-icon",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:47Z"
@@ -26611,7 +27304,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "origin": "toolbar-icon",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:47Z"
@@ -26659,7 +27352,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "origin": "toolbar-icon",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:47Z"
@@ -26707,7 +27400,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "origin": "toolbar-icon",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:47Z"
@@ -26755,7 +27448,7 @@
         "auto_install": false,
         "released": "2026-02-10T23:43:12Z",
         "origin": "toolbar-icon",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:47Z"
@@ -26803,7 +27496,7 @@
         "auto_install": false,
         "released": "2026-03-18T23:43:18Z",
         "origin": "toolbar-icon",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:47Z"
@@ -26851,7 +27544,7 @@
         "auto_install": false,
         "released": "2026-05-11T06:07:51Z",
         "origin": "toolbar-icon",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:47Z"
@@ -26899,7 +27592,7 @@
         "auto_install": false,
         "released": "2026-07-09T13:08:25Z",
         "origin": "toolbar-icon",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:47Z"
@@ -26947,7 +27640,7 @@
         "auto_install": false,
         "released": "2026-09-10T12:42:10Z",
         "origin": "toolbar-icon",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:47Z"
@@ -26995,7 +27688,55 @@
         "auto_install": false,
         "released": "2026-11-17T23:00:12Z",
         "origin": "toolbar-icon",
-        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/f63bbc5069f9dbdee483052526d5b5166f58d022/README.md",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
+        "donateurl": "https://ko-fi.com/fouzr",
+        "changelogurl": null,
+        "first_released": "2026-01-09T04:09:47Z"
+      },
+      "1.3.0-r1": {
+        "pkgdesc": "Adds an icon with current tool, thickness, and colour in place of the toolbar-expand button while the toolbar is hidden.",
+        "upstream_author": "FouzR",
+        "maintainer": "Fouz Reda <fouz290903@gmail.com>",
+        "categories": [
+          "ui"
+        ],
+        "license": "GPL-3.0",
+        "url": "https://github.com/FouzR/xovi-extensions",
+        "status": "maintained",
+        "os_min": "3.29",
+        "os_max": "3.30",
+        "os_constraints": [
+          {
+            "version": "3.29",
+            "operator": ">="
+          },
+          {
+            "version": "3.30",
+            "operator": "<"
+          }
+        ],
+        "devices": [
+          "rm1",
+          "rm2",
+          "rmpp",
+          "rmppm",
+          "rmppmove",
+          "rmppure"
+        ],
+        "depends": [
+          "qt-resource-rebuilder"
+        ],
+        "conflicts": [],
+        "provides": [],
+        "arch": [
+          "aarch64",
+          "armv7"
+        ],
+        "modifies_system": false,
+        "auto_install": false,
+        "released": "2026-11-21T17:13:25Z",
+        "origin": "toolbar-icon",
+        "readmeurl": "https://raw.githubusercontent.com/FouzR/xovi-extensions/5951652cf51f40a6ad872e3a7bc228cbafe86f39/README.md",
         "donateurl": "https://ko-fi.com/fouzr",
         "changelogurl": null,
         "first_released": "2026-01-09T04:09:47Z"
@@ -30437,5 +31178,5 @@
       }
     }
   },
-  "generated": "2026-11-18T19:28:50Z"
+  "generated": "2026-11-21T17:14:53Z"
 }
